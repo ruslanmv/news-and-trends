@@ -7,7 +7,6 @@
   <meta name="description" content="Weekly AI & IT news, trends, and curated briefings for technology leaders.">
   <meta name="robots" content="index,follow">
 
-  <!-- Basic Open Graph -->
   <meta property="og:title" content="{{ title }} | {{ site.title }}">
   <meta property="og:description" content="Automated AI-powered weekly technology briefings.">
   <meta property="og:type" content="website">
@@ -24,7 +23,6 @@
       --accent-soft: rgba(56, 189, 248, 0.16);
       --accent-hover: #0ea5e9;
       --border-subtle: rgba(148, 163, 184, 0.25);
-      --danger: #f97373;
     }
 
     * {
@@ -52,16 +50,10 @@
       color: var(--accent-hover);
     }
 
-    /* --- Header / Nav --- */
-
     header {
       border-bottom: 1px solid var(--border-subtle);
       backdrop-filter: blur(18px);
-      background: linear-gradient(
-        135deg,
-        rgba(15, 23, 42, 0.97),
-        rgba(15, 23, 42, 0.92)
-      );
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.97), rgba(15, 23, 42, 0.92));
       position: sticky;
       top: 0;
       z-index: 20;
@@ -98,8 +90,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.45),
-                  0 10px 30px rgba(15, 23, 42, 0.9);
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.45), 0 10px 30px rgba(15, 23, 42, 0.9);
       font-weight: 800;
       font-size: 1rem;
       color: #e5f4ff;
@@ -171,8 +162,6 @@
       font-weight: 500;
     }
 
-    /* --- Main Content --- */
-
     main {
       flex: 1;
       max-width: 1120px;
@@ -182,14 +171,11 @@
     }
 
     .card {
-      background: radial-gradient(circle at top left, rgba(56, 189, 248, 0.07), transparent 60%),
-                  rgba(15, 23, 42, 0.95);
+      background: radial-gradient(circle at top left, rgba(56, 189, 248, 0.07), transparent 60%), rgba(15, 23, 42, 0.95);
       border-radius: 18px;
       padding: 2.1rem 2rem 2.2rem;
       border: 1px solid rgba(148, 163, 184, 0.35);
-      box-shadow:
-        0 22px 45px rgba(15, 23, 42, 0.75),
-        0 0 0 1px rgba(15, 23, 42, 0.8);
+      box-shadow: 0 22px 45px rgba(15, 23, 42, 0.75), 0 0 0 1px rgba(15, 23, 42, 0.8);
     }
 
     .card h1 {
@@ -302,7 +288,48 @@
       white-space: nowrap;
     }
 
-    /* --- Footer --- */
+    .primary-btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.6rem 1.1rem;
+      border-radius: 999px;
+      background: var(--accent);
+      color: #0b1120;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 10px 25px rgba(8, 47, 73, 0.8);
+      transition: background 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+    }
+
+    .primary-btn:hover {
+      background: var(--accent-hover);
+      transform: translateY(-1px);
+      box-shadow: 0 16px 40px rgba(8, 47, 73, 0.9);
+    }
+
+    .issue-nav {
+      margin-top: 2rem;
+      padding-top: 1.2rem;
+      border-top: 1px solid rgba(148, 163, 184, 0.35);
+      display: flex;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .issue-nav-link {
+      font-size: 0.9rem;
+      padding: 0.5rem 0.9rem;
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      background: rgba(15, 23, 42, 0.9);
+      text-decoration: none;
+    }
+
+    .issue-nav-link:hover {
+      border-color: var(--accent);
+    }
 
     footer {
       max-width: 1120px;
@@ -338,6 +365,10 @@
         margin-top: 1.5rem;
       }
       .archive-list li {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .issue-nav {
         flex-direction: column;
         align-items: flex-start;
       }

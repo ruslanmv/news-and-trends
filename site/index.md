@@ -6,7 +6,7 @@ title: "This Week"
 {% set latestIssue = collections.issue | reverse | first %}
 
 {% if latestIssue %}
-# This Week’s Briefing – {{ latestIssue.date | readableDate }}
+# This Week's Briefing – {{ latestIssue.date | readableDate }}
 
 <div class="meta">
   <span class="meta-pill">
@@ -21,7 +21,29 @@ title: "This Week"
 
 <div class="content">
   {{ latestIssue.content | safe }}
+
+  <p style="margin-top: 1.5rem;">
+    <a class="primary-btn" href="{{ latestIssue.url | url }}">
+      Open this issue as a standalone article →
+    </a>
+  </p>
 </div>
+
+{% if collections.issue and (collections.issue | length) > 1 %}
+## Recent previous issues
+
+<ul class="archive-list">
+  {% for issue in collections.issue | reverse %}
+    {% if not loop.first and loop.index <= 4 %}
+      <li>
+        <a href="{{ issue.url | url }}">
+          <strong>{{ issue.date | readableDate }}</strong> – {{ issue.data.title }}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endif %}
 
 {% else %}
 # Welcome to TechStatic Insights

@@ -1,0 +1,26 @@
+{% set issues = collections.issue | reverse %}
+{% set currentIndex = -1 %}
+
+{% for item in issues %}
+  {% if item.url == page.url %}
+    {% set currentIndex = loop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% if currentIndex != -1 %}
+  {% set prev = issues[currentIndex + 1] %}
+  {% set next = issues[currentIndex - 1] %}
+
+  <nav class="issue-nav">
+    {% if prev %}
+      <a class="issue-nav-link prev" href="{{ prev.url | url }}">
+        ← Previous: {{ prev.date | readableDate }}
+      </a>
+    {% endif %}
+    {% if next %}
+      <a class="issue-nav-link next" href="{{ next.url | url }}">
+        Next: {{ next.date | readableDate }} →
+      </a>
+    {% endif %}
+  </nav>
+{% endif %}
