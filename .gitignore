@@ -5,6 +5,9 @@ __pycache__/
 venv/
 
 # Node
+node_modules/
+package.json
+package-lock.json
 site/node_modules/
 site/package-lock.json
 
@@ -15,3 +18,4 @@ site/docs/
 .env
 .vscode/
 .idea/
+uv.lock

@@ -43,14 +43,14 @@ module.exports = function (eleventyConfig) {
 
     // Find the most recent date
     const latestDate = newsItems.reduce((max, item) => {
-      const itemDate = new Date(item.date);
+      const itemDate = new Date(item.data.date);
       return itemDate > max ? itemDate : max;
     }, new Date(0));
 
     // Filter only items from that date
     return newsItems
       .filter((item) => {
-        const itemDate = new Date(item.date);
+        const itemDate = new Date(item.data.date);
         return itemDate.toDateString() === latestDate.toDateString();
       })
       .sort((a, b) => {
