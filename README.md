@@ -566,7 +566,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: contact@ruslanmv.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/ruslanmv/news-and-trends/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/ruslanmv/news-and-trends/discussions)
 
