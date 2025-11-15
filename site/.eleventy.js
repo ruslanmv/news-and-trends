@@ -10,6 +10,32 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  // Truncate filter for content preview
+  eleventyConfig.addFilter("truncate", (text, length = 200) => {
+    if (!text || text.length <= length) return text;
+    return text.substring(0, length) + "...";
+  });
+
+  // Strip HTML tags filter
+  eleventyConfig.addFilter("striptags", (text) => {
+    if (!text) return "";
+    return text.replace(/<[^>]*>/g, "");
+  });
+
+  // Collection: News articles (type: news)
+  eleventyConfig.addCollection("news", (collectionApi) => {
+    return collectionApi.getAll().filter((item) => {
+      return item.data.type === "news";
+    });
+  });
+
+  // Collection: Trend analyses (type: trend)
+  eleventyConfig.addCollection("trend", (collectionApi) => {
+    return collectionApi.getAll().filter((item) => {
+      return item.data.type === "trend";
+    });
+  });
+
   return {
     dir: {
       input: ".",

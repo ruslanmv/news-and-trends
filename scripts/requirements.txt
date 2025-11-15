@@ -10,3 +10,6 @@ crewai_tools
 
 # CrewAI uses LiteLLM internally for multi-provider support
 litellm
+
+# Additional ML libraries for trend analysis
+scipy  # For scientific computing (used by sklearn)

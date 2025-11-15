@@ -55,11 +55,12 @@ jobs:
           # Pull a compact, fast model; change as you wish
           ollama pull gemma:2b
 
-      - name: 📰 Fetch data & run CrewAI multi-agent markdown generation
+      - name: 📰 Fetch data & generate news articles and trends
         env:
           # Temporal Ollama env for CI (matches llm_client.py)
           OLLAMA_HOST: "http://127.0.0.1:11434"
           OLLAMA_MODEL: "gemma:2b"
+          NEWS_LLM_MODEL: "ollama/gemma:2b"
 
           # Optional: other providers if you ever switch away from Ollama
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -69,8 +70,16 @@ jobs:
           WATSONX_PROJECT_ID: ${{ secrets.WATSONX_PROJECT_ID }}
         run: |
           echo "Ollama service is running at $OLLAMA_HOST"
+          echo "Step 1: Fetching data from RSS feeds..."
           python scripts/retrieve_data.py
-          python scripts/generate_markdown.py
+
+          echo "Step 2: Generating individual news articles (top 5)..."
+          python scripts/generate_news.py
+
+          echo "Step 3: Generating ML-based trend analysis..."
+          python scripts/generate_trends.py
+
+          echo "✅ All content generation complete!"
 
       - name: Commit new content
         uses: stefanzweifel/git-auto-commit-action@v5
