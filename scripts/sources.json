@@ -1,62 +1,42 @@
 [
   {
-    "name": "IBM Research Blog",
-    "url": "https://research.ibm.com/blog/rss",
-    "weight": 100
-  },
-  {
-    "name": "IBM Watson Blog",
-    "url": "https://www.ibm.com/blogs/watson/feed/",
-    "weight": 95
-  },
-  {
-    "name": "OpenAI Blog",
-    "url": "https://openai.com/blog/rss",
-    "weight": 90
-  },
-  {
     "name": "Google AI Blog",
     "url": "https://blog.research.google/feeds/posts/default",
-    "weight": 85
-  },
-  {
-    "name": "Anthropic News",
-    "url": "https://www.anthropic.com/news/rss.xml",
-    "weight": 85
-  },
-  {
-    "name": "arXiv – Artificial Intelligence",
-    "url": "http://export.arxiv.org/rss/cs.AI",
-    "weight": 80
-  },
-  {
-    "name": "arXiv – Machine Learning",
-    "url": "http://export.arxiv.org/rss/cs.LG",
-    "weight": 80
+    "weight": 100
   },
   {
     "name": "Microsoft AI Blog",
     "url": "https://blogs.microsoft.com/ai/feed/",
-    "weight": 80
+    "weight": 95
+  },
+  {
+    "name": "VentureBeat – AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "weight": 90
   },
   {
     "name": "TechCrunch – AI",
     "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "weight": 75
+    "weight": 90
   },
   {
-    "name": "MIT Technology Review – AI",
-    "url": "https://www.technologyreview.com/c/artificial-intelligence/feed/",
-    "weight": 70
+    "name": "The Verge – AI",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "weight": 85
   },
   {
     "name": "ScienceDaily – AI",
     "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-    "weight": 60
+    "weight": 85
   },
   {
     "name": "Phys.org – Technology",
     "url": "https://phys.org/rss-feed/technology-news/",
-    "weight": 50
+    "weight": 80
+  },
+  {
+    "name": "AI News",
+    "url": "https://www.artificialintelligence-news.com/feed/",
+    "weight": 75
   }
 ]
