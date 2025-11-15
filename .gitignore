@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+site/node_modules/
+site/package-lock.json
+
+# Build
+site/docs/
+
+# Env / IDE
+.env
+.vscode/
+.idea/

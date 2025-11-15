@@ -1,0 +1,12 @@
+feedparser
+requests
+numpy
+scikit-learn
+python-dateutil
+
+# Multi-agent + LLM orchestration
+crewai
+crewai_tools
+
+# CrewAI uses LiteLLM internally for multi-provider support
+litellm

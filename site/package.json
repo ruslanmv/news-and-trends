@@ -1,0 +1,12 @@
+{
+  "name": "news-trends-weekly",
+  "version": "1.0.0",
+  "description": "Automated weekly news and trends site",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve --port=8080"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
