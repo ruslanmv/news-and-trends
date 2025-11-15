@@ -4,7 +4,7 @@
 
 PY := python3
 
-.PHONY: help install install-python install-node run build serve clean lint fmt check-sources
+.PHONY: help install install-python install-node run build build-all serve clean lint fmt check-sources
 
 help: ## Show this help message.
 	@echo ""
@@ -35,20 +35,30 @@ install-node: ## Install Node dependencies for Eleventy site.
 	@echo "📦 Installing Node dependencies in ./site ..."
 	cd site && npm install
 
-run: ## Fetch news and generate weekly markdown via CrewAI.
+run: ## Fetch news and generate weekly issue, news articles, and ML trend insights via CrewAI.
 	@if command -v uv >/dev/null 2>&1; then \
 		echo "▶ Running with uv environment"; \
 		uv run $(PY) scripts/retrieve_data.py; \
 		uv run $(PY) scripts/generate_markdown.py; \
+		uv run $(PY) scripts/generate_news.py; \
+		uv run $(PY) scripts/generate_trends.py; \
 	else \
 		echo "▶ Running with system Python"; \
 		$(PY) scripts/retrieve_data.py; \
 		$(PY) scripts/generate_markdown.py; \
+		$(PY) scripts/generate_news.py; \
+		$(PY) scripts/generate_trends.py; \
 	fi
 
 build: install-node ## Build the static site (Eleventy -> site/docs).
 	@echo "🏗  Building Eleventy site..."
 	cd site && npm run build
+
+build-all: ## Run full pipeline: fetch + generate (issue, news, trends) + build site.
+	@echo "🚀 Running full content pipeline and site build..."
+	$(MAKE) run
+	$(MAKE) build
+	@echo "✅ Full build complete. Site output is in ./site/docs"
 
 serve: install-node ## Run Eleventy dev server on http://localhost:8080
 	@echo "🌐 Starting local dev server on http://localhost:8080 ..."
