@@ -4,93 +4,388 @@
   <meta charset="UTF-8">
   <title>{{ title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Weekly AI & IT news, trends, and curated briefings for technology leaders.">
+  <meta name="robots" content="index,follow">
+
+  <!-- Basic Open Graph -->
+  <meta property="og:title" content="{{ title }} | {{ site.title }}">
+  <meta property="og:description" content="Automated AI-powered weekly technology briefings.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ruslanmv.com/news-and-trends/">
+
   <style>
     :root {
-      --bg: #f7f7fb;
-      --fg: #1f2933;
-      --accent: #2563eb;
+      --bg: #0f172a;
+      --bg-alt: #020617;
+      --card-bg: #0b1120;
+      --fg: #e5e7eb;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-soft: rgba(56, 189, 248, 0.16);
+      --accent-hover: #0ea5e9;
+      --border-subtle: rgba(148, 163, 184, 0.25);
+      --danger: #f97373;
     }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
     body {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      margin: 0;
-      background: var(--bg);
+      background: radial-gradient(circle at top, #1e293b 0, #020617 52%, #000 100%);
       color: var(--fg);
-    }
-    header {
-      background: white;
-      border-bottom: 1px solid #e5e7eb;
-      padding: 1.5rem 1rem;
-    }
-    header .container {
-      max-width: 960px;
-      margin: 0 auto;
+      line-height: 1.6;
+      min-height: 100vh;
       display: flex;
       flex-direction: column;
-      gap: 0.25rem;
     }
-    header h1 {
-      margin: 0;
-      font-size: 1.5rem;
-    }
-    header a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-    nav a {
-      margin-right: 1rem;
-      font-size: 0.95rem;
-    }
-    main {
-      max-width: 960px;
-      margin: 1.5rem auto;
-      padding: 0 1rem 2rem;
-      background: white;
-      border-radius: 0.75rem;
-      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
-    }
-    main h1, main h2, main h3 {
-      color: #111827;
-    }
-    main h1 {
-      margin-top: 0;
-      padding-top: 1.5rem;
-    }
-    main > *:first-child {
-      margin-top: 0;
-    }
-    footer {
-      max-width: 960px;
-      margin: 0 auto 2rem;
-      padding: 0 1rem;
-      font-size: 0.85rem;
-      color: #6b7280;
-    }
+
     a {
       color: var(--accent);
+      text-decoration: none;
+      transition: color 0.18s ease, opacity 0.18s ease;
     }
+    a:hover {
+      color: var(--accent-hover);
+    }
+
+    /* --- Header / Nav --- */
+
+    header {
+      border-bottom: 1px solid var(--border-subtle);
+      backdrop-filter: blur(18px);
+      background: linear-gradient(
+        135deg,
+        rgba(15, 23, 42, 0.97),
+        rgba(15, 23, 42, 0.92)
+      );
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+
+    header .container {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 1.1rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .brand-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .brand-main {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .logo-pill {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      background: radial-gradient(circle at 30% 20%, #38bdf8 0, #0f172a 55%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.45),
+                  0 10px 30px rgba(15, 23, 42, 0.9);
+      font-weight: 800;
+      font-size: 1rem;
+      color: #e5f4ff;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    header h1 a {
+      color: #e5e7eb;
+    }
+
+    .subtitle {
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    nav {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      align-items: center;
+      font-size: 0.95rem;
+    }
+
+    nav a.nav-link {
+      position: relative;
+      padding-bottom: 0.25rem;
+    }
+
+    nav a.nav-link::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 0;
+      height: 2px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #38bdf8, #a855f7);
+      transition: width 0.2s ease;
+    }
+
+    nav a.nav-link:hover::after {
+      width: 100%;
+    }
+
+    .nav-secondary {
+      margin-left: auto;
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      flex-wrap: wrap;
+    }
+
+    .pill-link {
+      font-size: 0.85rem;
+      padding: 0.35rem 0.7rem;
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      background: rgba(15, 23, 42, 0.8);
+      color: var(--muted);
+    }
+
+    .pill-link strong {
+      color: var(--fg);
+      font-weight: 500;
+    }
+
+    /* --- Main Content --- */
+
+    main {
+      flex: 1;
+      max-width: 1120px;
+      width: 100%;
+      margin: 2rem auto 2.5rem;
+      padding: 0 1.25rem;
+    }
+
+    .card {
+      background: radial-gradient(circle at top left, rgba(56, 189, 248, 0.07), transparent 60%),
+                  rgba(15, 23, 42, 0.95);
+      border-radius: 18px;
+      padding: 2.1rem 2rem 2.2rem;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      box-shadow:
+        0 22px 45px rgba(15, 23, 42, 0.75),
+        0 0 0 1px rgba(15, 23, 42, 0.8);
+    }
+
+    .card h1 {
+      font-size: 2rem;
+      margin-bottom: 0.4rem;
+      letter-spacing: 0.01em;
+      color: #e5e7eb;
+    }
+
+    .card .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 1.6rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    .meta-pill {
+      padding: 0.2rem 0.7rem;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.85);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .meta-pill span.emoji {
+      font-size: 0.95rem;
+    }
+
+    .content {
+      color: #e5e7eb;
+    }
+
+    .content h2 {
+      margin-top: 1.8rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.3rem;
+      color: #e5e7eb;
+      border-bottom: 1px solid rgba(148, 163, 184, 0.4);
+      padding-bottom: 0.35rem;
+    }
+
+    .content h3 {
+      margin-top: 1.4rem;
+      margin-bottom: 0.4rem;
+      font-size: 1.1rem;
+      color: #e5e7eb;
+    }
+
+    .content p {
+      margin-bottom: 0.75rem;
+      color: #d1d5db;
+    }
+
+    .content ul,
+    .content ol {
+      margin-left: 1.4rem;
+      margin-bottom: 0.9rem;
+    }
+
+    .content li {
+      margin-bottom: 0.45rem;
+    }
+
+    .content code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.9em;
+      padding: 0.12rem 0.35rem;
+      border-radius: 0.35rem;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      color: #e5e7eb;
+    }
+
+    .archive-list {
+      list-style: none;
+      margin-left: 0;
+      margin-top: 1rem;
+    }
+
     .archive-list li {
-      margin-bottom: 0.35rem;
+      margin-bottom: 0.9rem;
+      padding: 0.9rem 1rem;
+      background: rgba(15, 23, 42, 0.9);
+      border-radius: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.75rem;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+
+    .archive-list li:hover {
+      transform: translateY(-1px);
+      border-color: var(--accent);
+      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.9);
+    }
+
+    .archive-list a {
+      flex: 1;
+    }
+
+    .archive-list small {
+      color: var(--muted);
+      font-size: 0.78rem;
+      white-space: nowrap;
+    }
+
+    /* --- Footer --- */
+
+    footer {
+      max-width: 1120px;
+      width: 100%;
+      margin: 0 auto 2.2rem;
+      padding: 0 1.25rem;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    footer hr {
+      border: none;
+      border-top: 1px solid rgba(148, 163, 184, 0.35);
+      margin-bottom: 1rem;
+    }
+
+    footer a {
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      header .container {
+        padding: 0.9rem 1rem 1.1rem;
+      }
+      .card {
+        padding: 1.5rem 1.3rem 1.6rem;
+      }
+      .card h1 {
+        font-size: 1.6rem;
+      }
+      main {
+        margin-top: 1.5rem;
+      }
+      .archive-list li {
+        flex-direction: column;
+        align-items: flex-start;
+      }
     }
   </style>
 </head>
 <body>
   <header>
     <div class="container">
-      <h1><a href="/">{{ site.title }}</a></h1>
-      <p>{{ site.subtitle }}</p>
+      <div class="brand-row">
+        <div class="brand-main">
+          <div class="logo-pill">AI</div>
+          <div>
+            <h1><a href="{{ '/' | url }}">{{ site.title }}</a></h1>
+            <p class="subtitle">{{ site.subtitle }}</p>
+          </div>
+        </div>
+        <div class="nav-secondary">
+          <a class="pill-link" href="https://ruslanmv.com">
+            ← Back to <strong>Main Blog</strong>
+          </a>
+        </div>
+      </div>
+
       <nav>
-        <a href="/">This week</a>
-        <a href="/archive/">Archive</a>
-        <a href="https://github.com/">GitHub</a>
+        <a class="nav-link" href="{{ '/' | url }}">This week</a>
+        <a class="nav-link" href="{{ '/archive/' | url }}">Archive</a>
+        <a class="nav-link" href="https://github.com/ruslanmv/news-and-trends">GitHub</a>
       </nav>
     </div>
   </header>
+
   <main>
-    {{ content | safe }}
+    <article class="card">
+      {{ content | safe }}
+    </article>
   </main>
+
   <footer>
     <hr>
-    <p>Generated automatically each week by GitHub Actions, CrewAI, and your choice of LLM (Ollama, Watsonx, OpenAI, Claude).</p>
+    <p>
+      Generated automatically each week by <strong>GitHub Actions</strong>,
+      <strong>CrewAI</strong>, and <strong>Ollama</strong>.
+      Designed for technology leaders who need concise, signal-rich AI & IT insights.
+    </p>
+    <p>
+      <a href="https://github.com/ruslanmv/news-and-trends">View source on GitHub</a>
+    </p>
   </footer>
 </body>
 </html>
