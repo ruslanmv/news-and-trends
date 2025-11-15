@@ -13,6 +13,7 @@ Below are all weekly issues, newest first.
     <a href="{{ issue.url | url }}">
       <strong>{{ issue.date | readableDate }}</strong> – {{ issue.data.title }}
     </a>
+    <small>Issue URL: {{ issue.url | url }}</small>
   </li>
 {%- endfor -%}
 </ul>

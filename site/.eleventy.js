@@ -1,20 +1,23 @@
 module.exports = function (eleventyConfig) {
-  // Add custom date filter for readable dates
+  // Human-friendly date formatting for issue dates
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return new Date(dateObj).toLocaleDateString("en-US", {
+    const d = new Date(dateObj);
+    if (Number.isNaN(d.getTime())) return String(dateObj || "");
+    return d.toLocaleDateString("en-US", {
       year: "numeric",
       month: "long",
-      day: "numeric"
+      day: "numeric",
     });
   });
 
   return {
     dir: {
       input: ".",
-      output: "docs"
+      output: "docs", // GitHub Pages uses this via the workflow artifact
     },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
-    pathPrefix: "/news-and-trends/"
+    // Critical: project is at /news-and-trends/ (project pages)
+    pathPrefix: "/news-and-trends/",
   };
 };

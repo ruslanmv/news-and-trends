@@ -6,7 +6,7 @@ title: "This Week"
 {% set latestIssue = collections.issue | reverse | first %}
 
 {% if latestIssue %}
-# This Week's Briefing – {{ latestIssue.date | readableDate }}
+# This Week’s Briefing – {{ latestIssue.date | readableDate }}
 
 <div class="meta">
   <span class="meta-pill">
@@ -50,7 +50,7 @@ title: "This Week"
 
 <div class="content">
   <p>
-    TechStatic Insights is an automated weekly AI & IT briefing designed for
+    TechStatic Insights is an automated weekly AI &amp; IT briefing designed for
     technology leaders who want <strong>signal over noise</strong>.
   </p>
 
@@ -58,7 +58,7 @@ title: "This Week"
     Each week, a multi-agent CrewAI pipeline:
   </p>
 
-  - Aggregates news from leading AI & technology sources  
+  - Aggregates news from leading AI &amp; technology sources  
   - Detects hot topics and emerging trends  
   - Generates a concise, publication-ready Markdown briefing  
   - Publishes to this static site via GitHub Pages  
