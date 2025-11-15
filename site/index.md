@@ -4,7 +4,7 @@ title: "This Week"
 ---
 
 {# Get latest news from most recent issue only (top 4) #}
-{% set newsArticles = collections.latestNewsByIssue | slice(0, 4) %}
+{% set newsArticles = collections.latestNewsByIssue.slice(0, 4) %}
 {# Get latest trend analysis #}
 {% set latestTrend = collections.trend | first %}
 {# Get the most recent date from content #}
