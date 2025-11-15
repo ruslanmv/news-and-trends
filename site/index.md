@@ -3,8 +3,8 @@ layout: "layout.njk"
 title: "This Week"
 ---
 
-{# Get latest news articles (top 4) #}
-{% set newsArticles = collections.news | reverse | slice(0, 4) %}
+{# Use only latest-issue news (top 4) #}
+{% set newsArticles = collections.latestNewsByIssue | slice(0, 4) %}
 {# Get latest trend analysis #}
 {% set latestTrend = collections.trend | reverse | first %}
 {# Get the most recent date from content #}

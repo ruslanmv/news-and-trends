@@ -22,18 +22,49 @@ module.exports = function (eleventyConfig) {
     return text.replace(/<[^>]*>/g, "");
   });
 
-  // Collection: News articles (type: news)
+  // All news posts (tag-based, robust)
   eleventyConfig.addCollection("news", (collectionApi) => {
-    return collectionApi.getAll().filter((item) => {
-      return item.data.type === "news";
-    });
+    const items = collectionApi
+      .getFilteredByTag("news")
+      .sort((a, b) => a.date - b.date); // oldest -> newest
+    return items;
   });
 
-  // Collection: Trend analyses (type: trend)
+  // All trend posts (also tag-based)
   eleventyConfig.addCollection("trend", (collectionApi) => {
-    return collectionApi.getAll().filter((item) => {
-      return item.data.type === "trend";
+    const items = collectionApi
+      .getFilteredByTag("trend")
+      .sort((a, b) => a.date - b.date);
+    return items;
+  });
+
+  // Latest-issue news only (used on home page)
+  eleventyConfig.addCollection("latestNewsByIssue", (collectionApi) => {
+    const allNews = collectionApi
+      .getFilteredByTag("news")
+      .sort((a, b) => a.date - b.date);
+
+    if (!allNews.length) return [];
+
+    // Take the newest date as the "current issue"
+    const last = allNews[allNews.length - 1];
+    if (!last.date || typeof last.date.toISOString !== "function") {
+      return [];
+    }
+    const latestIso = last.date.toISOString().slice(0, 10);
+
+    // Keep only news items from that same date
+    const todaysNews = allNews.filter((item) => {
+      if (!item.date || typeof item.date.toISOString !== "function") return false;
+      return item.date.toISOString().slice(0, 10) === latestIso;
     });
+
+    // Sort within the issue by rank (#1, #2, #3…)
+    todaysNews.sort(
+      (a, b) => (a.data.rank || 999) - (b.data.rank || 999)
+    );
+
+    return todaysNews;
   });
 
   return {
