@@ -4,7 +4,7 @@
 
 PY := python3
 
-.PHONY: help install install-python install-node run build serve clean lint fmt
+.PHONY: help install install-python install-node run build serve clean lint fmt check-sources
 
 help: ## Show this help message.
 	@echo ""
@@ -46,11 +46,11 @@ run: ## Fetch news and generate weekly markdown via CrewAI.
 		$(PY) scripts/generate_markdown.py; \
 	fi
 
-build: ## Build the static site (Eleventy -> site/docs).
+build: install-node ## Build the static site (Eleventy -> site/docs).
 	@echo "🏗  Building Eleventy site..."
 	cd site && npm run build
 
-serve: ## Run Eleventy dev server on http://localhost:8080
+serve: install-node ## Run Eleventy dev server on http://localhost:8080
 	@echo "🌐 Starting local dev server on http://localhost:8080 ..."
 	cd site && npm run start
 
@@ -66,3 +66,10 @@ lint: ## Placeholder for future linting (Python/JS).
 
 fmt: ## Placeholder for future auto-formatting.
 	@echo "ℹ️  No formatters configured yet. Add black/isort/prettier here if desired."
+
+check-sources: ## Health-check all RSS sources.
+	@if command -v uv >/dev/null 2>&1; then \
+		uv run $(PY) scripts/check_sources.py; \
+	else \
+		$(PY) scripts/check_sources.py; \
+	fi

@@ -6,7 +6,7 @@ title: "This Week"
 {% set latestIssue = collections.issue | reverse | first %}
 
 {% if latestIssue %}
-# This Week's Briefing – {{ latestIssue.date | date("%Y-%m-%d") }}
+# This Week's Briefing – {{ latestIssue.date }}
 
 {{ latestIssue.content | safe }}
 
