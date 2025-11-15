@@ -35,7 +35,7 @@ title: "This Week"
     <a href="{{ latestTrend.url | url }}" style="color: inherit;">{{ latestTrend.data.title }}</a>
   </h3>
   <div style="color: #d1d5db; font-size: 0.95rem; margin-bottom: 1rem;">
-    {{ latestTrend.content | truncate(250) | safe }}
+    {{ latestTrend.content | striptags | truncate(250) | safe }}
   </div>
   <a class="primary-btn" href="{{ latestTrend.url | url }}" style="background: linear-gradient(135deg, #a855f7, #38bdf8);">
     Read Full Trend Analysis →

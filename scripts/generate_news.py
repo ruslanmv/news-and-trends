@@ -8,6 +8,7 @@ Each article is a separate markdown file with full content.
 Output: site/issues/news-{date}-{index}.md (one per article)
 """
 
+import html
 import json
 import os
 import re
@@ -22,6 +23,23 @@ from llm_client import llm
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 TEMPORAL_DIR = os.path.join(BASE_DIR, "data", "issues")
 OUTPUT_DIR = os.path.join(BASE_DIR, "site", "issues")
+
+
+def clean_text(value: str) -> str:
+    """Decode HTML entities and strip whitespace."""
+    if not value:
+        return ""
+    return html.unescape(value).strip()
+
+
+def format_date_for_display(date_str: str) -> str:
+    """Format ISO date string for display (remove time component)."""
+    if not date_str:
+        return ""
+    # If it's an ISO datetime, extract just the date part
+    if isinstance(date_str, str) and "T" in date_str:
+        return date_str.split("T", 1)[0]
+    return date_str
 
 
 def find_latest_temporal() -> str:
@@ -53,12 +71,13 @@ def generate_article(article: Dict[str, Any], rank: int, issue_date: str) -> str
     Returns:
         Full markdown article content
     """
-    print(f"📝 Generating article {rank}: {article['title'][:60]}...")
+    title_raw = article.get("title", "Untitled")
+    print(f"📝 Generating article {rank}: {title_raw[:60]}...")
 
-    title = article.get("title", "Untitled")
+    title = clean_text(title_raw)
     link = article.get("link", "")
-    summary = article.get("summary", "")
-    source = article.get("source", "Unknown")
+    summary = clean_text(article.get("summary", ""))
+    source = clean_text(article.get("source", "Unknown"))
     published = article.get("published", "")
 
     # Define specialized agents
@@ -139,10 +158,11 @@ def write_article_file(
     """
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    title = article.get("title", "Untitled")
-    source = article.get("source", "Unknown")
+    title = clean_text(article.get("title", "Untitled"))
+    source = clean_text(article.get("source", "Unknown"))
     link = article.get("link", "")
-    published = article.get("published", issue_date)
+    published_raw = article.get("published", issue_date)
+    published_display = format_date_for_display(published_raw)
 
     # Create unique filename
     slug = slugify(title)
@@ -158,7 +178,7 @@ def write_article_file(
         f"rank: {rank}\n"
         f'source: "{source}"\n'
         f'source_url: "{link}"\n'
-        f"published: {published}\n"
+        f"published: {published_raw}\n"
         f'layout: "layout.njk"\n'
         f"tags:\n"
         f"  - news\n"
@@ -166,10 +186,10 @@ def write_article_file(
         f"---\n\n"
     )
 
-    # Add source attribution
+    # Add source attribution with formatted date
     source_line = f"\n\n---\n\n**Source**: [{source}]({link})"
-    if published:
-        source_line += f" | Published: {published}"
+    if published_display:
+        source_line += f" | Published: {published_display}"
 
     full_content = frontmatter + markdown_body + source_line
 

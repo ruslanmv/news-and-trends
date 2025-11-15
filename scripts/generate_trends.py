@@ -14,6 +14,7 @@ ML Techniques:
 Output: site/issues/trend-{date}.md
 """
 
+import html
 import json
 import os
 from collections import Counter, defaultdict
@@ -33,6 +34,13 @@ from llm_client import llm
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 TEMPORAL_DIR = os.path.join(BASE_DIR, "data", "issues")
 OUTPUT_DIR = os.path.join(BASE_DIR, "site", "issues")
+
+
+def clean_text(value: str) -> str:
+    """Decode HTML entities and strip whitespace."""
+    if not value:
+        return ""
+    return html.unescape(value).strip()
 
 
 def load_recent_temporal_files(days: int = 30) -> List[Dict[str, Any]]:
@@ -76,12 +84,16 @@ def extract_text_corpus(temporal_docs: List[Dict[str, Any]]) -> Tuple[List[str],
     for doc in temporal_docs:
         articles = doc.get("articles", [])
         for article in articles:
-            text = f"{article.get('title', '')} {article.get('summary', '')}"
+            title = clean_text(article.get("title", ""))
+            summary = clean_text(article.get("summary", ""))
+            source = clean_text(article.get("source", ""))
+
+            text = f"{title} {summary}"
             if text.strip():
                 corpus.append(text)
                 metadata.append({
-                    "title": article.get("title", ""),
-                    "source": article.get("source", ""),
+                    "title": title,
+                    "source": source,
                     "date": doc.get("issue_date", ""),
                     "score": article.get("score", 0)
                 })
