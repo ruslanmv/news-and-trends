@@ -1,0 +1,45 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "news-trends-weekly"
+version = "0.1.0"
+description = "Automated AI & tech news and trend generation using RSS feeds, CrewAI, and local/remote LLMs."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+requires-python = ">=3.10,<3.13"
+
+dependencies = [
+  # Core utilities
+  "feedparser",
+  "requests",
+  "numpy",
+  "python-dateutil",
+
+  # ML / statistics
+  "scikit-learn",
+  "scipy",
+
+  # Multi-agent + LLM orchestration
+  "crewai",
+  "crewai-tools",
+
+  # LLM provider abstraction used by CrewAI
+  "litellm",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-user/news-trends-weekly"
+Repository = "https://github.com/your-user/news-trends-weekly"
+
+[tool.uv]
+# Minimum uv version (optional, but fine to keep)
+required-version = ">=0.4.0"
+
+# 👇 IMPORTANT: tell uv NOT to build/install this project as a package.
+# This prevents the hatchling “Unable to determine which files to ship” error.
+package = false
