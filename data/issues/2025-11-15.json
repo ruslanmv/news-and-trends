@@ -1,22 +1,42 @@
 {
-  "generated_at": "2025-11-15T09:20:12.467893",
+  "generated_at": "2025-11-15T09:41:15.611493",
   "issue_date": "2025-11-15",
-  "topic_of_week": "Meta",
+  "topic_of_week": "ChatGPT",
   "top_terms": [
+    [
+      "ChatGPT",
+      7
+    ],
+    [
+      "agent",
+      5
+    ],
+    [
+      "OpenAI",
+      4
+    ],
+    [
+      "AGI",
+      3
+    ],
+    [
+      "Google",
+      3
+    ],
     [
       "Meta",
       3
     ],
     [
-      "agent",
-      2
-    ],
-    [
-      "AGI",
+      "Generative AI",
       1
     ],
     [
-      "Google",
+      "large language model",
+      1
+    ],
+    [
+      "Gemini",
       1
     ],
     [
@@ -25,6 +45,276 @@
     ]
   ],
   "articles": [
+    {
+      "title": "Google\u2019s SIMA 2 agent uses Gemini to reason and act in virtual worlds",
+      "link": "https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-worlds/",
+      "summary": "\u201cSIMA 2 is a more general agent. It can complete complex tasks in previously unseen environments. And it's a self-improving agent... which is a step toward more genera- purpose robots and AGI systems more generally.\u201d",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-13T16:15:47+00:00",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 95
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI says it\u2019s fixed ChatGPT\u2019s em dash problem",
+      "link": "https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/",
+      "summary": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-14T17:59:45+00:00",
+      "score": 95
+    },
+    {
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-10-12T16:00:02+00:00",
+      "score": 90
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 85,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 85
+    },
+    {
+      "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
+      "link": "https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/",
+      "summary": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-15T00:47:41+00:00",
+      "score": 85
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we\u2019ve been updating throughout the year.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-14T22:06:57+00:00",
+      "score": 85
+    },
+    {
+      "title": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan",
+      "link": "https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/",
+      "summary": "The ChatGPT maker describes this pilot as just a \u201csmall first step\u201d toward creating a more \"shared experience\" in the app. The private chats and personal ChatGPT memory stay completely private. Group chats are invitation-only, and members can leave at any time.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-14T10:58:08+00:00",
+      "score": 85
+    },
+    {
+      "title": "Google\u2019s NotebookLM adds \u2018Deep Research\u2019 tool, support for more file types",
+      "link": "https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/",
+      "summary": "The service is rolling out \"Deep Research,\" a tool that will automate and simplify complex online research.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-13T17:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+      "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-12-06T17:29:09+00:00",
+      "score": 80
+    },
+    {
+      "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+      "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-10-06T14:58:15+00:00",
+      "score": 80
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-07-25T14:49:33+00:00",
+      "score": 80
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-07-21T14:50:33+00:00",
+      "score": 80
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students\u2019 skills and confidence",
+      "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-07-13T12:59:50+00:00",
+      "score": 80
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-07-06T14:51:23+00:00",
+      "score": 80
+    },
+    {
+      "title": "Microsoft\u2019s framework for building AI systems responsibly",
+      "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-06-21T17:50:03+00:00",
+      "score": 80
+    },
+    {
+      "title": "Singapore develops Asia\u2019s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "link": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-06-08T21:04:42+00:00",
+      "score": 80
+    },
+    {
+      "title": "The opportunity at home \u2013 can AI drive innovation in personal assistant devices and sign language?",
+      "link": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 80,
+      "published": "2022-05-31T21:06:06+00:00",
+      "score": 80
+    },
+    {
+      "title": "Databricks co-founder argues US must go open source to beat China in AI",
+      "link": "https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/",
+      "summary": "VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-14T22:52:18+00:00",
+      "score": 75
+    },
+    {
+      "title": "Inside Harvey: How a first-year legal associate built one of Silicon Valley\u2019s hottest startups",
+      "link": "https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/",
+      "summary": "TechCrunch spoke with Harvey's CEO and co-founder Winston Weinberg about the wild ride that he and co-founder Gabe Pereyra have been on so far.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-14T11:57:24+00:00",
+      "score": 75
+    },
+    {
+      "title": "VCs abandon old rules for a \u2018funky time\u2019 of investing in AI startups",
+      "link": "https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/",
+      "summary": "The goalposts are moving for AI startups when it comes to  growth, product features, and just about everything else.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-13T23:18:49+00:00",
+      "score": 75
+    },
+    {
+      "title": "Apple\u2019s new App Review Guidelines clamp down on apps sharing personal data with \u2018third-party AI\u2019",
+      "link": "https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/",
+      "summary": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 75,
+      "published": "2025-11-13T21:14:35+00:00",
+      "score": 75
+    },
     {
       "title": "New prediction breakthrough delivers results shockingly close to reality",
       "link": "https://www.sciencedaily.com/releases/2025/11/251112111023.htm",
@@ -207,6 +497,147 @@
     }
   ],
   "by_source": {
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Google\u2019s SIMA 2 agent uses Gemini to reason and act in virtual worlds",
+        "link": "https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-worlds/",
+        "summary": "\u201cSIMA 2 is a more general agent. It can complete complex tasks in previously unseen environments. And it's a self-improving agent... which is a step toward more genera- purpose robots and AGI systems more generally.\u201d",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 75,
+        "published": "2025-11-13T16:15:47+00:00",
+        "score": 105
+      },
+      {
+        "title": "OpenAI says it\u2019s fixed ChatGPT\u2019s em dash problem",
+        "link": "https://techcrunch.com/2025/11/14/openai-says-its-fixed-chatgpts-em-dash-problem/",
+        "summary": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 75,
+        "published": "2025-11-14T17:59:45+00:00",
+        "score": 95
+      },
+      {
+        "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
+        "link": "https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/",
+        "summary": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 75,
+        "published": "2025-11-15T00:47:41+00:00",
+        "score": 85
+      },
+      {
+        "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+        "link": "https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
+        "summary": "A timeline of ChatGPT product updates and releases, starting with the latest, which we\u2019ve been updating throughout the year.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 75,
+        "published": "2025-11-14T22:06:57+00:00",
+        "score": 85
+      },
+      {
+        "title": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan",
+        "link": "https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/",
+        "summary": "The ChatGPT maker describes this pilot as just a \u201csmall first step\u201d toward creating a more \"shared experience\" in the app. The private chats and personal ChatGPT memory stay completely private. Group chats are invitation-only, and members can leave at any time.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 75,
+        "published": "2025-11-14T10:58:08+00:00",
+        "score": 85
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 85,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 95
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 85,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 95
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 85,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 85
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 85,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 85
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 85,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 85
+      }
+    ],
+    "Microsoft AI Blog": [
+      {
+        "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+        "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 80,
+        "published": "2022-10-12T16:00:02+00:00",
+        "score": 90
+      },
+      {
+        "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+        "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 80,
+        "published": "2022-12-06T17:29:09+00:00",
+        "score": 80
+      },
+      {
+        "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+        "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 80,
+        "published": "2022-10-06T14:58:15+00:00",
+        "score": 80
+      },
+      {
+        "title": "How data and AI will transform contact centres for financial services",
+        "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 80,
+        "published": "2022-07-25T14:49:33+00:00",
+        "score": 80
+      },
+      {
+        "title": "AI-equipped drones study dolphins on the edge of extinction",
+        "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 80,
+        "published": "2022-07-21T14:50:33+00:00",
+        "score": 80
+      }
+    ],
     "ScienceDaily \u2013 AI": [
       {
         "title": "New prediction breakthrough delivers results shockingly close to reality",
