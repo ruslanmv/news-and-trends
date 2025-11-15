@@ -22,49 +22,43 @@ module.exports = function (eleventyConfig) {
     return text.replace(/<[^>]*>/g, "");
   });
 
-  // All news posts (tag-based, robust)
+  // Collection: News articles (by tag)
   eleventyConfig.addCollection("news", (collectionApi) => {
-    const items = collectionApi
-      .getFilteredByTag("news")
-      .sort((a, b) => a.date - b.date); // oldest -> newest
-    return items;
-  });
-
-  // All trend posts (also tag-based)
-  eleventyConfig.addCollection("trend", (collectionApi) => {
-    const items = collectionApi
-      .getFilteredByTag("trend")
-      .sort((a, b) => a.date - b.date);
-    return items;
-  });
-
-  // Latest-issue news only (used on home page)
-  eleventyConfig.addCollection("latestNewsByIssue", (collectionApi) => {
-    const allNews = collectionApi
-      .getFilteredByTag("news")
-      .sort((a, b) => a.date - b.date);
-
-    if (!allNews.length) return [];
-
-    // Take the newest date as the "current issue"
-    const last = allNews[allNews.length - 1];
-    if (!last.date || typeof last.date.toISOString !== "function") {
-      return [];
-    }
-    const latestIso = last.date.toISOString().slice(0, 10);
-
-    // Keep only news items from that same date
-    const todaysNews = allNews.filter((item) => {
-      if (!item.date || typeof item.date.toISOString !== "function") return false;
-      return item.date.toISOString().slice(0, 10) === latestIso;
+    return collectionApi.getFilteredByTag("news").sort((a, b) => {
+      return b.date - a.date; // newest first
     });
+  });
 
-    // Sort within the issue by rank (#1, #2, #3…)
-    todaysNews.sort(
-      (a, b) => (a.data.rank || 999) - (b.data.rank || 999)
-    );
+  // Collection: Trend analyses (by tag)
+  eleventyConfig.addCollection("trend", (collectionApi) => {
+    return collectionApi.getFilteredByTag("trend").sort((a, b) => {
+      return b.date - a.date; // newest first
+    });
+  });
 
-    return todaysNews;
+  // Collection: Latest news from most recent issue only
+  eleventyConfig.addCollection("latestNewsByIssue", (collectionApi) => {
+    const newsItems = collectionApi.getFilteredByTag("news");
+    if (newsItems.length === 0) return [];
+
+    // Find the most recent date
+    const latestDate = newsItems.reduce((max, item) => {
+      const itemDate = new Date(item.date);
+      return itemDate > max ? itemDate : max;
+    }, new Date(0));
+
+    // Filter only items from that date
+    return newsItems
+      .filter((item) => {
+        const itemDate = new Date(item.date);
+        return itemDate.toDateString() === latestDate.toDateString();
+      })
+      .sort((a, b) => {
+        // Sort by rank if available
+        const rankA = a.data.rank || 999;
+        const rankB = b.data.rank || 999;
+        return rankA - rankB;
+      });
   });
 
   return {
