@@ -12,7 +12,7 @@ title: "This Week"
 
 {% if newsArticles.length > 0 or latestTrend %}
 
-# This Week's AI & Tech Insights
+# Today's Tech News & Insights
 
 <div class="meta">
   <span class="meta-pill">
@@ -109,27 +109,27 @@ title: "This Week"
 {% endif %}
 
 {% else %}
-# Welcome to TechStatic Insights
+# Welcome to TV.RUSLANMV News Network
 
 <div class="content">
   <p>
-    TechStatic Insights is an automated weekly AI &amp; IT briefing designed for
-    technology leaders who want <strong>signal over noise</strong>.
+    <strong>TV.RUSLANMV News &amp; Trends</strong> is your enterprise-grade source for
+    cutting-edge AI &amp; technology news coverage. We deliver <strong>signal over noise</strong>.
   </p>
 
   <p>
-    Each week, a multi-agent CrewAI pipeline:
+    Our automated AI-powered news pipeline:
   </p>
 
-  - Aggregates news from leading AI &amp; technology sources  
-  - Detects hot topics and emerging trends  
-  - Generates a concise, publication-ready Markdown briefing  
-  - Publishes to this static site via GitHub Pages  
+  - 📡 Monitors leading AI &amp; technology sources 24/7
+  - 🔥 Identifies breaking news and emerging trends in real-time
+  - 📰 Generates comprehensive, publication-ready news briefings
+  - 🌐 Publishes continuously via automated deployment
 
   <p>
-    Once the first GitHub Action run completes, the latest weekly briefing will appear here.
-    In the meantime, you can visit the <a href="{{ '/archive/' | url }}">archive</a> page
-    to see all generated issues.
+    The latest news and trend analysis will appear here as soon as our AI agents complete
+    the next cycle. Visit the <a href="{{ '/archive/' | url }}">archive</a> to explore
+    all past news and trend reports.
   </p>
 </div>
 {% endif %}

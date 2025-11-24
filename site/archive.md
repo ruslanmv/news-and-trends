@@ -3,25 +3,25 @@ layout: "layout.njk"
 title: "Archive"
 ---
 
-# Archive
+# News & Trends Archive
 
 <div class="meta">
   <span class="meta-pill">
     <span class="emoji">🗂️</span>
-    <span>{{ collections.issue | length }} entries</span>
+    <span>{{ collections.issue | length }} Total Reports</span>
   </span>
   <span class="meta-pill">
     <span class="emoji">📰</span>
     <span>
-      {{ collections.news | length }} News
+      {{ collections.news | length }} News Articles
       &nbsp;•&nbsp;
-      {{ collections.trend | length }} Trends
+      {{ collections.trend | length }} Trend Reports
     </span>
   </span>
 </div>
 
-<p style="color: var(--muted); margin: 0 0 1.5rem;">
-  Browse all weekly issues, individual news articles, and ML-powered trend analyses, newest first.
+<p style="color: var(--mm-text-muted); margin: 0 0 1.5rem;">
+  Browse the complete history of AI & tech news coverage, trend analyses, and insights from TV.RUSLANMV. All reports are sorted by date, newest first.
 </p>
 
 <hr style="border-color: rgba(148, 163, 184, 0.35); margin: 1.5rem 0;" />
