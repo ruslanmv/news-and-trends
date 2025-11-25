@@ -2,7 +2,7 @@
 
 # 🤖 TechStatic Insights
 
-### AI-Powered Weekly Technology News Digest
+### AI-Powered Daily Technology News Digest
 
 *Fully automated, zero-maintenance tech newsletter powered by CrewAI multi-agent system*
 
@@ -23,11 +23,11 @@
 
 ## 📖 Overview
 
-**TechStatic Insights** is a production-ready, fully automated AI news aggregation and curation platform that delivers weekly technology briefings with zero manual intervention. It combines RSS feed aggregation, AI-powered content analysis, and multi-agent content generation to create professional newsletters automatically.
+**TechStatic Insights** is a production-ready, fully automated AI news aggregation and curation platform that delivers daily technology briefings with zero manual intervention. It combines RSS feed aggregation, AI-powered content analysis, and multi-agent content generation to create professional newsletters automatically.
 
 ### Why TechStatic Insights?
 
-- **🔄 Fully Automated**: Set it and forget it - runs weekly via GitHub Actions
+- **🔄 Fully Automated**: Set it and forget it - runs daily via GitHub Actions
 - **💰 Zero Cost**: Uses free Ollama models in CI (optional premium LLMs for local dev)
 - **🧠 AI-Powered**: CrewAI multi-agent system for intelligent content curation
 - **🔌 Multi-Provider**: Seamlessly switch between Ollama, OpenAI, Claude, or Watsonx
@@ -43,10 +43,10 @@
 | Feature | Description |
 |---------|-------------|
 | **📰 Multi-Source Aggregation** | Pulls from IBM Newsroom, arXiv, MIT Tech Review, ScienceDaily, Phys.org |
-| **🔍 Trend Analysis** | Automatic keyword extraction and topic-of-the-week detection |
+| **🔍 Trend Analysis** | Automatic keyword extraction and trending topic detection |
 | **🤖 Multi-Agent System** | Senior Researcher + Newsletter Writer agents collaborate |
 | **📝 Professional Output** | Publication-ready Markdown newsletters with proper structure |
-| **⏰ Scheduled Automation** | Weekly GitHub Actions runs (customizable schedule) |
+| **⏰ Scheduled Automation** | Daily GitHub Actions runs (customizable schedule) |
 | **🌐 Static Site Generation** | Clean, fast Eleventy-powered website |
 | **📦 Temporal Storage** | JSON-based data lake for historical analysis |
 
@@ -71,7 +71,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    GitHub Actions (Weekly)                       │
+│                    GitHub Actions (Daily)                        │
 └────────────────────────┬────────────────────────────────────────┘
                          │
          ┌───────────────┴───────────────┐
@@ -299,7 +299,7 @@ Adjust the cron schedule in `.github/workflows/weekly_news.yml`:
 ```yaml
 on:
   schedule:
-    - cron: "0 8 * * 5"  # Every Friday at 08:00 UTC
+    - cron: "0 8 * * *"  # Every day at 08:00 UTC
 ```
 
 Use [crontab.guru](https://crontab.guru/) to customize timing.
@@ -339,7 +339,7 @@ For cloud LLM providers, add secrets:
 **4. Trigger First Run**
 
 - Go to **Actions** tab
-- Select "Weekly News & Trends"
+- Select "Daily News & Trends"
 - Click "Run workflow"
 - Watch the magic happen! ✨
 
@@ -429,9 +429,9 @@ Agent 2: Tech Newsletter Writer
 
 **Newsletter Structure:**
 
-1. H1 Weekly Title
+1. H1 Daily Title
 2. Introduction (2-3 sentences)
-3. 🔥 Topic of the Week (1-2 paragraphs)
+3. 🔥 Trending Topic (1-2 paragraphs)
 4. 📰 Highlighted Articles (bulleted list)
 5. Looking Ahead (closing paragraph)
 
@@ -520,11 +520,11 @@ cat scripts/sources.json
 
 ### Cloud Providers (Optional)
 
-| Provider | Model | Cost/Newsletter | Monthly (4x) |
+| Provider | Model | Cost/Newsletter | Monthly (30x) |
 |----------|-------|-----------------|--------------|
-| OpenAI | gpt-4o-mini | ~$0.05 | ~$0.20 |
-| Claude | Sonnet 3.5 | ~$0.15 | ~$0.60 |
-| Watsonx | Llama 3.1 70B | ~$0.10 | ~$0.40 |
+| OpenAI | gpt-4o-mini | ~$0.05 | ~$1.50 |
+| Claude | Sonnet 3.5 | ~$0.15 | ~$4.50 |
+| Watsonx | Llama 3.1 70B | ~$0.10 | ~$3.00 |
 
 *Estimates based on ~5K input + 2K output tokens per run*
 

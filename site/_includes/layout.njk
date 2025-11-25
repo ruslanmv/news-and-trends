@@ -4,12 +4,12 @@
   <meta charset="UTF-8">
   <title>{{ title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Weekly AI & IT news, trends, and curated briefings for technology leaders.">
+  <meta name="description" content="Daily AI & IT news, trends, and curated briefings for technology leaders.">
   <meta name="robots" content="index,follow">
 
   <!-- Basic Open Graph -->
   <meta property="og:title" content="{{ title }} | {{ site.title }}">
-  <meta property="og:description" content="Automated AI-powered weekly technology briefings.">
+  <meta property="og:description" content="Automated AI-powered daily technology briefings.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://ruslanmv.com/news-and-trends/">
 
@@ -187,6 +187,8 @@
       width: 100%;
       margin: 2rem auto 2.5rem;
       padding: 0 1.25rem;
+      position: relative;
+      z-index: 1;
     }
 
     .card {
@@ -225,6 +227,8 @@
       display: inline-flex;
       align-items: center;
       gap: 0.35rem;
+      position: relative;
+      z-index: 1;
     }
 
     .meta-pill span.emoji {
@@ -324,6 +328,8 @@
       padding: 0.15rem 0.5rem;
       border-radius: 999px;
       vertical-align: middle;
+      position: relative;
+      z-index: 1;
     }
 
     .news-badge {
@@ -497,7 +503,7 @@
       </div>
 
       <nav>
-        <a class="nav-link" href="{{ '/' | url }}">This week</a>
+        <a class="nav-link" href="{{ '/' | url }}">Today</a>
         <a class="nav-link" href="{{ '/archive/' | url }}">Archive</a>
         <a class="nav-link" href="https://github.com/ruslanmv/news-and-trends">GitHub</a>
       </nav>

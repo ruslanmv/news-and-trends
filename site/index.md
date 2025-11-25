@@ -1,6 +1,6 @@
 ---
 layout: "layout.njk"
-title: "This Week"
+title: "Today"
 ---
 
 {# Get latest news from most recent issue only (top 4) #}
@@ -12,7 +12,7 @@ title: "This Week"
 
 {% if newsArticles.length > 0 or latestTrend %}
 
-# This Week's AI & Tech Insights
+# This Day's AI & Tech Insights
 
 <div class="meta">
   <span class="meta-pill">
@@ -113,12 +113,12 @@ title: "This Week"
 
 <div class="content">
   <p>
-    TechStatic Insights is an automated weekly AI &amp; IT briefing designed for
+    TechStatic Insights is an automated daily AI &amp; IT briefing designed for
     technology leaders who want <strong>signal over noise</strong>.
   </p>
 
   <p>
-    Each week, a multi-agent CrewAI pipeline:
+    Each day, a multi-agent CrewAI pipeline:
   </p>
 
   - Aggregates news from leading AI &amp; technology sources  
@@ -127,7 +127,7 @@ title: "This Week"
   - Publishes to this static site via GitHub Pages  
 
   <p>
-    Once the first GitHub Action run completes, the latest weekly briefing will appear here.
+    Once the first GitHub Action run completes, the latest daily briefing will appear here.
     In the meantime, you can visit the <a href="{{ '/archive/' | url }}">archive</a> page
     to see all generated issues.
   </p>

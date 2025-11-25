@@ -21,7 +21,7 @@ title: "Archive"
 </div>
 
 <p style="color: var(--muted); margin: 0 0 1.5rem;">
-  Browse all weekly issues, individual news articles, and ML-powered trend analyses, newest first.
+  Browse all daily updates, individual news articles, and ML-powered trend analyses, newest first.
 </p>
 
 <hr style="border-color: rgba(148, 163, 184, 0.35); margin: 1.5rem 0;" />
@@ -55,7 +55,7 @@ title: "Archive"
       {% elseif isNews %}
         <span class="category-badge news-badge" style="font-size: 0.75rem;">News</span>
       {% else %}
-        <span class="category-badge" style="font-size: 0.75rem;">Weekly Issue</span>
+        <span class="category-badge" style="font-size: 0.75rem;">Daily Update</span>
       {% endif %}
 
       {% if isNews and item.data.rank %}
@@ -90,7 +90,7 @@ title: "Archive"
       {% elseif isTrend %}
         🧠 ML-based trend analysis
       {% else %}
-        🗞️ Weekly newsletter
+        🗞️ Daily newsletter
       {% endif %}
     </span>
 
