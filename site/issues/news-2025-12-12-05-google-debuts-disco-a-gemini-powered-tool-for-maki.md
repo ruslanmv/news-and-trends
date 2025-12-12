@@ -14,21 +14,27 @@ tags:
 
 ## What Happened
 
-Google Labs is testing a product called "Disco," a Gemini-powered tool that will work with your browser tabs to make web apps for you. Disco is designed to simplify the process of creating and managing web applications, making it accessible to a wider range of users.
+Google Labs is testing a product called "Disco," a Gemini-powered tool that will work with your browser tabs to make web apps for you. Disco is currently in the early stages of development, but it has the potential to revolutionize the way people create web apps.
 
-The tool works by analyzing the structure and content of your browser tabs and automatically generating a code that can be used to create a web app. This eliminates the need for you to manually write code or design your app, making the process faster and easier.
+Disco works by capturing the code from your browser tabs and automatically generating a web app version of the same functionality. This means that you can create a web app for any website or service that you have access to in your browser.
+
+The tool is still under development, but Google is confident that it will be a major success. Disco has the potential to make web app creation easier and more accessible for people of all skill levels.
 
 ## Why It Matters
 
-Disco has the potential to revolutionize the way people create web applications. By removing the need for manual coding, Disco can make web app development more accessible and affordable. This could lead to a surge in creativity and innovation in the web app space.
+Disco is a major step forward in web app development. By making it easier for people to create web apps, Disco could lead to a significant increase in the number of websites and services that are available to users. This could have a major impact on the way that people communicate and interact with each other.
+
+Disco could also help to create a more open and democratic web. By making it easier for anyone to create web apps, Disco could allow people from all walks of life to participate in the web development process.
 
 ## Context & Background
 
-Disco is a relatively new tool, but it is part of Google's ongoing efforts to make the web more accessible and user-friendly. In recent years, Google has been investing heavily in AI and machine learning, and Disco is a testament to the company's commitment to developing innovative solutions that can benefit users of all levels.
+Disco is a relatively new product, but it is a significant milestone in the history of web app development. The development of Disco is also a testament to Google's commitment to innovation.
+
+Disco is currently only available for Chrome browser users, but Google plans to expand to other browsers in the future. This could make it a much more powerful and accessible tool for web app creators.
 
 ## What to Watch Next
 
-The release of Disco is a major milestone in the evolution of web app development. It is expected to have a significant impact on the industry, and we will be closely watching its development and rollout.
+The development of Disco is ongoing, but Google has already made significant progress in the past few months. The tool is expected to be released in the next few years, and it will likely have a major impact on the way that people create web apps.
 
 ---
 
