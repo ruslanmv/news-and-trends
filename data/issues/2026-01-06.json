@@ -1,0 +1,1010 @@
+{
+  "generated_at": "2026-01-06T05:18:21.855045",
+  "issue_date": "2026-01-06",
+  "topic_of_week": "NVIDIA",
+  "top_terms": [
+    [
+      "NVIDIA",
+      11
+    ],
+    [
+      "Quantum",
+      6
+    ],
+    [
+      "Google",
+      4
+    ],
+    [
+      "Gemini",
+      4
+    ],
+    [
+      "AGI",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "Meta",
+      2
+    ],
+    [
+      "large language model",
+      1
+    ],
+    [
+      "agent",
+      1
+    ],
+    [
+      "GPU",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Google previews new Gemini features for TV at CES 2026",
+      "link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
+      "summary": "Google TV will let you ask Gemini to find and edit your photos, adjust your TV settings, and more.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T14:00:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-12T16:00:02+00:00",
+      "score": 105
+    },
+    {
+      "title": "Gemini on Google TV is getting Nano Banana and voice-controlled settings",
+      "link": "https://www.theverge.com/tech/854112/gemini-google-tv-nano-banana-veo-ces",
+      "summary": "Gemini on Google TV is getting a major update that makes the AI assistant more helpful and more visually engaging. The big highlights are obviously the addition of Nano Banana and Veo support for creating AI videos and images directly on your TV. This can be anything from modifying your family photos for a laugh [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-05T09:00:00-05:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia wants to be the Android of generalist robotics",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+      "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T23:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia launches powerful new Rubin chip architecture",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+      "summary": "Nvidia CEO Jensen Huang officially launched the company\u2019s new Rubin computing architecture, which he described as the state of the art in AI computing.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T22:16:58+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019",
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+      "summary": "Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T21:52:22+00:00",
+      "score": 100
+    },
+    {
+      "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
+      "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+      "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird, and relevant (and some not so relevant) tech, and of course the people working on it. Even before the official kickoff of CES on January 6, there will be product reveals from Amazon, Nvidia, Hyundai, AMD, and more. AI is at the center of most of the action. But this year, we're hearing a lot more about the convergence of AI and the physical world, whether it's in factories, robotics, or autonomous vehicles. Follow our live updates as we share all the reveals and new hardware as it happens.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T16:09:26+00:00",
+      "score": 100
+    },
+    {
+      "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+      "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-12-06T17:29:09+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+      "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-06T14:58:15+00:00",
+      "score": 95
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-25T14:49:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-21T14:50:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students\u2019 skills and confidence",
+      "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-13T12:59:50+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-06T14:51:23+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft\u2019s framework for building AI systems responsibly",
+      "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-21T17:50:03+00:00",
+      "score": 95
+    },
+    {
+      "title": "Singapore develops Asia\u2019s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "link": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-08T21:04:42+00:00",
+      "score": 95
+    },
+    {
+      "title": "The opportunity at home \u2013 can AI drive innovation in personal assistant devices and sign language?",
+      "link": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-05-31T21:06:06+00:00",
+      "score": 95
+    },
+    {
+      "title": "Nvidia launches Vera Rubin AI computing platform at CES 2026",
+      "link": "https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026",
+      "summary": "Nvidia is kicking off 2026 with the early launch of its new Vera Rubin computing platform, following a record-breaking year for the Rubin GPU's predecessor Blackwell, fueled by the AI boom (or bubble). During a press briefing ahead of today's keynote, Dion Harris, Nvidia's senior director of HPC and AI infrastructure solutions, described Vera Rubin [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-05T17:46:04-05:00",
+      "score": 95
+    },
+    {
+      "title": "This tiny chip could change the future of quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251226045341.htm",
+      "summary": "A new microchip-sized device could dramatically accelerate the future of quantum computing. It controls laser frequencies with extreme precision while using far less power than today\u2019s bulky systems. Crucially, it\u2019s made with standard chip manufacturing, meaning it can be mass-produced instead of custom-built. This opens the door to quantum machines far larger and more powerful than anything possible today.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-26T10:38:10",
+      "score": 95
+    },
+    {
+      "title": "Physicists reveal a new quantum state where electrons run wild",
+      "link": "https://www.sciencedaily.com/releases/2025/11/251116105625.htm",
+      "summary": "Electrons can freeze into strange geometric crystals and then melt back into liquid-like motion under the right quantum conditions. Researchers identified how to tune these transitions and even discovered a bizarre \u201cpinball\u201d state where some electrons stay locked in place while others dart around freely. Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-11-16T10:56:25",
+      "score": 95
+    },
+    {
+      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+      "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+      "summary": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-06T03:30:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Microsoft\u2019s Nadella wants us to stop thinking of AI as \u2018slop\u2019",
+      "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+      "summary": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T23:09:56+00:00",
+      "score": 90
+    },
+    {
+      "title": "Amazon\u2019s AI assistant comes to the web with Alexa.com",
+      "link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+      "summary": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond devices and positioning it as a family-focused, agent-style chatbot.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-05T15:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+      "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+      "summary": "DoorDash seems to have confirmed a viral story about a driver using an AI-generated photo to lie about making a delivery.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-04T21:14:23+00:00",
+      "score": 90
+    },
+    {
+      "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+      "link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+      "summary": "France and Malaysia have joined India in condemning Grok for creating sexualized deepfakes of women and minors.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-04T16:50:19+00:00",
+      "score": 90
+    },
+    {
+      "title": "Ultrathin polymer layer extends lifespan of anode-free lithium metal batteries",
+      "link": "https://techxplore.com/news/2026-01-ultrathin-polymer-layer-lifespan-anode.html",
+      "summary": "Anode-free lithium metal batteries, which have attracted attention as candidates for electric vehicles, drones, and next-generation high-performance batteries, offer much higher energy density than conventional lithium-ion batteries. However, their short lifespan has made commercialization difficult.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T11:10:01",
+      "score": 90
+    },
+    {
+      "title": "A cost-effective solution for monitoring aging infrastructure",
+      "link": "https://techxplore.com/news/2026-01-effective-solution-aging-infrastructure.html",
+      "summary": "The partial collapse of the Carola Bridge in Dresden in September 2024 was a wake-up call for Germany's infrastructure policy. At least 8,000 highway bridges and roughly 18,000 kilometers of railroad in Germany are now considered in need of repair, with the cost of necessary renovations currently estimated at up to 100 billion euros. Continuous infrastructure monitoring is expensive, so it has been neglected.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T10:07:43",
+      "score": 90
+    },
+    {
+      "title": "That viral Reddit post about food delivery apps was an AI scam",
+      "link": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
+      "summary": "A viral Reddit confessional about a \"major food delivery app\" posted January 2nd is most likely AI-generated. The original post by user Trowaway_whistleblow alleged that an unnamed food delivery company regularly delays customer orders, calls couriers \"human assets,\" and exploits their \"desperation\" for cash, among other indefensible actions. Nearly 90,000 upvotes and four days later, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-05T13:43:02-05:00",
+      "score": 85
+    },
+    {
+      "title": "The Alexa Plus website is now available to everyone in early access",
+      "link": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available",
+      "summary": "Alexa Plus was already popping up online for some users earlier this month, and now it's officially available to everyone through an early access program. Anyone can go sign up at Alexa.com and start playing with the new web interface for Amazon's new AI chatbot. Alexa Plus was already available on all new Echo devices [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-05T10:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "The best tech announced at CES 2026 so far",
+      "link": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+      "summary": "Ahead of the CES show floor officially opening on Tuesday, January 6th, many companies have already announced new tech, gadgets, concepts, and AI-powered upgrades that will be released over this year. Yesterday's CES Unveiled event delivered even more announcements and reveals. If you're already struggling to keep on top of all the news coming out [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-05T09:29:14-05:00",
+      "score": 85
+    },
+    {
+      "title": "LG\u00a0says its\u00a0CLOiD home robot will be folding laundry and making breakfast at CES",
+      "link": "https://www.theverge.com/tech/854082/lg-cloid-home-robot-fold-laundry-ces",
+      "summary": "LG teased that it would be showing off a new robot for a \"zero labor home\" at CES. We now have a bit more detail on what to expect. The company says that its CLOiD home robot can fetch milk from the fridge, put a croissant in the oven, and even do some laundry, including [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-04T14:13:01-05:00",
+      "score": 85
+    },
+    {
+      "title": "Plaud updates the NotePin with a button",
+      "link": "https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces",
+      "summary": "Plaud has updated its compact NotePin AI recorder. The new NotePin S is almost identical to the original, except for one major difference: a button. It's joined by a new Plaud Desktop app for recording audio in online meetings, which is free to owners of any Plaud Note or NotePin. The NotePin S has the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-04T12:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "SwitchBot\u2019s AI audio recorder is a \u2018second brain\u2019 for memories",
+      "link": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement",
+      "summary": "SwitchBot is joining the AI voice recorder bandwagon, introducing its own clip-on gadget that captures and organizes your every conversation. The SwitchBot AI MindClip announced at CES records spoken information from your daily life and work meetings and converts those conversations into summaries, to-do actions, and a personal audio memory database. This announcement follows competing [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-04T11:45:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "This startup brought WALL-E to life and will also sell you WALL-E&#8217;s weird cousin",
+      "link": "https://www.theverge.com/tech/852956/zeroth-wall-e-robot-w1-m1-ces-2026",
+      "summary": "An AI robotics startup called Zeroth is turning WALL-E into a real-life robot companion. Though the WALL-E version with the Disney-licensed design is currently only on sale in China, Zeroth is launching what looks like an off-brand version of the beloved bot in the US for $5,599. The bot, called the W1, doesn't feature WALL-E's [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-04T09:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "Grok is undressing anyone, including minors",
+      "link": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+      "summary": "xAI's Grok is removing clothing from pictures of people without their consent following this week's rollout of a feature that allows X users to instantly edit any image using the bot without needing the original poster's permission. Not only does the original poster not get notified if their picture was edited, but Grok appears to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-02T14:52:34-05:00",
+      "score": 85
+    },
+    {
+      "title": "AI may not need massive training data after all",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
+      "summary": "New research shows that AI doesn\u2019t need endless training data to start acting more like a human brain. When researchers redesigned AI systems to better resemble biological brains, some models produced brain-like activity without any training at all. This challenges today\u2019s data-hungry approach to AI development. The work suggests smarter design could dramatically speed up learning while slashing costs and energy use.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-01-04T19:08:41",
+      "score": 85
+    },
+    {
+      "title": "This AI finds simple rules where humans see only chaos",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251221091237.htm",
+      "summary": "A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works across physics, engineering, climate science, and biology. Researchers say it could help scientists understand systems where traditional equations are missing or too complicated to write down.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-22T01:04:50",
+      "score": 85
+    },
+    {
+      "title": "What if AI becomes conscious and we never know",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251221043223.htm",
+      "summary": "A philosopher at the University of Cambridge says there\u2019s no reliable way to know whether AI is conscious\u2014and that may remain true for the foreseeable future. According to Dr. Tom McClelland, consciousness alone isn\u2019t the ethical tipping point anyway; sentience, the capacity to feel good or bad, is what truly matters. He argues that claims of conscious AI are often more marketing than science, and that believing in machine minds too easily could cause real harm. The safest stance for now, he says, is honest uncertainty.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-31T21:23:42",
+      "score": 85
+    },
+    {
+      "title": "A new tool is revealing the invisible networks inside cancer",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251221043216.htm",
+      "summary": "Spanish researchers have created a powerful new open-source tool that helps uncover the hidden genetic networks driving cancer. Called RNACOREX, the software can analyze thousands of molecular interactions at once, revealing how genes communicate inside tumors and how those signals relate to patient survival. Tested across 13 different cancer types using international data, the tool matches the predictive power of advanced AI systems\u2014while offering something rare in modern analytics: clear, interpretable explanations that help scientists understand why tumors behave the way they do.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-21T07:29:28",
+      "score": 85
+    },
+    {
+      "title": "Scientists reveal a tiny brain chip that streams thoughts in real time",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
+      "summary": "BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent. Initial clinical work shows it can be inserted through a small opening in the skull and remain stable while capturing detailed neural activity. The technology could reshape treatments for epilepsy, paralysis, and blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-09T23:54:39",
+      "score": 85
+    },
+    {
+      "title": "This tiny implant sends secret messages to the brain",
+      "link": "https://www.sciencedaily.com/releases/2025/12/251208052515.htm",
+      "summary": "Researchers have built a fully implantable device that sends light-based messages directly to the brain. Mice learned to interpret these artificial patterns as meaningful signals, even without touch, sight, or sound. The system uses up to 64 micro-LEDs to create complex neural patterns that resemble natural sensory activity. It could pave the way for next-generation prosthetics and new therapies.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-12-08T05:25:15",
+      "score": 85
+    },
+    {
+      "title": "Scientists uncover the brain\u2019s hidden learning blocks",
+      "link": "https://www.sciencedaily.com/releases/2025/11/251128050509.htm",
+      "summary": "Princeton researchers found that the brain excels at learning because it reuses modular \u201ccognitive blocks\u201d across many tasks. Monkeys switching between visual categorization challenges revealed that the prefrontal cortex assembles these blocks like Legos to create new behaviors. This flexibility explains why humans learn quickly while AI models often forget old skills. The insights may help build better AI and new clinical treatments for impaired cognitive adaptability.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-11-28T09:09:38",
+      "score": 85
+    },
+    {
+      "title": "A single beam of light runs AI with supercomputer power",
+      "link": "https://www.sciencedaily.com/releases/2025/11/251115095923.htm",
+      "summary": "Aalto University researchers have developed a method to execute AI tensor operations using just one pass of light. By encoding data directly into light waves, they enable calculations to occur naturally and simultaneously. The approach works passively, without electronics, and could soon be integrated into photonic chips. If adopted, it promises dramatically faster and more energy-efficient AI systems.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2025-11-16T02:00:12",
+      "score": 85
+    },
+    {
+      "title": "Disney is embedding generative AI into its operating model",
+      "link": "https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-24T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Q&A: Developing a sustainable power grid in the era of AI",
+      "link": "https://techxplore.com/news/2026-01-qa-sustainable-power-grid-era.html",
+      "summary": "Le Xie, Professor of Electrical Engineering at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS), wants to know how we can modernize the electric grid to support rapid electrification and the growing demands of AI infrastructure. His research at SEAS focuses on the intersection of power systems, artificial intelligence, and decarbonization. We spoke to him about his work and the challenges facing the electric grid today. This interview has been edited for clarity and length.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T17:12:26",
+      "score": 80
+    },
+    {
+      "title": "German renewable energy shift slowed in 2025",
+      "link": "https://techxplore.com/news/2026-01-german-renewable-energy-shift.html",
+      "summary": "The share of renewables in German power production almost stagnated in 2025, data showed Monday, as concerns grow about a shift away from green policies under conservative Chancellor Friedrich Merz.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T12:50:01",
+      "score": 80
+    },
+    {
+      "title": "Online 'brainrot' isn't ruining children's minds; it's a new way of navigating the modern internet",
+      "link": "https://techxplore.com/news/2026-01-online-brainrot-isnt-children-minds.html",
+      "summary": "\"Brainrot\" is what many people call the chaotic, fast-moving memes, sounds and catchphrases that spread across TikTok, Roblox and online gaming and into playgrounds. An example is the endlessly repeated chant of \"six-seven,\" which still echoes through houses and schools across the country\u2014to the bewilderment (or annoyance) of many teachers and parents.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T12:41:22",
+      "score": 80
+    },
+    {
+      "title": "Location, location, location: Model IDs best spots for offshore energy projects",
+      "link": "https://techxplore.com/news/2026-01-ids-offshore-energy.html",
+      "summary": "Researchers have developed a computational model that identifies the best combination of location and energy technologies to maximize offshore energy production, reducing the financial risk associated with investing in offshore projects. The model accounts for different types of wind and marine hydrokinetic technologies, the best location for co-siting these technologies, and the best size of the relevant technologies.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T11:03:23",
+      "score": 80
+    },
+    {
+      "title": "Sustainable design of geosynthetics and roof underlayments made from recyclates",
+      "link": "https://techxplore.com/news/2026-01-sustainable-geosynthetics-roof-underlayments-recyclates.html",
+      "summary": "Is it possible to recover plastic recyclates from previously unused waste streams in order to produce high-quality fibers and films? How can bio-based polymer fibers be manufactured so as to allow adjustable biodegradability? These are the questions being addressed by researchers from the Fraunhofer Cluster of Excellence Circular Plastics Economy CCPE in the Zirk-Tex project. As an alternative to mechanical processes, they are jointly developing innovative recycling methods for the production of sustainable roof underlayments and geosynthetics. This involves the analysis of the entire value chain at pilot scale.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T11:00:07",
+      "score": 80
+    },
+    {
+      "title": "Grok apologizes for sharing sexualized images of children",
+      "link": "https://techxplore.com/news/2026-01-grok-sexualized-images-children.html",
+      "summary": "Grok, the chatbot of Elon Musk's artificial intelligence company xAI, published sexualized images of children as its guardrails seem to have failed when it was prompted with vile user requests.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T09:22:12",
+      "score": 80
+    },
+    {
+      "title": "The hidden carbon footprint of wearable health care",
+      "link": "https://techxplore.com/news/2026-01-hidden-carbon-footprint-wearable-health.html",
+      "summary": "University of Chicago and Cornell University researchers analyzed wearable health care electronics and reported carbon impacts of 1.1\u20136.1 kg CO2-equivalent per device. With global device consumption projected to rise 42-fold by 2050, approaching 2 billion units annually, their moderate projection adds 3.4 million metric tons of CO2-equivalent emissions alongside ecotoxicity and e-waste.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T09:19:16",
+      "score": 80
+    },
+    {
+      "title": "What to expect from CES 2026, the annual show of all things tech",
+      "link": "https://techxplore.com/news/2026-01-ces-annual-tech.html",
+      "summary": "With the start of the New Year squarely behind us, it's once again time for the annual CES trade show to shine a spotlight on the latest tech that companies plan to offer in 2026.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-01-05T04:50:42",
+      "score": 80
+    },
+    {
+      "title": "L\u2019Or\u00e9al brings AI into everyday digital advertising production",
+      "link": "https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-01-05T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Understanding how AI and big data transform digital marketing",
+      "link": "https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-01-02T14:37:17+00:00",
+      "score": 75
+    },
+    {
+      "title": "Solana\u2019s high-speed AI gains and malware losses",
+      "link": "https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-01-02T14:33:59+00:00",
+      "score": 75
+    },
+    {
+      "title": "The future of rail: Watching, predicting, and learning",
+      "link": "https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-24T12:09:59+00:00",
+      "score": 75
+    },
+    {
+      "title": "Arm and the future of AI at the edge",
+      "link": "https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-23T13:45:19+00:00",
+      "score": 75
+    },
+    {
+      "title": "Inside China\u2019s push to apply AI across its energy system",
+      "link": "https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-23T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Tesco signs three-year AI deal centred on customer experience",
+      "link": "https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-22T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Marketing agencies using AI in workflows serve more clients",
+      "link": "https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-19T15:45:59+00:00",
+      "score": 75
+    },
+    {
+      "title": "50,000 Copilot licences for Indian service companies",
+      "link": "https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2025-12-19T13:19:12+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Google previews new Gemini features for TV at CES 2026",
+        "link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
+        "summary": "Google TV will let you ask Gemini to find and edit your photos, adjust your TV settings, and more.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-05T14:00:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Nvidia wants to be the Android of generalist robotics",
+        "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+        "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-05T23:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nvidia launches powerful new Rubin chip architecture",
+        "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+        "summary": "Nvidia CEO Jensen Huang officially launched the company\u2019s new Rubin computing architecture, which he described as the state of the art in AI computing.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-05T22:16:58+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to \u2018think like a human\u2019",
+        "link": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+        "summary": "Nvidia unveiled Alpamayo at CES 2026, which includes a reasoning vision language action model that allows an autonomous vehicle to think more like a human and provide chain-of-thought reasoning.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-05T21:52:22+00:00",
+        "score": 100
+      },
+      {
+        "title": "CES 2026: Follow live as Nvidia, Lego, AMD, Amazon, and more make their big reveals",
+        "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+        "summary": "CES 2026, the annual consumer tech conference held in Las Vegas, is here. And lucky for you, we have TechCrunch editors and reporters on the ground to cover the news, scout out the interesting, weird, and relevant (and some not so relevant) tech, and of course the people working on it. Even before the official kickoff of CES on January 6, there will be product reveals from Amazon, Nvidia, Hyundai, AMD, and more. AI is at the center of most of the action. But this year, we're hearing a lot more about the convergence of AI and the physical world, whether it's in factories, robotics, or autonomous vehicles. Follow our live updates as we share all the reveals and new hardware as it happens.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-05T16:09:26+00:00",
+        "score": 100
+      }
+    ],
+    "Microsoft AI Blog": [
+      {
+        "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+        "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-12T16:00:02+00:00",
+        "score": 105
+      },
+      {
+        "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+        "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-12-06T17:29:09+00:00",
+        "score": 95
+      },
+      {
+        "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+        "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-06T14:58:15+00:00",
+        "score": 95
+      },
+      {
+        "title": "How data and AI will transform contact centres for financial services",
+        "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-25T14:49:33+00:00",
+        "score": 95
+      },
+      {
+        "title": "AI-equipped drones study dolphins on the edge of extinction",
+        "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-21T14:50:33+00:00",
+        "score": 95
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Gemini on Google TV is getting Nano Banana and voice-controlled settings",
+        "link": "https://www.theverge.com/tech/854112/gemini-google-tv-nano-banana-veo-ces",
+        "summary": "Gemini on Google TV is getting a major update that makes the AI assistant more helpful and more visually engaging. The big highlights are obviously the addition of Nano Banana and Veo support for creating AI videos and images directly on your TV. This can be anything from modifying your family photos for a laugh [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-05T09:00:00-05:00",
+        "score": 105
+      },
+      {
+        "title": "Nvidia launches Vera Rubin AI computing platform at CES 2026",
+        "link": "https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026",
+        "summary": "Nvidia is kicking off 2026 with the early launch of its new Vera Rubin computing platform, following a record-breaking year for the Rubin GPU's predecessor Blackwell, fueled by the AI boom (or bubble). During a press briefing ahead of today's keynote, Dion Harris, Nvidia's senior director of HPC and AI infrastructure solutions, described Vera Rubin [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-05T17:46:04-05:00",
+        "score": 95
+      },
+      {
+        "title": "That viral Reddit post about food delivery apps was an AI scam",
+        "link": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
+        "summary": "A viral Reddit confessional about a \"major food delivery app\" posted January 2nd is most likely AI-generated. The original post by user Trowaway_whistleblow alleged that an unnamed food delivery company regularly delays customer orders, calls couriers \"human assets,\" and exploits their \"desperation\" for cash, among other indefensible actions. Nearly 90,000 upvotes and four days later, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-05T13:43:02-05:00",
+        "score": 85
+      },
+      {
+        "title": "The Alexa Plus website is now available to everyone in early access",
+        "link": "https://www.theverge.com/tech/853535/alexa-plus-website-now-available",
+        "summary": "Alexa Plus was already popping up online for some users earlier this month, and now it's officially available to everyone through an early access program. Anyone can go sign up at Alexa.com and start playing with the new web interface for Amazon's new AI chatbot. Alexa Plus was already available on all new Echo devices [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-05T10:00:00-05:00",
+        "score": 85
+      },
+      {
+        "title": "The best tech announced at CES 2026 so far",
+        "link": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+        "summary": "Ahead of the CES show floor officially opening on Tuesday, January 6th, many companies have already announced new tech, gadgets, concepts, and AI-powered upgrades that will be released over this year. Yesterday's CES Unveiled event delivered even more announcements and reveals. If you're already struggling to keep on top of all the news coming out [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-05T09:29:14-05:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "This tiny chip could change the future of quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2025/12/251226045341.htm",
+        "summary": "A new microchip-sized device could dramatically accelerate the future of quantum computing. It controls laser frequencies with extreme precision while using far less power than today\u2019s bulky systems. Crucially, it\u2019s made with standard chip manufacturing, meaning it can be mass-produced instead of custom-built. This opens the door to quantum machines far larger and more powerful than anything possible today.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2025-12-26T10:38:10",
+        "score": 95
+      },
+      {
+        "title": "Physicists reveal a new quantum state where electrons run wild",
+        "link": "https://www.sciencedaily.com/releases/2025/11/251116105625.htm",
+        "summary": "Electrons can freeze into strange geometric crystals and then melt back into liquid-like motion under the right quantum conditions. Researchers identified how to tune these transitions and even discovered a bizarre \u201cpinball\u201d state where some electrons stay locked in place while others dart around freely. Their simulations help explain how these phases form and how they might be harnessed for advanced quantum technologies.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2025-11-16T10:56:25",
+        "score": 95
+      },
+      {
+        "title": "AI may not need massive training data after all",
+        "link": "https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
+        "summary": "New research shows that AI doesn\u2019t need endless training data to start acting more like a human brain. When researchers redesigned AI systems to better resemble biological brains, some models produced brain-like activity without any training at all. This challenges today\u2019s data-hungry approach to AI development. The work suggests smarter design could dramatically speed up learning while slashing costs and energy use.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-01-04T19:08:41",
+        "score": 85
+      },
+      {
+        "title": "This AI finds simple rules where humans see only chaos",
+        "link": "https://www.sciencedaily.com/releases/2025/12/251221091237.htm",
+        "summary": "A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works across physics, engineering, climate science, and biology. Researchers say it could help scientists understand systems where traditional equations are missing or too complicated to write down.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2025-12-22T01:04:50",
+        "score": 85
+      },
+      {
+        "title": "What if AI becomes conscious and we never know",
+        "link": "https://www.sciencedaily.com/releases/2025/12/251221043223.htm",
+        "summary": "A philosopher at the University of Cambridge says there\u2019s no reliable way to know whether AI is conscious\u2014and that may remain true for the foreseeable future. According to Dr. Tom McClelland, consciousness alone isn\u2019t the ethical tipping point anyway; sentience, the capacity to feel good or bad, is what truly matters. He argues that claims of conscious AI are often more marketing than science, and that believing in machine minds too easily could cause real harm. The safest stance for now, he says, is honest uncertainty.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2025-12-31T21:23:42",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Ultrathin polymer layer extends lifespan of anode-free lithium metal batteries",
+        "link": "https://techxplore.com/news/2026-01-ultrathin-polymer-layer-lifespan-anode.html",
+        "summary": "Anode-free lithium metal batteries, which have attracted attention as candidates for electric vehicles, drones, and next-generation high-performance batteries, offer much higher energy density than conventional lithium-ion batteries. However, their short lifespan has made commercialization difficult.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-01-05T11:10:01",
+        "score": 90
+      },
+      {
+        "title": "A cost-effective solution for monitoring aging infrastructure",
+        "link": "https://techxplore.com/news/2026-01-effective-solution-aging-infrastructure.html",
+        "summary": "The partial collapse of the Carola Bridge in Dresden in September 2024 was a wake-up call for Germany's infrastructure policy. At least 8,000 highway bridges and roughly 18,000 kilometers of railroad in Germany are now considered in need of repair, with the cost of necessary renovations currently estimated at up to 100 billion euros. Continuous infrastructure monitoring is expensive, so it has been neglected.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-01-05T10:07:43",
+        "score": 90
+      },
+      {
+        "title": "Q&A: Developing a sustainable power grid in the era of AI",
+        "link": "https://techxplore.com/news/2026-01-qa-sustainable-power-grid-era.html",
+        "summary": "Le Xie, Professor of Electrical Engineering at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS), wants to know how we can modernize the electric grid to support rapid electrification and the growing demands of AI infrastructure. His research at SEAS focuses on the intersection of power systems, artificial intelligence, and decarbonization. We spoke to him about his work and the challenges facing the electric grid today. This interview has been edited for clarity and length.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-01-05T17:12:26",
+        "score": 80
+      },
+      {
+        "title": "German renewable energy shift slowed in 2025",
+        "link": "https://techxplore.com/news/2026-01-german-renewable-energy-shift.html",
+        "summary": "The share of renewables in German power production almost stagnated in 2025, data showed Monday, as concerns grow about a shift away from green policies under conservative Chancellor Friedrich Merz.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-01-05T12:50:01",
+        "score": 80
+      },
+      {
+        "title": "Online 'brainrot' isn't ruining children's minds; it's a new way of navigating the modern internet",
+        "link": "https://techxplore.com/news/2026-01-online-brainrot-isnt-children-minds.html",
+        "summary": "\"Brainrot\" is what many people call the chaotic, fast-moving memes, sounds and catchphrases that spread across TikTok, Roblox and online gaming and into playgrounds. An example is the endlessly repeated chant of \"six-seven,\" which still echoes through houses and schools across the country\u2014to the bewilderment (or annoyance) of many teachers and parents.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-01-05T12:41:22",
+        "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Disney is embedding generative AI into its operating model",
+        "link": "https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2025-12-24T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "L\u2019Or\u00e9al brings AI into everyday digital advertising production",
+        "link": "https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-01-05T10:00:00+00:00",
+        "score": 75
+      },
+      {
+        "title": "Understanding how AI and big data transform digital marketing",
+        "link": "https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-01-02T14:37:17+00:00",
+        "score": 75
+      },
+      {
+        "title": "Solana\u2019s high-speed AI gains and malware losses",
+        "link": "https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-01-02T14:33:59+00:00",
+        "score": 75
+      },
+      {
+        "title": "The future of rail: Watching, predicting, and learning",
+        "link": "https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2025-12-24T12:09:59+00:00",
+        "score": 75
+      }
+    ]
+  }
+}
