@@ -1,26 +1,30 @@
 {
-  "generated_at": "2026-01-16T05:18:44.120747",
+  "generated_at": "2026-01-16T08:31:06.373453",
   "issue_date": "2026-01-16",
   "topic_of_week": "OpenAI",
   "top_terms": [
     [
       "OpenAI",
-      10
+      11
     ],
     [
       "Google",
       8
     ],
     [
+      "Anthropic",
+      6
+    ],
+    [
       "Meta",
       6
     ],
     [
-      "Anthropic",
-      4
+      "Generative AI",
+      3
     ],
     [
-      "Generative AI",
+      "AGI",
       3
     ],
     [
@@ -30,10 +34,6 @@
     [
       "Quantum",
       3
-    ],
-    [
-      "AGI",
-      2
     ],
     [
       "ChatGPT",
@@ -178,6 +178,15 @@
       "source": "Google AI Blog",
       "source_weight": 100,
       "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "summary": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-16T07:28:25+00:00",
       "score": 100
     },
     {
@@ -334,6 +343,15 @@
       "score": 95
     },
     {
+      "title": "Silicon Valley\u2019s messiest breakup is definitely headed to court",
+      "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+      "summary": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-01-16T06:45:15+00:00",
+      "score": 90
+    },
+    {
       "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch\u2019s News Corp",
       "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
       "summary": "The startup claims its AI platform can help optimize editorial processes and research.",
@@ -376,24 +394,6 @@
       "source": "TechCrunch \u2013 AI",
       "source_weight": 90,
       "published": "2026-01-15T16:56:20+00:00",
-      "score": 90
-    },
-    {
-      "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
-      "link": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/",
-      "summary": "The massive round was led by existing investor General Catalyst, with participation from other returning backers.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-01-15T14:24:46+00:00",
-      "score": 90
-    },
-    {
-      "title": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
-      "link": "https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/",
-      "summary": "WhatsApp is allowing AI providers to continue offering their chatbots to users in Brazil, days after the country's competition agency ordered the company to suspend its new policy that bars third-party, general-purpose chatbots from the app.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-01-15T12:23:07+00:00",
       "score": 90
     },
     {
@@ -867,6 +867,15 @@
     ],
     "TechCrunch \u2013 AI": [
       {
+        "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+        "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+        "summary": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-01-16T07:28:25+00:00",
+        "score": 100
+      },
+      {
         "title": "OpenAI invests in Sam Altman\u2019s brain computer interface startup Merge Labs",
         "link": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
         "summary": "Merge Labs is a \u201cresearch lab\u201d dedicated to \u201cbridging biological and artificial intelligence to maximize human ability.\u201d OpenAI wrote the largest check in Merge Labs' $250 million seed round at an $850 million valuation.",
@@ -894,21 +903,12 @@
         "score": 100
       },
       {
-        "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch\u2019s News Corp",
-        "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
-        "summary": "The startup claims its AI platform can help optimize editorial processes and research.",
+        "title": "Silicon Valley\u2019s messiest breakup is definitely headed to court",
+        "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+        "summary": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
         "source": "TechCrunch \u2013 AI",
         "source_weight": 90,
-        "published": "2026-01-16T00:49:54+00:00",
-        "score": 90
-      },
-      {
-        "title": "The AI lab revolving door spins ever faster",
-        "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
-        "summary": "AI labs just can't get their employees to stay put. Yesterday\u2019s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati\u2019s Thinking Machines lab.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-01-15T22:04:02+00:00",
+        "published": "2026-01-16T06:45:15+00:00",
         "score": 90
       }
     ],
