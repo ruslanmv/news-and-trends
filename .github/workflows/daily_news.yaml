@@ -1,4 +1,4 @@
-name: "📰 Daily News & Trends"
+name: "\U0001f4f0 Daily News & Trends"
 
 on:
   schedule:
@@ -13,12 +13,13 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,7 +36,6 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
-          # Use package.json (which is present in the repo) to drive caching
           cache-dependency-path: "site/package.json"
 
       - name: Install Node deps
@@ -43,33 +43,20 @@ jobs:
           cd site
           npm install
 
-      - name: ⚙️ Install Ollama (temporal CI environment)
-        run: |
-          curl -fsSL https://ollama.com/install.sh | sh
-
-      - name: 🧠 Start Ollama & pull model
-        run: |
-          ollama serve &
-          # Give the server time to start
-          sleep 25
-          # Pull a compact, fast model; change as you wish
-          ollama pull gemma:2b
-
-      - name: 📰 Fetch data & generate news articles and trends
+      - name: "\U0001f4f0 Fetch data & generate news articles and trends"
         env:
-          # Temporal Ollama env for CI (matches llm_client.py)
-          OLLAMA_HOST: "http://127.0.0.1:11434"
-          OLLAMA_MODEL: "gemma:2b"
-          NEWS_LLM_MODEL: "ollama/gemma:2b"
+          # LLM auto-detection: llm_client.py will pick the best available
+          # provider based on which API keys are set.
+          # Priority: OpenAI > Anthropic > WatsonX > Groq > Ollama
 
-          # Optional: other providers if you ever switch away from Ollama
+          # LLM providers (auto-detected by llm_client.py)
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           WATSONX_APIKEY: ${{ secrets.WATSONX_APIKEY }}
           WATSONX_URL: ${{ secrets.WATSONX_URL }}
           WATSONX_PROJECT_ID: ${{ secrets.WATSONX_PROJECT_ID }}
         run: |
-          echo "Ollama service is running at $OLLAMA_HOST"
           echo "Step 1: Fetching data from RSS feeds..."
           python scripts/retrieve_data.py
 
@@ -79,12 +66,18 @@ jobs:
           echo "Step 3: Generating ML-based trend analysis..."
           python scripts/generate_trends.py
 
-          echo "✅ All content generation complete!"
+          echo "\u2705 All content generation complete!"
+
+      - name: Sync with remote before committing
+        run: |
+          git fetch origin master
+          git reset --soft origin/master
+          echo "\u2705 Synced with remote master"
 
       - name: Commit new content
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📰 Daily automated news update"
+          commit_message: "\U0001f4f0 Daily automated news update"
           file_pattern: "data/issues/*.json site/issues/*.md"
           commit_user_name: "NewsBot"
           commit_user_email: "actions@github.com"
