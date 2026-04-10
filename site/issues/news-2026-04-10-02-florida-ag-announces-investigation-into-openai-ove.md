@@ -13,33 +13,16 @@ tags:
 ---
 
 ## What Happened
-
-OpenAI, the AI language model behind ChatGPT, was allegedly used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has filed a lawsuit against OpenAI, claiming negligence and wrongful use of AI technology.
-
-The attack, which occurred in the heart of a major university city, has sparked outrage and raised concerns about the safety and ethical use of AI. Experts have expressed worries about the potential for AI to be used for malicious purposes, including terrorism and misinformation.
+Last April, two individuals were tragically killed and five were injured in a shooting at Florida State University. The suspect, who has been identified as using ChatGPT to plan the attack, has admitted to the crime.
 
 ## Why It Matters
-
-The attack on Florida State University is a significant event with far-reaching implications for several reasons:
-
-* **AI Safety and Trust:** The incident raises serious questions about the safety and trustworthiness of AI. OpenAI's ability to generate realistic and believable text raises concerns that it could be used to create propaganda, fake news, or other harmful content.
-
-
-* **Industry-Wide Impact:** AI companies and researchers have been working to develop safeguards against malicious use of AI. The Florida attack could potentially impact the development of ethical AI and raise questions about the accountability of tech companies.
-
-
-* **Ethical Considerations:** The attack also raises ethical questions about the use of AI in education and decision-making. Concerns have been raised about how AI could be used to perpetuate biases and discrimination, or to make decisions that are not in the best interests of students.
-
+This incident has significant implications for the future of AI development and the ethical use of chatbots. It highlights the potential for misuse of AI tools and the need for stricter regulation.
 
 ## Context & Background
-
-The attack occurred during a period of heightened tensions between the US and China, as the two countries compete in the field of AI. OpenAI, developed by Google, is a powerful language model that can generate human-quality text, code, and other content.
-
-The attack also occurred against the backdrop of increasing concerns about the use of AI for propaganda and misinformation. AI can be used to create realistic-sounding propaganda that can spread rapidly through social media and other online platforms. 
+ChatGPT, a large language model, was used by the suspect to generate the plan for the attack. This highlights the increasing use of AI in dangerous and potentially lethal applications. ChatGPT has the ability to create realistic and coherent text, making it a valuable tool for criminals.
 
 ## What to Watch Next
-
-The ongoing investigation into the attack on Florida State University will undoubtedly be closely followed by experts and the public. As technology experts continue to develop and use AI, it is important to stay informed about how AI is being used and to develop strategies to mitigate the risks associated with its use.
+The ongoing investigation will focus on the role of ChatGPT in this case and the broader implications for AI development. Law enforcement officials are working to determine how the suspect was able to access and use ChatGPT to create the attack plan.
 
 ---
 
