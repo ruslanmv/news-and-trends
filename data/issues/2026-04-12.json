@@ -1,0 +1,1010 @@
+{
+  "generated_at": "2026-04-12T06:19:17.264145",
+  "issue_date": "2026-04-12",
+  "topic_of_week": "OpenAI",
+  "top_terms": [
+    [
+      "OpenAI",
+      17
+    ],
+    [
+      "Anthropic",
+      9
+    ],
+    [
+      "ChatGPT",
+      9
+    ],
+    [
+      "Claude",
+      3
+    ],
+    [
+      "Meta",
+      3
+    ],
+    [
+      "Quantum",
+      3
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ],
+    [
+      "large language model",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+      "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-10T20:27:52+00:00",
+      "score": 110
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
+      "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-10T16:41:34+00:00",
+      "score": 110
+    },
+    {
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-09T20:11:55+00:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-09T21:29:11+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 \u2014 and rising.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-09T19:10:07+00:00",
+      "score": 100
+    },
+    {
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet \u2014 or Anthropic?",
+      "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-09T18:50:05+00:00",
+      "score": 100
+    },
+    {
+      "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+      "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-12-06T17:29:09+00:00",
+      "score": 95
+    },
+    {
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-12T16:00:02+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+      "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-06T14:58:15+00:00",
+      "score": 95
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-25T14:49:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-21T14:50:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students\u2019 skills and confidence",
+      "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-13T12:59:50+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-06T14:51:23+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft\u2019s framework for building AI systems responsibly",
+      "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-21T17:50:03+00:00",
+      "score": 95
+    },
+    {
+      "title": "Singapore develops Asia\u2019s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "link": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-08T21:04:42+00:00",
+      "score": 95
+    },
+    {
+      "title": "The opportunity at home \u2013 can AI drive innovation in personal assistant devices and sign language?",
+      "link": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-05-31T21:06:06+00:00",
+      "score": 95
+    },
+    {
+      "title": "Fear and loathing at OpenAI",
+      "link": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "summary": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T08:23:18-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-09T18:57:15-04:00",
+      "score": 95
+    },
+    {
+      "title": "Florida launches investigation into OpenAI",
+      "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\" Uthmeier also says [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-09T18:17:06-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks \u2014 from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering \u201cdeceptive empathy\u201d that mimics care without real understanding.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-02T10:04:35",
+      "score": 95
+    },
+    {
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "summary": "Qubits, the heart of quantum computers, can change performance in fractions of a second \u2014 but until now, scientists couldn\u2019t see it happening. Researchers at NBI have built a real-time monitoring system that tracks these rapid fluctuations about 100 times faster than previous methods. Using fast FPGA-based control hardware, they can instantly identify when a qubit shifts from \u201cgood\u201d to \u201cbad.\u201d The discovery opens a new path toward stabilizing and scaling future quantum processors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-02-20T09:03:48",
+      "score": 95
+    },
+    {
+      "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-11T17:18:22+00:00",
+      "score": 90
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
+      "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-10T16:38:43+00:00",
+      "score": 90
+    },
+    {
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "summary": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-10T14:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
+      "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-09T19:33:54+00:00",
+      "score": 90
+    },
+    {
+      "title": "Major hydrogen storage potential in Bavaria, study concludes",
+      "link": "https://techxplore.com/news/2026-04-major-hydrogen-storage-potential-bavaria.html",
+      "summary": "Geological formations in southern Bavaria offer a previously underestimated potential for storing large quantities of hydrogen. They could therefore be an alternative to salt caverns in northern Germany and thus contribute to a better geographical distribution of storage capacities.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T13:40:02",
+      "score": 90
+    },
+    {
+      "title": "After Anthropic's Mythos AI uncovers thousands of zero-day bugs, top US officials huddle with bank CEOs",
+      "link": "https://techxplore.com/news/2026-04-anthropic-mythos-ai-uncovers-thousands.html",
+      "summary": "The heads of America's biggest banks met this week with Federal Reserve Chairman Jerome Powell and Treasury Secretary Scott Bessent to weigh the security implications of a new artificial intelligence system developed by Anthropic, according to reports Friday.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T12:13:04",
+      "score": 90
+    },
+    {
+      "title": "Your article about AI doesn\u2019t need AI art",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-11T11:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-11T10:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "link": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-11T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T16:16:57-04:00",
+      "score": 85
+    },
+    {
+      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T13:30:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Gen Z\u2019s love-hate relationship with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T07:23:28-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu. The Copilot button in the Snipping Tool app also no longer appears when you select an area to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T05:22:06-04:00",
+      "score": 85
+    },
+    {
+      "title": "This new chip could slash data center energy waste",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+      "summary": "A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever circuit layout, the system overcomes limitations of traditional designs. The prototype achieved impressive efficiency and delivered much more power than previous attempts. Though not ready for widespread use yet, it points to a promising future for high-performance computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T08:45:22",
+      "score": 85
+    },
+    {
+      "title": "This new chip survives 1300\u00b0F (700\u00b0C) and could change AI forever",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "summary": "A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics\u2019 biggest limits. Built from an unusual stack of ultra-durable materials, the tiny component can store data and perform calculations even at 700\u00b0C (1300\u00b0F), far beyond what today\u2019s chips can handle. The discovery was partly accidental, but it revealed a powerful new mechanism that prevents heat-induced failure at the atomic level.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-07T01:32:38",
+      "score": 85
+    },
+    {
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "summary": "AI is consuming staggering amounts of energy\u2014already over 10% of U.S. electricity\u2014and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that could slash AI energy use by up to 100\u00d7 while actually improving accuracy. By combining neural networks with human-like symbolic reasoning, their system helps robots think more logically instead of relying on brute-force trial and error.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-05T21:23:54",
+      "score": 85
+    },
+    {
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "summary": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining them with DNA folding techniques, scientists are creating structures that can move and act with precision. These robots can be guided using chemical reactions or external signals like light and magnetic fields.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-31T07:16:58",
+      "score": 85
+    },
+    {
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "summary": "A new tomato-picking robot is learning to think before it acts. Instead of simply identifying ripe fruit, it predicts how easy each tomato will be to harvest and adjusts its approach accordingly. This smarter strategy boosted success rates to 81%, with the robot even switching angles when needed. The breakthrough could pave the way for farms where robots and humans work side by side.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-18T00:26:44",
+      "score": 85
+    },
+    {
+      "title": "Scientists discover AI can make humans more creative",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
+      "summary": "Artificial intelligence is often portrayed as a tool that replaces human work, but new research from Swansea University suggests a far more exciting role: creative collaborator. In a large study with more than 800 participants designing virtual cars, researchers found that AI-generated design galleries sparked deeper engagement, longer exploration, and better results.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-15T20:59:26",
+      "score": 85
+    },
+    {
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "summary": "As AI systems began acing traditional tests, researchers realized those benchmarks were no longer tough enough. In response, nearly 1,000 experts created Humanity\u2019s Last Exam, a massive 2,500-question challenge covering highly specialized topics across many fields. The exam was engineered so that any question solvable by current AI models was removed. Early results show even the most advanced systems still struggle \u2014 revealing a surprisingly large gap between AI performance and true expert-level knowledge.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-13T02:08:43",
+      "score": 85
+    },
+    {
+      "title": "Brain inspired machines are better at math than expected",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "summary": "Neuromorphic computers modeled after the human brain can now solve the complex equations behind physics simulations \u2014 something once thought possible only with energy-hungry supercomputers. The breakthrough could lead to powerful, low-energy supercomputers while revealing new secrets about how our brains process information.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-02-14T10:19:40",
+      "score": 85
+    },
+    {
+      "title": "Why companies like Apple are building AI agents with limits",
+      "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-10T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Meta has a competitive AI model but loses its open-source identity",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-10T08:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-09T15:02:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-09T12:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft open-source toolkit secures AI agents at runtime",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-08T10:23:53+00:00",
+      "score": 85
+    },
+    {
+      "title": "Anthropic\u2019s refusal to arm AI is exactly why the UK wants it",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-07T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Interface tweak triples graphene oxide fuel cell power density to 0.7 W/cm\u00b2",
+      "link": "https://techxplore.com/news/2026-04-interface-tweak-triples-graphene-oxide.html",
+      "summary": "A breakthrough in interface engineering clears the path for sustainable, high-power hydrogen energy. As the world races toward a hydrogen-based society, the quest for a truly green fuel cell has faced a persistent material hurdle. Most modern fuel cells rely on fluorine-based membranes to conduct protons. While effective, these materials are environmentally taxing and expensive to produce. Now, a research team at Kumamoto University's Institute of Industrial Nanomaterials (IINa) has achieved a major milestone in sustainable energy, developing a graphene oxide fuel cell that shatters previous performance records for nanosheet-based electrolytes.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-11T14:00:05",
+      "score": 80
+    },
+    {
+      "title": "Reshore semiconductor manufacturing to UK and US to meet sustainability goals, study says",
+      "link": "https://techxplore.com/news/2026-04-reshore-semiconductor-uk-sustainability-goals.html",
+      "summary": "Making semiconductors in the UK and the US would be the most sustainable way to manufacture the materials that power every electronic device on the planet, according to new research from the University of Sheffield.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-11T12:00:04",
+      "score": 80
+    },
+    {
+      "title": "A hardware-software co-design can efficiently run AI on edge devices",
+      "link": "https://techxplore.com/news/2026-04-hardware-software-efficiently-ai-edge.html",
+      "summary": "A new hardware-software co-design increases AI energy efficiency and reduces latency, enabling real-time processing of continuous data streams like video or sensor feeds. The neuromorphic approach unlocks the ability to run powerful, real-time AI directly on local edge devices like phones, hearing aids or autonomous vehicle cameras, according to a University of Michigan Engineering study published in Nature Communications.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-11T11:00:04",
+      "score": 80
+    },
+    {
+      "title": "Mythos AI alarm bells: Fair warning or marketing hype?",
+      "link": "https://techxplore.com/news/2026-04-mythos-ai-alarm-bells-fair.html",
+      "summary": "Anthropic postponing the release of its new AI model Claude Mythos, said to be so skilled at coding it could be a wicked weapon for hackers, has encountered a mix of alarm and skepticism.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-11T02:30:01",
+      "score": 80
+    },
+    {
+      "title": "New Zealand is surrounded by ocean energy: Just what would it take to tap it?",
+      "link": "https://techxplore.com/news/2026-04-zealand-ocean-energy.html",
+      "summary": "\"Same as it ever was\" is a phrase that continues to resonate in 2026. The oil shocks of the 1970s, triggered by conflict in the Middle East, sent global energy prices soaring and exposed the vulnerability of modern economies to fuel supply. They also sparked a global surge of interest in alternative energy.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T20:00:03",
+      "score": 80
+    },
+    {
+      "title": "AI-driven controllers imitating the human brain could strengthen the grid",
+      "link": "https://techxplore.com/news/2026-04-ai-driven-imitating-human-brain.html",
+      "summary": "As traditional power plants are replaced by intermittent sources like solar and wind, maintaining grid stability has become a complex engineering challenge. Hussain Khan's doctoral dissertation at the University of Vaasa, Finland, introduces advanced AI-based control strategies that ensure local grids remain reliable and resilient.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T14:20:03",
+      "score": 80
+    },
+    {
+      "title": "A simple baseline for AI forecasting in machine learning",
+      "link": "https://techxplore.com/news/2026-04-simple-baseline-ai-machine.html",
+      "summary": "In a recent paper, SFI Complexity Postdoctoral Fellow Yuanzhao Zhang and co-author William Gilpin show that a deceptively simple forecasting strategy can outperform several leading machine learning forecasting models.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T14:00:06",
+      "score": 80
+    },
+    {
+      "title": "AI chatbots offer children harm as if it were help, says activist",
+      "link": "https://techxplore.com/news/2026-04-ai-chatbots-children-activist.html",
+      "summary": "The head of a prominent anti-disinformation watchdog has warned of the dangers posed by AI chatbots, saying children are particularly vulnerable.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-10T13:00:01",
+      "score": 80
+    },
+    {
+      "title": "IBM: How robust AI governance protects enterprise margins",
+      "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-10T13:57:15+00:00",
+      "score": 75
+    },
+    {
+      "title": "AI\u2019s software development success and central management needs",
+      "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-08T10:43:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+      "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-07T14:40:42+00:00",
+      "score": 75
+    },
+    {
+      "title": "Boomi calls it \u201cdata activation\u201d and says it\u2019s the missing step in every AI deployment",
+      "link": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-07T12:00:00+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-10T20:27:52+00:00",
+        "score": 110
+      },
+      {
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
+        "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+        "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-10T16:41:34+00:00",
+        "score": 110
+      },
+      {
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-09T20:11:55+00:00",
+        "score": 110
+      },
+      {
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-09T21:29:11+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+        "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+        "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 \u2014 and rising.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-09T19:10:07+00:00",
+        "score": 100
+      }
+    ],
+    "Microsoft AI Blog": [
+      {
+        "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+        "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-12-06T17:29:09+00:00",
+        "score": 95
+      },
+      {
+        "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+        "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-12T16:00:02+00:00",
+        "score": 95
+      },
+      {
+        "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+        "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-06T14:58:15+00:00",
+        "score": 95
+      },
+      {
+        "title": "How data and AI will transform contact centres for financial services",
+        "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-25T14:49:33+00:00",
+        "score": 95
+      },
+      {
+        "title": "AI-equipped drones study dolphins on the edge of extinction",
+        "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-21T14:50:33+00:00",
+        "score": 95
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Fear and loathing at OpenAI",
+        "link": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+        "summary": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-10T08:23:18-04:00",
+        "score": 95
+      },
+      {
+        "title": "ChatGPT has a new $100 per month Pro subscription",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+        "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-09T18:57:15-04:00",
+        "score": 95
+      },
+      {
+        "title": "Florida launches investigation into OpenAI",
+        "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+        "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's enemies, such as the Chinese Communist Party.\" Uthmeier also says [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-09T18:17:06-04:00",
+        "score": 95
+      },
+      {
+        "title": "Your article about AI doesn\u2019t need AI art",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+        "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-11T11:00:00-04:00",
+        "score": 85
+      },
+      {
+        "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+        "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-11T10:00:00-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+        "summary": "As millions turn to ChatGPT and other AI chatbots for therapy-style advice, new research from Brown University raises a serious red flag: even when instructed to act like trained therapists, these systems routinely break core ethical standards of mental health care. In side-by-side evaluations with peer counselors and licensed psychologists, researchers uncovered 15 distinct ethical risks \u2014 from mishandling crisis situations and reinforcing harmful beliefs to showing biased responses and offering \u201cdeceptive empathy\u201d that mimics care without real understanding.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-03-02T10:04:35",
+        "score": 95
+      },
+      {
+        "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+        "summary": "Qubits, the heart of quantum computers, can change performance in fractions of a second \u2014 but until now, scientists couldn\u2019t see it happening. Researchers at NBI have built a real-time monitoring system that tracks these rapid fluctuations about 100 times faster than previous methods. Using fast FPGA-based control hardware, they can instantly identify when a qubit shifts from \u201cgood\u201d to \u201cbad.\u201d The discovery opens a new path toward stabilizing and scaling future quantum processors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-02-20T09:03:48",
+        "score": 95
+      },
+      {
+        "title": "This new chip could slash data center energy waste",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+        "summary": "A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever circuit layout, the system overcomes limitations of traditional designs. The prototype achieved impressive efficiency and delivered much more power than previous attempts. Though not ready for widespread use yet, it points to a promising future for high-performance computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-10T08:45:22",
+        "score": 85
+      },
+      {
+        "title": "This new chip survives 1300\u00b0F (700\u00b0C) and could change AI forever",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+        "summary": "A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics\u2019 biggest limits. Built from an unusual stack of ultra-durable materials, the tiny component can store data and perform calculations even at 700\u00b0C (1300\u00b0F), far beyond what today\u2019s chips can handle. The discovery was partly accidental, but it revealed a powerful new mechanism that prevents heat-induced failure at the atomic level.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-07T01:32:38",
+        "score": 85
+      },
+      {
+        "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+        "summary": "AI is consuming staggering amounts of energy\u2014already over 10% of U.S. electricity\u2014and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that could slash AI energy use by up to 100\u00d7 while actually improving accuracy. By combining neural networks with human-like symbolic reasoning, their system helps robots think more logically instead of relying on brute-force trial and error.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-05T21:23:54",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Major hydrogen storage potential in Bavaria, study concludes",
+        "link": "https://techxplore.com/news/2026-04-major-hydrogen-storage-potential-bavaria.html",
+        "summary": "Geological formations in southern Bavaria offer a previously underestimated potential for storing large quantities of hydrogen. They could therefore be an alternative to salt caverns in northern Germany and thus contribute to a better geographical distribution of storage capacities.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-10T13:40:02",
+        "score": 90
+      },
+      {
+        "title": "After Anthropic's Mythos AI uncovers thousands of zero-day bugs, top US officials huddle with bank CEOs",
+        "link": "https://techxplore.com/news/2026-04-anthropic-mythos-ai-uncovers-thousands.html",
+        "summary": "The heads of America's biggest banks met this week with Federal Reserve Chairman Jerome Powell and Treasury Secretary Scott Bessent to weigh the security implications of a new artificial intelligence system developed by Anthropic, according to reports Friday.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-10T12:13:04",
+        "score": 90
+      },
+      {
+        "title": "Interface tweak triples graphene oxide fuel cell power density to 0.7 W/cm\u00b2",
+        "link": "https://techxplore.com/news/2026-04-interface-tweak-triples-graphene-oxide.html",
+        "summary": "A breakthrough in interface engineering clears the path for sustainable, high-power hydrogen energy. As the world races toward a hydrogen-based society, the quest for a truly green fuel cell has faced a persistent material hurdle. Most modern fuel cells rely on fluorine-based membranes to conduct protons. While effective, these materials are environmentally taxing and expensive to produce. Now, a research team at Kumamoto University's Institute of Industrial Nanomaterials (IINa) has achieved a major milestone in sustainable energy, developing a graphene oxide fuel cell that shatters previous performance records for nanosheet-based electrolytes.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-11T14:00:05",
+        "score": 80
+      },
+      {
+        "title": "Reshore semiconductor manufacturing to UK and US to meet sustainability goals, study says",
+        "link": "https://techxplore.com/news/2026-04-reshore-semiconductor-uk-sustainability-goals.html",
+        "summary": "Making semiconductors in the UK and the US would be the most sustainable way to manufacture the materials that power every electronic device on the planet, according to new research from the University of Sheffield.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-11T12:00:04",
+        "score": 80
+      },
+      {
+        "title": "A hardware-software co-design can efficiently run AI on edge devices",
+        "link": "https://techxplore.com/news/2026-04-hardware-software-efficiently-ai-edge.html",
+        "summary": "A new hardware-software co-design increases AI energy efficiency and reduces latency, enabling real-time processing of continuous data streams like video or sensor feeds. The neuromorphic approach unlocks the ability to run powerful, real-time AI directly on local edge devices like phones, hearing aids or autonomous vehicle cameras, according to a University of Michigan Engineering study published in Nature Communications.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-11T11:00:04",
+        "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Why companies like Apple are building AI agents with limits",
+        "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-10T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Meta has a competitive AI model but loses its open-source identity",
+        "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-10T08:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Agentic AI\u2019s governance challenges under the EU AI Act in 2026",
+        "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-09T15:02:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-09T12:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Microsoft open-source toolkit secures AI agents at runtime",
+        "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-08T10:23:53+00:00",
+        "score": 85
+      }
+    ]
+  }
+}
