@@ -1,0 +1,1010 @@
+{
+  "generated_at": "2026-04-24T06:58:21.881639",
+  "issue_date": "2026-04-24",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      11
+    ],
+    [
+      "agent",
+      8
+    ],
+    [
+      "OpenAI",
+      8
+    ],
+    [
+      "Anthropic",
+      6
+    ],
+    [
+      "GPT-5",
+      5
+    ],
+    [
+      "Claude",
+      5
+    ],
+    [
+      "Meta",
+      5
+    ],
+    [
+      "GPU",
+      3
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "RAG",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T18:29:29+00:00",
+      "score": 110
+    },
+    {
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-12T16:00:02+00:00",
+      "score": 105
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T14:00:00-04:00",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T21:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+      "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-12-06T17:29:09+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+      "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-10-06T14:58:15+00:00",
+      "score": 95
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-25T14:49:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-21T14:50:33+00:00",
+      "score": 95
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students\u2019 skills and confidence",
+      "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-13T12:59:50+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-07-06T14:51:23+00:00",
+      "score": 95
+    },
+    {
+      "title": "Microsoft\u2019s framework for building AI systems responsibly",
+      "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-21T17:50:03+00:00",
+      "score": 95
+    },
+    {
+      "title": "Singapore develops Asia\u2019s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "link": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-06-08T21:04:42+00:00",
+      "score": 95
+    },
+    {
+      "title": "The opportunity at home \u2013 can AI drive innovation in personal assistant devices and sign language?",
+      "link": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+      "summary": "",
+      "source": "Microsoft AI Blog",
+      "source_weight": 95,
+      "published": "2022-05-31T21:06:06+00:00",
+      "score": 95
+    },
+    {
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T18:27:11-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta is laying off 10 percent of its staff",
+      "link": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T15:41:07-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T14:24:56-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-22T16:09:02-04:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far less memory. This could have big implications for fields like climate science, energy, and medicine.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-17T23:51:09",
+      "score": 95
+    },
+    {
+      "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system \u2013 based on the novel concept of \u2018giant superatoms\u2019. This breakthrough enables quantum information to be protected, controlled, and distributed in new ways and could be a key step towards building quantum computers at scale.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-13T08:38:46",
+      "score": 95
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+      "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T19:38:25+00:00",
+      "score": 90
+    },
+    {
+      "title": "Era raises $11M to build a software platform for AI gadgets",
+      "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T16:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+      "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+      "summary": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T14:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T14:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "summary": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T12:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T04:38:45+00:00",
+      "score": 90
+    },
+    {
+      "title": "Tesla just increased its spending plan to $25B \u2014 here\u2019s where the money is going",
+      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-22T23:56:52+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI has crossed a threshold. What Claude Mythos means for the future of cybersecurity",
+      "link": "https://techxplore.com/news/2026-04-ai-threshold-claude-mythos-future.html",
+      "summary": "The limit of what artificial intelligence can achieve, known as frontier AI, has crossed another threshold. AI can now plan and execute sophisticated cyber operations with minimal guidance at speeds far beyond human capability.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T16:20:02",
+      "score": 90
+    },
+    {
+      "title": "Needle-tip chip can secure pacemakers and insulin pumps against quantum attacks",
+      "link": "https://techxplore.com/news/2026-04-needle-chip-pacemakers-insulin-quantum.html",
+      "summary": "As quantum computers advance, they are expected to be able to break tried-and-true security schemes that currently keep most sensitive data secure from attackers. Scientists and policymakers are working to design and implement post-quantum cryptography to defend against these future attacks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T15:00:03",
+      "score": 90
+    },
+    {
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into algorithms, databases and loops [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T10:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "You\u2019re about to feel the AI money squeeze",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its systems and start turning a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T09:45:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft launches \u2018vibe working\u2019 in Word, Excel, and PowerPoint",
+      "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+      "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we first shipped Copilot, foundation models [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-23T07:34:18-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC, on Wednesday. Warren warned of what she called \"striking\" parallels to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-22T16:29:05-04:00",
+      "score": 85
+    },
+    {
+      "title": "Watch Sony\u2019s elite ping-pong robot beat top-ranked players",
+      "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-22T13:43:38-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI swarms could hijack democracy without anyone noticing",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "summary": "AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging at a massive scale, creating a false sense of consensus. Early warning signs\u2014like deepfakes and fake news networks\u2014have already appeared in global elections. Researchers warn that the next election could be the true test of this technology\u2019s power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-20T05:47:25",
+      "score": 85
+    },
+    {
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-18T03:32:36",
+      "score": 85
+    },
+    {
+      "title": "Think AI \"knows\" what it\u2019s doing? Scientists say think again",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+      "summary": "Calling AI things like \u201csmart\u201d or saying it \u201cknows\u201d something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful than expected, rarely using strongly human-like language. When they do, it often falls on a spectrum\u2014sometimes describing simple requirements, other times hinting at human traits.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-19T04:02:23",
+      "score": 85
+    },
+    {
+      "title": "This simple change stops robot swarms from getting stuck",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+      "summary": "In crowded environments, more robots don\u2019t always mean faster results\u2014in fact, too many can bring everything to a standstill. Harvard researchers discovered a surprising fix: adding a bit of randomness to how robots move can actually prevent gridlock and boost efficiency. By allowing robots to \u201cwiggle\u201d slightly instead of marching in straight lines, they can slip past each other and keep tasks flowing smoothly.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-15T03:45:51",
+      "score": 85
+    },
+    {
+      "title": "This new chip could slash data center energy waste",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+      "summary": "A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever circuit layout, the system overcomes limitations of traditional designs. The prototype achieved impressive efficiency and delivered much more power than previous attempts. Though not ready for widespread use yet, it points to a promising future for high-performance computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-10T08:45:22",
+      "score": 85
+    },
+    {
+      "title": "This new chip survives 1300\u00b0F (700\u00b0C) and could change AI forever",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "summary": "A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics\u2019 biggest limits. Built from an unusual stack of ultra-durable materials, the tiny component can store data and perform calculations even at 700\u00b0C (1300\u00b0F), far beyond what today\u2019s chips can handle. The discovery was partly accidental, but it revealed a powerful new mechanism that prevents heat-induced failure at the atomic level.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-07T01:32:38",
+      "score": 85
+    },
+    {
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "summary": "AI is consuming staggering amounts of energy\u2014already over 10% of U.S. electricity\u2014and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that could slash AI energy use by up to 100\u00d7 while actually improving accuracy. By combining neural networks with human-like symbolic reasoning, their system helps robots think more logically instead of relying on brute-force trial and error.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-05T21:23:54",
+      "score": 85
+    },
+    {
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "summary": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining them with DNA folding techniques, scientists are creating structures that can move and act with precision. These robots can be guided using chemical reactions or external signals like light and magnetic fields.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-03-31T07:16:58",
+      "score": 85
+    },
+    {
+      "title": "This featherweight elastic suit could transform everyday movement in ways most people would never expect",
+      "link": "https://techxplore.com/news/2026-04-featherweight-elastic-everyday-movement-ways.html",
+      "summary": "A team of Korean researchers has developed a lightweight elastic suit that can support the activities of various groups experiencing physical burdens in daily life, raising expectations.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T22:20:01",
+      "score": 80
+    },
+    {
+      "title": "This punishing coastal ferry route forces a radical rethink of clean speed at sea",
+      "link": "https://techxplore.com/news/2026-04-coastal-ferry-route-radical-rethink.html",
+      "summary": "The shipping industry must cut its climate emissions, and express ferries are the means of passenger transport that causes the most pollution per kilometer. These high-speed passenger vessels with diesel engines are currently the least environmentally friendly form of passenger transport\u2014but they do not have to be.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T21:00:02",
+      "score": 80
+    },
+    {
+      "title": "Colored films enable patterns on photovoltaic modules",
+      "link": "https://techxplore.com/news/2026-04-enable-patterns-photovoltaic-modules.html",
+      "summary": "Scientists at the Fraunhofer Institute for Solar Energy Systems ISE have succeeded in creating colored films with transparent cutouts, thereby producing realistic-looking designs on photovoltaic modules. In this way, roof tiles, for example, can be imitated. The film cutout patterns utilize MorphoColor technology, an invention of Fraunhofer ISE that creates a color impression without significantly impairing the efficiency of a PV module. Visitors to The Smarter E / Intersolar 2026 can view PV modules equipped with \"ShadeCut\" film cut patterns at the Fraunhofer ISE booth A1.440.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T19:20:03",
+      "score": 80
+    },
+    {
+      "title": "Creating green materials with light could transform clean energy",
+      "link": "https://techxplore.com/news/2026-04-green-materials-energy.html",
+      "summary": "Metal-organic frameworks, better known as MOFs, are among the most intensely studied materials for addressing major environmental challenges. Their highly ordered, ultra-porous architecture enables applications ranging from CO2 capture and air or water purification to catalysis and hydrogen production. It is therefore no surprise that MOFs have drawn global attention in recent years, notably with their recognition by the 2025 Nobel Prize in Chemistry, as they play an increasingly central role in the development of sustainable technologies.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T17:40:07",
+      "score": 80
+    },
+    {
+      "title": "Engineers boost sustainable acrylic acid production using next\u2011generation membrane reactor",
+      "link": "https://techxplore.com/news/2026-04-boost-sustainable-acrylic-acid-production.html",
+      "summary": "Acrylic acid is essential for everyday products\u2014from paints and coatings to absorbent polymers\u2014yet almost all of it is currently made from propylene, a petrochemical. As global biodiesel production rises, so does the supply of low-value glycerol by-products, creating an opportunity for cleaner, renewable chemical manufacturing.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T17:20:05",
+      "score": 80
+    },
+    {
+      "title": "New 3D device harnesses living brain cells for computing",
+      "link": "https://techxplore.com/news/2026-04-3d-device-harnesses-brain-cells.html",
+      "summary": "Princeton researchers have combined brain cells and advanced electronics into a single 3D device that can be programmed to recognize patterns using computational techniques. Past attempts at using brain cells to do computation have relied on 2D cultures grown in a petri dish or 3D clusters that are probed and monitored from outside. The Princeton device takes a different approach, working from the inside out.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T17:00:04",
+      "score": 80
+    },
+    {
+      "title": "Why some countries give away free electricity and even pay consumers to use it",
+      "link": "https://techxplore.com/news/2026-04-countries-free-electricity-pay-consumers.html",
+      "summary": "In parts of Germany and Australia, a surprising thing is happening more and more often: Households are being offered free electricity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T15:20:03",
+      "score": 80
+    },
+    {
+      "title": "Researchers develop navigation system for underground rescue teams",
+      "link": "https://techxplore.com/news/2026-04-underground-teams.html",
+      "summary": "Operations underground, for example in underground stations, tunnels or mines, are risky and difficult for rescue teams. This is especially true if the technical infrastructure has collapsed due to explosions or fire, and there are no mobile phone signals, electricity, light, Wi-Fi or GNSS, while smoke, debris and damaged paths make orientation even more difficult.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-23T15:00:08",
+      "score": 80
+    },
+    {
+      "title": "The billion-dollar startup with a different idea for AI",
+      "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-23T12:30:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-23T12:19:36+00:00",
+      "score": 75
+    },
+    {
+      "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+      "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-23T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Reversing enterprise security costs with AI vulnerability discovery",
+      "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-22T15:45:14+00:00",
+      "score": 75
+    },
+    {
+      "title": "AI in law firms entering its closing summaries",
+      "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-22T13:51:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "The role of AI in modern forex bot development",
+      "link": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-22T07:34:01+00:00",
+      "score": 75
+    },
+    {
+      "title": "Snowflake expands its technical and mainstream AI platforms",
+      "link": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-21T14:29:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Siemens introduces AI system for automation engineering",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-21T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+      "link": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-20T13:15:51+00:00",
+      "score": 75
+    },
+    {
+      "title": "How to prepare for and remediate an AI system incident",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-20T11:39:41+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
+        "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T18:29:29+00:00",
+        "score": 110
+      },
+      {
+        "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+        "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+        "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T21:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "AI galaxy hunters are adding to the global GPU crunch",
+        "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+        "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T13:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+        "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+        "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T19:38:25+00:00",
+        "score": 90
+      },
+      {
+        "title": "Era raises $11M to build a software platform for AI gadgets",
+        "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+        "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T16:00:00+00:00",
+        "score": 90
+      }
+    ],
+    "Microsoft AI Blog": [
+      {
+        "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+        "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-12T16:00:02+00:00",
+        "score": 105
+      },
+      {
+        "title": "A conversation with Kevin Scott: What\u2019s next in AI",
+        "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-12-06T17:29:09+00:00",
+        "score": 95
+      },
+      {
+        "title": "Microsoft open sources its \u2018farm of the future\u2019 toolkit",
+        "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-10-06T14:58:15+00:00",
+        "score": 95
+      },
+      {
+        "title": "How data and AI will transform contact centres for financial services",
+        "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-25T14:49:33+00:00",
+        "score": 95
+      },
+      {
+        "title": "AI-equipped drones study dolphins on the edge of extinction",
+        "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+        "summary": "",
+        "source": "Microsoft AI Blog",
+        "source_weight": 95,
+        "published": "2022-07-21T14:50:33+00:00",
+        "score": 95
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+        "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-23T14:00:00-04:00",
+        "score": 105
+      },
+      {
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-23T18:27:11-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta is laying off 10 percent of its staff",
+        "link": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+        "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-23T15:41:07-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic&#8217;s Mythos breach was humiliating",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+        "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-23T14:24:56-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI now lets teams make custom bots that can do work on their own",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+        "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-22T16:09:02-04:00",
+        "score": 95
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum AI just got shockingly good at predicting chaos",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+        "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far less memory. This could have big implications for fields like climate science, energy, and medicine.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-17T23:51:09",
+        "score": 95
+      },
+      {
+        "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+        "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system \u2013 based on the novel concept of \u2018giant superatoms\u2019. This breakthrough enables quantum information to be protected, controlled, and distributed in new ways and could be a key step towards building quantum computers at scale.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-13T08:38:46",
+        "score": 95
+      },
+      {
+        "title": "AI swarms could hijack democracy without anyone noticing",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+        "summary": "AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging at a massive scale, creating a false sense of consensus. Early warning signs\u2014like deepfakes and fake news networks\u2014have already appeared in global elections. Researchers warn that the next election could be the true test of this technology\u2019s power.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-20T05:47:25",
+        "score": 85
+      },
+      {
+        "title": "Artificial neurons successfully communicate with living brain cells",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+        "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a breakthrough demonstrated in mouse brain tissue.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-18T03:32:36",
+        "score": 85
+      },
+      {
+        "title": "Think AI \"knows\" what it\u2019s doing? Scientists say think again",
+        "link": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+        "summary": "Calling AI things like \u201csmart\u201d or saying it \u201cknows\u201d something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful than expected, rarely using strongly human-like language. When they do, it often falls on a spectrum\u2014sometimes describing simple requirements, other times hinting at human traits.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-04-19T04:02:23",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "AI has crossed a threshold. What Claude Mythos means for the future of cybersecurity",
+        "link": "https://techxplore.com/news/2026-04-ai-threshold-claude-mythos-future.html",
+        "summary": "The limit of what artificial intelligence can achieve, known as frontier AI, has crossed another threshold. AI can now plan and execute sophisticated cyber operations with minimal guidance at speeds far beyond human capability.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-23T16:20:02",
+        "score": 90
+      },
+      {
+        "title": "Needle-tip chip can secure pacemakers and insulin pumps against quantum attacks",
+        "link": "https://techxplore.com/news/2026-04-needle-chip-pacemakers-insulin-quantum.html",
+        "summary": "As quantum computers advance, they are expected to be able to break tried-and-true security schemes that currently keep most sensitive data secure from attackers. Scientists and policymakers are working to design and implement post-quantum cryptography to defend against these future attacks.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-23T15:00:03",
+        "score": 90
+      },
+      {
+        "title": "This featherweight elastic suit could transform everyday movement in ways most people would never expect",
+        "link": "https://techxplore.com/news/2026-04-featherweight-elastic-everyday-movement-ways.html",
+        "summary": "A team of Korean researchers has developed a lightweight elastic suit that can support the activities of various groups experiencing physical burdens in daily life, raising expectations.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-23T22:20:01",
+        "score": 80
+      },
+      {
+        "title": "This punishing coastal ferry route forces a radical rethink of clean speed at sea",
+        "link": "https://techxplore.com/news/2026-04-coastal-ferry-route-radical-rethink.html",
+        "summary": "The shipping industry must cut its climate emissions, and express ferries are the means of passenger transport that causes the most pollution per kilometer. These high-speed passenger vessels with diesel engines are currently the least environmentally friendly form of passenger transport\u2014but they do not have to be.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-23T21:00:02",
+        "score": 80
+      },
+      {
+        "title": "Colored films enable patterns on photovoltaic modules",
+        "link": "https://techxplore.com/news/2026-04-enable-patterns-photovoltaic-modules.html",
+        "summary": "Scientists at the Fraunhofer Institute for Solar Energy Systems ISE have succeeded in creating colored films with transparent cutouts, thereby producing realistic-looking designs on photovoltaic modules. In this way, roof tiles, for example, can be imitated. The film cutout patterns utilize MorphoColor technology, an invention of Fraunhofer ISE that creates a color impression without significantly impairing the efficiency of a PV module. Visitors to The Smarter E / Intersolar 2026 can view PV modules equipped with \"ShadeCut\" film cut patterns at the Fraunhofer ISE booth A1.440.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-23T19:20:03",
+        "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "The billion-dollar startup with a different idea for AI",
+        "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-23T12:30:00+00:00",
+        "score": 75
+      },
+      {
+        "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-23T12:19:36+00:00",
+        "score": 75
+      },
+      {
+        "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+        "link": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-23T10:00:00+00:00",
+        "score": 75
+      },
+      {
+        "title": "Reversing enterprise security costs with AI vulnerability discovery",
+        "link": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-22T15:45:14+00:00",
+        "score": 75
+      },
+      {
+        "title": "AI in law firms entering its closing summaries",
+        "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-22T13:51:00+00:00",
+        "score": 75
+      }
+    ]
+  }
+}
