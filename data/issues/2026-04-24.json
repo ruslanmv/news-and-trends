@@ -1,50 +1,59 @@
 {
-  "generated_at": "2026-04-24T06:58:21.881639",
+  "generated_at": "2026-04-24T09:45:32.322322",
   "issue_date": "2026-04-24",
-  "topic_of_week": "Quantum",
+  "topic_of_week": "OpenAI",
   "top_terms": [
     [
-      "Quantum",
-      11
+      "OpenAI",
+      10
     ],
     [
       "agent",
       8
     ],
     [
-      "OpenAI",
+      "Quantum",
       8
+    ],
+    [
+      "GPT-5",
+      6
     ],
     [
       "Anthropic",
       6
     ],
     [
-      "GPT-5",
+      "Meta",
       5
     ],
     [
       "Claude",
-      5
-    ],
-    [
-      "Meta",
-      5
+      4
     ],
     [
       "GPU",
       3
     ],
     [
-      "AGI",
+      "Generative AI",
       2
     ],
     [
-      "RAG",
+      "AGI",
       2
     ]
   ],
   "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
     {
       "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
       "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
@@ -71,15 +80,6 @@
       "source_weight": 85,
       "published": "2026-04-23T14:00:00-04:00",
       "score": 105
-    },
-    {
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-29T11:03:00-07:00",
-      "score": 100
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -163,21 +163,21 @@
       "score": 100
     },
     {
-      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
-      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-04-23T21:00:00+00:00",
-      "score": 100
-    },
-    {
       "title": "AI galaxy hunters are adding to the global GPU crunch",
       "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
       "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
       "source": "TechCrunch \u2013 AI",
       "source_weight": 90,
       "published": "2026-04-23T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI launches GPT-5.5 as rivals race to build more autonomous AI assistants",
+      "link": "https://techxplore.com/news/2026-04-openai-gpt-rivals-autonomous-ai.html",
+      "summary": "OpenAI released a new model it touts as its best yet for handling research work like making improved versions of itself, as rapid-fire releases by AI rivals pick up pace.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-24T04:16:37",
       "score": 100
     },
     {
@@ -316,6 +316,15 @@
       "score": 95
     },
     {
+      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+      "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-04-23T21:00:00+00:00",
+      "score": 90
+    },
+    {
       "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
       "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
       "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
@@ -379,22 +388,13 @@
       "score": 90
     },
     {
-      "title": "AI has crossed a threshold. What Claude Mythos means for the future of cybersecurity",
-      "link": "https://techxplore.com/news/2026-04-ai-threshold-claude-mythos-future.html",
-      "summary": "The limit of what artificial intelligence can achieve, known as frontier AI, has crossed another threshold. AI can now plan and execute sophisticated cyber operations with minimal guidance at speeds far beyond human capability.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-04-23T16:20:02",
-      "score": 90
-    },
-    {
-      "title": "Needle-tip chip can secure pacemakers and insulin pumps against quantum attacks",
-      "link": "https://techxplore.com/news/2026-04-needle-chip-pacemakers-insulin-quantum.html",
-      "summary": "As quantum computers advance, they are expected to be able to break tried-and-true security schemes that currently keep most sensitive data secure from attackers. Scientists and policymakers are working to design and implement post-quantum cryptography to defend against these future attacks.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-04-23T15:00:03",
-      "score": 90
+      "title": "Prestigious photo contest answers \u2018what is a photo?\u2019",
+      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-24T05:40:07-04:00",
+      "score": 85
     },
     {
       "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
@@ -430,15 +430,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-04-22T16:29:05-04:00",
-      "score": 85
-    },
-    {
-      "title": "Watch Sony\u2019s elite ping-pong robot beat top-ranked players",
-      "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-      "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human players and occasionally even beat them [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-04-22T13:43:38-04:00",
       "score": 85
     },
     {
@@ -514,6 +505,42 @@
       "score": 85
     },
     {
+      "title": "'Clearly me': AI drama accused of stealing faces",
+      "link": "https://techxplore.com/news/2026-04-ai-drama-accused.html",
+      "summary": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-24T05:00:01",
+      "score": 80
+    },
+    {
+      "title": "DeepSeek rolls out V4 update with 1 million-token context and stronger reasoning",
+      "link": "https://techxplore.com/news/2026-04-deepseek-v4-million-token-context.html",
+      "summary": "DeepSeek, the Chinese artificial intelligence startup that shook world markets last year, launched preview versions of its latest major update Friday as the AI rivalry between China and the U.S. heats up.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-24T04:30:03",
+      "score": 80
+    },
+    {
+      "title": "YouTube offers deepfake detection to Hollywood",
+      "link": "https://techxplore.com/news/2026-04-youtube-deepfake-hollywood.html",
+      "summary": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-24T04:30:01",
+      "score": 80
+    },
+    {
+      "title": "Chinese EV makers take center stage at world's biggest auto show",
+      "link": "https://techxplore.com/news/2026-04-chinese-ev-makers-center-stage.html",
+      "summary": "Thousands snapped selfies beside sleek Chinese electric vehicles on Friday at the world's biggest car show in Beijing, where automakers are seeking to lure buyers in a cutthroat market.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-04-24T04:24:46",
+      "score": 80
+    },
+    {
       "title": "This featherweight elastic suit could transform everyday movement in ways most people would never expect",
       "link": "https://techxplore.com/news/2026-04-featherweight-elastic-everyday-movement-ways.html",
       "summary": "A team of Korean researchers has developed a lightweight elastic suit that can support the activities of various groups experiencing physical burdens in daily life, raising expectations.",
@@ -559,31 +586,13 @@
       "score": 80
     },
     {
-      "title": "New 3D device harnesses living brain cells for computing",
-      "link": "https://techxplore.com/news/2026-04-3d-device-harnesses-brain-cells.html",
-      "summary": "Princeton researchers have combined brain cells and advanced electronics into a single 3D device that can be programmed to recognize patterns using computational techniques. Past attempts at using brain cells to do computation have relied on 2D cultures grown in a petri dish or 3D clusters that are probed and monitored from outside. The Princeton device takes a different approach, working from the inside out.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-04-23T17:00:04",
-      "score": 80
-    },
-    {
-      "title": "Why some countries give away free electricity and even pay consumers to use it",
-      "link": "https://techxplore.com/news/2026-04-countries-free-electricity-pay-consumers.html",
-      "summary": "In parts of Germany and Australia, a surprising thing is happening more and more often: Households are being offered free electricity.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-04-23T15:20:03",
-      "score": 80
-    },
-    {
-      "title": "Researchers develop navigation system for underground rescue teams",
-      "link": "https://techxplore.com/news/2026-04-underground-teams.html",
-      "summary": "Operations underground, for example in underground stations, tunnels or mines, are risky and difficult for rescue teams. This is especially true if the technical infrastructure has collapsed due to explosions or fire, and there are no mobile phone signals, electricity, light, Wi-Fi or GNSS, while smoke, debris and damaged paths make orientation even more difficult.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-04-23T15:00:08",
-      "score": 80
+      "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-04-24T07:47:32+00:00",
+      "score": 75
     },
     {
       "title": "The billion-dollar startup with a different idea for AI",
@@ -665,18 +674,56 @@
       "source_weight": 75,
       "published": "2026-04-20T13:15:51+00:00",
       "score": 75
-    },
-    {
-      "title": "How to prepare for and remediate an AI system incident",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-04-20T11:39:41+00:00",
-      "score": 75
     }
   ],
   "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
     "TechCrunch \u2013 AI": [
       {
         "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
@@ -688,15 +735,6 @@
         "score": 110
       },
       {
-        "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
-        "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-        "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-04-23T21:00:00+00:00",
-        "score": 100
-      },
-      {
         "title": "AI galaxy hunters are adding to the global GPU crunch",
         "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
         "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
@@ -704,6 +742,15 @@
         "source_weight": 90,
         "published": "2026-04-23T13:00:00+00:00",
         "score": 100
+      },
+      {
+        "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+        "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+        "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-04-23T21:00:00+00:00",
+        "score": 90
       },
       {
         "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
@@ -818,51 +865,51 @@
         "score": 95
       }
     ],
-    "Google AI Blog": [
+    "Phys.org \u2013 Technology": [
       {
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-29T11:03:00-07:00",
+        "title": "OpenAI launches GPT-5.5 as rivals race to build more autonomous AI assistants",
+        "link": "https://techxplore.com/news/2026-04-openai-gpt-rivals-autonomous-ai.html",
+        "summary": "OpenAI released a new model it touts as its best yet for handling research work like making improved versions of itself, as rapid-fire releases by AI rivals pick up pace.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-24T04:16:37",
         "score": 100
       },
       {
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-28T13:53:00-07:00",
-        "score": 100
+        "title": "'Clearly me': AI drama accused of stealing faces",
+        "link": "https://techxplore.com/news/2026-04-ai-drama-accused.html",
+        "summary": "Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-24T05:00:01",
+        "score": 80
       },
       {
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-20T13:54:00-07:00",
-        "score": 100
+        "title": "DeepSeek rolls out V4 update with 1 million-token context and stronger reasoning",
+        "link": "https://techxplore.com/news/2026-04-deepseek-v4-million-token-context.html",
+        "summary": "DeepSeek, the Chinese artificial intelligence startup that shook world markets last year, launched preview versions of its latest major update Friday as the AI rivalry between China and the U.S. heats up.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-24T04:30:03",
+        "score": 80
       },
       {
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-20T09:06:00-07:00",
-        "score": 100
+        "title": "YouTube offers deepfake detection to Hollywood",
+        "link": "https://techxplore.com/news/2026-04-youtube-deepfake-hollywood.html",
+        "summary": "YouTube is offering Hollywood celebrities and entertainers a free detection tool to help combat their deepfakes, expanding the Google-owned video platform's efforts to guard against AI-driven impersonations.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-24T04:30:01",
+        "score": 80
       },
       {
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-19T13:15:00-07:00",
-        "score": 100
+        "title": "Chinese EV makers take center stage at world's biggest auto show",
+        "link": "https://techxplore.com/news/2026-04-chinese-ev-makers-center-stage.html",
+        "summary": "Thousands snapped selfies beside sleek Chinese electric vehicles on Friday at the world's biggest car show in Beijing, where automakers are seeking to lure buyers in a cutthroat market.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-04-24T04:24:46",
+        "score": 80
       }
     ],
     "ScienceDaily \u2013 AI": [
@@ -912,54 +959,16 @@
         "score": 85
       }
     ],
-    "Phys.org \u2013 Technology": [
-      {
-        "title": "AI has crossed a threshold. What Claude Mythos means for the future of cybersecurity",
-        "link": "https://techxplore.com/news/2026-04-ai-threshold-claude-mythos-future.html",
-        "summary": "The limit of what artificial intelligence can achieve, known as frontier AI, has crossed another threshold. AI can now plan and execute sophisticated cyber operations with minimal guidance at speeds far beyond human capability.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-04-23T16:20:02",
-        "score": 90
-      },
-      {
-        "title": "Needle-tip chip can secure pacemakers and insulin pumps against quantum attacks",
-        "link": "https://techxplore.com/news/2026-04-needle-chip-pacemakers-insulin-quantum.html",
-        "summary": "As quantum computers advance, they are expected to be able to break tried-and-true security schemes that currently keep most sensitive data secure from attackers. Scientists and policymakers are working to design and implement post-quantum cryptography to defend against these future attacks.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-04-23T15:00:03",
-        "score": 90
-      },
-      {
-        "title": "This featherweight elastic suit could transform everyday movement in ways most people would never expect",
-        "link": "https://techxplore.com/news/2026-04-featherweight-elastic-everyday-movement-ways.html",
-        "summary": "A team of Korean researchers has developed a lightweight elastic suit that can support the activities of various groups experiencing physical burdens in daily life, raising expectations.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-04-23T22:20:01",
-        "score": 80
-      },
-      {
-        "title": "This punishing coastal ferry route forces a radical rethink of clean speed at sea",
-        "link": "https://techxplore.com/news/2026-04-coastal-ferry-route-radical-rethink.html",
-        "summary": "The shipping industry must cut its climate emissions, and express ferries are the means of passenger transport that causes the most pollution per kilometer. These high-speed passenger vessels with diesel engines are currently the least environmentally friendly form of passenger transport\u2014but they do not have to be.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-04-23T21:00:02",
-        "score": 80
-      },
-      {
-        "title": "Colored films enable patterns on photovoltaic modules",
-        "link": "https://techxplore.com/news/2026-04-enable-patterns-photovoltaic-modules.html",
-        "summary": "Scientists at the Fraunhofer Institute for Solar Energy Systems ISE have succeeded in creating colored films with transparent cutouts, thereby producing realistic-looking designs on photovoltaic modules. In this way, roof tiles, for example, can be imitated. The film cutout patterns utilize MorphoColor technology, an invention of Fraunhofer ISE that creates a color impression without significantly impairing the efficiency of a PV module. Visitors to The Smarter E / Intersolar 2026 can view PV modules equipped with \"ShadeCut\" film cut patterns at the Fraunhofer ISE booth A1.440.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-04-23T19:20:03",
-        "score": 80
-      }
-    ],
     "AI News": [
+      {
+        "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+        "link": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-04-24T07:47:32+00:00",
+        "score": 75
+      },
       {
         "title": "The billion-dollar startup with a different idea for AI",
         "link": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
@@ -994,15 +1003,6 @@
         "source": "AI News",
         "source_weight": 75,
         "published": "2026-04-22T15:45:14+00:00",
-        "score": 75
-      },
-      {
-        "title": "AI in law firms entering its closing summaries",
-        "link": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-04-22T13:51:00+00:00",
         "score": 75
       }
     ]
