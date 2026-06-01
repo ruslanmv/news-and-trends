@@ -3,102 +3,40 @@ layout: "layout.njk"
 title: "Archive"
 ---
 
-# Archive
-
-<div class="meta">
-  <span class="meta-pill">
-    <span class="emoji">🗂️</span>
-    <span>{{ collections.issue | length }} entries</span>
-  </span>
-  <span class="meta-pill">
-    <span class="emoji">📰</span>
-    <span>
-      {{ collections.news | length }} News
-      &nbsp;•&nbsp;
-      {{ collections.trend | length }} Trends
-    </span>
-  </span>
-</div>
-
-<p style="color: var(--muted); margin: 0 0 1.5rem;">
-  Browse all daily updates, individual news articles, and ML-powered trend analyses, newest first.
-</p>
-
-<hr style="border-color: rgba(148, 163, 184, 0.35); margin: 1.5rem 0;" />
+<section class="nt-digest">
+  <p class="nt-kicker">Archive</p>
+  <h2 class="nt-digest__date">Every issue, newest first</h2>
+  <div class="nt-digest__meta">
+    <span class="nt-pill"><i class="fas fa-folder-open"></i> {{ collections.issue | length }} entries</span>
+    <span class="nt-pill"><i class="fas fa-newspaper"></i> {{ collections.news | length }} news</span>
+    <span class="nt-pill"><i class="fas fa-chart-line"></i> {{ collections.trend | length }} trends</span>
+  </div>
+  <p class="nt-digest__note">Browse all daily updates, individual news articles, and ML-powered trend analyses.</p>
+</section>
 
 {% set issues = collections.issue | reverse %}
 
-<div style="display: grid; gap: 1.5rem;">
+<div class="nt-section-head"><h2>All entries</h2></div>
+
+<div class="nt-arch">
 {% for item in issues %}
 {% set isTrend = item.data.type == "trend" %}
 {% set isNews = item.data.type == "news" %}
-
-<article
-  style="padding: 1.25rem 1.5rem;
-         border-radius: 14px;
-         border: 1px solid rgba(148, 163, 184, 0.3);
-         background: {% if isTrend %}linear-gradient(135deg, rgba(168, 85, 247, 0.15), rgba(56, 189, 248, 0.08)){% else %}rgba(15, 23, 42, 0.7){% endif %};
-         box-shadow: 0 10px 25px rgba(15, 23, 42, 0.45);
-         transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;"
-  onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 16px 32px rgba(15,23,42,0.7)'; this.style.borderColor='rgba(148, 163, 184, 0.8)';"
-  onmouseout="this.style.transform='none'; this.style.boxShadow='0 10px 25px rgba(15, 23, 42, 0.45)'; this.style.borderColor='rgba(148, 163, 184, 0.3)';"
->
-  <header style="display: flex; justify-content: space-between; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
-      <span class="meta-pill" style="padding: 0.25rem 0.65rem; font-size: 0.8rem;">
-        <span class="emoji">📅</span>
-        <span>{{ item.date | readableDate }}</span>
-      </span>
-
-      {% if isTrend %}
-        <span class="category-badge trend-badge" style="font-size: 0.75rem;">Trend Analysis</span>
-      {% elseif isNews %}
-        <span class="category-badge news-badge" style="font-size: 0.75rem;">News</span>
-      {% else %}
-        <span class="category-badge" style="font-size: 0.75rem;">Daily Update</span>
-      {% endif %}
-
-      {% if isNews and item.data.rank %}
-        <span style="background: rgba(56, 189, 248, 0.18); color: #38bdf8; padding: 0.25rem 0.6rem; border-radius: 999px; font-size: 0.75rem; font-weight: 600;">
-          #{{ item.data.rank }}
-        </span>
-      {% endif %}
-    </div>
-
-    {% if isNews and item.data.source %}
-      <span style="color: var(--muted); font-size: 0.75rem; white-space: nowrap;">
-        {{ item.data.source }}
-      </span>
+<a class="nt-archcard" href="{{ item.url | url }}">
+  <div class="nt-archcard__head">
+    {% if isTrend %}
+      <span class="nt-badge nt-badge--trend">Trend Analysis</span>
+    {% elif isNews %}
+      <span class="nt-badge nt-badge--news">News</span>
+    {% else %}
+      <span class="nt-badge nt-badge--news">Daily Update</span>
     {% endif %}
-  </header>
-
-  <h3 style="margin: 0 0 0.5rem; font-size: 1.1rem;">
-    <a href="{{ item.url | url }}">
-      {{ item.data.title }}
-    </a>
-  </h3>
-
-  <div style="color: #d1d5db; font-size: 0.9rem; line-height: 1.5; margin-bottom: 0.75rem;">
-    {{ item.content | striptags | truncate(220) | safe }}
+    {% if isNews and item.data.rank %}<span class="nt-badge nt-badge--news">#{{ item.data.rank }}</span>{% endif %}
+    <span class="nt-archcard__date">{{ item.date | readableDate }}</span>
+    {% if isNews and item.data.source %}<span class="nt-archcard__date">· {{ item.data.source }}</span>{% endif %}
   </div>
-
-  <footer style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--muted); margin-top: 0.5rem;">
-    <span>
-      {% if isNews and item.data.source %}
-        📍 {{ item.data.source }}
-        {% if item.data.rank %} • #{{ item.data.rank }}{% endif %}
-      {% elseif isTrend %}
-        🧠 ML-based trend analysis
-      {% else %}
-        🗞️ Daily newsletter
-      {% endif %}
-    </span>
-
-    <a href="{{ item.url | url }}" style="font-weight: 500; font-size: 0.8rem;">
-      Open →
-    </a>
-  </footer>
-</article>
-
+  <h3 class="nt-archcard__title">{{ item.data.title }}</h3>
+  <p class="nt-archcard__summary">{{ item.content | striptags | truncate(200) }}</p>
+</a>
 {% endfor %}
 </div>

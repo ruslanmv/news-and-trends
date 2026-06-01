@@ -355,10 +355,60 @@ def generate_ml_insights(
 
     except (json.JSONDecodeError, ValueError) as e:
         print(f"  ⚠️  Failed to parse JSON from LLM: {e}")
-        print(f"  Using fallback title and treating full response as body")
-        # Fallback: generate a simple title and use the whole response as body
+        # Tolerant recovery: the response is often a *malformed* (e.g. unterminated)
+        # JSON blob. Pull the title/body strings out manually so we never publish
+        # raw JSON to the site.
+        title, body = _recover_title_and_body(result_text)
+        if body:
+            print("  Recovered title/body from malformed JSON response")
+            return clean_text(title), body.strip()
+        print("  Using fallback title and treating full response as body")
         title = "AI Technology Trends: What's Emerging This Week"
         return title, result_text
+
+
+def _scan_json_string(text: str, start: int) -> Tuple[str, int]:
+    """Scan a JSON double-quoted string starting at ``text[start] == '"'``.
+
+    Handles standard escapes plus literal newlines that malformed blobs contain.
+    Returns ``(value, index_after_closing_quote)`` or ``("", start)`` on failure.
+    """
+    if start >= len(text) or text[start] != '"':
+        return "", start
+    i = start + 1
+    out: List[str] = []
+    escapes = {'"': '"', "\\": "\\", "/": "/", "n": "\n", "t": "\t", "r": "\r", "b": "\b", "f": "\f"}
+    while i < len(text):
+        c = text[i]
+        if c == "\\" and i + 1 < len(text):
+            nxt = text[i + 1]
+            if nxt == "u" and i + 5 < len(text):
+                try:
+                    out.append(chr(int(text[i + 2:i + 6], 16)))
+                    i += 6
+                    continue
+                except ValueError:
+                    pass
+            out.append(escapes.get(nxt, nxt))
+            i += 2
+        elif c == '"':
+            return "".join(out), i + 1
+        else:
+            out.append(c)
+            i += 1
+    return "", start  # unterminated
+
+
+def _recover_title_and_body(text: str) -> Tuple[str, str]:
+    """Best-effort extraction of ``title`` / ``body`` string fields from a
+    malformed JSON-ish response. Returns ``("", "")`` if nothing usable found."""
+    import re
+
+    def field(name: str) -> str:
+        m = re.search(r'"' + re.escape(name) + r'"\s*:\s*', text)
+        return _scan_json_string(text, m.end())[0] if m else ""
+
+    return field("title"), field("body")
 
 
 def write_trend_file(title: str, markdown_body: str, issue_date: str, ml_metadata: Dict[str, Any]) -> str:
