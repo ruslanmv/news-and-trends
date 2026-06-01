@@ -29,11 +29,7 @@ from sklearn.cluster import KMeans
 
 from crewai import Agent, Task, Crew, Process
 from llm_client import llm
-from trend_text import (
-    recover_title_and_body,
-    dewrap_response,
-    validate_trend_body,
-)
+from trend_text import parse_trend_output, validate_trend_body
 
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -291,34 +287,34 @@ def generate_ml_insights(
         agent=data_scientist,
     )
 
+    # Markdown-first contract. Small local models (e.g. gemma:2b) cannot reliably
+    # emit valid JSON — they leave raw newlines / unescaped quotes inside the
+    # "body" string, which both breaks json.loads() AND truncates the recovered
+    # content. Asking for plain Markdown removes the entire escaping failure class:
+    # the full multi-section analysis survives intact and the title comes from the
+    # leading heading (with a deterministic ML-derived fallback).
     write_task = Task(
         description=(
-            "Using the data scientist's analysis, create a compelling trend analysis.\n\n"
-            "IMPORTANT: You MUST return your response as valid JSON with this exact structure:\n"
-            "{\n"
-            '  "title": "A catchy, topic-driven headline (8-12 words, NO generic date references)",\n'
-            '  "body": "Full markdown blog post content"\n'
-            "}\n\n"
-            "Title requirements:\n"
-            "- Must be specific to the actual trends discovered (NOT 'AI Trends Analysis')\n"
-            "- Should capture the main emerging theme or pattern\n"
-            "- Examples: 'The Rise of Agentic AI Systems', 'Quantum Computing Meets Machine Learning', "
-            "'How Multimodal AI is Reshaping Enterprise Software'\n"
-            "- NO dates in the title\n\n"
-            "Body structure (markdown):\n"
-            "1. **Introduction** (2-3 sentences): Set the context\n"
-            "2. **Current Landscape** (2 paragraphs): What the ML analysis reveals\n"
-            "3. **Emerging Patterns** (2 paragraphs): Deep dive into rising trends\n"
-            "4. **Looking Forward** (1-2 paragraphs): Predictions\n"
-            "5. **Conclusion** (1 paragraph): Key takeaways\n\n"
-            "Style: Professional, data-driven, forward-looking, accessible.\n\n"
-            "CRITICAL JSON RULES:\n"
-            "- Return ONLY a single valid JSON object — no markdown code fences, no extra text.\n"
-            '- The "body" value MUST be one JSON string with newlines escaped as \\n.\n'
-            "- Do NOT use Python triple quotes (\"\"\" or ''') anywhere.\n"
-            "- Escape any double quotes inside the text as \\\"."
+            "Using the data scientist's analysis, write a compelling trend-analysis "
+            "article in **Markdown**.\n\n"
+            "OUTPUT RULES (strict):\n"
+            "- Return ONLY Markdown. Do NOT return JSON.\n"
+            '- Do NOT wrap the answer in {\"title\": ..., \"body\": ...}.\n'
+            "- Do NOT use triple quotes or code fences.\n"
+            "- Begin with a single level-2 heading (`## `) that is the article title.\n\n"
+            "Title (the `## ` heading) requirements:\n"
+            "- Specific to the actual trends discovered (NOT 'AI Trends Analysis').\n"
+            "- 8-12 words, capturing the main emerging theme. NO dates.\n"
+            "- Examples: '## The Rise of Agentic AI Systems', "
+            "'## Quantum Computing Meets Machine Learning'.\n\n"
+            "Then write these sections, each under a `### ` subheading:\n"
+            "### Current Landscape (2 paragraphs): what the ML analysis reveals\n"
+            "### Emerging Patterns (2 paragraphs): deep dive into the rising trends\n"
+            "### Looking Forward (1-2 paragraphs): predictions for the next 1-2 months\n"
+            "### Conclusion (1 paragraph): key takeaways\n\n"
+            "Style: professional, data-driven, forward-looking, accessible."
         ),
-        expected_output="Valid JSON with 'title' and 'body' keys",
+        expected_output="A Markdown document beginning with a single '## ' title heading, no JSON.",
         agent=tech_blogger,
         context=[analyze_task],
     )
@@ -343,40 +339,19 @@ def generate_ml_insights(
 
     result_text = result_text.strip()
 
-    # Try to parse as JSON
-    try:
-        # Remove markdown code blocks if present
-        if result_text.startswith("```"):
-            # Extract content between code blocks
-            lines = result_text.split("\n")
-            start_idx = 1 if lines[0].startswith("```") else 0
-            end_idx = len(lines) - 1 if lines[-1].startswith("```") else len(lines)
-            result_text = "\n".join(lines[start_idx:end_idx])
+    # Deterministic fallback title from the ML signal, used only if the model
+    # omits a leading heading.
+    top_terms = ", ".join(words[0] for _, words in topics[:2] if words) if topics else ""
+    fallback_title = (
+        f"{topic_of_week}: {top_terms} Lead This Week's AI Signals"
+        if top_terms else f"{topic_of_week}: What This Week's AI Data Reveals"
+    )
 
-        parsed = json.loads(result_text)
-        title = parsed.get("title", "")
-        body = parsed.get("body", "")
-
-        if not title or not body:
-            raise ValueError("Missing title or body in JSON response")
-
-        return clean_text(title), body.strip()
-
-    except (json.JSONDecodeError, ValueError) as e:
-        print(f"  ⚠️  Failed to parse JSON from LLM: {e}")
-        # Tolerant recovery: the response is often a *malformed* (e.g. unterminated)
-        # JSON blob. Pull the title/body strings out manually so we never publish
-        # raw JSON to the site.
-        title, body = recover_title_and_body(result_text)
-        if body:
-            print("  Recovered title/body from malformed JSON response")
-            return clean_text(title), body.strip()
-        # Last resort: never publish the raw wrapper. Strip any leftover
-        # `{ "title": ..., "body": """` head and trailing `""" }` so the page
-        # body is at least clean Markdown.
-        print("  Using fallback title and a de-wrapped response body")
-        body = dewrap_response(result_text)
-        return clean_text(title) or "AI Technology Trends: What's Emerging This Week", body
+    # Model-agnostic parsing: Markdown is used directly; a JSON/dict response from
+    # any other model is still recovered. The body is always validated so a raw
+    # wrapper can never be published.
+    title, body = parse_trend_output(result_text, fallback_title=fallback_title)
+    return clean_text(title), body
 
 
 def write_trend_file(title: str, markdown_body: str, issue_date: str, ml_metadata: Dict[str, Any]) -> str:

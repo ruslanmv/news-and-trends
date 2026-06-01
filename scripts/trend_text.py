@@ -133,3 +133,63 @@ def validate_trend_body(markdown_body: str) -> str:
         return cleaned
     print("  ⚠️  Could not sanitise trend body — using safe placeholder instead.")
     return SAFE_PLACEHOLDER_BODY
+
+
+# ---------------------------------------------------------------------------
+# Markdown-first parsing (preferred path) — model-agnostic, no JSON contract.
+# ---------------------------------------------------------------------------
+
+_FENCE_RE = re.compile(r"^\s*```[a-zA-Z]*\s*\n(.*?)\n```\s*$", re.DOTALL)
+_HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s+(.+?)\s*#*\s*$", re.MULTILINE)
+
+
+def strip_code_fences(text: str) -> str:
+    """Remove a single wrapping ``` ```lang ... ``` ``` fence if the whole
+    response is fenced; otherwise return the text unchanged."""
+    m = _FENCE_RE.match(text.strip())
+    return m.group(1).strip() if m else text.strip()
+
+
+def looks_jsonish(text: str) -> bool:
+    """Heuristic: does this response look like a JSON/dict wrapper, not Markdown?"""
+    head = text.lstrip()[:400]
+    return head.startswith("{") or ('"body"' in head and '"title"' in head)
+
+
+def _first_heading(text: str) -> Tuple[str, str]:
+    """Return ``(title, body_without_that_heading)`` if the Markdown opens with a
+    heading, else ``("", text)``. Only a *leading* heading is consumed, so the
+    published title isn't duplicated at the top of the body."""
+    stripped = text.lstrip("\n")
+    m = _HEADING_RE.match(stripped)
+    if m and stripped[:m.start()].strip() == "":
+        title = m.group(1).strip().strip("*").strip()
+        body = stripped[m.end():].lstrip("\n")
+        return title, body
+    return "", text
+
+
+def parse_trend_output(text: str, fallback_title: str = "") -> Tuple[str, str]:
+    """Turn raw LLM output into a clean ``(title, body)`` pair.
+
+    Dual-mode and model-agnostic:
+      * **Markdown** (preferred): body used as-is; title taken from a leading
+        ``#``/``##`` heading, or ``fallback_title`` when absent.
+      * **JSON / Python-dict** (legacy or other models): recovered via
+        :func:`recover_title_and_body`, tolerating malformed/truncated blobs.
+
+    The body always passes through :func:`validate_trend_body`, so a raw wrapper
+    can never reach the published file.
+    """
+    cleaned = strip_code_fences(text)
+
+    if looks_jsonish(cleaned):
+        title, body = recover_title_and_body(cleaned)
+        if not body:                       # nothing usable -> treat as Markdown
+            title, body = _first_heading(cleaned)
+    else:
+        title, body = _first_heading(cleaned)
+
+    title = (title or fallback_title or "AI Technology Trends: What's Emerging This Week").strip()
+    body = validate_trend_body(body.strip())
+    return title, body

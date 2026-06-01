@@ -73,6 +73,43 @@ class TestRecovery(unittest.TestCase):
         self.assertEqual(b, "Hello world.")
 
 
+class TestParseTrendOutput(unittest.TestCase):
+    """parse_trend_output — the Markdown-first, model-agnostic entry point."""
+
+    def test_markdown_with_heading(self):
+        md = "## The Rise of Agentic AI\n\n### Current Landscape\n\nAgents are everywhere."
+        t, b = tt.parse_trend_output(md, fallback_title="FB")
+        self.assertEqual(t, "The Rise of Agentic AI")
+        self.assertTrue(b.startswith("### Current Landscape"))  # leading title stripped
+        self.assertNotIn("## The Rise", b)
+
+    def test_markdown_without_heading_uses_fallback(self):
+        md = "Agents are becoming the dominant pattern in AI this week."
+        t, b = tt.parse_trend_output(md, fallback_title="Google: Agents Lead")
+        self.assertEqual(t, "Google: Agents Lead")
+        self.assertEqual(b, md)
+
+    def test_fenced_markdown_is_unwrapped(self):
+        md = "```markdown\n## Quantum Leap\n\nBody text.\n```"
+        t, b = tt.parse_trend_output(md, fallback_title="FB")
+        self.assertEqual(t, "Quantum Leap")
+        self.assertEqual(b, "Body text.")
+
+    def test_json_response_still_recovered(self):
+        # A model that ignores the Markdown instruction and returns JSON.
+        blob = '{ "title": "JSON Title", "body": """\n## H\n\nProse.\n""" }'
+        t, b = tt.parse_trend_output(blob, fallback_title="FB")
+        self.assertEqual(t, "JSON Title")
+        self.assertIn("## H", b)
+        self.assertTrue(_no_wrapper(b))
+
+    def test_malformed_json_does_not_leak_wrapper(self):
+        blob = '{"title": "T", "body": "## Heading ##\n\nUnterminated prose...'
+        t, b = tt.parse_trend_output(blob, fallback_title="FB")
+        self.assertTrue(_no_wrapper(b))
+        self.assertIn("Heading", b)
+
+
 class TestValidateGuard(unittest.TestCase):
     """validate_trend_body — the pre-write safety net."""
 
