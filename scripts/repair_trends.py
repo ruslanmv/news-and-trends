@@ -13,11 +13,17 @@ For every `site/issues/trend-*.md` whose body region looks like JSON, this:
      title in the front matter ("AI Technology Trends: What's Emerging This Week").
   3. Rewrites the file, preserving the front matter and the Methodology footer.
 
+Handles every malformed shape observed in practice:
+  * standard escaped JSON strings,
+  * Python-style triple-quoted bodies (``"body": \"\"\" ... \"\"\"``), and
+  * unterminated strings (missing closing quote / brace from truncated output).
+
 Idempotent: files whose body is already plain Markdown are left untouched.
 
 Usage:
     python scripts/repair_trends.py            # repair in place
     python scripts/repair_trends.py --dry-run  # report only
+    python scripts/repair_trends.py --check    # CI gate: exit 1 if any wrapper remains
 """
 
 import argparse
@@ -25,6 +31,8 @@ import os
 import re
 import sys
 from glob import glob
+
+from trend_text import UNSAFE_BODY_PATTERNS, extract_field
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 ISSUES_DIR = os.path.join(BASE_DIR, "site", "issues")
@@ -34,61 +42,21 @@ GENERIC_TITLE = "AI Technology Trends: What's Emerging This Week"
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
 
 
-def _scan_json_string(text: str, start: int):
-    """Scan a JSON double-quoted string beginning at `text[start] == '\"'`.
-
-    Returns (decoded_value, index_after_closing_quote) or (None, start) on failure.
-    Handles standard JSON escapes plus literal (unescaped) newlines, which the
-    malformed blobs sometimes contain.
-    """
-    if start >= len(text) or text[start] != '"':
-        return None, start
-    i = start + 1
-    out = []
-    escapes = {'"': '"', "\\": "\\", "/": "/", "n": "\n", "t": "\t", "r": "\r", "b": "\b", "f": "\f"}
-    while i < len(text):
-        c = text[i]
-        if c == "\\":
-            if i + 1 < len(text):
-                nxt = text[i + 1]
-                if nxt == "u" and i + 5 < len(text):
-                    try:
-                        out.append(chr(int(text[i + 2:i + 6], 16)))
-                        i += 6
-                        continue
-                    except ValueError:
-                        pass
-                out.append(escapes.get(nxt, nxt))
-                i += 2
-                continue
-            out.append(c)
-            i += 1
-        elif c == '"':
-            return "".join(out), i + 1
-        else:
-            out.append(c)
-            i += 1
-    return None, start  # unterminated
-
-
-def _extract_field(blob: str, field: str):
-    """Extract a top-level string field value from a (possibly malformed) JSON blob."""
-    m = re.search(r'"' + re.escape(field) + r'"\s*:\s*', blob)
-    if not m:
-        return None
-    return _scan_json_string(blob, m.end())[0]
-
-
 def repair_body(body_region: str):
-    """Return (new_body_markdown, extracted_title) if the region is a JSON blob, else (None, None)."""
+    """Return (new_body_markdown, extracted_title) if the region is a JSON blob, else (None, None).
+
+    Parsing of the malformed wrapper (standard JSON, Python triple-quoted, and
+    unterminated values) is delegated to :mod:`trend_text`, the single source of
+    truth shared with the generator.
+    """
     stripped = body_region.strip()
     if not stripped.startswith("{") or '"body"' not in stripped:
         return None, None
-    body = _extract_field(stripped, "body")
-    title = _extract_field(stripped, "title")
+    body = extract_field(stripped, "body")
     if not body:
         return None, None
-    return body.strip(), (title.strip() if title else None)
+    title = extract_field(stripped, "title")
+    return body.strip(), (title.strip() or None)
 
 
 def process_file(path: str, dry_run: bool = False) -> bool:
@@ -133,15 +101,44 @@ def process_file(path: str, dry_run: bool = False) -> bool:
     return True
 
 
+def check_files(files) -> int:
+    """CI gate: exit non-zero if any published trend file still contains a raw
+    LLM wrapper artifact in its body. Front matter is excluded from the scan.
+    Uses the same wrapper signatures the generator validates against."""
+    bad = []
+    for path in files:
+        with open(path, "r", encoding="utf-8") as f:
+            raw = f.read()
+        m = FRONTMATTER_RE.match(raw)
+        body = m.group(2) if m else raw
+        hits = [p for p in UNSAFE_BODY_PATTERNS if re.search(p, body, re.DOTALL)]
+        if hits:
+            bad.append((os.path.basename(path), hits))
+
+    if bad:
+        print("❌ Unsafe wrapper artifacts found in generated trend files:")
+        for name, hits in bad:
+            print(f"   - {name}: {', '.join(hits)}")
+        print(f"\n{len(bad)} / {len(files)} trend files are unsafe to publish.")
+        return 1
+    print(f"✅ All {len(files)} trend files are clean (no raw JSON/dict wrappers).")
+    return 0
+
+
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Repair legacy raw-JSON trend files.")
+    ap = argparse.ArgumentParser(description="Repair / validate trend Markdown files.")
     ap.add_argument("--dry-run", action="store_true", help="Report changes without writing.")
+    ap.add_argument("--check", action="store_true",
+                    help="CI gate: exit 1 if any trend file still contains a raw wrapper.")
     args = ap.parse_args()
 
     files = sorted(glob(os.path.join(ISSUES_DIR, "trend-*.md")))
     if not files:
         print(f"No trend files found in {ISSUES_DIR}", file=sys.stderr)
         return 1
+
+    if args.check:
+        return check_files(files)
 
     repaired = sum(process_file(p, dry_run=args.dry_run) for p in files)
     print(f"\n{repaired} / {len(files)} trend files "
