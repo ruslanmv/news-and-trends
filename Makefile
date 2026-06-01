@@ -4,7 +4,7 @@
 
 PY := python3
 
-.PHONY: help install install-python install-node run build build-all serve clean lint fmt check-sources
+.PHONY: help install install-python install-node run build build-all serve clean lint fmt check-sources test validate
 
 help: ## Show this help message.
 	@echo ""
@@ -49,6 +49,26 @@ run: ## Fetch news and generate weekly issue, news articles, and ML trend insigh
 		$(PY) scripts/generate_news.py; \
 		$(PY) scripts/generate_trends.py; \
 	fi
+
+test: ## Run unit tests, the content-safety gate, and a production build.
+	@echo "🧪 [1/5] Compiling Python sources..."
+	$(PY) -m py_compile scripts/*.py
+	@echo "🧪 [2/5] Running trend-text unit tests..."
+	$(PY) scripts/test_trends.py
+	@echo "🧪 [3/5] Validating generated content (no raw LLM wrappers)..."
+	$(PY) scripts/repair_trends.py --check
+	@echo "🧪 [4/5] Smoke-importing the generator pipeline..."
+	@if command -v uv >/dev/null 2>&1; then \
+		( cd scripts && uv run --project .. $(PY) -c "import generate_trends; print('  generator imports OK')" ); \
+	else \
+		echo "  (skipped: uv not available — install heavy deps to run this check)"; \
+	fi
+	@echo "🧪 [5/5] Building Eleventy site..."
+	cd site && npm run build
+	@echo "✅ All tests passed."
+
+validate: ## Fail if any generated trend file contains a raw LLM wrapper (CI gate).
+	$(PY) scripts/repair_trends.py --check
 
 build: install-node ## Build the static site (Eleventy -> site/docs).
 	@echo "🏗  Building Eleventy site..."

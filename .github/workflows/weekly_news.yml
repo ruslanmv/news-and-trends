@@ -81,6 +81,10 @@ jobs:
 
           echo "✅ All content generation complete!"
 
+      - name: 🔎 Validate generated content (no raw LLM wrappers)
+        run: |
+          python scripts/repair_trends.py --check
+
       - name: Commit new content
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

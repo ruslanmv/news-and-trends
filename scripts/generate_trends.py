@@ -29,6 +29,11 @@ from sklearn.cluster import KMeans
 
 from crewai import Agent, Task, Crew, Process
 from llm_client import llm
+from trend_text import (
+    recover_title_and_body,
+    dewrap_response,
+    validate_trend_body,
+)
 
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -307,7 +312,11 @@ def generate_ml_insights(
             "4. **Looking Forward** (1-2 paragraphs): Predictions\n"
             "5. **Conclusion** (1 paragraph): Key takeaways\n\n"
             "Style: Professional, data-driven, forward-looking, accessible.\n\n"
-            "CRITICAL: Return ONLY valid JSON. No markdown code blocks, no extra text, just the JSON object."
+            "CRITICAL JSON RULES:\n"
+            "- Return ONLY a single valid JSON object — no markdown code fences, no extra text.\n"
+            '- The "body" value MUST be one JSON string with newlines escaped as \\n.\n'
+            "- Do NOT use Python triple quotes (\"\"\" or ''') anywhere.\n"
+            "- Escape any double quotes inside the text as \\\"."
         ),
         expected_output="Valid JSON with 'title' and 'body' keys",
         agent=tech_blogger,
@@ -358,57 +367,16 @@ def generate_ml_insights(
         # Tolerant recovery: the response is often a *malformed* (e.g. unterminated)
         # JSON blob. Pull the title/body strings out manually so we never publish
         # raw JSON to the site.
-        title, body = _recover_title_and_body(result_text)
+        title, body = recover_title_and_body(result_text)
         if body:
             print("  Recovered title/body from malformed JSON response")
             return clean_text(title), body.strip()
-        print("  Using fallback title and treating full response as body")
-        title = "AI Technology Trends: What's Emerging This Week"
-        return title, result_text
-
-
-def _scan_json_string(text: str, start: int) -> Tuple[str, int]:
-    """Scan a JSON double-quoted string starting at ``text[start] == '"'``.
-
-    Handles standard escapes plus literal newlines that malformed blobs contain.
-    Returns ``(value, index_after_closing_quote)`` or ``("", start)`` on failure.
-    """
-    if start >= len(text) or text[start] != '"':
-        return "", start
-    i = start + 1
-    out: List[str] = []
-    escapes = {'"': '"', "\\": "\\", "/": "/", "n": "\n", "t": "\t", "r": "\r", "b": "\b", "f": "\f"}
-    while i < len(text):
-        c = text[i]
-        if c == "\\" and i + 1 < len(text):
-            nxt = text[i + 1]
-            if nxt == "u" and i + 5 < len(text):
-                try:
-                    out.append(chr(int(text[i + 2:i + 6], 16)))
-                    i += 6
-                    continue
-                except ValueError:
-                    pass
-            out.append(escapes.get(nxt, nxt))
-            i += 2
-        elif c == '"':
-            return "".join(out), i + 1
-        else:
-            out.append(c)
-            i += 1
-    return "", start  # unterminated
-
-
-def _recover_title_and_body(text: str) -> Tuple[str, str]:
-    """Best-effort extraction of ``title`` / ``body`` string fields from a
-    malformed JSON-ish response. Returns ``("", "")`` if nothing usable found."""
-    import re
-
-    def field(name: str) -> str:
-        m = re.search(r'"' + re.escape(name) + r'"\s*:\s*', text)
-        return _scan_json_string(text, m.end())[0] if m else ""
-
-    return field("title"), field("body")
+        # Last resort: never publish the raw wrapper. Strip any leftover
+        # `{ "title": ..., "body": """` head and trailing `""" }` so the page
+        # body is at least clean Markdown.
+        print("  Using fallback title and a de-wrapped response body")
+        body = dewrap_response(result_text)
+        return clean_text(title) or "AI Technology Trends: What's Emerging This Week", body
 
 
 def write_trend_file(title: str, markdown_body: str, issue_date: str, ml_metadata: Dict[str, Any]) -> str:
@@ -457,6 +425,9 @@ def write_trend_file(title: str, markdown_body: str, issue_date: str, ml_metadat
         "- **Temporal Analysis**: Track keyword trends over time\n\n"
         f"*Analysis based on {ml_metadata.get('n_articles', 0)} articles from recent news cycles.*"
     )
+
+    # Final guard: never write a raw LLM wrapper to a published file.
+    markdown_body = validate_trend_body(markdown_body)
 
     full_content = frontmatter + markdown_body + methodology
 
