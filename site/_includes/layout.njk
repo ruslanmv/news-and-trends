@@ -2,557 +2,531 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ title }} | {{ site.title }}</title>
+  <title>{{ title }} | {{ site.title }} · Ruslan Magana Vsevolodovna</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Daily AI & IT news, trends, and curated briefings for technology leaders.">
+  <meta name="description" content="{{ site.subtitle }}">
   <meta name="robots" content="index,follow">
 
-  <!-- Basic Open Graph -->
-  <meta property="og:title" content="{{ title }} | {{ site.title }}">
-  <meta property="og:description" content="Automated AI-powered daily technology briefings.">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ title }} | News & Trends · ruslanmv.com">
+  <meta property="og:description" content="{{ site.subtitle }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://ruslanmv.com/news-and-trends/">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700,800|Raleway:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
   <style>
+    /* =========================================================================
+       News & Trends — a native section of ruslanmv.com
+       Editorial light theme (mirrors the Essays / Blog pages) with the shared
+       dark masthead and a dark-green technical hero.
+       ========================================================================= */
     :root {
-      --bg: #0f172a;
-      --bg-alt: #020617;
-      --card-bg: #0b1120;
-      --fg: #e5e7eb;
-      --muted: #94a3b8;
-      --accent: #38bdf8;
-      --accent-soft: rgba(56, 189, 248, 0.16);
-      --accent-hover: #0ea5e9;
-      --border-subtle: rgba(148, 163, 184, 0.25);
-      --danger: #f97373;
+      /* shared dark masthead (identical to ruslanmv.com) */
+      --rmv-nav-bg:#191919; --rmv-nav-ink:#fff; --rmv-accent:#06d6a0; --rmv-panel:#1f1f1f;
+      /* editorial page palette */
+      --nt-bg:#fafaf7; --nt-card:#ffffff; --nt-line:#e5e2dc; --nt-ink:#202622;
+      --nt-muted:#69716c; --nt-faint:#98a09a;
+      --nt-accent:#0a7d4f; --nt-accent-deep:#0b5a3f; --nt-accent-bright:#00c896;
+      --nt-serif:Georgia,"Times New Roman",serif;
     }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      min-height: 100%;
-      background-color: #020617; /* fallback to avoid white flashes */
-    }
-
+    * { box-sizing:border-box; margin:0; padding:0; }
+    html { background:var(--nt-bg); -webkit-text-size-adjust:100%; }
     body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background:
-        radial-gradient(circle at top, #1e293b 0, #020617 52%, #000 100%),
-        #020617;
-      color: var(--fg);
-      line-height: 1.6;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
+      font-family:'Raleway',system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      background:var(--nt-bg); color:var(--nt-ink); line-height:1.6;
+      min-height:100vh; display:flex; flex-direction:column;
+      -webkit-font-smoothing:antialiased;
+    }
+    a { color:var(--nt-accent); text-decoration:none; transition:color .15s ease; }
+    a:hover { color:var(--nt-accent-deep); }
+    img { max-width:100%; }
+
+    /* =========================================================================
+       Masthead navigation — ported verbatim from ruslanmv.com
+       ========================================================================= */
+    .masthead { background:var(--rmv-nav-bg); border-bottom:1px solid #000; position:relative; z-index:60; }
+    .masthead__inner-wrap { padding:0 1.25rem; max-width:1200px; margin:0 auto; box-sizing:border-box; width:100%; }
+    .rmv-nav { display:flex; align-items:center; gap:1rem; min-height:60px; max-width:100%; box-sizing:border-box; }
+    .rmv-nav__brand {
+      font-family:'Montserrat',sans-serif; font-weight:700; font-size:1.15rem;
+      color:var(--rmv-nav-ink); text-decoration:none; white-space:nowrap; margin-right:auto;
+    }
+    .rmv-nav__brand:hover { color:var(--rmv-accent); }
+    .rmv-nav__links { display:flex; align-items:center; gap:0.25rem; list-style:none; margin:0; padding:0; }
+    .rmv-nav__item { position:relative; display:flex; align-items:center; }
+    .rmv-nav__toplink {
+      display:inline-flex; align-items:center; gap:0.25rem; color:var(--rmv-nav-ink);
+      text-decoration:none; font-size:0.98rem; font-weight:500; padding:0.5rem 0.8rem; border-radius:8px;
+      white-space:nowrap;
+    }
+    .rmv-nav__toplink:visited { color:var(--rmv-nav-ink); }
+    .rmv-nav__toplink:hover, .rmv-nav__toplink:visited:hover,
+    .rmv-nav__item--has-children:hover .rmv-nav__toplink,
+    .rmv-nav__item.is-open .rmv-nav__toplink { color:var(--rmv-accent); }
+    .rmv-nav__toplink:focus-visible { outline:2px solid var(--rmv-accent); outline-offset:3px; color:var(--rmv-accent); }
+    .rmv-nav__item.is-active > .rmv-nav__toplink,
+    .rmv-nav__item.is-active > .rmv-nav__toplink:visited { color:var(--rmv-accent); }
+    .rmv-nav__item.is-active > .rmv-nav__toplink::after {
+      content:""; position:absolute; left:0.8rem; right:0.8rem; bottom:2px; height:2px;
+      background:var(--rmv-accent); border-radius:2px;
+    }
+    .rmv-caret { font-size:0.7em; opacity:0.7; transition:transform 0.15s ease; }
+    .rmv-nav__item.is-open .rmv-caret { transform:rotate(180deg); }
+    .rmv-submenu {
+      position:absolute; top:100%; left:0; margin:0; padding:0.4rem 0; min-width:13.5rem;
+      list-style:none; background:var(--rmv-panel); border:1px solid #2c2c2c; border-radius:10px;
+      box-shadow:0 12px 30px rgba(0,0,0,0.35);
+      opacity:0; visibility:hidden; transform:translateY(6px);
+      transition:opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease; z-index:70;
+    }
+    .rmv-nav__item--has-children:hover > .rmv-submenu,
+    .rmv-nav__item.is-open > .rmv-submenu { opacity:1; visibility:visible; transform:translateY(0); }
+    .rmv-submenu li { margin:0; }
+    .rmv-submenu a { display:block; padding:0.6rem 1.1rem; color:#d6d6d6; text-decoration:none; font-size:0.92rem; white-space:nowrap; }
+    .rmv-submenu a:visited { color:#d6d6d6; }
+    .rmv-submenu a:hover { background:#2a2a2a; color:var(--rmv-accent); }
+    .rmv-nav__actions { display:flex; align-items:center; gap:0.4rem; margin-left:0.5rem; }
+    .rmv-nav__search, .rmv-burger {
+      background:transparent; border:0; color:var(--rmv-nav-ink); cursor:pointer;
+      width:42px; height:42px; display:inline-flex; align-items:center; justify-content:center;
+      border-radius:10px; padding:0; transition:background-color .18s ease, color .18s ease;
+      -webkit-tap-highlight-color:transparent;
+    }
+    .rmv-nav__search:hover { color:var(--rmv-accent); background:rgba(255,255,255,0.08); }
+    .rmv-burger:hover { background:rgba(255,255,255,0.08); }
+    .rmv-burger:focus-visible, .rmv-nav__search:focus-visible { outline:2px solid var(--rmv-accent); outline-offset:2px; }
+    .rmv-burger__bars { position:relative; width:22px; height:16px; display:block; }
+    .rmv-burger__bar {
+      position:absolute; left:0; width:22px; height:2px; border-radius:2px;
+      background:currentColor; color:var(--rmv-nav-ink);
+      transition:transform .25s cubic-bezier(.4,.01,.25,1), opacity .2s ease, width .25s ease, background-color .18s ease;
+    }
+    .rmv-burger__bar:nth-child(1) { top:0; }
+    .rmv-burger__bar:nth-child(2) { top:7px; width:16px; }
+    .rmv-burger__bar:nth-child(3) { top:14px; }
+    .rmv-burger:hover .rmv-burger__bar { background:var(--rmv-accent); }
+    .rmv-burger:hover .rmv-burger__bar:nth-child(2) { width:22px; }
+    body.rmv-drawer-open .rmv-burger__bar:nth-child(1) { transform:translateY(7px) rotate(45deg); }
+    body.rmv-drawer-open .rmv-burger__bar:nth-child(2) { opacity:0; transform:scaleX(0); }
+    body.rmv-drawer-open .rmv-burger__bar:nth-child(3) { transform:translateY(-7px) rotate(-45deg); }
+    body.rmv-drawer-open .rmv-burger__bar { width:22px; }
+    .rmv-drawer-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.5); z-index:90; opacity:0; transition:opacity 0.2s ease; }
+    .rmv-drawer-overlay.is-open { opacity:1; }
+    .rmv-drawer {
+      position:fixed; top:0; right:0; height:100%; width:min(88vw, 340px);
+      background:var(--rmv-nav-bg); color:var(--rmv-nav-ink); z-index:100;
+      transform:translateX(100%); transition:transform 0.25s ease; display:flex; flex-direction:column;
+      box-shadow:-12px 0 30px rgba(0,0,0,0.35);
+    }
+    .rmv-drawer.is-open { transform:translateX(0); }
+    .rmv-drawer__head { display:flex; align-items:center; justify-content:space-between; padding:1rem 1.25rem; border-bottom:1px solid #2c2c2c; }
+    .rmv-drawer__brand { font-family:'Montserrat',sans-serif; font-weight:700; font-size:1rem; }
+    .rmv-drawer__close { background:transparent; border:0; color:var(--rmv-nav-ink); font-size:1.9rem; line-height:1; cursor:pointer; width:44px; height:44px; }
+    .rmv-drawer__close:hover { color:var(--rmv-accent); }
+    .rmv-drawer__nav { flex:1; overflow-y:auto; padding:0.5rem 0; }
+    .rmv-drawer__nav ul { list-style:none; margin:0; padding:0; }
+    .rmv-drawer__nav a { display:flex; align-items:center; min-height:48px; padding:0.4rem 1.5rem; color:var(--rmv-nav-ink); text-decoration:none; font-size:1.05rem; }
+    .rmv-drawer__nav a:visited { color:var(--rmv-nav-ink); }
+    .rmv-drawer__nav a:hover { background:#262626; color:var(--rmv-accent); }
+    .rmv-drawer__nav a.is-active, .rmv-drawer__nav a.is-active:visited { color:var(--rmv-accent); background:#1f2b25; }
+    .rmv-drawer__nav li.is-indent a { padding-left:2.5rem; font-size:0.97rem; color:#bdbdbd; }
+    .rmv-drawer__social { display:flex; gap:0.5rem; padding:1rem 1.25rem; border-top:1px solid #2c2c2c; }
+    .rmv-drawer__social a { width:44px; height:44px; display:flex; align-items:center; justify-content:center; color:var(--rmv-nav-ink); font-size:1.2rem; border-radius:8px; }
+    .rmv-drawer__social a:hover { color:var(--rmv-accent); background:rgba(255,255,255,0.06); }
+    @media (max-width: 820px) {
+      .rmv-nav__links { display:none; }
+      .rmv-nav { min-height:56px; gap:0.5rem; }
+      .rmv-nav__brand { font-size:1rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; min-width:0; }
+      .rmv-nav__actions { margin-left:0; flex:0 0 auto; }
+      .masthead__inner-wrap { padding:0 0.75rem; }
     }
 
-    a {
-      color: var(--accent);
-      text-decoration: none;
-      transition: color 0.18s ease, opacity 0.18s ease;
+    /* =========================================================================
+       Hero — dark-green technical band (mirrors the Essays hero)
+       ========================================================================= */
+    .nt-hero { position:relative; background:#08120d; overflow:hidden; }
+    .nt-hero__bg { position:absolute; inset:0; width:100%; height:100%; }
+    .nt-hero__inner { position:relative; z-index:1; max-width:1180px; margin:0 auto; padding:3.4rem 1.5rem; }
+    .nt-hero--compact .nt-hero__inner { padding:2.3rem 1.5rem; }
+    .nt-hero__eyebrow {
+      display:inline-flex; align-items:center; gap:0.5rem; color:#7dffd0; font-size:0.78rem;
+      font-weight:700; letter-spacing:0.14em; text-transform:uppercase; margin:0 0 0.85rem;
     }
-    a:hover {
-      color: var(--accent-hover);
-    }
+    .nt-hero__title { font-family:'Montserrat',sans-serif; font-weight:800; color:#fff; font-size:clamp(40px,6.5vw,72px); line-height:1; margin:0; letter-spacing:-0.01em; }
+    .nt-hero__sub { color:#cfe9dc; font-size:clamp(15px,2vw,18px); line-height:1.5; margin:1rem 0 0; max-width:40rem; }
+    .nt-hero__chips { display:flex; flex-wrap:wrap; gap:0.5rem; margin:1.4rem 0 0; }
+    .nt-hero__chip { font-size:0.78rem; color:#bfe9d6; border:1px solid rgba(125,255,208,0.28); background:rgba(13,42,30,0.5); padding:0.3rem 0.7rem; border-radius:999px; }
 
-    /* --- Header / Nav --- */
+    /* =========================================================================
+       Layout shell — author sidebar + content (mirrors Essays)
+       ========================================================================= */
+    .nt { max-width:1180px; margin:0 auto; padding:2.5rem 1.5rem 4.5rem; display:grid; grid-template-columns:1fr; gap:2.5rem; }
+    @media (min-width:920px) { .nt { grid-template-columns:240px minmax(0,1fr); gap:3rem; } }
 
-    header {
-      border-bottom: 1px solid var(--border-subtle);
-      backdrop-filter: blur(18px);
-      background: linear-gradient(
-        135deg,
-        rgba(15, 23, 42, 0.97),
-        rgba(15, 23, 42, 0.92)
-      );
-      position: sticky;
-      top: 0;
-      z-index: 20;
-    }
+    .nt-author { text-align:left; }
+    @media (min-width:920px) { .nt-author { position:sticky; top:1.5rem; align-self:start; } }
+    .nt-author__photo { width:120px; height:120px; border-radius:50%; object-fit:cover; border:1px solid var(--nt-line); }
+    .nt-author__name { font-family:var(--nt-serif); font-size:1.5rem; color:var(--nt-ink); margin:1rem 0 0.4rem; line-height:1.15; }
+    .nt-author__role { color:var(--nt-muted); font-size:0.95rem; line-height:1.45; margin:0 0 1rem; }
+    .nt-author__links { list-style:none; margin:0; padding:0; }
+    .nt-author__links li { margin:0 0 0.1rem; }
+    .nt-author__links a { display:flex; align-items:center; gap:0.6rem; min-height:40px; color:var(--nt-ink); text-decoration:none; font-size:0.95rem; }
+    .nt-author__links a:hover { color:var(--nt-accent); }
+    .nt-author__links .ic { width:18px; text-align:center; color:var(--nt-faint); }
+    .nt-author__links a:hover .ic { color:var(--nt-accent); }
+    .nt-author__label { margin-top:1.4rem; padding-top:1.1rem; border-top:1px solid var(--nt-line); font-size:0.78rem; color:var(--nt-faint); line-height:1.5; }
+    .nt-author__label strong { color:var(--nt-muted); font-weight:600; }
 
-    header .container {
-      max-width: 1120px;
-      margin: 0 auto;
-      padding: 1.1rem 1.25rem;
-      display: flex;
-      flex-direction: column;
-      gap: 0.75rem;
-    }
+    .nt-main { min-width:0; }
 
-    .brand-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
+    /* ---- section tabs (Today | Archive | GitHub) ---- */
+    .nt-tabs { display:flex; gap:1.6rem; border-bottom:1px solid var(--nt-line); margin:0 0 1.9rem; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    .nt-tab { background:none; border:0; cursor:pointer; padding:0 0 0.9rem; display:inline-flex; align-items:center; gap:0.4rem; white-space:nowrap; position:relative; color:var(--nt-muted); font-size:1.02rem; font-weight:600; text-decoration:none; font-family:'Raleway',sans-serif; }
+    .nt-tab:hover { color:var(--nt-ink); }
+    .nt-tab.is-active { color:var(--nt-ink); }
+    .nt-tab.is-active:after { content:""; position:absolute; left:0; right:0; bottom:-1px; height:2px; background:var(--nt-accent); }
+    .nt-tab .fa-arrow-up-right-from-square { font-size:0.72em; opacity:0.6; }
 
-    .brand-main {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-    }
+    /* ---- back link (article pages) ---- */
+    .nt-back { display:inline-flex; align-items:center; gap:0.4rem; color:var(--nt-muted); font-size:0.9rem; font-weight:600; margin:0 0 1.6rem; }
+    .nt-back:hover { color:var(--nt-accent); }
 
-    .logo-pill {
-      width: 40px;
-      height: 40px;
-      border-radius: 12px;
-      background: radial-gradient(circle at 30% 20%, #38bdf8 0, #0f172a 55%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow:
-        0 0 0 1px rgba(56, 189, 248, 0.45),
-        0 10px 30px rgba(15, 23, 42, 0.9);
-      font-weight: 800;
-      font-size: 1rem;
-      color: #e5f4ff;
-    }
+    /* =========================================================================
+       Editorial content primitives (shared by index / archive / articles)
+       ========================================================================= */
+    .nt-kicker { font-size:0.74rem; font-weight:700; letter-spacing:0.12em; text-transform:uppercase; color:var(--nt-accent); margin:0 0 0.6rem; }
+    .nt-section-head { display:flex; align-items:baseline; justify-content:space-between; gap:1rem; margin:2.4rem 0 1.1rem; }
+    .nt-section-head.is-first { margin-top:0; }
+    .nt-section-head h2 { font-family:var(--nt-serif); font-size:1.35rem; color:var(--nt-ink); margin:0; font-weight:700; }
+    .nt-section-head a { font-size:0.88rem; font-weight:600; white-space:nowrap; }
 
-    header h1 {
-      font-size: 1.4rem;
-      font-weight: 700;
-      letter-spacing: 0.02em;
-    }
+    /* digest summary header */
+    .nt-digest { background:var(--nt-card); border:1px solid var(--nt-line); border-radius:16px; padding:1.5rem 1.6rem; }
+    .nt-digest__date { font-family:var(--nt-serif); font-size:1.6rem; color:var(--nt-ink); margin:0.2rem 0 0.5rem; }
+    .nt-digest__meta { display:flex; flex-wrap:wrap; gap:0.5rem; margin:0 0 0.6rem; }
+    .nt-pill { font-size:0.8rem; color:var(--nt-muted); background:var(--nt-bg); border:1px solid var(--nt-line); padding:0.25rem 0.7rem; border-radius:999px; display:inline-flex; align-items:center; gap:0.35rem; }
+    .nt-digest__note { color:var(--nt-muted); font-size:0.96rem; margin:0; }
 
-    header h1 a {
-      color: #e5e7eb;
-    }
+    /* featured trend card */
+    .nt-trend { display:block; background:var(--nt-card); border:1px solid var(--nt-line); border-radius:16px; padding:1.7rem 1.8rem; box-shadow:0 10px 26px rgba(10,80,50,0.05); transition:border-color .15s, box-shadow .15s, transform .15s; color:inherit; }
+    .nt-trend:hover { border-color:var(--nt-accent); box-shadow:0 16px 34px rgba(10,80,50,0.09); transform:translateY(-1px); color:inherit; }
+    .nt-trend__title { font-family:var(--nt-serif); font-size:1.55rem; line-height:1.22; color:var(--nt-ink); margin:0.5rem 0 0.7rem; }
+    .nt-trend__summary { color:var(--nt-muted); font-size:1rem; line-height:1.6; margin:0 0 1.2rem; }
+    .nt-cta { display:inline-flex; align-items:center; gap:0.45rem; color:var(--nt-accent); font-weight:700; font-size:0.95rem; }
+    .nt-trend:hover .nt-cta { color:var(--nt-accent-deep); }
 
-    .subtitle {
-      font-size: 0.9rem;
-      color: var(--muted);
-    }
+    /* news cards (stacked, numbered) */
+    .nt-news { display:flex; flex-direction:column; gap:1rem; }
+    .nt-newscard { display:grid; grid-template-columns:auto 1fr; gap:1.1rem; align-items:start; background:var(--nt-card); border:1px solid var(--nt-line); border-radius:14px; padding:1.3rem 1.4rem; transition:border-color .15s, box-shadow .15s, transform .15s; color:inherit; }
+    .nt-newscard:hover { border-color:var(--nt-accent); box-shadow:0 12px 26px rgba(10,80,50,0.06); transform:translateY(-1px); color:inherit; }
+    .nt-newscard__num { font-family:var(--nt-serif); font-size:1.15rem; font-weight:700; color:var(--nt-accent); background:var(--nt-bg); border:1px solid var(--nt-line); width:2.4rem; height:2.4rem; border-radius:10px; display:flex; align-items:center; justify-content:center; }
+    .nt-newscard__source { font-size:0.76rem; font-weight:700; letter-spacing:0.04em; text-transform:uppercase; color:var(--nt-accent-deep); margin:0 0 0.3rem; }
+    .nt-newscard__title { font-family:var(--nt-serif); font-size:1.18rem; line-height:1.3; color:var(--nt-ink); margin:0 0 0.4rem; }
+    .nt-newscard__summary { color:var(--nt-muted); font-size:0.94rem; line-height:1.55; margin:0 0 0.6rem; }
+    .nt-newscard__more { font-size:0.86rem; font-weight:600; }
 
-    nav {
-      display: flex;
-      gap: 1.5rem;
-      flex-wrap: wrap;
-      align-items: center;
-      font-size: 0.95rem;
-    }
+    /* archive teaser */
+    .nt-teaser { margin-top:2.4rem; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:1rem; background:linear-gradient(135deg,#0f231a,#0a1a13); border-radius:16px; padding:1.5rem 1.7rem; }
+    .nt-teaser p { margin:0; color:#cfe9dc; font-size:0.98rem; }
+    .nt-teaser strong { color:#fff; }
+    .nt-teaser a { display:inline-flex; align-items:center; gap:0.45rem; background:var(--nt-accent-bright); color:#06281c; font-weight:700; font-size:0.92rem; padding:0.6rem 1.1rem; border-radius:10px; }
+    .nt-teaser a:hover { background:#7dffd0; color:#06281c; }
 
-    nav a.nav-link {
-      position: relative;
-      padding-bottom: 0.25rem;
-    }
+    /* archive list cards */
+    .nt-arch { display:flex; flex-direction:column; gap:0.9rem; }
+    .nt-archcard { display:block; background:var(--nt-card); border:1px solid var(--nt-line); border-radius:13px; padding:1.1rem 1.3rem; transition:border-color .15s, box-shadow .15s, transform .15s; color:inherit; }
+    .nt-archcard:hover { border-color:var(--nt-accent); box-shadow:0 10px 22px rgba(10,80,50,0.06); transform:translateY(-1px); color:inherit; }
+    .nt-archcard__head { display:flex; flex-wrap:wrap; align-items:center; gap:0.5rem; margin:0 0 0.5rem; }
+    .nt-badge { font-size:0.7rem; font-weight:700; letter-spacing:0.05em; text-transform:uppercase; padding:0.2rem 0.55rem; border-radius:999px; }
+    .nt-badge--trend { background:rgba(10,125,79,0.12); color:var(--nt-accent-deep); }
+    .nt-badge--news { background:rgba(0,122,90,0.10); color:var(--nt-accent); }
+    .nt-archcard__date { font-size:0.78rem; color:var(--nt-faint); }
+    .nt-archcard__title { font-family:var(--nt-serif); font-size:1.12rem; line-height:1.3; color:var(--nt-ink); margin:0 0 0.4rem; }
+    .nt-archcard__summary { color:var(--nt-muted); font-size:0.9rem; line-height:1.5; margin:0; }
 
-    nav a.nav-link::after {
-      content: "";
-      position: absolute;
-      left: 0;
-      bottom: 0;
-      width: 0;
-      height: 2px;
-      border-radius: 999px;
-      background: linear-gradient(90deg, #38bdf8, #a855f7);
-      transition: width 0.2s ease;
-    }
+    /* =========================================================================
+       Article body (news / trend individual pages)
+       ========================================================================= */
+    .nt-article { background:var(--nt-card); border:1px solid var(--nt-line); border-radius:18px; padding:2.2rem 2.2rem 2.4rem; box-shadow:0 12px 30px rgba(10,80,50,0.05); }
+    .nt-article__kicker { font-size:0.76rem; text-transform:uppercase; letter-spacing:0.12em; color:var(--nt-accent); margin-bottom:0.6rem; font-weight:700; }
+    .nt-article__title { font-family:var(--nt-serif); font-size:clamp(1.7rem,3.4vw,2.3rem); margin:0 0 0.7rem; line-height:1.18; color:var(--nt-ink); }
+    .nt-article__meta { font-size:0.9rem; color:var(--nt-muted); display:flex; flex-wrap:wrap; gap:0.5rem; align-items:center; }
+    .nt-article__meta span + span::before { content:"•"; margin-right:0.5rem; color:var(--nt-faint); }
+    .nt-article__divider { margin:1.3rem 0 1.6rem; border:none; border-top:1px solid var(--nt-line); }
 
-    nav a.nav-link:hover::after {
-      width: 100%;
-    }
+    .nt-prose { color:#2b322d; font-size:1.04rem; line-height:1.75; }
+    .nt-prose > *:first-child { margin-top:0; }
+    .nt-prose h2 { font-family:var(--nt-serif); font-size:1.4rem; color:var(--nt-ink); margin:2rem 0 0.7rem; }
+    .nt-prose h3 { font-family:var(--nt-serif); font-size:1.18rem; color:var(--nt-ink); margin:1.6rem 0 0.6rem; }
+    .nt-prose p { margin:0 0 1.1rem; }
+    .nt-prose ul, .nt-prose ol { margin:0 0 1.1rem 1.3rem; }
+    .nt-prose li { margin:0 0 0.4rem; }
+    .nt-prose a { color:var(--nt-accent); text-decoration:underline; text-underline-offset:2px; }
+    .nt-prose a:hover { color:var(--nt-accent-deep); }
+    .nt-prose hr { border:none; border-top:1px solid var(--nt-line); margin:1.6rem 0; }
+    .nt-prose strong { color:var(--nt-ink); }
+    .nt-prose code { background:#f0efe9; padding:0.12em 0.4em; border-radius:5px; font-size:0.9em; }
+    .nt-prose blockquote { border-left:3px solid var(--nt-accent); margin:0 0 1.1rem; padding:0.2rem 0 0.2rem 1.1rem; color:var(--nt-muted); font-style:italic; }
 
-    .nav-secondary {
-      margin-left: auto;
-      display: flex;
-      align-items: center;
-      gap: 0.9rem;
-      flex-wrap: wrap;
-    }
+    .nt-issue-nav { display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; margin-top:1.8rem; }
+    .nt-issue-nav a { display:inline-flex; align-items:center; gap:0.4rem; font-size:0.88rem; font-weight:600; color:var(--nt-muted); border:1px solid var(--nt-line); border-radius:10px; padding:0.55rem 0.9rem; background:var(--nt-card); }
+    .nt-issue-nav a:hover { border-color:var(--nt-accent); color:var(--nt-accent); }
 
-    .pill-link {
-      font-size: 0.85rem;
-      padding: 0.35rem 0.7rem;
-      border-radius: 999px;
-      border: 1px solid var(--border-subtle);
-      background: rgba(15, 23, 42, 0.8);
-      color: var(--muted);
-    }
+    /* =========================================================================
+       Footer
+       ========================================================================= */
+    .nt-footer { background:#191919; color:#cfd2cf; margin-top:auto; }
+    .nt-footer__inner { max-width:1180px; margin:0 auto; padding:2.2rem 1.5rem; display:flex; flex-wrap:wrap; gap:1rem 2rem; align-items:center; justify-content:space-between; font-size:0.88rem; }
+    .nt-footer a { color:#9fe9cd; font-weight:600; }
+    .nt-footer a:hover { color:#fff; }
+    .nt-footer__brand { color:#fff; font-weight:700; }
+    .nt-footer__social { display:flex; gap:0.9rem; font-size:1.05rem; }
 
-    .pill-link strong {
-      color: var(--fg);
-      font-weight: 500;
-    }
-
-    /* --- Main Content --- */
-
-    main {
-      flex: 1;
-      max-width: 1120px;
-      width: 100%;
-      margin: 2rem auto 2.5rem;
-      padding: 0 1.25rem;
-      position: relative;
-      z-index: 1;
-    }
-
-    .card {
-      background:
-        radial-gradient(circle at top left, rgba(56, 189, 248, 0.07), transparent 60%),
-        rgba(15, 23, 42, 0.95);
-      border-radius: 18px;
-      padding: 2.1rem 2rem 2.2rem;
-      border: 1px solid rgba(148, 163, 184, 0.35);
-      box-shadow:
-        0 22px 45px rgba(15, 23, 42, 0.75),
-        0 0 0 1px rgba(15, 23, 42, 0.8);
-    }
-
-    .card h1 {
-      font-size: 2rem;
-      margin-bottom: 0.4rem;
-      letter-spacing: 0.01em;
-      color: #e5e7eb;
-    }
-
-    .card .meta {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.75rem;
-      margin-bottom: 1.6rem;
-      font-size: 0.9rem;
-      color: var(--muted);
-    }
-
-    .meta-pill {
-      padding: 0.2rem 0.7rem;
-      border-radius: 999px;
-      background: rgba(15, 23, 42, 0.85);
-      border: 1px solid rgba(148, 163, 184, 0.4);
-      display: inline-flex;
-      align-items: center;
-      gap: 0.35rem;
-      position: relative;
-      z-index: 1;
-    }
-
-    .meta-pill span.emoji {
-      font-size: 0.95rem;
-    }
-
-    .content {
-      color: #e5e7eb;
-    }
-
-    .content h2 {
-      margin-top: 1.8rem;
-      margin-bottom: 0.75rem;
-      font-size: 1.3rem;
-      color: #e5e7eb;
-      border-bottom: 1px solid rgba(148, 163, 184, 0.4);
-      padding-bottom: 0.35rem;
-    }
-
-    .content h3 {
-      margin-top: 1.4rem;
-      margin-bottom: 0.4rem;
-      font-size: 1.1rem;
-      color: #e5e7eb;
-    }
-
-    .content p {
-      margin-bottom: 0.75rem;
-      color: #d1d5db;
-    }
-
-    .content ul,
-    .content ol {
-      margin-left: 1.4rem;
-      margin-bottom: 0.9rem;
-    }
-
-    .content li {
-      margin-bottom: 0.45rem;
-    }
-
-    .content code {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-        "Liberation Mono", "Courier New", monospace;
-      font-size: 0.9em;
-      padding: 0.12rem 0.35rem;
-      border-radius: 0.35rem;
-      background: rgba(15, 23, 42, 0.9);
-      border: 1px solid rgba(148, 163, 184, 0.35);
-      color: #e5e7eb;
-    }
-
-    .archive-list {
-      list-style: none;
-      margin-left: 0;
-      margin-top: 1rem;
-    }
-
-    .archive-list li {
-      margin-bottom: 0.9rem;
-      padding: 0.9rem 1rem;
-      background: rgba(15, 23, 42, 0.9);
-      border-radius: 12px;
-      border: 1px solid rgba(148, 163, 184, 0.4);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 0.75rem;
-      transition:
-        transform 0.18s ease,
-        box-shadow 0.18s ease,
-        border-color 0.18s ease;
-    }
-
-    .archive-list li:hover {
-      transform: translateY(-1px);
-      border-color: var(--accent);
-      box-shadow: 0 10px 25px rgba(15, 23, 42, 0.9);
-    }
-
-    .archive-list a {
-      flex: 1;
-    }
-
-    .archive-list small {
-      color: var(--muted);
-      font-size: 0.78rem;
-      white-space: nowrap;
-    }
-
-    .category-badge {
-      display: inline-block;
-      font-size: 0.7rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      padding: 0.15rem 0.5rem;
-      border-radius: 999px;
-      vertical-align: middle;
-      position: relative;
-      z-index: 1;
-    }
-
-    .news-badge {
-      background: rgba(56, 189, 248, 0.2);
-      color: #38bdf8;
-      border: 1px solid rgba(56, 189, 248, 0.3);
-    }
-
-    .trend-badge {
-      background: rgba(168, 85, 247, 0.2);
-      color: #e879f9;
-      border: 1px solid rgba(168, 85, 247, 0.3);
-    }
-
-    /* --- Primary CTA button --- */
-
-    .primary-btn {
-      display: inline-flex;
-      align-items: center;
-      padding: 0.6rem 1.1rem;
-      border-radius: 999px;
-      background: var(--accent);
-      color: #0b1120;
-      font-size: 0.9rem;
-      font-weight: 600;
-      text-decoration: none;
-      box-shadow: 0 10px 25px rgba(8, 47, 73, 0.8);
-      transition:
-        background 0.18s ease,
-        transform 0.18s ease,
-        box-shadow 0.18s ease;
-    }
-
-    .primary-btn:hover {
-      background: var(--accent-hover);
-      transform: translateY(-1px);
-      box-shadow: 0 16px 40px rgba(8, 47, 73, 0.9);
-    }
-
-    /* --- Issue previous/next navigation --- */
-
-    .issue-nav {
-      margin-top: 2rem;
-      padding-top: 1.2rem;
-      border-top: 1px solid rgba(148, 163, 184, 0.35);
-      display: flex;
-      justify-content: space-between;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-
-    .issue-nav-link {
-      font-size: 0.9rem;
-      padding: 0.5rem 0.9rem;
-      border-radius: 999px;
-      border: 1px solid var(--border-subtle);
-      background: rgba(15, 23, 42, 0.9);
-      text-decoration: none;
-    }
-
-    .issue-nav-link:hover {
-      border-color: var(--accent);
-    }
-
-    /* --- Footer --- */
-
-    footer {
-      max-width: 1120px;
-      width: 100%;
-      margin: 0 auto 2.2rem;
-      padding: 0 1.25rem;
-      font-size: 0.85rem;
-      color: var(--muted);
-    }
-
-    footer hr {
-      border: none;
-      border-top: 1px solid rgba(148, 163, 184, 0.35);
-      margin-bottom: 1rem;
-    }
-
-    footer a {
-      color: var(--accent);
-      font-weight: 500;
-    }
-
-    /* --- Post header (for news & trend articles) --- */
-
-    .post-header {
-      margin-bottom: 1.8rem;
-      padding-bottom: 1.2rem;
-    }
-
-    .post-kicker {
-      font-size: 0.85rem;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: #a5b4fc;
-      margin-bottom: 0.5rem;
-      font-weight: 600;
-    }
-
-    .post-title {
-      font-size: 1.8rem;
-      margin: 0 0 0.6rem;
-      line-height: 1.3;
-      color: #e5e7eb;
-    }
-
-    .post-meta-line {
-      font-size: 0.9rem;
-      color: var(--muted);
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      align-items: center;
-    }
-
-    .post-meta-line span + span::before {
-      content: "• ";
-      margin-right: 0.5rem;
-      color: var(--border-subtle);
-    }
-
-    .post-divider {
-      margin-top: 1.2rem;
-      border: none;
-      border-top: 1px solid rgba(148, 163, 184, 0.4);
-    }
-
-    @media (max-width: 768px) {
-      header .container {
-        padding: 0.9rem 1rem 1.1rem;
-      }
-      .card {
-        padding: 1.5rem 1.3rem 1.6rem;
-      }
-      .card h1 {
-        font-size: 1.6rem;
-      }
-      main {
-        margin-top: 1.5rem;
-      }
-      .archive-list li {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      .issue-nav {
-        flex-direction: column;
-        align-items: flex-start;
-      }
+    @media (max-width:620px) {
+      .nt { padding:1.8rem 1.1rem 3.5rem; }
+      .nt-article { padding:1.5rem 1.3rem 1.7rem; }
+      .nt-newscard { grid-template-columns:1fr; gap:0.7rem; }
+      .nt-newscard__num { width:2.1rem; height:2.1rem; font-size:1rem; }
     }
   </style>
 </head>
 <body>
-  <header>
-    <div class="container">
-      <div class="brand-row">
-        <div class="brand-main">
-          <div class="logo-pill">AI</div>
-          <div>
-            <h1><a href="{{ '/' | url }}">{{ site.title }}</a></h1>
-            <p class="subtitle">{{ site.subtitle }}</p>
-          </div>
-        </div>
-        <div class="nav-secondary">
-          <a class="pill-link" href="https://ruslanmv.com">
-            ← Back to <strong>Main Blog</strong>
-          </a>
-        </div>
-      </div>
 
-      <nav>
-        <a class="nav-link" href="{{ '/' | url }}">Today</a>
-        <a class="nav-link" href="{{ '/archive/' | url }}">Archive</a>
-        <a class="nav-link" href="https://github.com/ruslanmv/news-and-trends">GitHub</a>
+  <!-- ===================== Masthead ===================== -->
+  <div class="masthead">
+    <div class="masthead__inner-wrap">
+      <nav class="rmv-nav" aria-label="Main navigation">
+        <a class="rmv-nav__brand" href="https://ruslanmv.com">Ruslan Magana Vsevolodovna</a>
+        <ul class="rmv-nav__links">
+          <li class="rmv-nav__item rmv-nav__item--has-children">
+            <a class="rmv-nav__toplink" href="https://ruslanmv.com/about" aria-haspopup="true" aria-expanded="false">About <span class="rmv-caret" aria-hidden="true">▾</span></a>
+            <ul class="rmv-submenu">
+              <li><a href="https://ruslanmv.com/about">Bio</a></li>
+              <li><a href="https://ruslanmv.com/certifications">Certifications</a></li>
+              <li><a href="https://ruslanmv.com/contact/">Contact</a></li>
+            </ul>
+          </li>
+          <li class="rmv-nav__item rmv-nav__item--has-children">
+            <a class="rmv-nav__toplink" href="https://ruslanmv.com/projects" aria-haspopup="true" aria-expanded="false">Work <span class="rmv-caret" aria-hidden="true">▾</span></a>
+            <ul class="rmv-submenu">
+              <li><a href="https://ruslanmv.com/projects">Projects</a></li>
+              <li><a href="https://ruslanmv.com/labs/">Labs</a></li>
+              <li><a href="https://ruslanmv.com/alive-system/">Alive System</a></li>
+              <li><a href="https://www.matrixhub.io" target="_blank" rel="noopener">MatrixHub</a></li>
+              <li><a href="https://ollabridge.com" target="_blank" rel="noopener">OllaBridge</a></li>
+              <li><a href="https://ai-medical-chabot.com" target="_blank" rel="noopener">MedOS</a></li>
+              <li><a href="https://learnskillsai.com" target="_blank" rel="noopener">LearnAI</a></li>
+            </ul>
+          </li>
+          <li class="rmv-nav__item rmv-nav__item--has-children">
+            <a class="rmv-nav__toplink" href="https://ruslanmv.com/essays/" aria-haspopup="true" aria-expanded="false">Writing <span class="rmv-caret" aria-hidden="true">▾</span></a>
+            <ul class="rmv-submenu">
+              <li><a href="https://ruslanmv.com/essays/">Essays</a></li>
+              <li><a href="https://ruslanmv.com/blog">Blog</a></li>
+            </ul>
+          </li>
+          <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/publications">Publications</a></li>
+          <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/talks">Talks</a></li>
+          <li class="rmv-nav__item is-active"><a class="rmv-nav__toplink" href="{{ '/' | url }}" aria-current="page">News</a></li>
+          <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/contact/">Contact</a></li>
+        </ul>
+        <div class="rmv-nav__actions">
+          <a class="rmv-nav__search" href="https://ruslanmv.com/search/" aria-label="Search ruslanmv.com">
+            <svg class="icon" width="18" height="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16" aria-hidden="true" fill="currentColor">
+              <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+            </svg>
+          </a>
+          <button class="rmv-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="rmv-drawer">
+            <span class="rmv-burger__bars" aria-hidden="true">
+              <span class="rmv-burger__bar"></span>
+              <span class="rmv-burger__bar"></span>
+              <span class="rmv-burger__bar"></span>
+            </span>
+          </button>
+        </div>
       </nav>
+    </div>
+  </div>
+
+  <!-- Full-site slide-out drawer -->
+  <div class="rmv-drawer-overlay" hidden></div>
+  <aside id="rmv-drawer" class="rmv-drawer" aria-hidden="true" aria-label="Site menu">
+    <div class="rmv-drawer__head">
+      <span class="rmv-drawer__brand">Ruslan Magana Vsevolodovna</span>
+      <button class="rmv-drawer__close" type="button" aria-label="Close menu">&times;</button>
+    </div>
+    <nav class="rmv-drawer__nav" aria-label="Full site">
+      <ul>
+        <li><a href="https://ruslanmv.com/">Home</a></li>
+        <li><a href="https://ruslanmv.com/about">About</a></li>
+        <li><a href="https://ruslanmv.com/projects">Work</a></li>
+        <li class="is-indent"><a href="https://ruslanmv.com/projects">Projects</a></li>
+        <li class="is-indent"><a href="https://ruslanmv.com/labs/">Labs</a></li>
+        <li class="is-indent"><a href="https://ruslanmv.com/alive-system/">Alive System</a></li>
+        <li><a href="https://ruslanmv.com/essays/">Writing</a></li>
+        <li class="is-indent"><a href="https://ruslanmv.com/essays/">Essays</a></li>
+        <li class="is-indent"><a href="https://ruslanmv.com/blog">Blog</a></li>
+        <li><a href="https://ruslanmv.com/publications">Publications</a></li>
+        <li><a href="https://ruslanmv.com/talks">Talks</a></li>
+        <li><a class="is-active" href="{{ '/' | url }}">News</a></li>
+        <li><a href="https://ruslanmv.com/certifications">Certifications</a></li>
+        <li><a href="https://ruslanmv.com/contact/">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="rmv-drawer__social">
+      <a href="https://github.com/ruslanmv" target="_blank" rel="noopener" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/ruslanmv/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:contact@ruslanmv.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
+    </div>
+  </aside>
+
+  {% set isArticle = (type == "news") or (type == "trend") %}
+
+  <!-- ===================== Hero ===================== -->
+  <header class="nt-hero{% if isArticle %} nt-hero--compact{% endif %}">
+    {% include "hero-bg.njk" %}
+    <div class="nt-hero__inner">
+      <p class="nt-hero__eyebrow"><i class="fas fa-signal"></i> Updated daily · AI · Data · Agents · Infrastructure</p>
+      <h1 class="nt-hero__title">{{ site.title }}</h1>
+      <p class="nt-hero__sub">{{ site.subtitle }}</p>
+      {% if not isArticle %}
+      <div class="nt-hero__chips">
+        <span class="nt-hero__chip">AI</span>
+        <span class="nt-hero__chip">Machine Learning</span>
+        <span class="nt-hero__chip">Agents</span>
+        <span class="nt-hero__chip">Infrastructure</span>
+        <span class="nt-hero__chip">Research</span>
+      </div>
+      {% endif %}
     </div>
   </header>
 
-  <main>
-    <article class="card">
-      {# Special header for news + trend posts #}
-      {% if type == "news" or type == "trend" %}
-        <header class="post-header">
-          <p class="post-kicker">
-            {% if type == "trend" %}
-              🔥 Trend Analysis
-            {% else %}
-              📰 News Briefing
-            {% endif %}
-          </p>
-          <h1 class="post-title">{{ title }}</h1>
-          <p class="post-meta-line">
-            <span>{{ date | readableDate }}</span>
-            {% if type == "news" and rank %}
-              <span>Top story #{{ rank }}</span>
-            {% endif %}
-            {% if source %}
-              <span>Source: {{ source }}</span>
-            {% endif %}
-          </p>
-          <hr class="post-divider">
-        </header>
-      {% endif %}
+  <!-- ===================== Body ===================== -->
+  <div class="nt">
 
-      <div class="content">
+    <aside class="nt-author">
+      <img class="nt-author__photo" src="https://ruslanmv.com/assets/images/avatar.png" alt="Ruslan Magana Vsevolodovna">
+      <h2 class="nt-author__name">Ruslan Magana Vsevolodovna</h2>
+      <p class="nt-author__role">Machine Learning Engineer &amp; Data Scientist &amp; Physicist</p>
+      <ul class="nt-author__links">
+        <li><a><span class="ic"><i class="fas fa-map-marker-alt"></i></span>Genoa, Italy</a></li>
+        <li><a href="mailto:contact@ruslanmv.com"><span class="ic"><i class="fas fa-envelope"></i></span>Email</a></li>
+        <li><a href="https://www.linkedin.com/in/ruslanmv/" target="_blank" rel="noopener"><span class="ic"><i class="fab fa-linkedin"></i></span>LinkedIn</a></li>
+        <li><a href="https://github.com/ruslanmv" target="_blank" rel="noopener"><span class="ic"><i class="fab fa-github"></i></span>GitHub</a></li>
+        <li><a href="https://youtube.com/c/ruslanmv" target="_blank" rel="noopener"><span class="ic"><i class="fab fa-youtube"></i></span>YouTube</a></li>
+      </ul>
+      <p class="nt-author__label">Powered by <strong>{{ site.label }}</strong> — an automated daily AI &amp; technology briefing pipeline.</p>
+    </aside>
+
+    <main class="nt-main">
+      {% if isArticle %}
+        <a class="nt-back" href="{{ '/' | url }}"><i class="fas fa-arrow-left"></i> News &amp; Trends</a>
+        <article class="nt-article">
+          <header>
+            <p class="nt-article__kicker">{% if type == "trend" %}Trend Analysis{% else %}News Briefing{% endif %}</p>
+            <h1 class="nt-article__title">{{ title }}</h1>
+            <p class="nt-article__meta">
+              <span>{{ date | readableDate }}</span>
+              {% if type == "news" and rank %}<span>Top story #{{ rank }}</span>{% endif %}
+              {% if source %}<span>Source: {{ source }}</span>{% endif %}
+            </p>
+            <hr class="nt-article__divider">
+          </header>
+          <div class="nt-prose">
+            {{ content | safe }}
+          </div>
+        </article>
+        {% include "issue-nav.njk" %}
+      {% else %}
+        {% set activeTab = "today" %}
+        {% if page.url and "/archive/" in page.url %}{% set activeTab = "archive" %}{% endif %}
+        <nav class="nt-tabs" aria-label="News sections">
+          <a class="nt-tab {% if activeTab == 'today' %}is-active{% endif %}" href="{{ '/' | url }}">Today</a>
+          <a class="nt-tab {% if activeTab == 'archive' %}is-active{% endif %}" href="{{ '/archive/' | url }}">Archive</a>
+          <a class="nt-tab" href="{{ site.repo }}" target="_blank" rel="noopener">GitHub <i class="fas fa-arrow-up-right-from-square"></i></a>
+        </nav>
         {{ content | safe }}
+      {% endif %}
+    </main>
+
+  </div>
+
+  <!-- ===================== Footer ===================== -->
+  <footer class="nt-footer">
+    <div class="nt-footer__inner">
+      <div>
+        <span class="nt-footer__brand">News &amp; Trends</span> · Powered by
+        <a href="{{ site.repo }}" target="_blank" rel="noopener">{{ site.label }}</a>
+        · &copy; <span id="nt-year"></span> Ruslan Magana Vsevolodovna
       </div>
-    </article>
-  </main>
-  <footer>
-    <hr>
-    <p>
-      <strong>TechStatic Insights</strong> is developed by <strong>Ruslan Magana</strong> ·
-      <a href="https://ruslanmv.com" target="_blank" rel="noopener">ruslanmv.com</a>
-    </p>
-    <p>
-      If you find this project valuable, please consider ⭐
-      <a href="https://github.com/ruslanmv/news-and-trends" target="_blank" rel="noopener">
-        starring it on GitHub
-      </a>.
-    </p>
+      <div class="nt-footer__social">
+        <a href="https://github.com/ruslanmv" target="_blank" rel="noopener" aria-label="GitHub"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/ruslanmv/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://youtube.com/c/ruslanmv" target="_blank" rel="noopener" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+        <a href="https://ruslanmv.com" aria-label="ruslanmv.com"><i class="fas fa-globe"></i></a>
+      </div>
+    </div>
   </footer>
+
+  <script>
+  (function () {
+    function ready(fn){ if(document.readyState!=='loading'){fn();} else {document.addEventListener('DOMContentLoaded',fn);} }
+    ready(function () {
+      var body = document.body;
+      var yr = document.getElementById('nt-year'); if (yr) yr.textContent = new Date().getFullYear();
+
+      /* desktop dropdowns: hover (CSS) + click-to-open */
+      var parents = document.querySelectorAll('.rmv-nav__item--has-children');
+      parents.forEach(function (li) {
+        var link = li.querySelector('.rmv-nav__toplink');
+        if (!link) return;
+        link.addEventListener('click', function (e) {
+          if (window.matchMedia('(min-width: 821px)').matches) {
+            if (!li.classList.contains('is-open')) {
+              e.preventDefault();
+              parents.forEach(function (o){ o.classList.remove('is-open'); o.querySelector('.rmv-nav__toplink').setAttribute('aria-expanded','false'); });
+              li.classList.add('is-open'); link.setAttribute('aria-expanded','true');
+            }
+          }
+        });
+      });
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest('.rmv-nav__item--has-children')) {
+          parents.forEach(function (o){ o.classList.remove('is-open'); });
+        }
+      });
+
+      /* burger drawer */
+      var burger  = document.querySelector('.rmv-burger');
+      var drawer  = document.getElementById('rmv-drawer');
+      var overlay = document.querySelector('.rmv-drawer-overlay');
+      var closeBt = document.querySelector('.rmv-drawer__close');
+      function openDrawer(){
+        if(!drawer) return;
+        overlay.hidden = false;
+        requestAnimationFrame(function(){ overlay.classList.add('is-open'); drawer.classList.add('is-open'); });
+        drawer.setAttribute('aria-hidden','false');
+        if(burger) burger.setAttribute('aria-expanded','true');
+        body.classList.add('rmv-drawer-open');
+      }
+      function closeDrawer(){
+        if(!drawer) return;
+        overlay.classList.remove('is-open'); drawer.classList.remove('is-open');
+        drawer.setAttribute('aria-hidden','true');
+        if(burger) burger.setAttribute('aria-expanded','false');
+        body.classList.remove('rmv-drawer-open');
+        setTimeout(function(){ overlay.hidden = true; }, 220);
+      }
+      if(burger)  burger.addEventListener('click', openDrawer);
+      if(closeBt) closeBt.addEventListener('click', closeDrawer);
+      if(overlay) overlay.addEventListener('click', closeDrawer);
+      document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeDrawer(); });
+    });
+  })();
+  </script>
 </body>
 </html>

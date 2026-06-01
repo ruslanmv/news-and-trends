@@ -3,133 +3,74 @@ layout: "layout.njk"
 title: "Today"
 ---
 
-{# Get latest news from most recent issue only (top 4) #}
+{# Latest news from the most recent issue only (top 4) #}
 {% set newsArticles = collections.latestNewsByIssue.slice(0, 4) %}
-{# Get latest trend analysis #}
+{# Latest trend analysis #}
 {% set latestTrend = collections.trend | first %}
-{# Get the most recent date from content #}
+{# Most recent date from content #}
 {% set latestDate = (newsArticles[0] or latestTrend).date %}
 
 {% if newsArticles.length > 0 or latestTrend %}
 
-# This Day's AI & Tech Insights
-
-<div class="meta">
-  <span class="meta-pill">
-    <span class="emoji">📅</span>
-    <span>{{ latestDate | readableDate }}</span>
-  </span>
-  <span class="meta-pill">
-    <span class="emoji">📰</span>
-    <span>{{ newsArticles.length }} News + {% if latestTrend %}1 Trend{% else %}0 Trends{% endif %}</span>
-  </span>
-</div>
-
----
-
-## 🔥 Trend Analysis
+<section class="nt-digest">
+  <p class="nt-kicker">Today’s AI &amp; Tech Insights</p>
+  <h2 class="nt-digest__date">{{ latestDate | readableDate }}</h2>
+  <div class="nt-digest__meta">
+    <span class="nt-pill"><i class="fas fa-newspaper"></i> {{ newsArticles.length }} news</span>
+    <span class="nt-pill"><i class="fas fa-chart-line"></i> {% if latestTrend %}1 trend{% else %}0 trends{% endif %}</span>
+  </div>
+  <p class="nt-digest__note">A daily digest of selected AI and technology signals, curated and summarised automatically.</p>
+</section>
 
 {% if latestTrend %}
-<div style="background: linear-gradient(135deg, rgba(168, 85, 247, 0.15), rgba(56, 189, 248, 0.1)); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(168, 85, 247, 0.3); margin-bottom: 2rem;">
-  <h3 style="margin-top: 0; color: #e879f9;">
-    <a href="{{ latestTrend.url | url }}" style="color: inherit;">{{ latestTrend.data.title }}</a>
-  </h3>
-  <div style="color: #d1d5db; font-size: 0.95rem; margin-bottom: 1rem;">
-    {{ latestTrend.content | striptags | truncate(250) | safe }}
-  </div>
-  <a class="primary-btn" href="{{ latestTrend.url | url }}" style="background: linear-gradient(135deg, #a855f7, #38bdf8);">
-    Read Full Trend Analysis →
-  </a>
+<div class="nt-section-head">
+  <h2>Featured Trend</h2>
+  <a href="{{ latestTrend.url | url }}">View full analysis →</a>
 </div>
-{% else %}
-<p style="color: var(--muted); font-style: italic;">Trend analysis coming soon...</p>
+<a class="nt-trend" href="{{ latestTrend.url | url }}">
+  <p class="nt-kicker">Trend Analysis</p>
+  <h3 class="nt-trend__title">{{ latestTrend.data.title }}</h3>
+  <p class="nt-trend__summary">{{ latestTrend.content | striptags | truncate(260) }}</p>
+  <span class="nt-cta">Read full trend analysis <i class="fas fa-arrow-right"></i></span>
+</a>
 {% endif %}
-
----
-
-## 📰 Latest News
 
 {% if newsArticles.length > 0 %}
-<div style="display: grid; gap: 1.5rem;">
+<div class="nt-section-head">
+  <h2>Latest News</h2>
+  <a href="{{ '/archive/' | url }}">All news →</a>
+</div>
+<div class="nt-news">
   {% for article in newsArticles %}
-  <div style="background: rgba(15, 23, 42, 0.6); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(148, 163, 184, 0.3); transition: all 0.2s ease;">
-    <div style="display: flex; justify-content: space-between; align-items: start; gap: 1rem; margin-bottom: 0.75rem;">
-      <h3 style="margin: 0; font-size: 1.15rem;">
-        <a href="{{ article.url | url }}">{{ article.data.title }}</a>
-      </h3>
-      <span style="background: rgba(56, 189, 248, 0.2); color: #38bdf8; padding: 0.25rem 0.6rem; border-radius: 999px; font-size: 0.75rem; white-space: nowrap; font-weight: 600;">
-        #{{ article.data.rank }}
-      </span>
+  <a class="nt-newscard" href="{{ article.url | url }}">
+    <span class="nt-newscard__num">{% if loop.index < 10 %}0{% endif %}{{ loop.index }}</span>
+    <div>
+      {% if article.data.source %}<p class="nt-newscard__source">{{ article.data.source }}</p>{% endif %}
+      <h3 class="nt-newscard__title">{{ article.data.title }}</h3>
+      <p class="nt-newscard__summary">{{ article.content | striptags | truncate(190) }}</p>
+      <span class="nt-newscard__more nt-cta">Read more <i class="fas fa-arrow-right"></i></span>
     </div>
-    <div style="color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem;">
-      📍 {{ article.data.source }}
-    </div>
-    <div style="color: #d1d5db; font-size: 0.95rem; line-height: 1.5;">
-      {{ article.content | truncate(200) | striptags | safe }}
-    </div>
-    <div style="margin-top: 1rem;">
-      <a href="{{ article.url | url }}" style="font-size: 0.9rem; font-weight: 500;">
-        Read more →
-      </a>
-    </div>
-  </div>
+  </a>
   {% endfor %}
 </div>
-{% else %}
-<p style="color: var(--muted); font-style: italic;">No news articles available yet.</p>
 {% endif %}
 
----
-
-## 📚 Archive
-
-<div style="margin-top: 1.5rem;">
-  <p style="color: var(--muted); margin-bottom: 1rem;">
-    View all past news articles and trend analyses in the archive.
-  </p>
-  <a class="primary-btn" href="{{ '/archive/' | url }}">
-    Browse Archive →
-  </a>
+<div class="nt-teaser">
+  <p><strong>Browse the archive</strong> — every past briefing, news story, and trend analysis, newest first.</p>
+  <a href="{{ '/archive/' | url }}">Browse previous issues <i class="fas fa-arrow-right"></i></a>
 </div>
-
-{% if collections.issue and (collections.issue | length) > 0 %}
-<div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(148, 163, 184, 0.3);">
-  <h3 style="font-size: 0.95rem; color: var(--muted); margin-bottom: 1rem;">Legacy Newsletter Issues</h3>
-  <ul class="archive-list">
-    {% for issue in collections.issue | reverse | slice(0, 3) %}
-      <li>
-        <a href="{{ issue.url | url }}">
-          <strong>{{ issue.date | readableDate }}</strong> – {{ issue.data.title }}
-        </a>
-        <small>{{ issue.date | readableDate }}</small>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
 
 {% else %}
-# Welcome to TechStatic Insights
 
-<div class="content">
-  <p>
-    TechStatic Insights is an automated daily AI &amp; IT briefing designed for
-    technology leaders who want <strong>signal over noise</strong>.
+<section class="nt-digest">
+  <p class="nt-kicker">Welcome</p>
+  <h2 class="nt-digest__date">News &amp; Trends is warming up</h2>
+  <p class="nt-digest__note">
+    An automated multi-agent pipeline aggregates AI &amp; technology news, detects emerging
+    trends, and publishes a concise daily briefing here. Once the first run completes, the
+    latest digest will appear on this page. In the meantime, explore the
+    <a href="{{ '/archive/' | url }}">archive</a>.
   </p>
+</section>
 
-  <p>
-    Each day, a multi-agent CrewAI pipeline:
-  </p>
-
-  - Aggregates news from leading AI &amp; technology sources  
-  - Detects hot topics and emerging trends  
-  - Generates a concise, publication-ready Markdown briefing  
-  - Publishes to this static site via GitHub Pages  
-
-  <p>
-    Once the first GitHub Action run completes, the latest daily briefing will appear here.
-    In the meantime, you can visit the <a href="{{ '/archive/' | url }}">archive</a> page
-    to see all generated issues.
-  </p>
-</div>
 {% endif %}

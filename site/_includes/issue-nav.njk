@@ -1,4 +1,4 @@
-{# site/_includes/issue-nav.njk #}
+{# site/_includes/issue-nav.njk — prev / next within the same collection #}
 {% set issues = collections.issue | reverse %}
 {% set currentIndex = -1 %}
 
@@ -12,15 +12,15 @@
   {% set prev = issues[currentIndex + 1] %}
   {% set next = issues[currentIndex - 1] %}
 
-  <nav class="issue-nav">
+  <nav class="nt-issue-nav" aria-label="Issue navigation">
     {% if prev %}
-      <a class="issue-nav-link prev" href="{{ prev.url | url }}">
-        ← Previous: {{ prev.date | readableDate }}
+      <a class="prev" href="{{ prev.url | url }}">
+        <i class="fas fa-arrow-left"></i> {{ prev.date | readableDate }}
       </a>
-    {% endif %}
+    {% else %}<span></span>{% endif %}
     {% if next %}
-      <a class="issue-nav-link next" href="{{ next.url | url }}">
-        Next: {{ next.date | readableDate }} →
+      <a class="next" href="{{ next.url | url }}">
+        {{ next.date | readableDate }} <i class="fas fa-arrow-right"></i>
       </a>
     {% endif %}
   </nav>
