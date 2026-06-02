@@ -57,18 +57,18 @@
        Masthead navigation — ported verbatim from ruslanmv.com
        ========================================================================= */
     .masthead { background:var(--rmv-nav-bg); border-bottom:1px solid #000; position:relative; z-index:60; }
-    .masthead__inner-wrap { padding:0 1.25rem; max-width:1200px; margin:0 auto; box-sizing:border-box; width:100%; }
+    .masthead__inner-wrap { padding:0 1.25rem; max-width:1320px; margin:0 auto; box-sizing:border-box; width:100%; }
     .rmv-nav { display:flex; align-items:center; gap:1rem; min-height:60px; max-width:100%; box-sizing:border-box; }
     .rmv-nav__brand {
-      font-family:'Montserrat',sans-serif; font-weight:700; font-size:1.15rem;
+      font-family:'Montserrat',sans-serif; font-weight:700; font-size:1.02rem;
       color:var(--rmv-nav-ink); text-decoration:none; white-space:nowrap; margin-right:auto;
     }
     .rmv-nav__brand:hover { color:var(--rmv-accent); }
-    .rmv-nav__links { display:flex; align-items:center; gap:0.25rem; list-style:none; margin:0; padding:0; }
+    .rmv-nav__links { display:flex; align-items:center; gap:0.05rem; list-style:none; margin:0; padding:0; min-width:0; flex-wrap:nowrap; }
     .rmv-nav__item { position:relative; display:flex; align-items:center; }
     .rmv-nav__toplink {
-      display:inline-flex; align-items:center; gap:0.25rem; color:var(--rmv-nav-ink);
-      text-decoration:none; font-size:0.98rem; font-weight:500; padding:0.5rem 0.8rem; border-radius:8px;
+      display:inline-flex; align-items:center; gap:0.2rem; color:var(--rmv-nav-ink);
+      text-decoration:none; font-size:0.92rem; font-weight:500; padding:0.5rem 0.55rem; border-radius:8px;
       white-space:nowrap;
     }
     .rmv-nav__toplink:visited { color:var(--rmv-nav-ink); }
@@ -97,10 +97,10 @@
     .rmv-submenu a { display:block; padding:0.6rem 1.1rem; color:#d6d6d6; text-decoration:none; font-size:0.92rem; white-space:nowrap; }
     .rmv-submenu a:visited { color:#d6d6d6; }
     .rmv-submenu a:hover { background:#2a2a2a; color:var(--rmv-accent); }
-    .rmv-nav__actions { display:flex; align-items:center; gap:0.4rem; margin-left:0.5rem; }
+    .rmv-nav__actions { display:flex; align-items:center; gap:0.25rem; margin-left:0.4rem; flex:0 0 auto; }
     .rmv-nav__search, .rmv-burger {
       background:transparent; border:0; color:var(--rmv-nav-ink); cursor:pointer;
-      width:42px; height:42px; display:inline-flex; align-items:center; justify-content:center;
+      width:38px; height:38px; display:inline-flex; align-items:center; justify-content:center;
       border-radius:10px; padding:0; transition:background-color .18s ease, color .18s ease;
       -webkit-tap-highlight-color:transparent;
     }
@@ -145,7 +145,7 @@
     .rmv-drawer__social { display:flex; gap:0.5rem; padding:1rem 1.25rem; border-top:1px solid #2c2c2c; }
     .rmv-drawer__social a { width:44px; height:44px; display:flex; align-items:center; justify-content:center; color:var(--rmv-nav-ink); font-size:1.2rem; border-radius:8px; }
     .rmv-drawer__social a:hover { color:var(--rmv-accent); background:rgba(255,255,255,0.06); }
-    @media (max-width: 820px) {
+    @media (max-width: 1200px) {
       .rmv-nav__links { display:none; }
       .rmv-nav { min-height:56px; gap:0.5rem; }
       .rmv-nav__brand { font-size:1rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; min-width:0; }
@@ -336,8 +336,10 @@
             <ul class="rmv-submenu">
               <li><a href="https://ruslanmv.com/essays/">Essays</a></li>
               <li><a href="https://ruslanmv.com/blog">Blog</a></li>
+              <li><a href="https://ruslanmv.com/guides/">Guides</a></li>
             </ul>
           </li>
+          <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/learn/">Learn</a></li>
           <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/publications">Publications</a></li>
           <li class="rmv-nav__item"><a class="rmv-nav__toplink" href="https://ruslanmv.com/talks">Talks</a></li>
           <li class="rmv-nav__item is-active"><a class="rmv-nav__toplink" href="{{ '/' | url }}" aria-current="page">News</a></li>
