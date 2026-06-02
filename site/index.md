@@ -58,6 +58,7 @@ title: "Today"
 <div class="nt-teaser">
   <p><strong>Browse the archive</strong> — every past briefing, news story, and trend analysis, newest first.</p>
   <a href="{{ '/archive/' | url }}">Browse previous issues <i class="fas fa-arrow-right"></i></a>
+  <p style="margin-top:1rem;">Explore also: <a href="https://ruslanmv.com/Best-of-the-Best/">AI Rankings</a> — daily ranked AI repositories, papers, packages, courses, and tutorials.</p>
 </div>
 
 {% else %}
