@@ -6,10 +6,12 @@ permalink: "/featured-trend.json"
 eleventyExcludeFromCollections: true
 ---
 {%- set t = collections.trend | first -%}
+{%- set turl = (t.url | url) if t else "/news-and-trends/" -%}
 {
   "title": {{ (t.data.title if t else "AI Trends & Analysis") | dump | safe }},
   "summary": {{ (t.content | striptags | truncate(220) if t else "The latest AI and technology trend analysis, refreshed every day.") | dump | safe }},
   "date": {{ (t.date | readableDate if t else "") | dump | safe }},
   "label": "Trend Analysis",
-  "url": "/news-and-trends/"
+  "url": {{ turl | dump | safe }},
+  "section_url": "/news-and-trends/"
 }
