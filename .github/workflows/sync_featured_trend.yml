@@ -1,0 +1,82 @@
+name: "🔄 Sync Featured Trend feed (manual / optional)"
+
+# Optional, on-demand way to (re)generate the homepage "Featured Trend" feed
+# without running the full daily LLM pipeline. Useful for TESTING that
+# https://ruslanmv.com/news-and-trends/featured-trend.json is up to date.
+#
+#   • deploy = false (default) → just generate + preview + upload as an artifact
+#   • deploy = true            → also build the site and publish it to Pages
+#
+# Trigger it from the GitHub UI: Actions → "Sync Featured Trend feed" → Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: "Publish to GitHub Pages (live). If false, only generate + upload a test artifact."
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 🧪 Generate & preview featured-trend.json
+        run: |
+          python scripts/generate_featured_trend.py
+          echo "::group::featured-trend.json"
+          cat site/docs/featured-trend.json
+          echo "::endgroup::"
+
+      - name: ⬆️ Upload feed as a test artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: featured-trend-json
+          path: site/docs/featured-trend.json
+
+      # --- The steps below only run when dispatched with deploy = true ---
+      - name: Set up Node
+        if: ${{ inputs.deploy }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: "site/package.json"
+
+      - name: Build Eleventy site
+        if: ${{ inputs.deploy }}
+        run: |
+          cd site
+          npm install
+          npm run build
+
+      - name: Upload Pages artifact
+        if: ${{ inputs.deploy }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "site/docs"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        if: ${{ inputs.deploy }}
+        uses: actions/deploy-pages@v4
