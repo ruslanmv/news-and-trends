@@ -93,6 +93,20 @@ jobs:
           commit_user_name: "NewsBot"
           commit_user_email: "actions@github.com"
 
+      - name: 🤗 Ingest daily dataset to Hugging Face bucket
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "ℹ️  HF_TOKEN secret not set — skipping Hugging Face ingestion."
+            exit 0
+          fi
+          python -m pip install -q "huggingface_hub>=1.0"
+          echo "Syncing data/issues -> hf://buckets/ruslanmv/news-and-trends/issues"
+          # Append-only: no --delete, so historical days are never overwritten.
+          hf sync ./data/issues hf://buckets/ruslanmv/news-and-trends/issues --exclude ".gitkeep"
+          echo "✅ Daily dataset ingested to Hugging Face bucket."
+
       - name: Build Eleventy site
         run: |
           cd site

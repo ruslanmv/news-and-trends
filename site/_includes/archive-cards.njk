@@ -1,0 +1,73 @@
+{#- Shared premium archive renderer.
+    Expects from the including template's front matter / pagination:
+      - activeFilter : "all" | "trend" | "news"
+      - issues       : the paginated slice (pagination alias)
+      - pagination   : Eleventy pagination object
+    Collections (issue/trend/news) and `url` filter are globally available. -#}
+
+{%- if activeFilter == "trend" -%}
+  {%- set total = collections.trend | length -%}{%- set label = "Trend Analysis" -%}
+{%- elif activeFilter == "news" -%}
+  {%- set total = collections.news | length -%}{%- set label = "News" -%}
+{%- else -%}
+  {%- set total = collections.issue | length -%}{%- set label = "All entries" -%}
+{%- endif -%}
+
+<div class="nt-archead">
+  <p class="nt-kicker">Archive</p>
+  <h1 class="nt-archead__title">News &amp; Trends Archive</h1>
+  <p class="nt-archead__sub">Browse the latest AI trend analyses, news, and daily updates — sorted newest first.</p>
+</div>
+
+<nav class="nt-filters" aria-label="Filter archive by type">
+  <a class="nt-filter {% if activeFilter == 'all' %}is-active{% endif %}" href="{{ '/archive/' | url }}">All <span class="nt-filter__n">{{ collections.issue | length }}</span></a>
+  <a class="nt-filter {% if activeFilter == 'trend' %}is-active{% endif %}" href="{{ '/archive/trends/' | url }}">Trend Analysis <span class="nt-filter__n">{{ collections.trend | length }}</span></a>
+  <a class="nt-filter {% if activeFilter == 'news' %}is-active{% endif %}" href="{{ '/archive/news/' | url }}">News <span class="nt-filter__n">{{ collections.news | length }}</span></a>
+</nav>
+
+<div class="nt-section-head is-first">
+  <h2>{{ label }} <span class="nt-count">· {{ total }}</span></h2>
+  <span class="nt-archcount">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages | length }}</span>
+</div>
+
+<div class="nt-arch">
+{% for item in issues %}
+{% set isTrend = item.data.type == "trend" %}
+{% set isNews = item.data.type == "news" %}
+<a class="nt-archcard {% if isTrend %}nt-archcard--trend{% elif isNews %}nt-archcard--news{% endif %}" href="{{ item.url | url }}">
+  <div class="nt-archcard__head">
+    {% if isTrend %}
+      <span class="nt-badge nt-badge--trend">Trend Analysis</span>
+    {% elif isNews %}
+      <span class="nt-badge nt-badge--news">News</span>
+    {% else %}
+      <span class="nt-badge nt-badge--news">Daily Update</span>
+    {% endif %}
+    {% if isNews and item.data.rank %}<span class="nt-badge nt-badge--rank">#{{ item.data.rank }}</span>{% endif %}
+    <span class="nt-archcard__date">{{ item.date | readableDate }}</span>
+    {% if isNews and item.data.source %}<span class="nt-archcard__date">· {{ item.data.source }}</span>{% endif %}
+  </div>
+  <h3 class="nt-archcard__title">{{ item.data.title }}</h3>
+  <p class="nt-archcard__summary">{{ item.content | striptags | truncate(200) }}</p>
+  <span class="nt-archcard__cta">Read more <i class="fas fa-arrow-right"></i></span>
+</a>
+{% endfor %}
+</div>
+
+{% if pagination.pages | length > 1 %}
+<nav class="nt-pagination" aria-label="Archive pages">
+  {% if pagination.href.previous %}
+    <a class="nt-pagination__btn" href="{{ pagination.href.previous | url }}" rel="prev"><i class="fas fa-arrow-left"></i> Newer</a>
+  {% else %}
+    <span class="nt-pagination__btn nt-pagination__btn--off"><i class="fas fa-arrow-left"></i> Newer</span>
+  {% endif %}
+
+  <span class="nt-pagination__status">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages | length }}</span>
+
+  {% if pagination.href.next %}
+    <a class="nt-pagination__btn" href="{{ pagination.href.next | url }}" rel="next">Older <i class="fas fa-arrow-right"></i></a>
+  {% else %}
+    <span class="nt-pagination__btn nt-pagination__btn--off">Older <i class="fas fa-arrow-right"></i></span>
+  {% endif %}
+</nav>
+{% endif %}

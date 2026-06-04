@@ -1,0 +1,15 @@
+---
+# Lightweight JSON feed of the current Featured Trend.
+# Consumed by the ruslanmv.com homepage "Featured Trend" card so it can stay
+# in sync with this section automatically (rebuilt by the daily workflow).
+permalink: "/featured-trend.json"
+eleventyExcludeFromCollections: true
+---
+{%- set t = collections.trend | first -%}
+{
+  "title": {{ (t.data.title if t else "AI Trends & Analysis") | dump | safe }},
+  "summary": {{ (t.content | striptags | truncate(220) if t else "The latest AI and technology trend analysis, refreshed every day.") | dump | safe }},
+  "date": {{ (t.date | readableDate if t else "") | dump | safe }},
+  "label": "Trend Analysis",
+  "url": "/news-and-trends/"
+}
