@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-06-13T08:16:42.363706",
+  "issue_date": "2026-06-13",
+  "topic_of_week": "Anthropic",
+  "top_terms": [
+    [
+      "Anthropic",
+      8
+    ],
+    [
+      "Meta",
+      6
+    ],
+    [
+      "Google",
+      6
+    ],
+    [
+      "Quantum",
+      6
+    ],
+    [
+      "OpenAI",
+      5
+    ],
+    [
+      "Claude",
+      4
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "NVIDIA",
+      2
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "ChatGPT",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T16:23:25+00:00",
+      "score": 110
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-11T07:40:43-04:00",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-13T02:26:30+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T23:00:54+00:00",
+      "score": 100
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T20:38:09+00:00",
+      "score": 100
+    },
+    {
+      "title": "Claude Fable won\u2019t answer basic biology questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T14:43:34-04:00",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T03:33:27",
+      "score": 95
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-13T04:14:19+00:00",
+      "score": 90
+    },
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T23:15:14+00:00",
+      "score": 90
+    },
+    {
+      "title": "Mistral is rumored to be raising \u20ac3B at \u20ac20B valuation",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "summary": "The funding round would value the company at around \u20ac20 billion (about $23.15 billion), nearly double its Series C valuation of \u20ac11.7 billion.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T17:38:11+00:00",
+      "score": 90
+    },
+    {
+      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+      "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T15:50:52+00:00",
+      "score": 90
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T04:30:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "summary": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-12T01:48:07+00:00",
+      "score": 90
+    },
+    {
+      "title": "Siri is good now??",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T13:17:04-04:00",
+      "score": 85
+    },
+    {
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T12:24:39-04:00",
+      "score": 85
+    },
+    {
+      "title": "SpaceX\u2019s massive IPO: all the latest news",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.\u00a0 He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T10:35:48-04:00",
+      "score": 85
+    },
+    {
+      "title": "Jeff Bezos\u2019 AI startup aims to build an \u2018artificial general engineer\u2019",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T10:03:39-04:00",
+      "score": 85
+    },
+    {
+      "title": "Siri won\u2019t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T03:00:31-04:00",
+      "score": 85
+    },
+    {
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-11T13:26:57-04:00",
+      "score": 85
+    },
+    {
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-11T04:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T13:45:11-04:00",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-18T20:23:26",
+      "score": 85
+    },
+    {
+      "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed to mimic the harsh conditions of space. The technology could enable AI-powered spacecraft, faster scientific discoveries, and smarter missions to the Moon and Mars.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-15T04:13:15",
+      "score": 85
+    },
+    {
+      "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "summary": "The little pauses, \u201cums,\u201d and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function \u2014 the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T00:18:33",
+      "score": 85
+    },
+    {
+      "title": "AI lets chemists design molecules by simply describing them",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "summary": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using simple language, while powerful algorithms generate and evaluate possible solutions. The AI doesn\u2019t just compute\u2014it reasons, scoring pathways and explaining which ones make the most sense.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-05T20:20:57",
+      "score": 85
+    },
+    {
+      "title": "This AI knew the answers but didn\u2019t understand the questions",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn\u2019t truly \u201cthinking\u201d at all\u2014it\u2019s just memorizing patterns.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-30T02:44:03",
+      "score": 85
+    },
+    {
+      "title": "AI swarms could hijack democracy without anyone noticing",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "summary": "AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging at a massive scale, creating a false sense of consensus. Early warning signs\u2014like deepfakes and fake news networks\u2014have already appeared in global elections. Researchers warn that the next election could be the true test of this technology\u2019s power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-20T05:47:25",
+      "score": 85
+    },
+    {
+      "title": "New strategy enhances oxygen reduction in zinc-air batteries",
+      "link": "https://techxplore.com/news/2026-06-strategy-oxygen-reduction-zinc-air.html",
+      "summary": "Batteries are undergoing rapid advances. For example, modern zinc-air batteries have the remarkable ability to use oxygen as energy\u2014but that oxygen isn't stored in the battery itself. Zinc-air batteries take in surrounding oxygen to undergo a reaction to discharge energy called the oxygen reduction reaction (ORR). While this convenient strategy is promising, the slow speed of the ORR limits the practicality of these batteries.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T16:20:01",
+      "score": 80
+    },
+    {
+      "title": "Transparent OLED advance could improve AR displays and smart windows",
+      "link": "https://techxplore.com/news/2026-06-transparent-oled-advance-ar-displays.html",
+      "summary": "Seoul National University College of Engineering announced that a research team led by Prof. Yongtaek Hong from the Department of Electrical and Computer Engineering has developed a high-performance transparent organic light-emitting diode (OLED) incorporating highly conductive transparent metal mesh top electrodes fabricated using a selective metal deposition technique. The research was published in the journal Materials Horizons and was selected as the outside front cover image for the issue.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T13:20:03",
+      "score": 80
+    },
+    {
+      "title": "Copper thin films reveal ballistic electron transport that could reshape future chip wiring",
+      "link": "https://techxplore.com/news/2026-06-copper-thin-reveal-ballistic-electron.html",
+      "summary": "A joint research team has experimentally observed ballistic transport in single-crystalline copper thin films, demonstrating that ballistic transport is achievable in an industry-standard metal at interconnect-relevant dimensions. The study, titled \"Ballistic transport in nanodevices based on single-crystalline Cu thin films,\" was published in Nature Communications.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T12:40:01",
+      "score": 80
+    },
+    {
+      "title": "Surface pre-treatment, barrier layer, automated machining and assembly of cryogenic CFRP hydrogen tanks",
+      "link": "https://techxplore.com/news/2026-06-surface-pre-treatment-barrier-layer.html",
+      "summary": "Researchers from Plasma Technology and Surfaces, Paint/Lacquer Technology, as well as Automation and Production Technology at Fraunhofer IFAM, in collaboration with HYTANK project partners, developed resource-efficient manufacturing and joining technologies for the production of large-format, double-walled hydrogen tanks made of carbon fiber-reinforced plastic (CFRP)\u2014ranging from suitable surface pretreatments and functional barrier layers to automated production on a 1:1 scale, including machining and adhesive-bonding assembly. The goal was to lay the groundwork for the future efficient production of lighter, leak-tight and\u2014under cryogenic conditions\u2014more reliable tank structures, for example, for the aerospace industry.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T12:20:07",
+      "score": 80
+    },
+    {
+      "title": "Q&A: Can we trust AI models? Researchers explore the roots of chatbot errors",
+      "link": "https://techxplore.com/news/2026-06-qa-ai-explore-roots-chatbot.html",
+      "summary": "The rapid rise of artificial intelligence (AI) has inserted a new character into people's lives: the chatbot.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T12:00:07",
+      "score": 80
+    },
+    {
+      "title": "Human understanding of AI can't keep up with its advancement, researchers say",
+      "link": "https://techxplore.com/news/2026-06-human-ai-advancement.html",
+      "summary": "In a recent editorial published in Science, Microsoft's chief scientific officer, Eric Horvitz, and researcher Robert West from the School of Computer and Communication Sciences at EPFL in Switzerland issue a stark warning about AI. They say the advancement of AI systems rapidly being woven into our everyday lives is beginning to outpace our understanding of them. At the same time, AI's understanding of human behavior is expanding.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T11:56:38",
+      "score": 80
+    },
+    {
+      "title": "How bait\u2011and\u2011switch sales tricks make us click on online 'bargains'\u2014and what to do about it",
+      "link": "https://techxplore.com/news/2026-06-baitandswitch-sales-click-online-bargains.html",
+      "summary": "You're browsing a major online marketplace for a warm winter jacket when a sponsored listing catches your eye: a black, fleece-lined jacket, prominently priced at A$18.99 each. It's just what you want, so you click through, ready to grab a bargain.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T10:40:10",
+      "score": 80
+    },
+    {
+      "title": "Despite the AI hype, some experts warn of a bubble\u2014what happens if it pops?",
+      "link": "https://techxplore.com/news/2026-06-ai-hype-experts.html",
+      "summary": "In the last few years, the hype around artificial intelligence has become stratospheric. Riding a wave of venture capital, tech leaders promised us AI would revolutionize work, boost productivity and lead to incredible new breakthroughs. OpenAI, the creator of ChatGPT, set a new record when it attained US$110 billion in investments several months ago\u2014and its CEO, Sam Altman, recently claimed Australia could become a \"data capital of the world.\"",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T10:20:05",
+      "score": 80
+    },
+    {
+      "title": "SpaceX raised $75B in record IPO\u2014why insiders like Elon Musk are much likelier than public stock buyers to benefit",
+      "link": "https://techxplore.com/news/2026-06-spacex-75b-ipo-insiders-elon.html",
+      "summary": "Elon Musk's SpaceX is becoming a publicly traded company after selling 555.6 million shares in what was the biggest initial public offering in history. But my new research suggests that investors who bought those shares are unlikely to see the explosive growth that past IPOs had.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T10:00:05",
+      "score": 80
+    },
+    {
+      "title": "Buying a laptop may soon come with instant carbon data, thanks to new AI agents",
+      "link": "https://techxplore.com/news/2026-06-buying-laptop-instant-carbon-ai.html",
+      "summary": "If you shop on Google Flights, you get a quick comparison of different itineraries: One flight's carbon emissions may be average, while another's are 14% higher. But if you go shopping for a new laptop, you likely won't find quick, comprehensible information on different models' sustainability bona fides, despite the notable environmental impacts of producing and discarding electronics. In part, that's because understanding a device's emissions is difficult and time-consuming, even for experts.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-12T06:40:01",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+        "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+        "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-12T16:23:25+00:00",
+        "score": 110
+      },
+      {
+        "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-13T02:26:30+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+        "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-12T23:00:54+00:00",
+        "score": 100
+      },
+      {
+        "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
+        "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+        "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-12T20:38:09+00:00",
+        "score": 100
+      },
+      {
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-13T04:14:19+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-11T07:40:43-04:00",
+        "score": 105
+      },
+      {
+        "title": "Claude Fable won\u2019t answer basic biology questions",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+        "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-10T14:43:34-04:00",
+        "score": 95
+      },
+      {
+        "title": "Siri is good now??",
+        "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+        "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T13:17:04-04:00",
+        "score": 85
+      },
+      {
+        "title": "Elon Musk is the world&#8217;s first trillionaire",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+        "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T12:24:39-04:00",
+        "score": 85
+      },
+      {
+        "title": "SpaceX\u2019s massive IPO: all the latest news",
+        "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+        "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.\u00a0 He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T10:35:48-04:00",
+        "score": 85
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+        "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-13T03:33:27",
+        "score": 95
+      },
+      {
+        "title": "A classic brain test exposed AI's biggest weakness",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+        "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-10T06:52:17",
+        "score": 85
+      },
+      {
+        "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+        "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-18T20:23:26",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "New strategy enhances oxygen reduction in zinc-air batteries",
+        "link": "https://techxplore.com/news/2026-06-strategy-oxygen-reduction-zinc-air.html",
+        "summary": "Batteries are undergoing rapid advances. For example, modern zinc-air batteries have the remarkable ability to use oxygen as energy\u2014but that oxygen isn't stored in the battery itself. Zinc-air batteries take in surrounding oxygen to undergo a reaction to discharge energy called the oxygen reduction reaction (ORR). While this convenient strategy is promising, the slow speed of the ORR limits the practicality of these batteries.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-12T16:20:01",
+        "score": 80
+      },
+      {
+        "title": "Transparent OLED advance could improve AR displays and smart windows",
+        "link": "https://techxplore.com/news/2026-06-transparent-oled-advance-ar-displays.html",
+        "summary": "Seoul National University College of Engineering announced that a research team led by Prof. Yongtaek Hong from the Department of Electrical and Computer Engineering has developed a high-performance transparent organic light-emitting diode (OLED) incorporating highly conductive transparent metal mesh top electrodes fabricated using a selective metal deposition technique. The research was published in the journal Materials Horizons and was selected as the outside front cover image for the issue.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-12T13:20:03",
+        "score": 80
+      },
+      {
+        "title": "Copper thin films reveal ballistic electron transport that could reshape future chip wiring",
+        "link": "https://techxplore.com/news/2026-06-copper-thin-reveal-ballistic-electron.html",
+        "summary": "A joint research team has experimentally observed ballistic transport in single-crystalline copper thin films, demonstrating that ballistic transport is achievable in an industry-standard metal at interconnect-relevant dimensions. The study, titled \"Ballistic transport in nanodevices based on single-crystalline Cu thin films,\" was published in Nature Communications.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-12T12:40:01",
+        "score": 80
+      },
+      {
+        "title": "Surface pre-treatment, barrier layer, automated machining and assembly of cryogenic CFRP hydrogen tanks",
+        "link": "https://techxplore.com/news/2026-06-surface-pre-treatment-barrier-layer.html",
+        "summary": "Researchers from Plasma Technology and Surfaces, Paint/Lacquer Technology, as well as Automation and Production Technology at Fraunhofer IFAM, in collaboration with HYTANK project partners, developed resource-efficient manufacturing and joining technologies for the production of large-format, double-walled hydrogen tanks made of carbon fiber-reinforced plastic (CFRP)\u2014ranging from suitable surface pretreatments and functional barrier layers to automated production on a 1:1 scale, including machining and adhesive-bonding assembly. The goal was to lay the groundwork for the future efficient production of lighter, leak-tight and\u2014under cryogenic conditions\u2014more reliable tank structures, for example, for the aerospace industry.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-12T12:20:07",
+        "score": 80
+      },
+      {
+        "title": "Q&A: Can we trust AI models? Researchers explore the roots of chatbot errors",
+        "link": "https://techxplore.com/news/2026-06-qa-ai-explore-roots-chatbot.html",
+        "summary": "The rapid rise of artificial intelligence (AI) has inserted a new character into people's lives: the chatbot.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-12T12:00:07",
+        "score": 80
+      }
+    ]
+  }
+}
