@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-06-16T10:02:18.001136",
+  "issue_date": "2026-06-16",
+  "topic_of_week": "Anthropic",
+  "top_terms": [
+    [
+      "Anthropic",
+      18
+    ],
+    [
+      "agent",
+      10
+    ],
+    [
+      "cybersecurity",
+      6
+    ],
+    [
+      "Quantum",
+      6
+    ],
+    [
+      "AGI",
+      4
+    ],
+    [
+      "Google",
+      4
+    ],
+    [
+      "Meta",
+      4
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "regulation",
+      2
+    ],
+    [
+      "ChatGPT",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-16T06:59:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T15:29:51+00:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T23:51:44+00:00",
+      "score": 100
+    },
+    {
+      "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T21:50:21+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T18:30:58+00:00",
+      "score": 100
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5\u2019s capabilities exceed those of any [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-15T15:04:53-04:00",
+      "score": 95
+    },
+    {
+      "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-15T14:10:27-04:00",
+      "score": 95
+    },
+    {
+      "title": "Big Tech\u2019s desperate last push at AI regulation",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-15T13:44:10-04:00",
+      "score": 95
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-13T17:39:26-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-13T08:55:49-04:00",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T03:33:27",
+      "score": 95
+    },
+    {
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-11T11:08:17+00:00",
+      "score": 95
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T18:30:34+00:00",
+      "score": 90
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T14:34:45+00:00",
+      "score": 90
+    },
+    {
+      "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T13:46:08+00:00",
+      "score": 90
+    },
+    {
+      "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-15T12:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "No breakthrough in Anthropic talks with Trump administration",
+      "link": "https://techxplore.com/news/2026-06-breakthrough-anthropic-trump-administration.html",
+      "summary": "Officials with artificial intelligence startup Anthropic met with the Trump administration Monday as it seeks to restore models blocked over national security concerns, a spokesperson for the company said.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-16T04:20:01",
+      "score": 90
+    },
+    {
+      "title": "Researchers propose 'copyleft' rules for generative AI",
+      "link": "https://techxplore.com/news/2026-06-copyleft-generative-ai.html",
+      "summary": "The rise of generative artificial intelligence (AI) poses challenges for the free and open-source software (FOSS) community, a global network committed to creating and maintaining publicly available software that anyone can use, modify and share. Many AI models have been built on open-source software but do not reciprocate the transparency that the FOSS community's principles require, leaving open-source developers uncertain about how these AI tools are using their code.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T16:20:06",
+      "score": 90
+    },
+    {
+      "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-15T17:15:08-04:00",
+      "score": 85
+    },
+    {
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn\u2019t draw red lines for drone use",
+      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "summary": "Today, I\u2019m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio\u2019s drones in the Bay Area from Adam\u2019s laptop in our podcast studio in New York and fly an indoor drone around our office. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-15T10:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "China may have accessed Mythos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-14T14:27:55-04:00",
+      "score": 85
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-13T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Apple\u2019s new AI photo editing tools mostly work, for better and worse",
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-13T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-18T20:23:26",
+      "score": 85
+    },
+    {
+      "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed to mimic the harsh conditions of space. The technology could enable AI-powered spacecraft, faster scientific discoveries, and smarter missions to the Moon and Mars.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-15T04:13:15",
+      "score": 85
+    },
+    {
+      "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "summary": "The little pauses, \u201cums,\u201d and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function \u2014 the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T00:18:33",
+      "score": 85
+    },
+    {
+      "title": "AI lets chemists design molecules by simply describing them",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "summary": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using simple language, while powerful algorithms generate and evaluate possible solutions. The AI doesn\u2019t just compute\u2014it reasons, scoring pathways and explaining which ones make the most sense.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-05T20:20:57",
+      "score": 85
+    },
+    {
+      "title": "This AI knew the answers but didn\u2019t understand the questions",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn\u2019t truly \u201cthinking\u201d at all\u2014it\u2019s just memorizing patterns.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-30T02:44:03",
+      "score": 85
+    },
+    {
+      "title": "AI swarms could hijack democracy without anyone noticing",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "summary": "AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging at a massive scale, creating a false sense of consensus. Early warning signs\u2014like deepfakes and fake news networks\u2014have already appeared in global elections. Researchers warn that the next election could be the true test of this technology\u2019s power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-20T05:47:25",
+      "score": 85
+    },
+    {
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-15T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-15T08:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Coinbase for Agents: Automating portfolio trading with AI",
+      "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-12T15:34:23+00:00",
+      "score": 85
+    },
+    {
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-11T10:42:38+00:00",
+      "score": 85
+    },
+    {
+      "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+      "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-10T11:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "The UK is banning children's social media use. Here's what other countries are doing",
+      "link": "https://techxplore.com/news/2026-06-uk-children-social-media-countries.html",
+      "summary": "Britain says it will ban people under 16 from using a range of social media apps, including Snapchat, TikTok and YouTube, a decision intended to protect young people from harmful content and excessive screen time.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-16T04:00:02",
+      "score": 80
+    },
+    {
+      "title": "Fox to buy streaming pioneer Roku in a $22 billion deal",
+      "link": "https://techxplore.com/news/2026-06-fox-buy-streaming-roku-billion.html",
+      "summary": "Fox Corp. has agreed to buy the streaming pioneer Roku in a cash-and-stock deal valued at approximately $22 billion, including debt.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-16T03:50:51",
+      "score": 80
+    },
+    {
+      "title": "To hack or not to hack, that is the ethical question",
+      "link": "https://techxplore.com/news/2026-06-hack-ethical.html",
+      "summary": "Long before a hacker ever touches a keyboard, their personal moral outlook helps predict whether they will use their skills in ethical or unethical ways, according to new research led by the University at Buffalo School of Management. Published in Technology in Society, the study found that students drawn to legitimate, authorized cybersecurity work also tend to be attracted to its illegal side, a pattern the authors warn could quietly erode ethical boundaries in the profession.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T21:20:05",
+      "score": 80
+    },
+    {
+      "title": "Liquid cooling technology for semiconductor chips is 10 times more efficient than previous record",
+      "link": "https://techxplore.com/news/2026-06-liquid-cooling-technology-semiconductor-chips.html",
+      "summary": "AI data centers are power-hungry. Not only do artificial intelligence computations consume enormous amounts of electricity, but a significant amount of energy is also required to cool the semiconductor chips that heat up during operation. As AI chips continue to deliver higher performance, the amount of heat they generate increases rapidly. As a result, conventional air cooling and external copper heat spreaders are approaching their practical limits. To address this challenge, a KAIST research team has developed an ultra-high-efficiency liquid-cooling technology that cools semiconductor chips from within.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T18:30:03",
+      "score": 80
+    },
+    {
+      "title": "AI robots can go rogue: A researcher on how easily it happens",
+      "link": "https://techxplore.com/news/2026-06-ai-robots-rogue-easily.html",
+      "summary": "Earlier this year in Beijing, a humanoid robot crossed a half-marathon finish line in a blistering 50 minutes, 26 seconds. The feat immediately lit up global headlines for shattering the human world record by almost seven minutes.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T18:20:05",
+      "score": 80
+    },
+    {
+      "title": "Advanced 3D printing creates origami-inspired structures",
+      "link": "https://techxplore.com/news/2026-06-advanced-3d-origami.html",
+      "summary": "Researchers at the Department of Energy's Manufacturing Demonstration Facility at Oak Ridge National Laboratory have introduced an innovation in additive manufacturing by integrating origami-inspired 3D printing techniques with hybrid composites\u2014materials made from mixed reinforcing components. By eliminating the need for molds to fabricate a part, this process produces lightweight, cost-efficient structures with faster build times and greater adaptability.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T17:00:09",
+      "score": 80
+    },
+    {
+      "title": "All-optical signal processor developed to break AI data center transmission bottleneck",
+      "link": "https://techxplore.com/news/2026-06-optical-processor-ai-center-transmission.html",
+      "summary": "A research team led by The Chinese University of Hong Kong (CUHK) has developed a novel integrated all-optical signal processor (OSP) to address the massive data transmission demands of next-generation AI systems, particularly for high-speed links between multiple data centers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T17:00:02",
+      "score": 80
+    },
+    {
+      "title": "Wing-shape tests could unlock smoother water-to-air drone launches",
+      "link": "https://techxplore.com/news/2026-06-wing-smoother-air-drone.html",
+      "summary": "A bird bursting from the ocean or a mobula ray launching skyward makes the transition from water to air look effortless. For unmanned aerial vehicles (UAVs), commonly known as drones, it's one of the hardest maneuvers to replicate.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-15T16:20:11",
+      "score": 80
+    },
+    {
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
+      "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T08:06:43+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T07:49:07+00:00",
+      "score": 75
+    },
+    {
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-15T11:00:00+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-16T06:59:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+        "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-15T15:29:51+00:00",
+        "score": 110
+      },
+      {
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+        "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-15T23:51:44+00:00",
+        "score": 100
+      },
+      {
+        "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+        "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-15T21:50:21+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+        "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-15T18:30:58+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+        "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5\u2019s capabilities exceed those of any [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-15T15:04:53-04:00",
+        "score": 95
+      },
+      {
+        "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+        "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sobering reminder that the US not only dominates frontier [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-15T14:10:27-04:00",
+        "score": 95
+      },
+      {
+        "title": "Big Tech\u2019s desperate last push at AI regulation",
+        "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+        "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-15T13:44:10-04:00",
+        "score": 95
+      },
+      {
+        "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-13T17:39:26-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+        "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-13T08:55:49-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+        "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-13T03:33:27",
+        "score": 95
+      },
+      {
+        "title": "A classic brain test exposed AI's biggest weakness",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+        "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-10T06:52:17",
+        "score": 85
+      },
+      {
+        "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+        "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-18T20:23:26",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+        "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-11T11:08:17+00:00",
+        "score": 95
+      },
+      {
+        "title": "Accenture: Consumers show growing trust in AI shopping agents",
+        "link": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-15T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-15T08:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Coinbase for Agents: Automating portfolio trading with AI",
+        "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-12T15:34:23+00:00",
+        "score": 85
+      },
+      {
+        "title": "Xebia: Why AI agents fail without the right data foundation",
+        "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-11T10:42:38+00:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "No breakthrough in Anthropic talks with Trump administration",
+        "link": "https://techxplore.com/news/2026-06-breakthrough-anthropic-trump-administration.html",
+        "summary": "Officials with artificial intelligence startup Anthropic met with the Trump administration Monday as it seeks to restore models blocked over national security concerns, a spokesperson for the company said.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-16T04:20:01",
+        "score": 90
+      },
+      {
+        "title": "Researchers propose 'copyleft' rules for generative AI",
+        "link": "https://techxplore.com/news/2026-06-copyleft-generative-ai.html",
+        "summary": "The rise of generative artificial intelligence (AI) poses challenges for the free and open-source software (FOSS) community, a global network committed to creating and maintaining publicly available software that anyone can use, modify and share. Many AI models have been built on open-source software but do not reciprocate the transparency that the FOSS community's principles require, leaving open-source developers uncertain about how these AI tools are using their code.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-15T16:20:06",
+        "score": 90
+      },
+      {
+        "title": "The UK is banning children's social media use. Here's what other countries are doing",
+        "link": "https://techxplore.com/news/2026-06-uk-children-social-media-countries.html",
+        "summary": "Britain says it will ban people under 16 from using a range of social media apps, including Snapchat, TikTok and YouTube, a decision intended to protect young people from harmful content and excessive screen time.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-16T04:00:02",
+        "score": 80
+      },
+      {
+        "title": "Fox to buy streaming pioneer Roku in a $22 billion deal",
+        "link": "https://techxplore.com/news/2026-06-fox-buy-streaming-roku-billion.html",
+        "summary": "Fox Corp. has agreed to buy the streaming pioneer Roku in a cash-and-stock deal valued at approximately $22 billion, including debt.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-16T03:50:51",
+        "score": 80
+      },
+      {
+        "title": "To hack or not to hack, that is the ethical question",
+        "link": "https://techxplore.com/news/2026-06-hack-ethical.html",
+        "summary": "Long before a hacker ever touches a keyboard, their personal moral outlook helps predict whether they will use their skills in ethical or unethical ways, according to new research led by the University at Buffalo School of Management. Published in Technology in Society, the study found that students drawn to legitimate, authorized cybersecurity work also tend to be attracted to its illegal side, a pattern the authors warn could quietly erode ethical boundaries in the profession.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-15T21:20:05",
+        "score": 80
+      }
+    ]
+  }
+}
