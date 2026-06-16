@@ -213,11 +213,28 @@
     .nt-section-head a { font-size:0.88rem; font-weight:600; white-space:nowrap; }
 
     /* digest summary header */
-    .nt-digest { background:var(--nt-card); border:1px solid var(--nt-line); border-radius:16px; padding:1.5rem 1.6rem; }
+    .nt-digest { background:var(--nt-card); border:1px solid var(--nt-line); border-radius:16px; padding:1.5rem 1.6rem; display:flex; align-items:center; justify-content:space-between; gap:1.8rem; flex-wrap:wrap; }
+    .nt-digest__body { flex:1 1 280px; min-width:0; }
     .nt-digest__date { font-family:var(--nt-serif); font-size:1.6rem; color:var(--nt-ink); margin:0.2rem 0 0.5rem; }
     .nt-digest__meta { display:flex; flex-wrap:wrap; gap:0.5rem; margin:0 0 0.6rem; }
     .nt-pill { font-size:0.8rem; color:var(--nt-muted); background:var(--nt-bg); border:1px solid var(--nt-line); padding:0.25rem 0.7rem; border-radius:999px; display:inline-flex; align-items:center; gap:0.35rem; }
     .nt-digest__note { color:var(--nt-muted); font-size:0.96rem; margin:0; }
+
+    /* Rome clock — live local-time widget inside the digest card */
+    .nt-clock { display:flex; align-items:center; gap:1.7rem; flex:0 0 auto; }
+    .nt-clock__digital { font-family:'Montserrat',sans-serif; font-weight:800; font-size:2.7rem; line-height:1; color:var(--nt-ink); margin:0 0 0.55rem; letter-spacing:0.01em; }
+    .nt-clock__loc { font-size:1rem; color:var(--nt-muted); line-height:1.4; }
+    .nt-clock__analog { position:relative; width:150px; height:150px; border-radius:50%; flex:0 0 auto; }
+    .nt-clock__num { position:absolute; font-size:0.95rem; font-weight:700; color:var(--nt-ink); transform:translate(-50%,-50%); }
+    .nt-clock__hand { position:absolute; left:50%; bottom:50%; transform-origin:bottom center; border-radius:10px; }
+    .nt-clock__hand--hour { width:6px; height:44px; background:var(--nt-ink); }
+    .nt-clock__hand--minute { width:6px; height:68px; background:var(--nt-ink); }
+    .nt-clock__hand--second { width:2px; height:72px; background:#ff3b3b; }
+    .nt-clock__dot { position:absolute; width:11px; height:11px; background:var(--nt-ink); border-radius:50%; left:50%; top:50%; transform:translate(-50%,-50%); z-index:10; }
+    @media (max-width:620px) {
+      .nt-clock { width:100%; justify-content:flex-start; gap:1.2rem; }
+      .nt-clock__digital { font-size:2.2rem; }
+    }
 
     /* featured trend card */
     .nt-trend { display:block; background:var(--nt-card); border:1px solid var(--nt-line); border-radius:16px; padding:1.7rem 1.8rem; box-shadow:0 10px 26px rgba(10,80,50,0.05); transition:border-color .15s, box-shadow .15s, transform .15s; color:inherit; }

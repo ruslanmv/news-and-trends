@@ -13,14 +13,104 @@ title: "Today"
 {% if newsArticles.length > 0 or latestTrend %}
 
 <section class="nt-digest">
-  <p class="nt-kicker">Today’s AI &amp; Tech Insights</p>
-  <h2 class="nt-digest__date">{{ latestDate | readableDate }}</h2>
-  <div class="nt-digest__meta">
-    <span class="nt-pill"><i class="fas fa-newspaper"></i> {{ newsArticles.length }} news</span>
-    <span class="nt-pill"><i class="fas fa-chart-line"></i> {% if latestTrend %}1 trend{% else %}0 trends{% endif %}</span>
+  <div class="nt-digest__body">
+    <p class="nt-kicker">Today’s AI &amp; Tech Insights</p>
+    <h2 class="nt-digest__date">{{ latestDate | readableDate }}</h2>
+    <div class="nt-digest__meta">
+      <span class="nt-pill"><i class="fas fa-newspaper"></i> {{ newsArticles.length }} news</span>
+      <span class="nt-pill"><i class="fas fa-chart-line"></i> {% if latestTrend %}1 trend{% else %}0 trends{% endif %}</span>
+    </div>
+    <p class="nt-digest__note">A snapshot of selected AI and technology news, curated and summarised by our team.</p>
   </div>
-  <p class="nt-digest__note">A daily digest of selected AI and technology signals, curated and summarised automatically.</p>
+
+  <div class="nt-clock" id="ntClock" role="img" aria-label="Current local time in Rome, Italy">
+    <div class="nt-clock__info">
+      <div class="nt-clock__digital" id="ntDigitalTime">--:--</div>
+      <div class="nt-clock__loc">
+        Rome, Italy <span id="ntTimezone">(CEST)</span><br>
+        Today, +0hrs
+      </div>
+    </div>
+    <div class="nt-clock__analog" id="ntAnalogClock">
+      <div class="nt-clock__hand nt-clock__hand--hour" id="ntHourHand"></div>
+      <div class="nt-clock__hand nt-clock__hand--minute" id="ntMinuteHand"></div>
+      <div class="nt-clock__hand nt-clock__hand--second" id="ntSecondHand"></div>
+      <div class="nt-clock__dot"></div>
+    </div>
+  </div>
 </section>
+
+{% raw %}
+<script>
+(function () {
+  var timeZone = "Europe/Rome";
+
+  var digitalTime  = document.getElementById("ntDigitalTime");
+  var timezoneLbl  = document.getElementById("ntTimezone");
+  var hourHand     = document.getElementById("ntHourHand");
+  var minuteHand   = document.getElementById("ntMinuteHand");
+  var secondHand   = document.getElementById("ntSecondHand");
+  var analogClock  = document.getElementById("ntAnalogClock");
+
+  if (!analogClock) return;
+
+  // Place the 1–12 numerals around the dial, scaled to the clock size.
+  var size   = analogClock.offsetWidth || 150;
+  var center = size / 2;
+  var radius = center * 0.84;
+  for (var i = 1; i <= 12; i++) {
+    var num = document.createElement("div");
+    num.className = "nt-clock__num";
+    num.textContent = i;
+    var angle = (i * 30 - 90) * Math.PI / 180;
+    num.style.left = (center + radius * Math.cos(angle)) + "px";
+    num.style.top  = (center + radius * Math.sin(angle)) + "px";
+    analogClock.appendChild(num);
+  }
+
+  function getRomeTimeParts() {
+    var formatter = new Intl.DateTimeFormat("en-GB", {
+      timeZone: timeZone,
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hour12: false,
+      timeZoneName: "short"
+    });
+    var parts = formatter.formatToParts(new Date());
+    var get = function (type) {
+      var p = parts.find(function (x) { return x.type === type; });
+      return p ? p.value : "";
+    };
+    return {
+      hour: Number(get("hour")),
+      minute: Number(get("minute")),
+      second: Number(get("second")),
+      zone: get("timeZoneName")
+    };
+  }
+
+  function pad(n) { return String(n).padStart(2, "0"); }
+
+  function updateClock() {
+    var t = getRomeTimeParts();
+    digitalTime.textContent = pad(t.hour) + ":" + pad(t.minute);
+    if (t.zone) timezoneLbl.textContent = "(" + t.zone + ")";
+
+    var hourAngle   = ((t.hour % 12) * 30) + (t.minute * 0.5);
+    var minuteAngle = t.minute * 6;
+    var secondAngle = t.second * 6;
+
+    hourHand.style.transform   = "translateX(-50%) rotate(" + hourAngle + "deg)";
+    minuteHand.style.transform = "translateX(-50%) rotate(" + minuteAngle + "deg)";
+    secondHand.style.transform = "translateX(-50%) rotate(" + secondAngle + "deg)";
+  }
+
+  updateClock();
+  setInterval(updateClock, 1000);
+})();
+</script>
+{% endraw %}
 
 {% if latestTrend %}
 <div class="nt-section-head">
