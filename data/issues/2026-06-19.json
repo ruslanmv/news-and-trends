@@ -1,19 +1,27 @@
 {
-  "generated_at": "2026-06-19T09:25:17.160949",
+  "generated_at": "2026-06-19T12:06:16.077647",
   "issue_date": "2026-06-19",
   "topic_of_week": "OpenAI",
   "top_terms": [
     [
       "OpenAI",
-      6
+      8
     ],
     [
       "Anthropic",
-      6
+      7
     ],
     [
       "Quantum",
       6
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "Generative AI",
+      2
     ],
     [
       "AGI",
@@ -28,15 +36,7 @@
       2
     ],
     [
-      "Generative AI",
-      1
-    ],
-    [
       "large language model",
-      1
-    ],
-    [
-      "Google",
       1
     ],
     [
@@ -205,6 +205,24 @@
       "source": "ScienceDaily \u2013 AI",
       "source_weight": 85,
       "published": "2026-05-13T03:33:27",
+      "score": 95
+    },
+    {
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won\u2019t.",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-18T09:00:00+00:00",
+      "score": 95
+    },
+    {
+      "title": "Google Cloud generative AI automates council planning operations",
+      "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-17T10:59:42+00:00",
       "score": 95
     },
     {
@@ -415,6 +433,15 @@
       "score": 85
     },
     {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-18T10:00:00+00:00",
+      "score": 85
+    },
+    {
       "title": "AI museum brings sights, sounds and smells of the rainforest",
       "link": "https://techxplore.com/news/2026-06-ai-museum-sights-rainforest.html",
       "summary": "The squawks of macaws, the smell of wet earth after rain and a swirl of colors will transport visitors from a Los Angeles museum to the heart of the Amazon rainforest\u2014or rather, an AI version of it.",
@@ -494,6 +521,69 @@
       "source_weight": 80,
       "published": "2026-06-18T16:00:07",
       "score": 80
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-19T09:57:55+00:00",
+      "score": 75
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-18T15:57:46+00:00",
+      "score": 75
+    },
+    {
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "link": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T15:55:02+00:00",
+      "score": 75
+    },
+    {
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
+      "link": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "link": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T08:06:43+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-16T07:49:07+00:00",
+      "score": 75
+    },
+    {
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "link": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-15T11:00:00+00:00",
+      "score": 75
     }
   ],
   "by_source": {
@@ -683,6 +773,53 @@
         "source_weight": 85,
         "published": "2026-06-10T06:52:17",
         "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won\u2019t.",
+        "link": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-18T09:00:00+00:00",
+        "score": 95
+      },
+      {
+        "title": "Google Cloud generative AI automates council planning operations",
+        "link": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-17T10:59:42+00:00",
+        "score": 95
+      },
+      {
+        "title": "HSBC expands AI banking partnership with Google Cloud",
+        "link": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-18T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+        "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-19T09:57:55+00:00",
+        "score": 75
+      },
+      {
+        "title": "Computer vision deployments drive retail productivity gains",
+        "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-18T15:57:46+00:00",
+        "score": 75
       }
     ],
     "Phys.org \u2013 Technology": [
