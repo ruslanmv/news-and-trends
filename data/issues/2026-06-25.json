@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-06-25T08:18:10.202532",
+  "issue_date": "2026-06-25",
+  "topic_of_week": "Google",
+  "top_terms": [
+    [
+      "Google",
+      10
+    ],
+    [
+      "OpenAI",
+      7
+    ],
+    [
+      "AGI",
+      6
+    ],
+    [
+      "Quantum",
+      6
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "Anthropic",
+      3
+    ],
+    [
+      "ChatGPT",
+      3
+    ],
+    [
+      "large language model",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ],
+    [
+      "RAG",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T21:42:07+00:00",
+      "score": 100
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T16:48:43+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-24T10:36:47-04:00",
+      "score": 95
+    },
+    {
+      "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-24T09:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Google Home will soon get better at recognizing you",
+      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-23T18:28:19-04:00",
+      "score": 95
+    },
+    {
+      "title": "Hollywood is bending the knee to OpenAI",
+      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-23T18:03:18-04:00",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T03:33:27",
+      "score": 95
+    },
+    {
+      "title": "Anthropic\u00a0drops \u2018workplace AI\u00a0agents\u2019\u00a0directly inside Slack",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-24T09:00:00+00:00",
+      "score": 95
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-19T14:02:20+00:00",
+      "score": 95
+    },
+    {
+      "title": "Europe is pushing back on Washington\u2019s chip war",
+      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Act would now put off-limits.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-25T00:08:36+00:00",
+      "score": 90
+    },
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T23:26:52+00:00",
+      "score": 90
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T22:41:41+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T21:56:41+00:00",
+      "score": 90
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T21:30:55+00:00",
+      "score": 90
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T20:09:45+00:00",
+      "score": 90
+    },
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T17:16:24+00:00",
+      "score": 90
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-24T16:15:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Agility Robotics heads to Wall Street in a $2.5B bet on staffing warehouses with humanoids",
+      "link": "https://techxplore.com/news/2026-06-agility-robotics-wall-street-25b.html",
+      "summary": "A maker of humanlike robots that carry totes around warehouses is aiming to go public on Wall Street in a test of whether there is a market for putting AI-powered humanoid machines to work.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T16:40:01",
+      "score": 90
+    },
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-24T15:36:46-04:00",
+      "score": 85
+    },
+    {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-24T13:25:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-24T12:15:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-23T13:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Something&#8217;s off with Midjourney\u2019s pivot to body scanners",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-23T11:56:35-04:00",
+      "score": 85
+    },
+    {
+      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-23T11:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-18T23:43:09",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-18T20:23:26",
+      "score": 85
+    },
+    {
+      "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed to mimic the harsh conditions of space. The technology could enable AI-powered spacecraft, faster scientific discoveries, and smarter missions to the Moon and Mars.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-15T04:13:15",
+      "score": 85
+    },
+    {
+      "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "summary": "The little pauses, \u201cums,\u201d and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function \u2014 the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T00:18:33",
+      "score": 85
+    },
+    {
+      "title": "AI lets chemists design molecules by simply describing them",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "summary": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using simple language, while powerful algorithms generate and evaluate possible solutions. The AI doesn\u2019t just compute\u2014it reasons, scoring pathways and explaining which ones make the most sense.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-05T20:20:57",
+      "score": 85
+    },
+    {
+      "title": "This AI knew the answers but didn\u2019t understand the questions",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn\u2019t truly \u201cthinking\u201d at all\u2014it\u2019s just memorizing patterns.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-04-30T02:44:03",
+      "score": 85
+    },
+    {
+      "title": "The math behind the OpenAI Jalape\u00f1o chip",
+      "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-25T06:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-24T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Omio scales travel product development using OpenAI models",
+      "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-23T16:32:28+00:00",
+      "score": 85
+    },
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "link": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-22T16:11:21+00:00",
+      "score": 85
+    },
+    {
+      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatGPT",
+      "link": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-22T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "New millimeter-wave transceiver doubles spectrum efficiency, eliminates self-interference",
+      "link": "https://techxplore.com/news/2026-06-millimeter-transceiver-spectrum-efficiency.html",
+      "summary": "A newly developed architecture for full-duplex wireless transceivers solves the long-standing problem of self-interference, as reported by researchers from Science Tokyo. They implemented an innovative switching strategy that isolates self-interference in the time domain by alternating transmission and reception faster than the wireless signal period, enabling effective simultaneous transmission and reception. Experiments using 400-MHz-wide millimeter-wave signals (5G-compatible) highlight the technology's potential for future Beyond 5G/6G infrastructure, including extended reality systems and smart factories.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T22:20:01",
+      "score": 80
+    },
+    {
+      "title": "Little evidence that Australia's under-16 social media restrictions have curbed use among adolescents",
+      "link": "https://techxplore.com/news/2026-06-evidence-australia-social-media-restrictions.html",
+      "summary": "There is little evidence that Australia's Social Media Minimum Age Act has led to any immediate reductions in social media use by under-16s, according to an early analysis of survey data published by The BMJ.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T18:30:06",
+      "score": 80
+    },
+    {
+      "title": "New bacteria-based cooling material could help electronics and EV batteries run cooler",
+      "link": "https://techxplore.com/news/2026-06-bacteria-based-cooling-material-electronics.html",
+      "summary": "Next-generation electronic devices like newer computers and other high-power devices require more energy to run. When they are working hard, the intense heat they generate can limit their performance and reliability. That's why scientists are trying to find better and more sustainable materials to help cool devices down.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T17:40:05",
+      "score": 80
+    },
+    {
+      "title": "A new type of pixel can steer and analyze light, paving way for devices that function as both camera and display",
+      "link": "https://techxplore.com/news/2026-06-pixel-paving-devices-function-camera.html",
+      "summary": "In 1927, the term \"picture element,\" later abbreviated to \"pixel,\" appeared for the first time in the American technology magazine Wireless World. Today, pixels are everywhere: in computer screens and television sets, where they create colorful images, but also in cameras, where they capture images. In any case, however, they do one or the other\u2014either they control light, as in the case of a display, or they analyze it in a camera sensor. Until now, there have been no pixels that could do both.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T17:20:05",
+      "score": 80
+    },
+    {
+      "title": "Biomethane as a renewable replacement for natural gas",
+      "link": "https://techxplore.com/news/2026-06-biomethane-renewable-natural-gas.html",
+      "summary": "While biomethane is flowing into homes across the U.S., Asia and Europe, a renewable replacement for natural gas has yet to reach its full potential in Australia.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T17:20:01",
+      "score": 80
+    },
+    {
+      "title": "Pushing past lithium-ion performance limits",
+      "link": "https://techxplore.com/news/2026-06-lithium-ion-limits.html",
+      "summary": "A growing demand for energy storage is pushing lithium-ion batteries to their limits, advancing next-generation technologies through innovative materials research.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T16:20:10",
+      "score": 80
+    },
+    {
+      "title": "First global rules adopted for self-driving cars: UN",
+      "link": "https://techxplore.com/news/2026-06-global-cars.html",
+      "summary": "The first global regulations for fully autonomous vehicles were adopted Wednesday, a U.N. agency said, establishing uniform international safety requirements that could pave the way for larger-scale rollouts of self-driving cars.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T16:20:01",
+      "score": 80
+    },
+    {
+      "title": "Rough demos unlock precise robot actions, with up to fourfold real-world gains",
+      "link": "https://techxplore.com/news/2026-06-rough-demos-precise-robot-actions.html",
+      "summary": "Robots with increasingly precise dexterity are becoming essential in everyday life and industrial settings, from assembling tiny smartphone components to assisting doctors in surgery. However, teaching robots delicate human movements has traditionally required collecting vast amounts of data at extremely fine time intervals, resulting in significant costs and time burdens.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T15:40:09",
+      "score": 80
+    },
+    {
+      "title": "Neural-machine interfaces reveal that brain senses hand movement through grasp synergies",
+      "link": "https://techxplore.com/news/2026-06-neural-machine-interfaces-reveal-brain.html",
+      "summary": "A research team led by Sant'Anna School of Advanced Studies in Pisa, in collaboration with Cleveland Clinic, has uncovered new insight into how the brain senses movement. Their findings, published in Science Advances, could help improve sensation and movement for prosthetic limbs.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-24T15:40:07",
+      "score": 80
+    },
+    {
+      "title": "Top spy agencies say AI cyber threats will impact you within months.\u00a0Here\u2019s\u00a0why",
+      "link": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-23T08:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "link": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-19T09:57:55+00:00",
+      "score": 75
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "link": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-18T15:57:46+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-24T21:42:07+00:00",
+        "score": 100
+      },
+      {
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+        "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-24T16:48:43+00:00",
+        "score": 100
+      },
+      {
+        "title": "Europe is pushing back on Washington\u2019s chip war",
+        "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+        "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Act would now put off-limits.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-25T00:08:36+00:00",
+        "score": 90
+      },
+      {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-24T23:26:52+00:00",
+        "score": 90
+      },
+      {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-06-24T22:41:41+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+        "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-24T10:36:47-04:00",
+        "score": 95
+      },
+      {
+        "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
+        "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+        "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-24T09:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google Home will soon get better at recognizing you",
+        "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+        "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-23T18:28:19-04:00",
+        "score": 95
+      },
+      {
+        "title": "Hollywood is bending the knee to OpenAI",
+        "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-23T18:03:18-04:00",
+        "score": 95
+      },
+      {
+        "title": "Congresswoman denies staff used AI to write defense funding amendment",
+        "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+        "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-24T15:36:46-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+        "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-13T03:33:27",
+        "score": 95
+      },
+      {
+        "title": "SpaceX wants to build AI data centers in space. Will it work?",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+        "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-18T23:43:09",
+        "score": 85
+      },
+      {
+        "title": "A classic brain test exposed AI's biggest weakness",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+        "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-10T06:52:17",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Anthropic\u00a0drops \u2018workplace AI\u00a0agents\u2019\u00a0directly inside Slack",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-24T09:00:00+00:00",
+        "score": 95
+      },
+      {
+        "title": "SAP and Google Cloud deploy agentic commerce architecture",
+        "link": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-19T14:02:20+00:00",
+        "score": 95
+      },
+      {
+        "title": "The math behind the OpenAI Jalape\u00f1o chip",
+        "link": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-25T06:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+        "link": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-24T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Omio scales travel product development using OpenAI models",
+        "link": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-06-23T16:32:28+00:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Agility Robotics heads to Wall Street in a $2.5B bet on staffing warehouses with humanoids",
+        "link": "https://techxplore.com/news/2026-06-agility-robotics-wall-street-25b.html",
+        "summary": "A maker of humanlike robots that carry totes around warehouses is aiming to go public on Wall Street in a test of whether there is a market for putting AI-powered humanoid machines to work.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-24T16:40:01",
+        "score": 90
+      },
+      {
+        "title": "New millimeter-wave transceiver doubles spectrum efficiency, eliminates self-interference",
+        "link": "https://techxplore.com/news/2026-06-millimeter-transceiver-spectrum-efficiency.html",
+        "summary": "A newly developed architecture for full-duplex wireless transceivers solves the long-standing problem of self-interference, as reported by researchers from Science Tokyo. They implemented an innovative switching strategy that isolates self-interference in the time domain by alternating transmission and reception faster than the wireless signal period, enabling effective simultaneous transmission and reception. Experiments using 400-MHz-wide millimeter-wave signals (5G-compatible) highlight the technology's potential for future Beyond 5G/6G infrastructure, including extended reality systems and smart factories.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-24T22:20:01",
+        "score": 80
+      },
+      {
+        "title": "Little evidence that Australia's under-16 social media restrictions have curbed use among adolescents",
+        "link": "https://techxplore.com/news/2026-06-evidence-australia-social-media-restrictions.html",
+        "summary": "There is little evidence that Australia's Social Media Minimum Age Act has led to any immediate reductions in social media use by under-16s, according to an early analysis of survey data published by The BMJ.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-24T18:30:06",
+        "score": 80
+      },
+      {
+        "title": "New bacteria-based cooling material could help electronics and EV batteries run cooler",
+        "link": "https://techxplore.com/news/2026-06-bacteria-based-cooling-material-electronics.html",
+        "summary": "Next-generation electronic devices like newer computers and other high-power devices require more energy to run. When they are working hard, the intense heat they generate can limit their performance and reliability. That's why scientists are trying to find better and more sustainable materials to help cool devices down.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-24T17:40:05",
+        "score": 80
+      },
+      {
+        "title": "A new type of pixel can steer and analyze light, paving way for devices that function as both camera and display",
+        "link": "https://techxplore.com/news/2026-06-pixel-paving-devices-function-camera.html",
+        "summary": "In 1927, the term \"picture element,\" later abbreviated to \"pixel,\" appeared for the first time in the American technology magazine Wireless World. Today, pixels are everywhere: in computer screens and television sets, where they create colorful images, but also in cameras, where they capture images. In any case, however, they do one or the other\u2014either they control light, as in the case of a display, or they analyze it in a camera sensor. Until now, there have been no pixels that could do both.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-24T17:20:05",
+        "score": 80
+      }
+    ]
+  }
+}
