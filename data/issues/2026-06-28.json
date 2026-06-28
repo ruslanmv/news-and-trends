@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-28T08:16:46.292248",
+  "generated_at": "2026-06-28T17:42:48.666884",
   "issue_date": "2026-06-28",
   "topic_of_week": "OpenAI",
   "top_terms": [
     [
       "OpenAI",
-      19
+      16
     ],
     [
       "Anthropic",
-      10
+      9
     ],
     [
       "GPT-5",
@@ -28,8 +28,8 @@
       4
     ],
     [
-      "large language model",
-      3
+      "ChatGPT",
+      4
     ],
     [
       "Meta",
@@ -40,7 +40,7 @@
       2
     ],
     [
-      "Google",
+      "AGI",
       2
     ]
   ],
@@ -52,15 +52,6 @@
       "source": "Google AI Blog",
       "source_weight": 100,
       "published": "2024-03-29T11:03:00-07:00",
-      "score": 110
-    },
-    {
-      "title": "Talk like a graph: Encoding graphs for large language models",
-      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-12T14:15:00-07:00",
       "score": 110
     },
     {
@@ -97,15 +88,6 @@
       "source": "TechCrunch \u2013 AI",
       "source_weight": 90,
       "published": "2026-06-26T16:24:47+00:00",
-      "score": 110
-    },
-    {
-      "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
-      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-06-26T14:00:00+00:00",
       "score": 110
     },
     {
@@ -199,6 +181,24 @@
       "score": 100
     },
     {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-06-28T15:00:00+00:00",
+      "score": 100
+    },
+    {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
@@ -235,6 +235,15 @@
       "score": 100
     },
     {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-28T10:12:06-04:00",
+      "score": 95
+    },
+    {
       "title": "Anthropic&#8217;s Mythos 5 is back",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
       "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
@@ -259,6 +268,15 @@
       "source": "ScienceDaily \u2013 AI",
       "source_weight": 85,
       "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
       "score": 95
     },
     {
@@ -343,15 +361,6 @@
       "score": 85
     },
     {
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-06-24T13:25:00-04:00",
-      "score": 85
-    },
-    {
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
       "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
@@ -367,15 +376,6 @@
       "source": "ScienceDaily \u2013 AI",
       "source_weight": 85,
       "published": "2026-06-10T06:52:17",
-      "score": 85
-    },
-    {
-      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
-      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-06-05T01:27:32",
       "score": 85
     },
     {
@@ -422,6 +422,24 @@
       "source_weight": 85,
       "published": "2026-04-30T02:44:03",
       "score": 85
+    },
+    {
+      "title": "Cycling industry bets on smart bikes to boost sales",
+      "link": "https://techxplore.com/news/2026-06-industry-smart-bikes-boost-sales.html",
+      "summary": "At the Eurobike trade fair, hopes are high that smart and AI-enabled bicycles can revive an industry that has been dealing with years of flagging sales.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-28T11:22:49",
+      "score": 80
+    },
+    {
+      "title": "'Impossible' low-loss, tunable dielectric achieved in microwave electronics",
+      "link": "https://techxplore.com/news/2026-06-impossible-loss-tunable-dielectric-microwave.html",
+      "summary": "The result on his computer screen looked impossible. Late one night in 2009, Nate Orloff was alone in a laboratory, analyzing measurements from a set of experimental thin films sent to him by Darrell Schlom, the Tisch University Professor in Cornell University's Department of Materials Science and Engineering.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-06-28T10:20:01",
+      "score": 80
     },
     {
       "title": "AI assistant uses smartwatches, speech and text to spot distress early",
@@ -476,24 +494,6 @@
       "source_weight": 80,
       "published": "2026-06-26T14:00:05",
       "score": 80
-    },
-    {
-      "title": "An AI model that thinks like we do offers new ways to peer inside the black box",
-      "link": "https://techxplore.com/news/2026-06-ai-ways-peer-black.html",
-      "summary": "When a standard large language model (LLM) is confronted with a problem, it tries to solve it by matching it to similar information it has seen before, and then give an answer based on those past patterns. But how it decides which information to use and what value it gives to different pieces of information can be somewhat inscrutable from the outside. An EPFL team has created a new large language model that is structured similarly to a human brain, allowing users more control and moving away from \"black box\" AI.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-06-26T12:20:03",
-      "score": 80
-    },
-    {
-      "title": "Artificial skin enables robots to simultaneously sense temperature and pressure like humans",
-      "link": "https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html",
-      "summary": "A research team led by Prof. Seung Hwan Ko of Seoul National University College of Engineering's Department of Mechanical Engineering has developed an artificial skin technology that enables robots to sense temperature and pressure simultaneously, similar to human skin.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-06-26T12:00:05",
-      "score": 80
     }
   ],
   "by_source": {
@@ -505,15 +505,6 @@
         "source": "Google AI Blog",
         "source_weight": 100,
         "published": "2024-03-29T11:03:00-07:00",
-        "score": 110
-      },
-      {
-        "title": "Talk like a graph: Encoding graphs for large language models",
-        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-12T14:15:00-07:00",
         "score": 110
       },
       {
@@ -541,6 +532,15 @@
         "source": "Google AI Blog",
         "source_weight": 100,
         "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
         "score": 100
       }
     ],
@@ -582,13 +582,13 @@
         "score": 110
       },
       {
-        "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
-        "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+        "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
         "source": "TechCrunch \u2013 AI",
         "source_weight": 90,
-        "published": "2026-06-26T14:00:00+00:00",
-        "score": 110
+        "published": "2026-06-28T15:00:00+00:00",
+        "score": 100
       }
     ],
     "The Verge \u2013 AI": [
@@ -611,6 +611,15 @@
         "score": 105
       },
       {
+        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-28T10:12:06-04:00",
+        "score": 95
+      },
+      {
         "title": "Anthropic&#8217;s Mythos 5 is back",
         "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
         "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
@@ -627,15 +636,6 @@
         "source_weight": 85,
         "published": "2026-06-26T10:07:03-04:00",
         "score": 95
-      },
-      {
-        "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-        "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-06-27T14:39:32-04:00",
-        "score": 85
       }
     ],
     "Phys.org \u2013 Technology": [
@@ -658,30 +658,30 @@
         "score": 90
       },
       {
+        "title": "Cycling industry bets on smart bikes to boost sales",
+        "link": "https://techxplore.com/news/2026-06-industry-smart-bikes-boost-sales.html",
+        "summary": "At the Eurobike trade fair, hopes are high that smart and AI-enabled bicycles can revive an industry that has been dealing with years of flagging sales.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-28T11:22:49",
+        "score": 80
+      },
+      {
+        "title": "'Impossible' low-loss, tunable dielectric achieved in microwave electronics",
+        "link": "https://techxplore.com/news/2026-06-impossible-loss-tunable-dielectric-microwave.html",
+        "summary": "The result on his computer screen looked impossible. Late one night in 2009, Nate Orloff was alone in a laboratory, analyzing measurements from a set of experimental thin films sent to him by Darrell Schlom, the Tisch University Professor in Cornell University's Department of Materials Science and Engineering.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-06-28T10:20:01",
+        "score": 80
+      },
+      {
         "title": "AI assistant uses smartwatches, speech and text to spot distress early",
         "link": "https://techxplore.com/news/2026-06-ai-smartwatches-speech-text-distress.html",
         "summary": "What if your smartwatch could tell when you were struggling emotionally and offer support before you even thought to ask? That's the idea behind a new AI-powered system developed by researchers at the University of Ottawa, one that could change how people access mental health care outside a clinical setting.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
         "published": "2026-06-27T11:40:01",
-        "score": 80
-      },
-      {
-        "title": "Swiss nuclear plant shut down due to heat wave",
-        "link": "https://techxplore.com/news/2026-06-swiss-nuclear-due.html",
-        "summary": "The reactors at Europe's oldest nuclear plant were shut down Friday, its Swiss operator said, after the heat wave roasting Europe sent temperatures soaring in the river used for cooling.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-06-27T08:40:01",
-        "score": 80
-      },
-      {
-        "title": "Digital barriers make visitors of Dutch websites stumble",
-        "link": "https://techxplore.com/news/2026-06-digital-barriers-visitors-dutch-websites.html",
-        "summary": "Despite European legislation, many commercial websites still fall short when it comes to meeting the WCAG accessibility standard, Dante G\u00f6bbels has found. G\u00f6bbels investigated the barriers website visitors encounter, including inaccessible forms and poor contrast, missing alt text for images (important for blind and visually impaired users), and keyboard-unfriendly navigation. His main recommendations are greater awareness, more training, and more enforcement.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-06-27T08:00:08",
         "score": 80
       }
     ],
@@ -693,6 +693,15 @@
         "source": "ScienceDaily \u2013 AI",
         "source_weight": 85,
         "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
         "score": 95
       },
       {
@@ -720,15 +729,6 @@
         "source": "ScienceDaily \u2013 AI",
         "source_weight": 85,
         "published": "2026-06-10T06:52:17",
-        "score": 85
-      },
-      {
-        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
-        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-06-05T01:27:32",
         "score": 85
       }
     ]
