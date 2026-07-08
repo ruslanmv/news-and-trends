@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-07-08T07:22:16.711818",
+  "issue_date": "2026-07-08",
+  "topic_of_week": "Claude",
+  "top_terms": [
+    [
+      "Claude",
+      10
+    ],
+    [
+      "Anthropic",
+      8
+    ],
+    [
+      "Quantum",
+      8
+    ],
+    [
+      "Meta",
+      4
+    ],
+    [
+      "AGI",
+      4
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "RAG",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "agent",
+      2
+    ],
+    [
+      "ChatGPT",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-07T13:46:59-04:00",
+      "score": 105
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T10:23:11-04:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T22:18:10+00:00",
+      "score": 100
+    },
+    {
+      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T20:04:32+00:00",
+      "score": 100
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T16:27:18+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-07T16:31:58-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-03T09:56:52-04:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T14:13:44",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T03:33:27",
+      "score": 95
+    },
+    {
+      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-02T14:38:01+00:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-01T08:47:12+00:00",
+      "score": 95
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-08T07:16:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T19:58:20+00:00",
+      "score": 90
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T19:28:38+00:00",
+      "score": 90
+    },
+    {
+      "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T12:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-07T09:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-06T23:56:14+00:00",
+      "score": 90
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-06T23:21:03+00:00",
+      "score": 90
+    },
+    {
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-07T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "I spy",
+      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-06T12:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft is laying off 4,800 employees",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-06T09:30:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Some of the nation\u2019s rich are letting AI teach their kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T18:30:54-04:00",
+      "score": 85
+    },
+    {
+      "title": "The fanfiction community is at war with AI \u2014 and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-04T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-03T07:49:10-04:00",
+      "score": 85
+    },
+    {
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-29T17:57:17",
+      "score": 85
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-18T23:43:09",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-18T20:23:26",
+      "score": 85
+    },
+    {
+      "title": "NASA\u2019s new AI space chip could let spacecraft think for themselves",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. The radiation-hardened processor is showing performance levels hundreds of times beyond current spaceflight computers while surviving punishing tests designed to mimic the harsh conditions of space. The technology could enable AI-powered spacecraft, faster scientific discoveries, and smarter missions to the Moon and Mars.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-15T04:13:15",
+      "score": 85
+    },
+    {
+      "title": "Your \u201cum\u201d and pauses could reveal early dementia risk",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "summary": "The little pauses, \u201cums,\u201d and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are closely tied to executive function \u2014 the mental system that powers memory, planning, focus, and flexible thinking. By using AI to analyze natural conversations, the team found they could predict cognitive performance with surprising accuracy, potentially opening the door to simple speech-based tools that could detect early signs of dementia long before traditional testing does.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-05-13T00:18:33",
+      "score": 85
+    },
+    {
+      "title": "Bank of England reviews AI rules for agentic AI in finance",
+      "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-01T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "New field-tested design framework improves bored pile foundations in weathered rock",
+      "link": "https://techxplore.com/news/2026-07-field-framework-pile-foundations-weathered.html",
+      "summary": "Large-diameter bored piles are essential for major infrastructure, from elevated railways and long-span bridges to high-rise buildings. Yet when these piles extend into weak, weathered sedimentary rocks such as siltstone and sandstone, engineers face a persistent design challenge: the rock behaves neither like conventional soil nor like strong, intact rock. Instead, its load-bearing capacity depends heavily on in situ weathering, fracturing, and the interaction between the pile and the surrounding rock.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T23:20:01",
+      "score": 80
+    },
+    {
+      "title": "New motor drive design reduces heat, wear in high-power systems",
+      "link": "https://techxplore.com/news/2026-07-motor-high-power.html",
+      "summary": "Researchers at the U.S. Department of Energy's Oak Ridge National Laboratory's (ORNL) National Transportation Research Center have developed a novel electric motor drive design that meets the performance demands of aircraft, marine vessels and heavy-duty trucks while reducing excess heat and premature wear.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T21:20:06",
+      "score": 80
+    },
+    {
+      "title": "Model reveals grid battery wear after 500 to 1,000 cycles in days",
+      "link": "https://techxplore.com/news/2026-07-reveals-grid-battery-days.html",
+      "summary": "Energy storage is becoming critical to grid resilience and electricity affordability because battery systems can help balance supply and demand and stabilize power.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T15:20:03",
+      "score": 80
+    },
+    {
+      "title": "Heat waves are dangerous, but also serve as a warning of what must change",
+      "link": "https://techxplore.com/news/2026-07-dangerous.html",
+      "summary": "As another heat wave reaches the UK, it is worth asking an uncomfortable question: Is there any positive side to extreme heat?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T15:00:12",
+      "score": 80
+    },
+    {
+      "title": "Automation system advances efficient AI workflows",
+      "link": "https://techxplore.com/news/2026-07-automation-advances-efficient-ai-workflows.html",
+      "summary": "Your online order arrives damaged, so you request a refund. What often follows is an artificial intelligence workflow involving multiple AI models: One model checks your request against company policy, another analyzes the image you uploaded, and yet another drafts a response.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T15:00:07",
+      "score": 80
+    },
+    {
+      "title": "What will AI do for us? Young adults in lower-income countries feel more positive about its potential",
+      "link": "https://techxplore.com/news/2026-07-ai-young-adults-income-countries.html",
+      "summary": "Young people in low- and middle-income countries appear generally more optimistic about how AI can enhance their work prospects and social lives than their Western peers, according to our new survey of people in 10 countries in Africa and South Asia.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T14:40:10",
+      "score": 80
+    },
+    {
+      "title": "Holographic printer produces 3D shapes in one shot",
+      "link": "https://techxplore.com/news/2026-07-holographic-printer-3d-shot.html",
+      "summary": "University of Utah researchers have demonstrated a new method of 3D printing that avoids the leaky seams that come with the layer-by-layer process. Using a nanoscale \"mask\" that diffracts laser light into a holographic pattern of the desired shape, it fuses its print material solid in one shot. The process takes about 20 seconds, a stark contrast to the hours other laser-based printing methods can take.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T14:20:01",
+      "score": 80
+    },
+    {
+      "title": "When shareholder activists attack a company, its rivals may feel the heat too and change their ways",
+      "link": "https://techxplore.com/news/2026-07-shareholder-activists-company-rivals-ways.html",
+      "summary": "Shareholder activists are investors who leverage their ownership in a company to push for change.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T14:00:05",
+      "score": 80
+    },
+    {
+      "title": "Study links cognitive difficulties to compulsive gaming rather than gaming time itself",
+      "link": "https://techxplore.com/news/2026-07-links-cognitive-difficulties-compulsive-gaming.html",
+      "summary": "The amount of time young people spend playing video games is not enough to judge whether gaming is linked to cognitive difficulties. A new study of several thousand adolescents shows that gaming time and symptoms of Internet Gaming Disorder are associated with cognitive performance in opposite ways. While dysregulated gaming\u2014marked by loss of control, craving or continued play despite problems\u2014was consistently linked to lower performance across cognitive tests, gaming time itself showed small positive associations with selected skills.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T14:00:03",
+      "score": 80
+    },
+    {
+      "title": "Flow batteries that store energy in liquid could accelerate the green transition",
+      "link": "https://techxplore.com/news/2026-07-batteries-energy-liquid-green-transition.html",
+      "summary": "Harnessing renewable resources such as wind and solar energy is vital for the green transition. But these renewables are intermittent and unpredictable. It's impossible to control when the wind blows and when the sun shines.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-07T13:40:04",
+      "score": 80
+    },
+    {
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-07T14:00:06+00:00",
+      "score": 75
+    },
+    {
+      "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+      "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-07T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "China\u2019s AI companion rules: what Beijing is really going after",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-06T11:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+      "link": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-03T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Deploying retail AI to scale personalisation and customer insight",
+      "link": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-01T15:58:43+00:00",
+      "score": 75
+    },
+    {
+      "title": "Japan\u2019s answer to its worker shortage: An AI model for 10 million robots",
+      "link": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-01T11:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "link": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-06-29T12:22:45+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Anthropic is launching Claude Cowork on mobile and web",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+        "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-07T13:46:59-04:00",
+        "score": 105
+      },
+      {
+        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+        "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-05T10:23:11-04:00",
+        "score": 105
+      },
+      {
+        "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
+        "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-07T16:31:58-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic wants to develop its own drugs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-03T09:56:52-04:00",
+        "score": 95
+      },
+      {
+        "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+        "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+        "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-07T09:00:00-04:00",
+        "score": 85
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-07T22:18:10+00:00",
+        "score": 100
+      },
+      {
+        "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+        "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-07T20:04:32+00:00",
+        "score": 100
+      },
+      {
+        "title": "Claude Cowork expands to mobile and web",
+        "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+        "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-07T16:27:18+00:00",
+        "score": 100
+      },
+      {
+        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+        "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-08T07:16:00+00:00",
+        "score": 90
+      },
+      {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-07T19:58:20+00:00",
+        "score": 90
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-05T14:13:44",
+        "score": 95
+      },
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "New quantum algorithm solves \u201cimpossible\u201d materials problem in seconds",
+        "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+        "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quantum materials known as quasicrystals, opening the door to powerful new quantum devices and ultra-efficient electronics. The work could help scientists design advanced topological qubits and materials for future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-05-13T03:33:27",
+        "score": 95
+      },
+      {
+        "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+        "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-29T17:57:17",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-02T14:38:01+00:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+        "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-01T08:47:12+00:00",
+        "score": 95
+      },
+      {
+        "title": "Bank of England reviews AI rules for agentic AI in finance",
+        "link": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-01T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+        "link": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-07T14:00:06+00:00",
+        "score": 75
+      },
+      {
+        "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+        "link": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-07T10:00:00+00:00",
+        "score": 75
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "New field-tested design framework improves bored pile foundations in weathered rock",
+        "link": "https://techxplore.com/news/2026-07-field-framework-pile-foundations-weathered.html",
+        "summary": "Large-diameter bored piles are essential for major infrastructure, from elevated railways and long-span bridges to high-rise buildings. Yet when these piles extend into weak, weathered sedimentary rocks such as siltstone and sandstone, engineers face a persistent design challenge: the rock behaves neither like conventional soil nor like strong, intact rock. Instead, its load-bearing capacity depends heavily on in situ weathering, fracturing, and the interaction between the pile and the surrounding rock.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-07T23:20:01",
+        "score": 80
+      },
+      {
+        "title": "New motor drive design reduces heat, wear in high-power systems",
+        "link": "https://techxplore.com/news/2026-07-motor-high-power.html",
+        "summary": "Researchers at the U.S. Department of Energy's Oak Ridge National Laboratory's (ORNL) National Transportation Research Center have developed a novel electric motor drive design that meets the performance demands of aircraft, marine vessels and heavy-duty trucks while reducing excess heat and premature wear.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-07T21:20:06",
+        "score": 80
+      },
+      {
+        "title": "Model reveals grid battery wear after 500 to 1,000 cycles in days",
+        "link": "https://techxplore.com/news/2026-07-reveals-grid-battery-days.html",
+        "summary": "Energy storage is becoming critical to grid resilience and electricity affordability because battery systems can help balance supply and demand and stabilize power.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-07T15:20:03",
+        "score": 80
+      },
+      {
+        "title": "Heat waves are dangerous, but also serve as a warning of what must change",
+        "link": "https://techxplore.com/news/2026-07-dangerous.html",
+        "summary": "As another heat wave reaches the UK, it is worth asking an uncomfortable question: Is there any positive side to extreme heat?",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-07T15:00:12",
+        "score": 80
+      },
+      {
+        "title": "Automation system advances efficient AI workflows",
+        "link": "https://techxplore.com/news/2026-07-automation-advances-efficient-ai-workflows.html",
+        "summary": "Your online order arrives damaged, so you request a refund. What often follows is an artificial intelligence workflow involving multiple AI models: One model checks your request against company policy, another analyzes the image you uploaded, and yet another drafts a response.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-07T15:00:07",
+        "score": 80
+      }
+    ]
+  }
+}
