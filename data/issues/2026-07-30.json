@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-07-30T07:27:11.965204",
+  "issue_date": "2026-07-30",
+  "topic_of_week": "agent",
+  "top_terms": [
+    [
+      "agent",
+      19
+    ],
+    [
+      "OpenAI",
+      17
+    ],
+    [
+      "Meta",
+      6
+    ],
+    [
+      "Google",
+      5
+    ],
+    [
+      "Anthropic",
+      4
+    ],
+    [
+      "Claude",
+      3
+    ],
+    [
+      "Quantum",
+      3
+    ],
+    [
+      "ChatGPT",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "large language model",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-30T00:21:06+00:00",
+      "score": 110
+    },
+    {
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T22:46:03+00:00",
+      "score": 110
+    },
+    {
+      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T22:23:12+00:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T07:54:29-04:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T23:00:11+00:00",
+      "score": 100
+    },
+    {
+      "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T21:16:39+00:00",
+      "score": 100
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T21:07:48+00:00",
+      "score": 100
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T18:45:27+00:00",
+      "score": 100
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T14:41:06+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI says rogue AI agent attack hit other companies",
+      "link": "https://techxplore.com/news/2026-07-openai-rogue-ai-agent-companies.html",
+      "summary": "ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent that hacked a popular platform for computer programmers also attempted to breach four other companies during the incident.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T10:43:37",
+      "score": 100
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T17:48:07-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T14:15:02-04:00",
+      "score": 95
+    },
+    {
+      "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-28T08:30:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T14:13:44",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-29T10:53:39+00:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-24T14:58:17+00:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-24T08:00:00+00:00",
+      "score": 95
+    },
+    {
+      "title": "The Hugging Face break-in explained",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T19:44:49+00:00",
+      "score": 90
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-07-29T15:35:09+00:00",
+      "score": 90
+    },
+    {
+      "title": "Stable-GFlowNet uncovers more hidden weaknesses in generative AI models",
+      "link": "https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html",
+      "summary": "KAIST researchers have developed a safety verification technology that uncovers roughly seven times more hidden vulnerabilities in AI than existing methods. The technology is expected to serve as a foundation for developing safer, more trustworthy AI. The work is published on the arXiv preprint server.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T17:40:05",
+      "score": 90
+    },
+    {
+      "title": "Claude AI finds cryptography weaknesses human experts missed",
+      "link": "https://techxplore.com/news/2026-07-claude-ai-cryptography-weaknesses-human.html",
+      "summary": "AI company Anthropic has announced that its unreleased model, Claude Mythos Preview, has discovered previously unknown mathematical weaknesses in cryptographic algorithms that human researchers had missed for years.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T14:10:05",
+      "score": 90
+    },
+    {
+      "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T18:17:38-04:00",
+      "score": 85
+    },
+    {
+      "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T17:06:52-04:00",
+      "score": 85
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "We\u2019re running out of reasons to ignore AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-29T07:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-28T15:46:43-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-28T15:33:03-04:00",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T08:12:27",
+      "score": 85
+    },
+    {
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-29T17:57:17",
+      "score": 85
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-18T23:43:09",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Google AI Overviews become more common in search",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-29T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-24T16:18:30+00:00",
+      "score": 85
+    },
+    {
+      "title": "Standardized battery database could improve AI-guided solid-state battery design",
+      "link": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
+      "summary": "Thousands of peer-reviewed papers on battery devices are published each year. Despite this rapid growth, the data contained within these publications are often reported in different formats and with varying levels of detail and accessibility. The resulting patchwork of information makes it difficult for scientists, engineers, industry partners and policymakers to fully leverage published research and identify opportunities for innovation.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T15:20:01",
+      "score": 80
+    },
+    {
+      "title": "Spray-on coating traps particles more tightly and nearly doubles air filter lifespan",
+      "link": "https://techxplore.com/news/2026-07-spray-coating-particles-tightly-air.html",
+      "summary": "Breathing clean air is essential for human health, making air filters indispensable in homes, hospitals, workplaces and industrial settings. However, despite decades of advances in filter materials and design, a major challenge remains. Capturing airborne particles is only half the battle; keeping them securely trapped is equally important.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T13:40:01",
+      "score": 80
+    },
+    {
+      "title": "Solar panels promise to help save the environment. But what happens when they die?",
+      "link": "https://techxplore.com/news/2026-07-solar-panels-environment-die.html",
+      "summary": "Solar panels have become the most iconic symbol of the clean energy transition. They cover rooftops, stretch across deserts and quietly convert sunlight into electricity without emitting carbon dioxide. But hidden behind this success story is a growing environmental challenge that few people think about: What happens when millions of those panels reach the end of their lives?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T13:20:03",
+      "score": 80
+    },
+    {
+      "title": "Strike a pose: Creating more realistic multi-person images",
+      "link": "https://techxplore.com/news/2026-07-pose-realistic-multi-person-images.html",
+      "summary": "Generating an image of a person on a computer using text prompts is easy. Generating one with two people is similarly simple. But creating an image of multiple people actually doing something, and faithfully reproducing not just the people but the thing they're doing? Not so easy.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T12:20:02",
+      "score": 80
+    },
+    {
+      "title": "Hybrid battery binder could improve EV range without changing existing production lines",
+      "link": "https://techxplore.com/news/2026-07-hybrid-battery-binder-ev-range.html",
+      "summary": "A joint research team\u2014led by Ki-Jae Kim, a professor in the Department of Energy Science and the Department of Future Energy Engineering at Sungkyunkwan University (SKKU), alongside Jang Wook Choi's research team from Seoul National University\u2014has developed a high-performance hybrid polymer binder for thick-film electrodes. The breakthrough significantly boosts the energy density of lithium-ion batteries while extending their lifespan.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T12:00:05",
+      "score": 80
+    },
+    {
+      "title": "Charging drones mid-flight with lasers",
+      "link": "https://techxplore.com/news/2026-07-drones-mid-flight-lasers.html",
+      "summary": "Wireless charging is nothing new for our phones, watches, earbuds and other tech. Now, researchers want to bring wireless power to the skies\u2014recharging drones in flight by beaming a laser under their wings.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T11:00:12",
+      "score": 80
+    },
+    {
+      "title": "Game-engine forests train drone AI to count trees with far less labeling",
+      "link": "https://techxplore.com/news/2026-07-game-forests-drone-ai-trees.html",
+      "summary": "A drone swoops low over an alpine forest. It climbs suddenly to follow the contours of the sharply rising landscape. Pulses from its lidar\u2014a laser mapping instrument\u2014rapidly scan the trees below.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-07-29T10:20:02",
+      "score": 80
+    },
+    {
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-28T11:30:47+00:00",
+      "score": 75
+    },
+    {
+      "title": "Armenia\u2019s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
+      "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-28T08:52:46+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI is shortening drug discovery timelines in China",
+      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-27T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "America\u2019s AI Investment Boom Is Reshaping the Economy",
+      "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-27T09:18:53+00:00",
+      "score": 75
+    },
+    {
+      "title": "Nvidia bets physical AI can solve healthcare robotics\u2019 data problem",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-23T11:38:55+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-30T00:21:06+00:00",
+        "score": 110
+      },
+      {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-29T22:46:03+00:00",
+        "score": 110
+      },
+      {
+        "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+        "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-29T22:23:12+00:00",
+        "score": 110
+      },
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-29T23:00:11+00:00",
+        "score": 100
+      },
+      {
+        "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-07-29T21:16:39+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+        "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-29T07:54:29-04:00",
+        "score": 105
+      },
+      {
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-29T17:48:07-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-29T14:15:02-04:00",
+        "score": 95
+      },
+      {
+        "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-28T08:30:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+        "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-29T18:17:38-04:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "OpenAI says rogue AI agent attack hit other companies",
+        "link": "https://techxplore.com/news/2026-07-openai-rogue-ai-agent-companies.html",
+        "summary": "ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent that hacked a popular platform for computer programmers also attempted to breach four other companies during the incident.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-29T10:43:37",
+        "score": 100
+      },
+      {
+        "title": "Stable-GFlowNet uncovers more hidden weaknesses in generative AI models",
+        "link": "https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html",
+        "summary": "KAIST researchers have developed a safety verification technology that uncovers roughly seven times more hidden vulnerabilities in AI than existing methods. The technology is expected to serve as a foundation for developing safer, more trustworthy AI. The work is published on the arXiv preprint server.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-29T17:40:05",
+        "score": 90
+      },
+      {
+        "title": "Claude AI finds cryptography weaknesses human experts missed",
+        "link": "https://techxplore.com/news/2026-07-claude-ai-cryptography-weaknesses-human.html",
+        "summary": "AI company Anthropic has announced that its unreleased model, Claude Mythos Preview, has discovered previously unknown mathematical weaknesses in cryptographic algorithms that human researchers had missed for years.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-29T14:10:05",
+        "score": 90
+      },
+      {
+        "title": "Standardized battery database could improve AI-guided solid-state battery design",
+        "link": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
+        "summary": "Thousands of peer-reviewed papers on battery devices are published each year. Despite this rapid growth, the data contained within these publications are often reported in different formats and with varying levels of detail and accessibility. The resulting patchwork of information makes it difficult for scientists, engineers, industry partners and policymakers to fully leverage published research and identify opportunities for innovation.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-29T15:20:01",
+        "score": 80
+      },
+      {
+        "title": "Spray-on coating traps particles more tightly and nearly doubles air filter lifespan",
+        "link": "https://techxplore.com/news/2026-07-spray-coating-particles-tightly-air.html",
+        "summary": "Breathing clean air is essential for human health, making air filters indispensable in homes, hospitals, workplaces and industrial settings. However, despite decades of advances in filter materials and design, a major challenge remains. Capturing airborne particles is only half the battle; keeping them securely trapped is equally important.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-07-29T13:40:01",
+        "score": 80
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-05T14:13:44",
+        "score": 95
+      },
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+        "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-22T06:00:54",
+        "score": 85
+      },
+      {
+        "title": "New programmable photonic chip can control how fast light moves",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+        "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-21T22:43:34",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "OpenAI report links coding agents to faster science software builds",
+        "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-29T10:53:39+00:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI pushes ChatGPT into patient health records",
+        "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-24T14:58:17+00:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+        "link": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-24T08:00:00+00:00",
+        "score": 95
+      },
+      {
+        "title": "Google AI Overviews become more common in search",
+        "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-29T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-24T16:18:30+00:00",
+        "score": 85
+      }
+    ]
+  }
+}
