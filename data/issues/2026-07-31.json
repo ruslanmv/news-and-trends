@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:44:43.372009",
+  "generated_at": "2026-07-31T10:37:52.953025",
   "issue_date": "2026-07-31",
   "topic_of_week": "Anthropic",
   "top_terms": [
@@ -9,22 +9,22 @@
     ],
     [
       "OpenAI",
-      5
+      7
     ],
     [
       "Google",
-      5
+      6
     ],
     [
       "agent",
+      6
+    ],
+    [
+      "Meta",
       5
     ],
     [
       "RAG",
-      3
-    ],
-    [
-      "Meta",
       3
     ],
     [
@@ -226,6 +226,15 @@
       "score": 95
     },
     {
+      "title": "OpenAI report links coding agents to faster science software builds",
+      "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-29T10:53:39+00:00",
+      "score": 95
+    },
+    {
       "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
       "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
       "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
@@ -415,6 +424,42 @@
       "score": 85
     },
     {
+      "title": "Zuckerberg details Meta\u2019s personal AI superintelligence strategy",
+      "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-30T11:12:11+00:00",
+      "score": 85
+    },
+    {
+      "title": "Google AI Overviews become more common in search",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-29T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-24T16:18:30+00:00",
+      "score": 85
+    },
+    {
+      "title": "OpenAI pushes ChatGPT into patient health records",
+      "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-24T14:58:17+00:00",
+      "score": 85
+    },
+    {
       "title": "Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex",
       "link": "https://techxplore.com/news/2026-07-federal-kentucky-uranium-ai-center.html",
       "summary": "The U.S. Department of Energy is harnessing the artificial intelligence boom in its bid to convert another Cold War-era uranium enrichment site, tapping private equity to fund a $100 billion data center complex that will include its own new natural gas and battery storage power plant in Kentucky.",
@@ -494,6 +539,51 @@
       "source_weight": 80,
       "published": "2026-07-30T13:00:10",
       "score": 80
+    },
+    {
+      "title": "How AI is Changing Linux VPS Security for Businesses",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-30T10:41:02+00:00",
+      "score": 75
+    },
+    {
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
+      "link": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-28T11:30:47+00:00",
+      "score": 75
+    },
+    {
+      "title": "Armenia\u2019s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
+      "link": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-28T08:52:46+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI is shortening drug discovery timelines in China",
+      "link": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-27T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "America\u2019s AI Investment Boom Is Reshaping the Economy",
+      "link": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-07-27T09:18:53+00:00",
+      "score": 75
     }
   ],
   "by_source": {
@@ -682,6 +772,53 @@
         "source": "ScienceDaily \u2013 AI",
         "source_weight": 85,
         "published": "2026-07-13T23:12:35",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "OpenAI report links coding agents to faster science software builds",
+        "link": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-29T10:53:39+00:00",
+        "score": 95
+      },
+      {
+        "title": "Zuckerberg details Meta\u2019s personal AI superintelligence strategy",
+        "link": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-30T11:12:11+00:00",
+        "score": 85
+      },
+      {
+        "title": "Google AI Overviews become more common in search",
+        "link": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-29T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "link": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-24T16:18:30+00:00",
+        "score": 85
+      },
+      {
+        "title": "OpenAI pushes ChatGPT into patient health records",
+        "link": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-07-24T14:58:17+00:00",
         "score": 85
       }
     ],
