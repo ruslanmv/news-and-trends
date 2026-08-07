@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:04:45.571893",
+  "generated_at": "2026-08-07T08:58:40.459251",
   "issue_date": "2026-08-07",
   "topic_of_week": "OpenAI",
   "top_terms": [
@@ -29,6 +29,10 @@
     ],
     [
       "AGI",
+      2
+    ],
+    [
+      "Meta",
       2
     ],
     [
@@ -285,6 +289,15 @@
       "score": 90
     },
     {
+      "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+      "link": "https://techxplore.com/news/2026-08-meta-ai-hacked-company-adding.html",
+      "summary": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-07T02:31:37",
+      "score": 90
+    },
+    {
       "title": "Hardware-aware framework accelerates large language models without additional training",
       "link": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
       "summary": "As large language models (LLMs) become increasingly embedded in chatbots, virtual assistants, translation services, coding tools and other AI-powered applications, delivering responses quickly and efficiently has become a growing challenge. Because these models generate text one token at a time, inference can be slow and computationally expensive, particularly for larger models. While speculative decoding has emerged as a promising approach to accelerate inference, many existing methods either require additional model training or struggle to perform consistently across different hardware platforms.",
@@ -481,15 +494,6 @@
       "source_weight": 80,
       "published": "2026-08-06T13:00:08",
       "score": 80
-    },
-    {
-      "title": "Optimizing software: Computing professor's 'egg' downsizes programs to make them more nimble",
-      "link": "https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html",
-      "summary": "Many software tools, including compilers, optimizers and synthesizers, have a common task at their core. They must transform long, complicated programs into simplified equivalents. These scaled-down programs run faster and on a wider range of hardware but must deliver the same results as their original versions.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-08-06T11:40:24",
-      "score": 80
     }
   ],
   "by_source": {
@@ -683,6 +687,15 @@
     ],
     "Phys.org \u2013 Technology": [
       {
+        "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+        "link": "https://techxplore.com/news/2026-08-meta-ai-hacked-company-adding.html",
+        "summary": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-07T02:31:37",
+        "score": 90
+      },
+      {
         "title": "Hardware-aware framework accelerates large language models without additional training",
         "link": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
         "summary": "As large language models (LLMs) become increasingly embedded in chatbots, virtual assistants, translation services, coding tools and other AI-powered applications, delivering responses quickly and efficiently has become a growing challenge. Because these models generate text one token at a time, inference can be slow and computationally expensive, particularly for larger models. While speculative decoding has emerged as a promising approach to accelerate inference, many existing methods either require additional model training or struggle to perform consistently across different hardware platforms.",
@@ -716,15 +729,6 @@
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
         "published": "2026-08-06T15:40:05",
-        "score": 80
-      },
-      {
-        "title": "Chemists race to turn industrial waste into renewable resource",
-        "link": "https://techxplore.com/news/2026-08-chemists-industrial-renewable-resource.html",
-        "summary": "Researchers have developed a process for converting carbon dioxide and industrial waste into green hydrogen, reporting in a new study that turning trash into valuable mineral products could usher in a more efficient way to produce clean fuel.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-08-06T15:40:03",
         "score": 80
       }
     ]
