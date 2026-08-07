@@ -1,0 +1,732 @@
+{
+  "generated_at": "2026-08-07T06:04:45.571893",
+  "issue_date": "2026-08-07",
+  "topic_of_week": "OpenAI",
+  "top_terms": [
+    [
+      "OpenAI",
+      15
+    ],
+    [
+      "Google",
+      8
+    ],
+    [
+      "ChatGPT",
+      6
+    ],
+    [
+      "large language model",
+      4
+    ],
+    [
+      "Quantum",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "agent",
+      1
+    ],
+    [
+      "LLM",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "summary": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T12:30:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T13:00:00-04:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T22:43:53+00:00",
+      "score": 100
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T17:34:42+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "summary": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a former engineer\u2019s iCloud account after he left the company \u2014undermine its claims that the allegedly stolen information was properly protected.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T15:10:32+00:00",
+      "score": 100
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T16:55:39-04:00",
+      "score": 95
+    },
+    {
+      "title": "The messy politics behind Google\u2019s big AI shakeup",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T09:26:42-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T05:33:11-04:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T14:13:44",
+      "score": 95
+    },
+    {
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-12T06:38:54",
+      "score": 95
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-05T01:27:32",
+      "score": 95
+    },
+    {
+      "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "summary": "Taking vibe-coding a step further, Na\u00efve claims its infra can automate most of the work in setting up and running a business.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T17:00:37+00:00",
+      "score": 90
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T15:53:03+00:00",
+      "score": 90
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T13:31:57+00:00",
+      "score": 90
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T13:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-06T12:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Hardware-aware framework accelerates large language models without additional training",
+      "link": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
+      "summary": "As large language models (LLMs) become increasingly embedded in chatbots, virtual assistants, translation services, coding tools and other AI-powered applications, delivering responses quickly and efficiently has become a growing challenge. Because these models generate text one token at a time, inference can be slow and computationally expensive, particularly for larger models. While speculative decoding has emerged as a promising approach to accelerate inference, many existing methods either require additional model training or struggle to perform consistently across different hardware platforms.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T17:40:06",
+      "score": 90
+    },
+    {
+      "title": "Generative AI: Modeling a proper cuppa from a proper pot",
+      "link": "https://techxplore.com/news/2026-08-generative-ai-proper-cuppa-pot.html",
+      "summary": "The Yixing Zisha teapot sits neatly at the intersection of art, engineering and heritage. As such, it makes for an intriguing test case for a technology increasingly taking on creative tasks across almost every field of human endeavor: artificial intelligence, or AI. Research published in the International Journal of Systems, Control and Communications describes a computational system that can help AI generate new teapot designs without losing the cultural characteristics that make the craft distinctive.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T14:20:09",
+      "score": 90
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T13:39:43-04:00",
+      "score": 85
+    },
+    {
+      "title": "SoftBank donated $50 million to Trump\u2019s library months before federal data center deal",
+      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard Blumenthal (D-CT), and Rep. Melanie [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T10:30:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "The left and right agree on one thing: no data centers",
+      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "summary": "Today, I\u2019m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T10:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI bots started a religion \u2014\u00a0humans immediately followed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-06T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-05T20:25:10-04:00",
+      "score": 85
+    },
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-05T12:57:25-04:00",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T08:12:27",
+      "score": 85
+    },
+    {
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-29T17:57:17",
+      "score": 85
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-18T23:43:09",
+      "score": 85
+    },
+    {
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-10T06:52:17",
+      "score": 85
+    },
+    {
+      "title": "Four questions to know your data protection competence",
+      "link": "https://techxplore.com/news/2026-08-four-questions-to-know-your.html",
+      "summary": "The protection of personal data is now a key part of individual literacy in everyday life. Nevertheless, researchers regularly observe a contradiction among the general public, which they describe as the \"privacy paradox.\" There is often a wide gap between the concerns expressed about protecting personal data and people's actual behavior when handling such data.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T17:20:04",
+      "score": 80
+    },
+    {
+      "title": "More than half of Australian children and teens are using AI for personal reasons. This comes with risks",
+      "link": "https://techxplore.com/news/2026-08-australian-children-teens-ai-personal.html",
+      "summary": "New data released this week show 54% of Australian children and teens use artificial intelligence tools for personal and social reasons.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T15:40:05",
+      "score": 80
+    },
+    {
+      "title": "Chemists race to turn industrial waste into renewable resource",
+      "link": "https://techxplore.com/news/2026-08-chemists-industrial-renewable-resource.html",
+      "summary": "Researchers have developed a process for converting carbon dioxide and industrial waste into green hydrogen, reporting in a new study that turning trash into valuable mineral products could usher in a more efficient way to produce clean fuel.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T15:40:03",
+      "score": 80
+    },
+    {
+      "title": "Low-power AI chip cuts drone identification energy use by 88.7%",
+      "link": "https://techxplore.com/news/2026-08-power-ai-chip-drone-identification.html",
+      "summary": "Doyeon Kim, an undergraduate researcher in the Department of Electronic and Electrical Engineering, has published a paper in an academic journal. The research focuses on implementing drone artificial intelligence (AI) identification technology through low-power semiconductors. This study could dramatically improve the battery efficiency of systems that monitor unauthorized drones in real time in military and industrial environments. The research is published in the journal IEEE Transactions on Industrial Informatics.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T14:03:41",
+      "score": 80
+    },
+    {
+      "title": "Thinking about trading your car in for an EV? Here's a compelling new reason to do it now",
+      "link": "https://techxplore.com/news/2026-08-car-ev-compelling.html",
+      "summary": "In recent months, American drivers have felt the pain of increased prices at the gas pump. There's some evidence that higher prices may be fueling interest in greener ways of getting around. Battery electric cars, more commonly called electric vehicles or EVs, can be cheaper to own and operate than gas-powered internal combustion engine cars, and they offer considerable sustainability benefits. But just how much better for the planet are electric vehicles, really?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T14:00:05",
+      "score": 80
+    },
+    {
+      "title": "Pagoda-inspired floors reduce tower sway while cutting material needs",
+      "link": "https://techxplore.com/news/2026-08-pagoda-floors-tower-sway-material.html",
+      "summary": "Imperial and Arup pioneer a new approach to designing tall buildings that uses the building's own weight to reduce movement in high winds and earthquakes. Inspired by traditional Japanese pagodas, it makes towers safer while cutting carbon and construction costs.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T13:20:01",
+      "score": 80
+    },
+    {
+      "title": "Will companies ever be run by an AI CEO?",
+      "link": "https://techxplore.com/news/2026-08-companies-ai-ceo.html",
+      "summary": "OpenAI's CEO Sam Altman has speculated about how long it will take for artificial intelligence to replace senior leadership teams in organizations. \"Shame on me,\" Altman told the Conversations with Tyler podcast in November 2025, \"if OpenAI is not the first big company run by an AI CEO.\"",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T13:00:08",
+      "score": 80
+    },
+    {
+      "title": "Optimizing software: Computing professor's 'egg' downsizes programs to make them more nimble",
+      "link": "https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html",
+      "summary": "Many software tools, including compilers, optimizers and synthesizers, have a common task at their core. They must transform long, complicated programs into simplified equivalents. These scaled-down programs run faster and on a wider range of hardware but must deliver the same results as their original versions.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-06T11:40:24",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+        "summary": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-06T12:30:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+        "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-06T22:43:53+00:00",
+        "score": 100
+      },
+      {
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-06T17:34:42+00:00",
+        "score": 100
+      },
+      {
+        "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+        "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+        "summary": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a former engineer\u2019s iCloud account after he left the company \u2014undermine its claims that the allegedly stolen information was properly protected.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-06T15:10:32+00:00",
+        "score": 100
+      },
+      {
+        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+        "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+        "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-06T13:00:00+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+        "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-06T13:00:00-04:00",
+        "score": 105
+      },
+      {
+        "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-06T16:55:39-04:00",
+        "score": 95
+      },
+      {
+        "title": "The messy politics behind Google\u2019s big AI shakeup",
+        "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+        "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-06T09:26:42-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
+        "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+        "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-06T05:33:11-04:00",
+        "score": 95
+      },
+      {
+        "title": "Suno shares plans to combat spammy AI music",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+        "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-06T13:39:43-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-05T14:13:44",
+        "score": 95
+      },
+      {
+        "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+        "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon carbide transistor in a completely new way, the team made a single device behave like an energy-efficient neuron, firing electrical \u201cspikes\u201d similar to those in the human brain.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-12T06:38:54",
+        "score": 95
+      },
+      {
+        "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+        "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-06-05T01:27:32",
+        "score": 95
+      },
+      {
+        "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+        "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-22T06:00:54",
+        "score": 85
+      },
+      {
+        "title": "New programmable photonic chip can control how fast light moves",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+        "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-21T22:43:34",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Hardware-aware framework accelerates large language models without additional training",
+        "link": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
+        "summary": "As large language models (LLMs) become increasingly embedded in chatbots, virtual assistants, translation services, coding tools and other AI-powered applications, delivering responses quickly and efficiently has become a growing challenge. Because these models generate text one token at a time, inference can be slow and computationally expensive, particularly for larger models. While speculative decoding has emerged as a promising approach to accelerate inference, many existing methods either require additional model training or struggle to perform consistently across different hardware platforms.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-06T17:40:06",
+        "score": 90
+      },
+      {
+        "title": "Generative AI: Modeling a proper cuppa from a proper pot",
+        "link": "https://techxplore.com/news/2026-08-generative-ai-proper-cuppa-pot.html",
+        "summary": "The Yixing Zisha teapot sits neatly at the intersection of art, engineering and heritage. As such, it makes for an intriguing test case for a technology increasingly taking on creative tasks across almost every field of human endeavor: artificial intelligence, or AI. Research published in the International Journal of Systems, Control and Communications describes a computational system that can help AI generate new teapot designs without losing the cultural characteristics that make the craft distinctive.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-06T14:20:09",
+        "score": 90
+      },
+      {
+        "title": "Four questions to know your data protection competence",
+        "link": "https://techxplore.com/news/2026-08-four-questions-to-know-your.html",
+        "summary": "The protection of personal data is now a key part of individual literacy in everyday life. Nevertheless, researchers regularly observe a contradiction among the general public, which they describe as the \"privacy paradox.\" There is often a wide gap between the concerns expressed about protecting personal data and people's actual behavior when handling such data.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-06T17:20:04",
+        "score": 80
+      },
+      {
+        "title": "More than half of Australian children and teens are using AI for personal reasons. This comes with risks",
+        "link": "https://techxplore.com/news/2026-08-australian-children-teens-ai-personal.html",
+        "summary": "New data released this week show 54% of Australian children and teens use artificial intelligence tools for personal and social reasons.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-06T15:40:05",
+        "score": 80
+      },
+      {
+        "title": "Chemists race to turn industrial waste into renewable resource",
+        "link": "https://techxplore.com/news/2026-08-chemists-industrial-renewable-resource.html",
+        "summary": "Researchers have developed a process for converting carbon dioxide and industrial waste into green hydrogen, reporting in a new study that turning trash into valuable mineral products could usher in a more efficient way to produce clean fuel.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-06T15:40:03",
+        "score": 80
+      }
+    ]
+  }
+}
