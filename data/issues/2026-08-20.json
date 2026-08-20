@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-08-20T05:22:35.311314",
+  "issue_date": "2026-08-20",
+  "topic_of_week": "OpenAI",
+  "top_terms": [
+    [
+      "OpenAI",
+      14
+    ],
+    [
+      "Google",
+      9
+    ],
+    [
+      "Quantum",
+      8
+    ],
+    [
+      "Meta",
+      7
+    ],
+    [
+      "agent",
+      7
+    ],
+    [
+      "Gemini",
+      5
+    ],
+    [
+      "ChatGPT",
+      5
+    ],
+    [
+      "Anthropic",
+      4
+    ],
+    [
+      "RAG",
+      3
+    ],
+    [
+      "large language model",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T22:10:46+00:00",
+      "score": 110
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T19:00:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-19T15:00:00-04:00",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T18:46:14+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI says ads are coming to ChatGPT in Europe next week",
+      "link": "https://techxplore.com/news/2026-08-openai-ads-chatgpt-europe-week.html",
+      "summary": "European users of ChatGPT's free and low-cost artificial intelligence agents will start seeing ads Aug. 24 as its creator, OpenAI, expands its plan to extract more revenue from its models.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T10:20:01",
+      "score": 100
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-19T13:10:09-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-19T13:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T15:28:30-04:00",
+      "score": 95
+    },
+    {
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T08:01:29-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T07:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-14T08:56:01",
+      "score": 95
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-05T14:13:44",
+      "score": 95
+    },
+    {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-10T11:02:38+00:00",
+      "score": 95
+    },
+    {
+      "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T23:32:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T21:51:23+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T19:11:40+00:00",
+      "score": 90
+    },
+    {
+      "title": "Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn\u2019t&#160;a straightforward way to put a price on&#160;compute&#160;\u2014 or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T17:26:48+00:00",
+      "score": 90
+    },
+    {
+      "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T15:44:53+00:00",
+      "score": 90
+    },
+    {
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T15:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-19T14:09:39+00:00",
+      "score": 90
+    },
+    {
+      "title": "Turning once-troublesome protons into an energy storage resource for batteries",
+      "link": "https://techxplore.com/news/2026-08-troublesome-protons-energy-storage-resource.html",
+      "summary": "A research team led by Sarah S. Park from the Department of Chemistry (KAIST) has developed a new electrode material that sequentially stores zinc ions (Zn\u00b2\u207a) and protons in aqueous batteries. The material is based on a two-dimensional conductive metal-organic framework (MOF), a structure in which metals and organic molecules are connected to form microscopic pores.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T15:00:06",
+      "score": 90
+    },
+    {
+      "title": "Hybrid magnetic device enables quantum-inspired secure communication at room temperature",
+      "link": "https://techxplore.com/news/2026-08-hybrid-magnetic-device-enables-quantum.html",
+      "summary": "MIT researchers have overcome a major challenge holding back the real-world deployment of microwave quantum technologies for advanced signal processing and secure communications.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T13:22:50",
+      "score": 90
+    },
+    {
+      "title": "More is different when AI agent populations work together, study suggests",
+      "link": "https://techxplore.com/news/2026-08-ai-agent-populations.html",
+      "summary": "New research published in Proceedings of the National Academy of Sciences suggests that when artificial intelligence (AI) agents interact in groups, their number is not merely a technical detail. It is a decisive factor in what the group settles on: populations built from the same AI model and doing the same task can reach opposite outcomes for no other reason than that one group is larger.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T12:40:07",
+      "score": 90
+    },
+    {
+      "title": "Nvidia\u2019s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-19T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T15:48:26-04:00",
+      "score": 85
+    },
+    {
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Elon Musk broke the FAA \u2014 Palantir is picking up the pieces",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T07:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T02:41:08",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T08:12:27",
+      "score": 85
+    },
+    {
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzing images of Type Ia supernovae and modeling their environments in unprecedented detail, researchers can estimate cosmic distances with near-spectroscopic accuracy. The technique is designed for the flood of data expected from the upcoming Vera C. Rubin Observatory and may greatly improve our understanding of dark energy.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-06-29T17:57:17",
+      "score": 85
+    },
+    {
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T14:58:27+00:00",
+      "score": 85
+    },
+    {
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T12:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Google AI health coach to use Abbott glucose data",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-14T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-13T09:22:06+00:00",
+      "score": 85
+    },
+    {
+      "title": "Google tests AMIE for clinical video consultations",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-12T14:56:18+00:00",
+      "score": 85
+    },
+    {
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-11T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Laser de-icing system helps nuclear power plants improve maintenance of a critical safety system",
+      "link": "https://techxplore.com/news/2026-08-laser-de-icing-nuclear-power.html",
+      "summary": "University of South Florida engineers have developed an innovative laser-based technology that is helping nuclear power plants solve a complex maintenance challenge affecting a critical reactor safety system. After four years of research, design, and testing, the custom system has been successfully tested at two Tennessee Valley Authority nuclear plants.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T17:20:05",
+      "score": 80
+    },
+    {
+      "title": "Wearable fans could keep workers cool while reducing office energy use",
+      "link": "https://techxplore.com/news/2026-08-wearable-fans-workers-cool-office.html",
+      "summary": "Small wearable fans that cool the face and neck can keep people almost as comfortable as conventional desk fans, according to a new study from Concordia researchers. Aside from taking up less space, these lightweight alternatives also use less power and avoid unwanted drafts that can bother nearby coworkers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T17:00:07",
+      "score": 80
+    },
+    {
+      "title": "Could robots help tackle loneliness? BBC's Ann Droid raises questions about the future of care",
+      "link": "https://techxplore.com/news/2026-08-robots-tackle-loneliness-bbc-ann.html",
+      "summary": "New BBC sitcom Ann Droid imagines a near future in which robots provide care and companionship to older people at home.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T13:00:03",
+      "score": 80
+    },
+    {
+      "title": "Inexpensive reflective tiles pave the way for millimeter wave wireless communications",
+      "link": "https://techxplore.com/news/2026-08-inexpensive-tiles-pave-millimeter-wireless.html",
+      "summary": "Unlike Wi-Fi or cellular signals, millimeter-wave wireless communication channels are unable to pass through walls, furniture or other objects. This reality is part of what is holding back the implementation of millimeter-wave wireless, which is of great interest for 6G wireless systems and beyond because of its extremely large data-carrying capacity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T11:40:03",
+      "score": 80
+    },
+    {
+      "title": "'Oxygen tunnel' structure could solve 3D memory reliability problem to boost AI chip performance",
+      "link": "https://techxplore.com/news/2026-08-oxygen-tunnel-3d-memory-reliability.html",
+      "summary": "As AI systems become more advanced, memory is required to transfer larger amounts of data at higher speeds. But conventional planar semiconductor scaling is running out of room. A KAIST research team has now addressed a key weakness in three-dimensional, vertically stacked memory devices, opening a new path to faster, more power-efficient AI semiconductors.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T11:20:05",
+      "score": 80
+    },
+    {
+      "title": "Robots sort packages and serve fast food at Beijing showcase",
+      "link": "https://techxplore.com/news/2026-08-robots-packages-fast-food-beijing.html",
+      "summary": "Robots sorting parcels and serving fried chicken enthralled visitors at a robotics expo in Beijing on Wednesday, where hundreds of companies set out their pitches for a future labor market transformed by artificial intelligence.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-19T10:40:05",
+      "score": 80
+    },
+    {
+      "title": "Reading Zhipu\u2019s GLM-5.3 results past the headline number",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-14T13:30:10+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-11T07:05:55+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-19T22:10:46+00:00",
+        "score": 110
+      },
+      {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-19T19:00:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-19T18:46:14+00:00",
+        "score": 100
+      },
+      {
+        "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-19T23:32:00+00:00",
+        "score": 90
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-19T21:51:23+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Google Gemini is getting a dedicated student hub",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-19T15:00:00-04:00",
+        "score": 105
+      },
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-19T13:10:09-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta AI is getting a Mac app",
+        "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-19T13:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-18T15:28:30-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google&#8217;s Pet Memory forgot who my cats are",
+        "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+        "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-18T08:01:29-04:00",
+        "score": 95
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "OpenAI says ads are coming to ChatGPT in Europe next week",
+        "link": "https://techxplore.com/news/2026-08-openai-ads-chatgpt-europe-week.html",
+        "summary": "European users of ChatGPT's free and low-cost artificial intelligence agents will start seeing ads Aug. 24 as its creator, OpenAI, expands its plan to extract more revenue from its models.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-19T10:20:01",
+        "score": 100
+      },
+      {
+        "title": "Turning once-troublesome protons into an energy storage resource for batteries",
+        "link": "https://techxplore.com/news/2026-08-troublesome-protons-energy-storage-resource.html",
+        "summary": "A research team led by Sarah S. Park from the Department of Chemistry (KAIST) has developed a new electrode material that sequentially stores zinc ions (Zn\u00b2\u207a) and protons in aqueous batteries. The material is based on a two-dimensional conductive metal-organic framework (MOF), a structure in which metals and organic molecules are connected to form microscopic pores.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-19T15:00:06",
+        "score": 90
+      },
+      {
+        "title": "Hybrid magnetic device enables quantum-inspired secure communication at room temperature",
+        "link": "https://techxplore.com/news/2026-08-hybrid-magnetic-device-enables-quantum.html",
+        "summary": "MIT researchers have overcome a major challenge holding back the real-world deployment of microwave quantum technologies for advanced signal processing and secure communications.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-19T13:22:50",
+        "score": 90
+      },
+      {
+        "title": "More is different when AI agent populations work together, study suggests",
+        "link": "https://techxplore.com/news/2026-08-ai-agent-populations.html",
+        "summary": "New research published in Proceedings of the National Academy of Sciences suggests that when artificial intelligence (AI) agents interact in groups, their number is not merely a technical detail. It is a decisive factor in what the group settles on: populations built from the same AI model and doing the same task can reach opposite outcomes for no other reason than that one group is larger.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-19T12:40:07",
+        "score": 90
+      },
+      {
+        "title": "Laser de-icing system helps nuclear power plants improve maintenance of a critical safety system",
+        "link": "https://techxplore.com/news/2026-08-laser-de-icing-nuclear-power.html",
+        "summary": "University of South Florida engineers have developed an innovative laser-based technology that is helping nuclear power plants solve a complex maintenance challenge affecting a critical reactor safety system. After four years of research, design, and testing, the custom system has been successfully tested at two Tennessee Valley Authority nuclear plants.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-19T17:20:05",
+        "score": 80
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+        "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-14T08:56:01",
+        "score": 95
+      },
+      {
+        "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+        "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-07-05T14:13:44",
+        "score": 95
+      },
+      {
+        "title": "Scientists turn DNA into a memory device that uses 100x less power",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+        "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-17T04:06:45",
+        "score": 85
+      },
+      {
+        "title": "Tiny robots powered by light can hunt down and collect bacteria",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+        "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-18T18:21:50",
+        "score": 85
+      },
+      {
+        "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+        "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-17T02:41:08",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+        "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-10T11:02:38+00:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI president urges enterprises to hasten AI security defences",
+        "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-18T14:58:27+00:00",
+        "score": 85
+      },
+      {
+        "title": "Alvys launches AI agents for freight TMS workflows",
+        "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-18T12:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Google AI health coach to use Abbott glucose data",
+        "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-14T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "Okta targets AI agent token costs with MCP scoping",
+        "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-13T09:22:06+00:00",
+        "score": 85
+      }
+    ]
+  }
+}
