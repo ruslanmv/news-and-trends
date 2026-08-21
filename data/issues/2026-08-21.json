@@ -1,19 +1,27 @@
 {
-  "generated_at": "2026-08-21T05:24:57.989211",
+  "generated_at": "2026-08-21T08:38:59.782647",
   "issue_date": "2026-08-21",
-  "topic_of_week": "Google",
+  "topic_of_week": "OpenAI",
   "top_terms": [
+    [
+      "OpenAI",
+      9
+    ],
     [
       "Google",
       9
     ],
     [
-      "OpenAI",
-      8
-    ],
-    [
       "Quantum",
       6
+    ],
+    [
+      "ChatGPT",
+      5
+    ],
+    [
+      "agent",
+      5
     ],
     [
       "Meta",
@@ -24,23 +32,15 @@
       4
     ],
     [
-      "ChatGPT",
-      4
+      "regulation",
+      3
     ],
     [
       "Anthropic",
       2
     ],
     [
-      "agent",
-      2
-    ],
-    [
       "Gemini",
-      2
-    ],
-    [
-      "NVIDIA",
       2
     ]
   ],
@@ -217,15 +217,6 @@
       "score": 95
     },
     {
-      "title": "Nvidia\u2019s new financial strategy does not compute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-08-19T08:00:00-04:00",
-      "score": 95
-    },
-    {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
@@ -316,6 +307,15 @@
       "score": 90
     },
     {
+      "title": "How can EU battery regulations help improve global sustainability governance in other sectors?",
+      "link": "https://techxplore.com/news/2026-08-eu-battery-global-sustainability-sectors.html",
+      "summary": "In a new paper, researchers explain how EU battery regulations can help lay the groundwork for a widely shared evidentiary system for global sustainability governance.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-20T16:40:10",
+      "score": 90
+    },
+    {
       "title": "Welcome to the AI crisis in math",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "summary": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
@@ -331,6 +331,15 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-08-20T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Nvidia\u2019s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-19T08:00:00-04:00",
       "score": 85
     },
     {
@@ -415,21 +424,66 @@
       "score": 85
     },
     {
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T09:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T08:07:40+00:00",
+      "score": 85
+    },
+    {
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T08:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T07:35:07+00:00",
+      "score": 85
+    },
+    {
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T14:58:27+00:00",
+      "score": 85
+    },
+    {
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T12:00:00+00:00",
+      "score": 85
+    },
+    {
       "title": "3D-printed concrete could bring stronger storm shelters to vulnerable communities",
       "link": "https://techxplore.com/news/2026-08-3d-concrete-stronger-storm-vulnerable.html",
       "summary": "As extreme weather intensifies, Reese Greenlee is testing the limits of 3D-printed concrete to create stronger, more accessible storm shelters for vulnerable communities.",
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-08-20T18:40:05",
-      "score": 80
-    },
-    {
-      "title": "How can EU battery regulations help improve global sustainability governance in other sectors?",
-      "link": "https://techxplore.com/news/2026-08-eu-battery-global-sustainability-sectors.html",
-      "summary": "In a new paper, researchers explain how EU battery regulations can help lay the groundwork for a widely shared evidentiary system for global sustainability governance.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-08-20T16:40:10",
       "score": 80
     },
     {
@@ -494,6 +548,42 @@
       "source_weight": 80,
       "published": "2026-08-20T11:40:09",
       "score": 80
+    },
+    {
+      "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T14:05:18+00:00",
+      "score": 75
+    },
+    {
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Reading Zhipu\u2019s GLM-5.3 results past the headline number",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-18T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-14T13:30:10+00:00",
+      "score": 75
     }
   ],
   "by_source": {
@@ -696,21 +786,21 @@
         "score": 90
       },
       {
-        "title": "3D-printed concrete could bring stronger storm shelters to vulnerable communities",
-        "link": "https://techxplore.com/news/2026-08-3d-concrete-stronger-storm-vulnerable.html",
-        "summary": "As extreme weather intensifies, Reese Greenlee is testing the limits of 3D-printed concrete to create stronger, more accessible storm shelters for vulnerable communities.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-08-20T18:40:05",
-        "score": 80
-      },
-      {
         "title": "How can EU battery regulations help improve global sustainability governance in other sectors?",
         "link": "https://techxplore.com/news/2026-08-eu-battery-global-sustainability-sectors.html",
         "summary": "In a new paper, researchers explain how EU battery regulations can help lay the groundwork for a widely shared evidentiary system for global sustainability governance.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
         "published": "2026-08-20T16:40:10",
+        "score": 90
+      },
+      {
+        "title": "3D-printed concrete could bring stronger storm shelters to vulnerable communities",
+        "link": "https://techxplore.com/news/2026-08-3d-concrete-stronger-storm-vulnerable.html",
+        "summary": "As extreme weather intensifies, Reese Greenlee is testing the limits of 3D-printed concrete to create stronger, more accessible storm shelters for vulnerable communities.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-20T18:40:05",
         "score": 80
       },
       {
@@ -730,6 +820,53 @@
         "source_weight": 80,
         "published": "2026-08-20T16:00:03",
         "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+        "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-20T09:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "A third of ChatGPT ads appear in irrelevant conversations",
+        "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-20T08:07:40+00:00",
+        "score": 85
+      },
+      {
+        "title": "AI data centre regulation just got a template that needs no new law",
+        "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-20T08:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+        "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-20T07:35:07+00:00",
+        "score": 85
+      },
+      {
+        "title": "OpenAI president urges enterprises to hasten AI security defences",
+        "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-18T14:58:27+00:00",
+        "score": 85
       }
     ]
   }
