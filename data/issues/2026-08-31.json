@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-08-31T11:13:32.690510",
+  "issue_date": "2026-08-31",
+  "topic_of_week": "Anthropic",
+  "top_terms": [
+    [
+      "Anthropic",
+      9
+    ],
+    [
+      "NVIDIA",
+      6
+    ],
+    [
+      "Quantum",
+      6
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "OpenAI",
+      3
+    ],
+    [
+      "large language model",
+      2
+    ],
+    [
+      "Gemini",
+      2
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T12:15:52-04:00",
+      "score": 105
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-29T18:41:59+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-29T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-28T19:30:38+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-28T12:46:12+00:00",
+      "score": 100
+    },
+    {
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-29T14:19:53-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T23:14:06-04:00",
+      "score": 95
+    },
+    {
+      "title": "Google\u2019s AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T15:30:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "summary": "Today on Decoder, I\u2019m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company\u2019s president. While Sam Altman is the CEO and still OpenAI\u2019s most public face, Brockman has amassed [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T10:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-14T08:56:01",
+      "score": 95
+    },
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-31T02:34:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-30T16:54:25+00:00",
+      "score": 90
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-30T15:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-29T17:36:47+00:00",
+      "score": 90
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-28T20:24:11+00:00",
+      "score": 90
+    },
+    {
+      "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-08-28T18:19:40+00:00",
+      "score": 90
+    },
+    {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T11:35:10-04:00",
+      "score": 85
+    },
+    {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-29T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-28T12:28:40-04:00",
+      "score": 85
+    },
+    {
+      "title": "Hugging Face\u2019s new robot is an adorable rollerskating duck",
+      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T09:44:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Plaud is launching AI earbuds",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-27T09:11:23-04:00",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-15T06:48:03",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T08:12:27",
+      "score": 85
+    },
+    {
+      "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-27T10:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-26T09:08:11+00:00",
+      "score": 85
+    },
+    {
+      "title": "Your phone could help measure pedal force, bringing pro-style cycling analysis to everyday riders",
+      "link": "https://techxplore.com/news/2026-08-ai-everyday-riders-pros.html",
+      "summary": "Researchers from the Holsworth Biomedical Research Centre are developing AI models that use video data to estimate the forces cyclists apply to their pedals.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-31T07:00:05",
+      "score": 80
+    },
+    {
+      "title": "John Ternus to lead Apple into the age of AI",
+      "link": "https://techxplore.com/news/2026-08-john-ternus-apple-age-ai.html",
+      "summary": "John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-31T03:57:56",
+      "score": 80
+    },
+    {
+      "title": "Controlled crumples give inflatable membranes multiple stable shapes for adaptable designs",
+      "link": "https://techxplore.com/news/2026-08-crumples-inflatable-membranes-multiple-stable.html",
+      "summary": "Inflatable structures are all around us, from pool floaties and archways at the Tour de France to life-saving emergency resuscitators and vehicle airbags. As useful as these structures are, they are limited to only two stable states\u2014inflated and deflated.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-30T12:20:01",
+      "score": 80
+    },
+    {
+      "title": "Some US cities have begun rewarding careful drivers with fewer red lights",
+      "link": "https://techxplore.com/news/2026-08-cities-begun-rewarding-drivers-red.html",
+      "summary": "Officials struggled for years to curb high-speed crashes along a residential corridor cutting through Albuquerque, New Mexico, but simply punishing the lead-footed drivers didn't seem to work.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-30T05:55:49",
+      "score": 80
+    },
+    {
+      "title": "Life cycle assessment identifies cleaner biodiesel pathways across five feedstocks",
+      "link": "https://techxplore.com/news/2026-08-life-cleaner-biodiesel-pathways-feedstocks.html",
+      "summary": "To mitigate climate change and limit global warming to within 1.5\u00b0C, scaling up global renewable energy capacity is an important goal. However, the transition to clean energy faces significant resource constraints.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-29T08:00:10",
+      "score": 80
+    },
+    {
+      "title": "Shared-memory AI system lets microscope components coordinate in real time",
+      "link": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+      "summary": "Arco Bast studies how neurons communicate. Earlier this year, the Janelia postdoc encountered a more mechanical version of the same problem: The components of his custom microscope could not easily communicate with one another.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-28T15:40:04",
+      "score": 80
+    },
+    {
+      "title": "Magnetic memory could make edge AI faster while reducing energy use",
+      "link": "https://techxplore.com/news/2026-08-magnetic-memory-edge-ai-faster.html",
+      "summary": "Texas engineers teamed up with the world's largest semiconductor foundry to fabricate and test an emerging memory technology that could help meet the increasing energy demand of artificial intelligence.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-28T14:00:04",
+      "score": 80
+    },
+    {
+      "title": "Single-step process could overcome key challenge in recycling of spent EV batteries",
+      "link": "https://techxplore.com/news/2026-08-key-recycling-spent-ev-batteries.html",
+      "summary": "As the adoption of electric vehicles (EVs) continues to grow, the disposal of spent EV batteries is emerging as a major social and environmental challenge. Wastewater generated during conventional battery recycling processes can contain high concentrations of heavy metals, posing risks of soil and groundwater contamination.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-28T13:20:05",
+      "score": 80
+    },
+    {
+      "title": "Two ultrathin films turn low-grade heat into cooling without an electric motor",
+      "link": "https://techxplore.com/news/2026-08-ultrathin-grade-cooling-electric-motor.html",
+      "summary": "Refrigerators, air-conditioning systems and data centers consume enormous amounts of electricity, and cooling demand is constantly rising. A research team from the Karlsruhe Institute of Technology (KIT) and the University of Tsukuba in Japan is presenting a new approach demonstrated by a prototype in which heat assumes the role formerly played by an electric motor.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-28T13:00:10",
+      "score": 80
+    },
+    {
+      "title": "Recycled aggregates can match structural concrete strength",
+      "link": "https://techxplore.com/news/2026-08-recycled-aggregates-concrete-strength.html",
+      "summary": "A new study challenges one of the most deeply rooted assumptions in civil engineering: that using recycled materials in structural concrete inevitably means sacrificing strength. Researchers from Escuela Superior Polit\u00e9cnica del Litoral, in collaboration with the University of Surrey, have demonstrated that recycled aggregates can be incorporated into concrete without compromising performance\u2014provided certain technical limits are respected. The findings are published in the journal Construction and Building Materials.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-08-28T13:00:01",
+      "score": 80
+    },
+    {
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-26T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-25T15:46:06+00:00",
+      "score": 75
+    },
+    {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-24T15:53:53+00:00",
+      "score": 75
+    },
+    {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-21T08:41:29+00:00",
+      "score": 75
+    },
+    {
+      "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T14:05:18+00:00",
+      "score": 75
+    },
+    {
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T09:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-08-20T08:07:40+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+        "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-27T12:15:52-04:00",
+        "score": 105
+      },
+      {
+        "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-29T14:19:53-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-27T23:14:06-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google\u2019s AI note-taking app now allows you to interact with books",
+        "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+        "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-27T15:30:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI&#8217;s executive exodus has one big winner",
+        "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+        "summary": "Today on Decoder, I\u2019m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company\u2019s president. While Sam Altman is the CEO and still OpenAI\u2019s most public face, Brockman has amassed [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-27T10:00:00-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+        "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-14T08:56:01",
+        "score": 95
+      },
+      {
+        "title": "NASA just used satellites and debris to navigate without GPS",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+        "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-26T19:27:35",
+        "score": 85
+      },
+      {
+        "title": "Scientists turn DNA into a memory device that uses 100x less power",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+        "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-17T04:06:45",
+        "score": 85
+      },
+      {
+        "title": "Tiny robots powered by light can hunt down and collect bacteria",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+        "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-18T18:21:50",
+        "score": 85
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+        "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-29T18:41:59+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+        "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-29T13:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-28T19:30:38+00:00",
+        "score": 100
+      },
+      {
+        "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
+        "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-28T12:46:12+00:00",
+        "score": 100
+      },
+      {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "summary": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-08-31T02:34:00+00:00",
+        "score": 90
+      }
+    ],
+    "AI News": [
+      {
+        "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-27T10:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-26T09:08:11+00:00",
+        "score": 85
+      },
+      {
+        "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+        "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-26T10:00:00+00:00",
+        "score": 75
+      },
+      {
+        "title": "MIT AI forecasts extreme weather without historical data",
+        "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-25T15:46:06+00:00",
+        "score": 75
+      },
+      {
+        "title": "XPENG IRON humanoid robot draws record physical AI funding",
+        "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-08-24T15:53:53+00:00",
+        "score": 75
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Your phone could help measure pedal force, bringing pro-style cycling analysis to everyday riders",
+        "link": "https://techxplore.com/news/2026-08-ai-everyday-riders-pros.html",
+        "summary": "Researchers from the Holsworth Biomedical Research Centre are developing AI models that use video data to estimate the forces cyclists apply to their pedals.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-31T07:00:05",
+        "score": 80
+      },
+      {
+        "title": "John Ternus to lead Apple into the age of AI",
+        "link": "https://techxplore.com/news/2026-08-john-ternus-apple-age-ai.html",
+        "summary": "John Ternus takes over as Apple's chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-31T03:57:56",
+        "score": 80
+      },
+      {
+        "title": "Controlled crumples give inflatable membranes multiple stable shapes for adaptable designs",
+        "link": "https://techxplore.com/news/2026-08-crumples-inflatable-membranes-multiple-stable.html",
+        "summary": "Inflatable structures are all around us, from pool floaties and archways at the Tour de France to life-saving emergency resuscitators and vehicle airbags. As useful as these structures are, they are limited to only two stable states\u2014inflated and deflated.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-30T12:20:01",
+        "score": 80
+      },
+      {
+        "title": "Some US cities have begun rewarding careful drivers with fewer red lights",
+        "link": "https://techxplore.com/news/2026-08-cities-begun-rewarding-drivers-red.html",
+        "summary": "Officials struggled for years to curb high-speed crashes along a residential corridor cutting through Albuquerque, New Mexico, but simply punishing the lead-footed drivers didn't seem to work.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-30T05:55:49",
+        "score": 80
+      },
+      {
+        "title": "Life cycle assessment identifies cleaner biodiesel pathways across five feedstocks",
+        "link": "https://techxplore.com/news/2026-08-life-cleaner-biodiesel-pathways-feedstocks.html",
+        "summary": "To mitigate climate change and limit global warming to within 1.5\u00b0C, scaling up global renewable energy capacity is an important goal. However, the transition to clean energy faces significant resource constraints.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-08-29T08:00:10",
+        "score": 80
+      }
+    ]
+  }
+}
