@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-09-04T09:11:48.894143",
+  "generated_at": "2026-09-04T12:31:36.897313",
   "issue_date": "2026-09-04",
-  "topic_of_week": "OpenAI",
+  "topic_of_week": "Quantum",
   "top_terms": [
-    [
-      "OpenAI",
-      14
-    ],
     [
       "Quantum",
       11
     ],
     [
-      "Google",
+      "OpenAI",
       10
     ],
     [
-      "NVIDIA",
-      7
-    ],
-    [
-      "Gemini",
-      5
+      "Google",
+      8
     ],
     [
       "ChatGPT",
       5
     ],
     [
+      "RAG",
+      4
+    ],
+    [
+      "NVIDIA",
+      4
+    ],
+    [
+      "Generative AI",
+      3
+    ],
+    [
       "cybersecurity",
       3
     ],
     [
-      "Generative AI",
-      2
+      "Meta",
+      3
     ],
     [
       "large language model",
-      2
-    ],
-    [
-      "Meta",
       2
     ]
   ],
@@ -62,15 +62,6 @@
       "source_weight": 100,
       "published": "2024-03-12T14:15:00-07:00",
       "score": 110
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-02T16:11:40-04:00",
-      "score": 105
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -226,33 +217,6 @@
       "score": 95
     },
     {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-03T08:12:06-04:00",
-      "score": 95
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-02T12:40:50-04:00",
-      "score": 95
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-02T12:12:25-04:00",
-      "score": 95
-    },
-    {
       "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
       "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
       "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
@@ -343,12 +307,48 @@
       "score": 90
     },
     {
-      "title": "Amazon\u2019s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
+      "title": "Instagram\u2019s AI detection is a mess (again)",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
-      "published": "2026-09-02T13:52:56-04:00",
+      "published": "2026-09-04T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Why AI food looks like that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T07:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft\u2019s Project Zenith is a \u2018distraction-free Windows experience\u2019 for developers",
+      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T06:44:15-04:00",
+      "score": 85
+    },
+    {
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that\u2019s locked out paying users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T06:41:48-04:00",
+      "score": 85
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T05:41:44-04:00",
       "score": 85
     },
     {
@@ -413,6 +413,15 @@
       "source_weight": 85,
       "published": "2026-07-13T23:12:35",
       "score": 85
+    },
+    {
+      "title": "Volkswagen says it is cutting 100,000 jobs by the end of the decade",
+      "link": "https://techxplore.com/news/2026-09-volkswagen-jobs-decade.html",
+      "summary": "German car giant Volkswagen said Thursday that management and unions had agreed to cut a total of 100,000 jobs by the end of the decade, the biggest restructuring ever in the global auto industry.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-04T07:00:05",
+      "score": 80
     },
     {
       "title": "Musk launches steering-wheel-free taxi service in bet riders lose 'no control' fears and hop inside",
@@ -485,15 +494,6 @@
       "source_weight": 80,
       "published": "2026-09-03T15:00:01",
       "score": 80
-    },
-    {
-      "title": "Hugging Face, the French startup that became AI's warehouse",
-      "link": "https://techxplore.com/news/2026-09-french-startup-ai-warehouse.html",
-      "summary": "Hugging Face, the artificial intelligence platform U.S. chip giant Nvidia is buying for $12.9 billion, is a French success story\u2014founded by three Frenchmen and incubated in Paris\u2014even if its headquarters and many of its investors are American.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-03T14:40:05",
-      "score": 80
     }
   ],
   "by_source": {
@@ -544,53 +544,6 @@
         "score": 100
       }
     ],
-    "The Verge \u2013 AI": [
-      {
-        "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-        "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-02T16:11:40-04:00",
-        "score": 105
-      },
-      {
-        "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-03T14:00:00-04:00",
-        "score": 95
-      },
-      {
-        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-03T12:00:00-04:00",
-        "score": 95
-      },
-      {
-        "title": "Google now lets you chat with Gmail, Docs, and Keep",
-        "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-        "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-03T12:00:00-04:00",
-        "score": 95
-      },
-      {
-        "title": "ChatGPT, Grok, and Claude all went down at the same time",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-        "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-03T11:35:14-04:00",
-        "score": 95
-      }
-    ],
     "TechCrunch \u2013 AI": [
       {
         "title": "Meta is paying to peek at how you use their latest AI model",
@@ -636,6 +589,53 @@
         "source_weight": 90,
         "published": "2026-09-04T04:21:03+00:00",
         "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-03T14:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-03T12:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google now lets you chat with Gmail, Docs, and Keep",
+        "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+        "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-03T12:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "ChatGPT, Grok, and Claude all went down at the same time",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+        "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-03T11:35:14-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google says its AI weather model is getting better",
+        "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+        "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-03T11:00:00-04:00",
+        "score": 95
       }
     ],
     "ScienceDaily \u2013 AI": [
@@ -696,6 +696,15 @@
         "score": 90
       },
       {
+        "title": "Volkswagen says it is cutting 100,000 jobs by the end of the decade",
+        "link": "https://techxplore.com/news/2026-09-volkswagen-jobs-decade.html",
+        "summary": "German car giant Volkswagen said Thursday that management and unions had agreed to cut a total of 100,000 jobs by the end of the decade, the biggest restructuring ever in the global auto industry.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-04T07:00:05",
+        "score": 80
+      },
+      {
         "title": "Musk launches steering-wheel-free taxi service in bet riders lose 'no control' fears and hop inside",
         "link": "https://techxplore.com/news/2026-09-musk-wheel-free-taxi-riders.html",
         "summary": "Elon Musk sent dozens of self-driving Cybercabs without steering wheels or brake pedals onto the streets of Austin, Texas, on Thursday, betting that Americans will overcome their fears of rides with \"no control\" and hop inside.",
@@ -720,15 +729,6 @@
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
         "published": "2026-09-03T16:00:07",
-        "score": 80
-      },
-      {
-        "title": "Why organic chemistry may help build AI that can explain its answers",
-        "link": "https://techxplore.com/news/2026-09-chemistry-ai.html",
-        "summary": "While most believe artificial intelligence (AI) is changing science, researchers at the University of Notre Dame are exploring the reverse.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-09-03T16:00:05",
         "score": 80
       }
     ]
