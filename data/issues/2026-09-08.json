@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-09-08T09:14:34.744956",
+  "issue_date": "2026-09-08",
+  "topic_of_week": "OpenAI",
+  "top_terms": [
+    [
+      "OpenAI",
+      14
+    ],
+    [
+      "Quantum",
+      11
+    ],
+    [
+      "agent",
+      10
+    ],
+    [
+      "Generative AI",
+      4
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "RAG",
+      3
+    ],
+    [
+      "large language model",
+      2
+    ],
+    [
+      "Anthropic",
+      2
+    ],
+    [
+      "Gemini",
+      2
+    ],
+    [
+      "Meta",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-06T20:47:37+00:00",
+      "score": 110
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-05T19:35:24+00:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-04T23:15:11+00:00",
+      "score": 110
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T09:34:12-04:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-05T22:49:55+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-05T18:05:27+00:00",
+      "score": 100
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-06T19:36:04-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI admits to German wiki \u2018incident\u2019",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-05T07:15:55-04:00",
+      "score": 95
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T13:51:35-04:00",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 95
+    },
+    {
+      "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-14T08:56:01",
+      "score": 95
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-07T19:24:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-06T16:45:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-04T23:36:14+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-04T21:12:11+00:00",
+      "score": 90
+    },
+    {
+      "title": "What will Apple\u2019s John Ternus era look like?",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-04T17:18:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T12:05:57-04:00",
+      "score": 85
+    },
+    {
+      "title": "Instagram\u2019s AI detection is a mess (again)",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Why AI food looks like that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T07:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft\u2019s Project Zenith is a \u2018distraction-free Windows experience\u2019 for developers",
+      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T06:44:15-04:00",
+      "score": 85
+    },
+    {
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that\u2019s locked out paying users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T06:41:48-04:00",
+      "score": 85
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-04T05:41:44-04:00",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-15T06:48:03",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T09:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T08:50:39+00:00",
+      "score": 85
+    },
+    {
+      "title": "Australia threatens hefty fines if big tech fails 'duty of care'",
+      "link": "https://techxplore.com/news/2026-09-australia-threatens-hefty-fines-big.html",
+      "summary": "Social media giants face US$78 million fines if they fail to protect young users from harmful content, Australia's prime minister said Tuesday as he unveiled draft laws reining in big tech.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-08T04:50:01",
+      "score": 80
+    },
+    {
+      "title": "French AI firm Mistral valued at 21 billion euros after latest funding",
+      "link": "https://techxplore.com/news/2026-09-french-ai-firm-mistral-valued.html",
+      "summary": "Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the French AI firm at more than 21 billion euros.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-08T04:40:17",
+      "score": 80
+    },
+    {
+      "title": "The effects of wind, solar projects on Indiana home values",
+      "link": "https://techxplore.com/news/2026-09-effects-solar-indiana-home-values.html",
+      "summary": "A new research brief from Ball State University's Center for Business and Economic Research (CBER) finds no statistically significant negative effects on residential property values associated with proximity to large wind or utility-scale solar projects in Indiana.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T23:00:01",
+      "score": 80
+    },
+    {
+      "title": "Electrolyte additive strengthens graphite's protective layer, extending lithium-ion battery life",
+      "link": "https://techxplore.com/news/2026-09-electrolyte-additive-graphite-layer-lithium.html",
+      "summary": "Lithium-ion batteries power everything from portable electronics to electric vehicles, but their performance gradually declines as repeated charging and discharging alter the interfaces inside the cell. One particularly important interface forms on graphite, the most widely used commercial anode material.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T18:00:08",
+      "score": 80
+    },
+    {
+      "title": "New method blends real-time 3D rendering with more accurate surface geometry",
+      "link": "https://techxplore.com/news/2026-09-method-blends-real-3d-accurate.html",
+      "summary": "Reconstructing a three-dimensional object or environment from multiple photographs is a central problem in computer vision. The resulting models support applications such as robotics, augmented and virtual reality, digital twins, and cultural heritage preservation. An effective reconstruction system must represent both the visual appearance of a scene and the geometry of its surfaces. Achieving these goals simultaneously, however, remains challenging.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T16:00:05",
+      "score": 80
+    },
+    {
+      "title": "Steam-assisted method makes lightweight magnesium tougher and conductive",
+      "link": "https://techxplore.com/news/2026-09-steam-method-lightweight-magnesium-tougher.html",
+      "summary": "Magnesium alloys are attractive for advanced energy technologies because of their exceptional strength-to-weight ratio. However, despite being the lightest structural metals available, they corrode rapidly in acidic environments, while their native oxides and conventional protective coatings are electrically insulating. This combination has limited their use in demanding applications such as polymer electrolyte fuel cells (PEFCs), where components must resist corrosion while efficiently conducting electricity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T15:40:09",
+      "score": 80
+    },
+    {
+      "title": "Academics use London Tube map to model options for nuclear fuel cycle",
+      "link": "https://techxplore.com/news/2026-09-academics-london-tube-options-nuclear.html",
+      "summary": "A new review paper from the Dalton Nuclear Institute at The University of Manchester uses a Tube map design to examine how closing the nuclear fuel cycle\u2014recycling and reusing materials from used fuel\u2014improves the sustainability of nuclear energy.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T15:40:06",
+      "score": 80
+    },
+    {
+      "title": "Better AI starts with better data: Researchers identify hidden annotation errors in object detection datasets",
+      "link": "https://techxplore.com/news/2026-09-ai-hidden-annotation-errors-datasets.html",
+      "summary": "A research team led by Sung Wook Baik, a professor in the Department of Software at Sejong University, has published a comprehensive survey examining annotation errors in widely used object detection datasets and methods for identifying and validating them.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T15:20:01",
+      "score": 80
+    },
+    {
+      "title": "China's top court posts guidelines on deepfakes, AI disputes",
+      "link": "https://techxplore.com/news/2026-09-china-court-guidelines-deepfakes-ai.html",
+      "summary": "China's top court issued guidelines Monday covering a range of emerging pitfalls associated with artificial intelligence, including unauthorized deepfakes and voice cloning, state media reported.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T15:00:12",
+      "score": 80
+    },
+    {
+      "title": "AI could pose 'existential risk to humanity': UN rights chief",
+      "link": "https://techxplore.com/news/2026-09-ai-pose-existential-humanity-rights.html",
+      "summary": "The United Nations rights chief warned Monday that artificial intelligence could pose an \"existential threat to humanity,\" demanding immediate action to reduce the risks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-07T14:40:08",
+      "score": 80
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-07T13:01:23+00:00",
+      "score": 75
+    },
+    {
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-04T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-04T08:25:12+00:00",
+      "score": 75
+    },
+    {
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-03T16:07:18+00:00",
+      "score": 75
+    },
+    {
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-03T15:50:31+00:00",
+      "score": 75
+    },
+    {
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-02T15:25:12+00:00",
+      "score": 75
+    },
+    {
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-01T16:05:27+00:00",
+      "score": 75
+    },
+    {
+      "title": "Why MCP servers are becoming AI\u2019s newest attack surface",
+      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-01T07:37:26+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-06T20:47:37+00:00",
+        "score": 110
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-05T19:35:24+00:00",
+        "score": 110
+      },
+      {
+        "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-04T23:15:11+00:00",
+        "score": 110
+      },
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-05T22:49:55+00:00",
+        "score": 100
+      },
+      {
+        "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-05T18:05:27+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+        "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-04T09:34:12-04:00",
+        "score": 105
+      },
+      {
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-06T19:36:04-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI admits to German wiki \u2018incident\u2019",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-05T07:15:55-04:00",
+        "score": 95
+      },
+      {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-04T13:51:35-04:00",
+        "score": 95
+      },
+      {
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-04T12:05:57-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 95
+      },
+      {
+        "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+        "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-14T08:56:01",
+        "score": 95
+      },
+      {
+        "title": "NASA just used satellites and debris to navigate without GPS",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+        "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-26T19:27:35",
+        "score": 85
+      },
+      {
+        "title": "Scientists turn DNA into a memory device that uses 100x less power",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+        "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-17T04:06:45",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+        "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T09:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+        "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T08:50:39+00:00",
+        "score": 85
+      },
+      {
+        "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+        "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-07T13:01:23+00:00",
+        "score": 75
+      },
+      {
+        "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+        "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-04T10:00:00+00:00",
+        "score": 75
+      },
+      {
+        "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+        "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-04T08:25:12+00:00",
+        "score": 75
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Australia threatens hefty fines if big tech fails 'duty of care'",
+        "link": "https://techxplore.com/news/2026-09-australia-threatens-hefty-fines-big.html",
+        "summary": "Social media giants face US$78 million fines if they fail to protect young users from harmful content, Australia's prime minister said Tuesday as he unveiled draft laws reining in big tech.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-08T04:50:01",
+        "score": 80
+      },
+      {
+        "title": "French AI firm Mistral valued at 21 billion euros after latest funding",
+        "link": "https://techxplore.com/news/2026-09-french-ai-firm-mistral-valued.html",
+        "summary": "Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the French AI firm at more than 21 billion euros.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-08T04:40:17",
+        "score": 80
+      },
+      {
+        "title": "The effects of wind, solar projects on Indiana home values",
+        "link": "https://techxplore.com/news/2026-09-effects-solar-indiana-home-values.html",
+        "summary": "A new research brief from Ball State University's Center for Business and Economic Research (CBER) finds no statistically significant negative effects on residential property values associated with proximity to large wind or utility-scale solar projects in Indiana.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-07T23:00:01",
+        "score": 80
+      },
+      {
+        "title": "Electrolyte additive strengthens graphite's protective layer, extending lithium-ion battery life",
+        "link": "https://techxplore.com/news/2026-09-electrolyte-additive-graphite-layer-lithium.html",
+        "summary": "Lithium-ion batteries power everything from portable electronics to electric vehicles, but their performance gradually declines as repeated charging and discharging alter the interfaces inside the cell. One particularly important interface forms on graphite, the most widely used commercial anode material.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-07T18:00:08",
+        "score": 80
+      },
+      {
+        "title": "New method blends real-time 3D rendering with more accurate surface geometry",
+        "link": "https://techxplore.com/news/2026-09-method-blends-real-3d-accurate.html",
+        "summary": "Reconstructing a three-dimensional object or environment from multiple photographs is a central problem in computer vision. The resulting models support applications such as robotics, augmented and virtual reality, digital twins, and cultural heritage preservation. An effective reconstruction system must represent both the visual appearance of a scene and the geometry of its surfaces. Achieving these goals simultaneously, however, remains challenging.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-07T16:00:05",
+        "score": 80
+      }
+    ]
+  }
+}
