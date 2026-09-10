@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-09-10T09:17:32.868123",
+  "issue_date": "2026-09-10",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      11
+    ],
+    [
+      "OpenAI",
+      9
+    ],
+    [
+      "ChatGPT",
+      5
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "large language model",
+      2
+    ],
+    [
+      "Anthropic",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "Meta",
+      2
+    ],
+    [
+      "Google",
+      2
+    ],
+    [
+      "RAG",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T22:25:22+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T17:16:34-04:00",
+      "score": 95
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T05:56:28-04:00",
+      "score": 95
+    },
+    {
+      "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-08T16:53:52-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-08T16:16:09-04:00",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-14T08:56:01",
+      "score": 95
+    },
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-10T00:00:37+00:00",
+      "score": 90
+    },
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T21:43:34+00:00",
+      "score": 90
+    },
+    {
+      "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T20:24:48+00:00",
+      "score": 90
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T20:03:43+00:00",
+      "score": 90
+    },
+    {
+      "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T19:21:48+00:00",
+      "score": 90
+    },
+    {
+      "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T18:16:29+00:00",
+      "score": 90
+    },
+    {
+      "title": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T18:08:35+00:00",
+      "score": 90
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T17:36:05+00:00",
+      "score": 90
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-09T16:05:35+00:00",
+      "score": 90
+    },
+    {
+      "title": "Meta tests fact-check replacement in Latin America",
+      "link": "https://techxplore.com/news/2026-09-meta-fact-latin-america.html",
+      "summary": "Meta said Wednesday it had begun testing Community Notes in 16 Spanish-speaking countries in Latin America, a step toward replacing the professional fact-checking program it runs with partner organizations across the region.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T16:00:08",
+      "score": 90
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T17:42:19-04:00",
+      "score": 85
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T16:44:43-04:00",
+      "score": 85
+    },
+    {
+      "title": "Apple\u2019s new iPhone camera mode promises to prove your photo isn\u2019t AI",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T15:30:12-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T13:07:48-04:00",
+      "score": 85
+    },
+    {
+      "title": "Amazon Prime Video\u2019s new AI tech matches lips to dubbed audio",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T09:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T08:05:01-04:00",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-15T06:48:03",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-21T22:43:34",
+      "score": 85
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-13T23:12:35",
+      "score": 85
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T09:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T08:50:39+00:00",
+      "score": 85
+    },
+    {
+      "title": "Kill the cookie banner, digital rights groups urge EU",
+      "link": "https://techxplore.com/news/2026-09-cookie-banner-digital-rights-groups.html",
+      "summary": "It's time for the European Union to kill those pesky cookie banners seeking users' consent on websites, nearly 20 groups and academics demanded Thursday.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-10T04:20:02",
+      "score": 80
+    },
+    {
+      "title": "Chinese electric bike imports surge as Africa's EV investments diversify",
+      "link": "https://techxplore.com/news/2026-09-chinese-electric-bike-imports-surge.html",
+      "summary": "Africa's imports of electric motorcycles and three-wheelers from China rose sharply in the first half of 2026, an increase that highlights a divide in the continent's transition to electric vehicles.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-10T04:10:01",
+      "score": 80
+    },
+    {
+      "title": "New iPhones arrive, but you can keep your old phone longer by caring for it",
+      "link": "https://techxplore.com/news/2026-09-iphones-longer.html",
+      "summary": "Apple's latest iPhones, unveiled this week, come with new features, better cameras and hefty price tags\u2014including a folding model with a starting price of $1,999. If you're planning to splurge on a new iPhone 18, you will want to take care of it to make it last as long as possible.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-10T03:47:48",
+      "score": 80
+    },
+    {
+      "title": "More energy at the same weight: Researchers optimize battery cell electrodes",
+      "link": "https://techxplore.com/news/2026-09-energy-weight-optimize-battery-cell.html",
+      "summary": "Together with partners from research and industry, the Fraunhofer Institute for Solar Energy Systems ISE has modified the structure of battery electrodes so that the battery cells can store 10%\u201315% more energy at the same weight. They achieved this by more than tripling the coating thickness of the battery electrodes\u2014for example, in lithium-ion batteries\u2014which simultaneously reduces the number of current collectors in the battery cell. The research team implemented the new electrode architecture in lithium-ion pouch cells manufactured using industry-standard processes. Furthermore, they successfully applied the concept to zinc-ion and sodium-ion battery cells.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T20:20:01",
+      "score": 80
+    },
+    {
+      "title": "A stolen-phone safeguard could disrupt home alarms and block new flagship phones",
+      "link": "https://techxplore.com/news/2026-09-stolen-safeguard-disrupt-home-alarms.html",
+      "summary": "When a phone is lost or stolen, reporting it to a cellular carrier is supposed to prevent unauthorized use. Michigan State University researchers have found that weaknesses in the reporting system itself could potentially be exploited to block legitimate devices from cellular networks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T17:20:07",
+      "score": 80
+    },
+    {
+      "title": "Single-sensor AI maps quake risks across 139 points inside a nuclear power plant in real time",
+      "link": "https://techxplore.com/news/2026-09-sensor-ai-quake-nuclear-power.html",
+      "summary": "The Korea Research Institute of Standards and Science (KRISS) has developed a deep learning technology that predicts, in real time, vibrations at multiple locations inside a nuclear power plant using the signal from just a single seismometer and quantifies the risk at each location to enable the prioritization of inspections. In particular, because the AI model can be flexibly designed to match the vibration characteristics of a structure, it is expected to be widely applicable to major industrial facilities such as semiconductor plants and data centers in the future.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T16:20:07",
+      "score": 80
+    },
+    {
+      "title": "Why we should expect cyberattacks during major events",
+      "link": "https://techxplore.com/news/2026-09-cyberattacks-major-events.html",
+      "summary": "When Norway's attention turns to Oslo for the king's funeral on Wednesday, it creates a vulnerable moment in the digital sphere that hostile actors may seek to exploit. NTNU professor Basel Katt advises people to be alert.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T15:40:04",
+      "score": 80
+    },
+    {
+      "title": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
+      "link": "https://techxplore.com/news/2026-09-apple-ceo-unveils-latest-iphone.html",
+      "summary": "Apple on Wednesday unveiled its latest generation of iPhones, including a widely anticipated foldable version called Duo.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T15:35:15",
+      "score": 80
+    },
+    {
+      "title": "New software tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "link": "https://techxplore.com/news/2026-09-software-tool-users-ai-generated.html",
+      "summary": "A guiding principle for many software engineers\u2014\"What you see is what you get\" \u2014means creating programs where the content you're editing looks the same as the final product. But when you're using generative AI (genAI) systems to 3D-print, say, a mug, you'll likely get a cup that can't hold your coffee. Why is that?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-09T15:20:04",
+      "score": 80
+    },
+    {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T10:34:20+00:00",
+      "score": 75
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T08:52:19+00:00",
+      "score": 75
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T11:44:10+00:00",
+      "score": 75
+    },
+    {
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-07T13:01:23+00:00",
+      "score": 75
+    },
+    {
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-04T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-04T08:25:12+00:00",
+      "score": 75
+    },
+    {
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-03T16:07:18+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+        "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-14T08:56:01",
+        "score": 95
+      },
+      {
+        "title": "NASA just used satellites and debris to navigate without GPS",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+        "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-26T19:27:35",
+        "score": 85
+      },
+      {
+        "title": "Scientists turn DNA into a memory device that uses 100x less power",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+        "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-17T04:06:45",
+        "score": 85
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-09T22:25:22+00:00",
+        "score": 100
+      },
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-10T00:00:37+00:00",
+        "score": 90
+      },
+      {
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-09T21:43:34+00:00",
+        "score": 90
+      },
+      {
+        "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-09T20:24:48+00:00",
+        "score": 90
+      },
+      {
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-09T20:03:43+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-09T17:16:34-04:00",
+        "score": 95
+      },
+      {
+        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-09T05:56:28-04:00",
+        "score": 95
+      },
+      {
+        "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-08T16:53:52-04:00",
+        "score": 95
+      },
+      {
+        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+        "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-08T16:16:09-04:00",
+        "score": 95
+      },
+      {
+        "title": "Suno releases its first AI music model made with record industry help",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+        "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-09T17:42:19-04:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Meta tests fact-check replacement in Latin America",
+        "link": "https://techxplore.com/news/2026-09-meta-fact-latin-america.html",
+        "summary": "Meta said Wednesday it had begun testing Community Notes in 16 Spanish-speaking countries in Latin America, a step toward replacing the professional fact-checking program it runs with partner organizations across the region.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-09T16:00:08",
+        "score": 90
+      },
+      {
+        "title": "Kill the cookie banner, digital rights groups urge EU",
+        "link": "https://techxplore.com/news/2026-09-cookie-banner-digital-rights-groups.html",
+        "summary": "It's time for the European Union to kill those pesky cookie banners seeking users' consent on websites, nearly 20 groups and academics demanded Thursday.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-10T04:20:02",
+        "score": 80
+      },
+      {
+        "title": "Chinese electric bike imports surge as Africa's EV investments diversify",
+        "link": "https://techxplore.com/news/2026-09-chinese-electric-bike-imports-surge.html",
+        "summary": "Africa's imports of electric motorcycles and three-wheelers from China rose sharply in the first half of 2026, an increase that highlights a divide in the continent's transition to electric vehicles.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-10T04:10:01",
+        "score": 80
+      },
+      {
+        "title": "New iPhones arrive, but you can keep your old phone longer by caring for it",
+        "link": "https://techxplore.com/news/2026-09-iphones-longer.html",
+        "summary": "Apple's latest iPhones, unveiled this week, come with new features, better cameras and hefty price tags\u2014including a folding model with a starting price of $1,999. If you're planning to splurge on a new iPhone 18, you will want to take care of it to make it last as long as possible.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-10T03:47:48",
+        "score": 80
+      },
+      {
+        "title": "More energy at the same weight: Researchers optimize battery cell electrodes",
+        "link": "https://techxplore.com/news/2026-09-energy-weight-optimize-battery-cell.html",
+        "summary": "Together with partners from research and industry, the Fraunhofer Institute for Solar Energy Systems ISE has modified the structure of battery electrodes so that the battery cells can store 10%\u201315% more energy at the same weight. They achieved this by more than tripling the coating thickness of the battery electrodes\u2014for example, in lithium-ion batteries\u2014which simultaneously reduces the number of current collectors in the battery cell. The research team implemented the new electrode architecture in lithium-ion pouch cells manufactured using industry-standard processes. Furthermore, they successfully applied the concept to zinc-ion and sodium-ion battery cells.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-09T20:20:01",
+        "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+        "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T09:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+        "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T08:50:39+00:00",
+        "score": 85
+      },
+      {
+        "title": "CloudNC aims to accelerate AI supply chain machining",
+        "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-09T10:34:20+00:00",
+        "score": 75
+      },
+      {
+        "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+        "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-09T08:52:19+00:00",
+        "score": 75
+      },
+      {
+        "title": "Arm launches Total Design for Physical AI and robotics framework",
+        "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T11:44:10+00:00",
+        "score": 75
+      }
+    ]
+  }
+}
