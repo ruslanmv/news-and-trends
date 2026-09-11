@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:15:04.109112",
+  "generated_at": "2026-09-11T12:37:39.956036",
   "issue_date": "2026-09-11",
   "topic_of_week": "Quantum",
   "top_terms": [
@@ -8,27 +8,31 @@
       11
     ],
     [
+      "Anthropic",
+      9
+    ],
+    [
       "OpenAI",
       7
     ],
     [
-      "Anthropic",
-      7
-    ],
-    [
       "Meta",
-      6
+      5
     ],
     [
       "agent",
-      4
-    ],
-    [
-      "large language model",
-      2
+      5
     ],
     [
       "NVIDIA",
+      3
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "large language model",
       2
     ],
     [
@@ -36,24 +40,11 @@
       2
     ],
     [
-      "Generative AI",
-      1
-    ],
-    [
-      "Google",
-      1
+      "RAG",
+      2
     ]
   ],
   "articles": [
-    {
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-29T11:03:00-07:00",
-      "score": 110
-    },
     {
       "title": "Talk like a graph: Encoding graphs for large language models",
       "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
@@ -89,6 +80,15 @@
       "source_weight": 85,
       "published": "2026-08-30T10:08:13",
       "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -433,6 +433,69 @@
       "score": 85
     },
     {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-11T12:00:18+00:00",
+      "score": 85
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-10T16:34:43+00:00",
+      "score": 85
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T09:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T08:50:39+00:00",
+      "score": 85
+    },
+    {
+      "title": "First-of-its-kind X-ray imaging tool for studying nuclear materials",
+      "link": "https://techxplore.com/news/2026-09-kind-ray-imaging-tool-nuclear.html",
+      "summary": "As global energy demand continues to grow\u2014driven in part by the rise of artificial intelligence\u2014researchers are exploring technologies that can provide affordable, reliable and safe sources of electricity. Nuclear energy is one option with the potential to meet around-the-clock energy demand. But realizing the next generation of nuclear reactors requires an in-depth understanding of the materials used for nuclear fuel, reactor components and storage technologies\u2014as well as how the materials' properties change when exposed to radiation, corrosion, high temperatures and mechanical stress.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T08:00:06",
+      "score": 80
+    },
+    {
+      "title": "How cellphone data can improve the travel experience at airports",
+      "link": "https://techxplore.com/news/2026-09-cellphone-airports.html",
+      "summary": "Every time a traveler's phone pings a cell tower, it leaves a tiny digital footprint.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T07:20:05",
+      "score": 80
+    },
+    {
+      "title": "AI labs press ahead despite insiders warning advanced systems could escape control",
+      "link": "https://techxplore.com/news/2026-09-ai-labs-insiders-advanced.html",
+      "summary": "Earlier this week, researcher Jacob Coxon quit Anthropic, saying the firm and its competitors are \"gambling with our lives.\" \"We really do earnestly believe AI could kill all humans,\" added current Anthropic researcher Evan Hubinger in a post on X.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T07:00:01",
+      "score": 80
+    },
+    {
       "title": "AI-powered VR helps planners design better cities",
       "link": "https://techxplore.com/news/2026-09-ai-powered-vr-planners-cities.html",
       "summary": "Artificial intelligence (AI) combined with virtual reality (VR) could guide us through tomorrow's cities before they are even built, according to research in the International Journal of Environment and Pollution. Such models could be useful for architects, planners and policymakers.",
@@ -469,44 +532,62 @@
       "score": 80
     },
     {
-      "title": "Prepare for takeoff into smoother skies: Turbulence tool helps pilots reroute in real time",
-      "link": "https://techxplore.com/news/2026-09-takeoff-smoother-skies-turbulence-tool.html",
-      "summary": "Turbulence can make a flight unpleasant or, in severe cases, dangerous. A turbulence avoidance tool created by researchers at the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR) is making flights safer by providing pilots with information that can help them avoid turbulence in real time.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-10T16:00:09",
-      "score": 80
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-10T10:00:00+00:00",
+      "score": 75
     },
     {
-      "title": "Iron-based glass alloy designed to reduce energy losses in electric motors",
-      "link": "https://techxplore.com/news/2026-09-iron-based-glass-alloy-energy.html",
-      "summary": "Researchers from the European AM2SoftMag project have developed a new iron-based metallic glass that could lead to 3D-printed components for the manufacture of more efficient electric motors. The new alloy, designed by researchers at Saarland University (UdS) in Germany, is free of critical elements with significant social impacts, such as cobalt, and elements with unstable supply chains, such as rare earths. In addition, it can be 3D printed in a fully amorphous state and with a density exceeding 92%, giving it exceptional magnetic properties.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-10T16:00:07",
-      "score": 80
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T10:34:20+00:00",
+      "score": 75
     },
     {
-      "title": "Machine learning uncovers how battery interphases can boost lithium-ion transport",
-      "link": "https://techxplore.com/news/2026-09-machine-uncovers-battery-interphases-boost.html",
-      "summary": "Sandwiched between the electrolyte and electrodes in a lithium-ion battery is a remarkably thin layer of material that strongly dictates battery performance and durability: the interphase. Although typically only a few to tens of nanometers thick, interphases are among the least understood components of an operating battery cell. Their complex and constantly evolving structures make it challenging to determine how their atomic features and microscopic variations translate into macroscopic battery performance.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-10T15:40:17",
-      "score": 80
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T08:52:19+00:00",
+      "score": 75
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T11:44:10+00:00",
+      "score": 75
+    },
+    {
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-07T13:01:23+00:00",
+      "score": 75
     }
   ],
   "by_source": {
     "Google AI Blog": [
-      {
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-29T11:03:00-07:00",
-        "score": 110
-      },
       {
         "title": "Talk like a graph: Encoding graphs for large language models",
         "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
@@ -515,6 +596,15 @@
         "source_weight": 100,
         "published": "2024-03-12T14:15:00-07:00",
         "score": 110
+      },
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
       },
       {
         "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -714,22 +804,69 @@
         "score": 90
       },
       {
-        "title": "AI-powered VR helps planners design better cities",
-        "link": "https://techxplore.com/news/2026-09-ai-powered-vr-planners-cities.html",
-        "summary": "Artificial intelligence (AI) combined with virtual reality (VR) could guide us through tomorrow's cities before they are even built, according to research in the International Journal of Environment and Pollution. Such models could be useful for architects, planners and policymakers.",
+        "title": "First-of-its-kind X-ray imaging tool for studying nuclear materials",
+        "link": "https://techxplore.com/news/2026-09-kind-ray-imaging-tool-nuclear.html",
+        "summary": "As global energy demand continues to grow\u2014driven in part by the rise of artificial intelligence\u2014researchers are exploring technologies that can provide affordable, reliable and safe sources of electricity. Nuclear energy is one option with the potential to meet around-the-clock energy demand. But realizing the next generation of nuclear reactors requires an in-depth understanding of the materials used for nuclear fuel, reactor components and storage technologies\u2014as well as how the materials' properties change when exposed to radiation, corrosion, high temperatures and mechanical stress.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-09-10T20:20:01",
+        "published": "2026-09-11T08:00:06",
         "score": 80
       },
       {
-        "title": "The next frontier is not artificial intelligence, it's artificial societies",
-        "link": "https://techxplore.com/news/2026-09-frontier-artificial-intelligence-societies.html",
-        "summary": "There is a temptation to divide the future of AI into two possibilities: utopia or catastrophe. Neither extreme is particularly helpful.",
+        "title": "How cellphone data can improve the travel experience at airports",
+        "link": "https://techxplore.com/news/2026-09-cellphone-airports.html",
+        "summary": "Every time a traveler's phone pings a cell tower, it leaves a tiny digital footprint.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-09-10T17:40:01",
+        "published": "2026-09-11T07:20:05",
         "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+        "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-11T12:00:18+00:00",
+        "score": 85
+      },
+      {
+        "title": "Supply chains detect fast, act slow: How AI agents fix it",
+        "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-10T16:34:43+00:00",
+        "score": 85
+      },
+      {
+        "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+        "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T09:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+        "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T08:50:39+00:00",
+        "score": 85
+      },
+      {
+        "title": "JD.com expands physical AI in logistics with 3 million robots",
+        "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-10T10:00:00+00:00",
+        "score": 75
       }
     ]
   }
