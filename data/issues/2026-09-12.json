@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-09-12T08:58:02.851996",
+  "issue_date": "2026-09-12",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      14
+    ],
+    [
+      "Anthropic",
+      6
+    ],
+    [
+      "OpenAI",
+      5
+    ],
+    [
+      "Meta",
+      5
+    ],
+    [
+      "NVIDIA",
+      3
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "cybersecurity",
+      2
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T12:09:14-04:00",
+      "score": 105
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T20:57:36+00:00",
+      "score": 100
+    },
+    {
+      "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&#160; On [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T18:41:49+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T16:46:25+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-10T21:51:59+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T10:25:21-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta\u2019s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T11:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T07:00:57-04:00",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-14T08:56:01",
+      "score": 95
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T22:58:17+00:00",
+      "score": 90
+    },
+    {
+      "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T20:59:47+00:00",
+      "score": 90
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T20:33:18+00:00",
+      "score": 90
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T20:30:17+00:00",
+      "score": 90
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-11T19:35:54+00:00",
+      "score": 90
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-10T21:35:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T16:44:02-04:00",
+      "score": 85
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T17:25:21-04:00",
+      "score": 85
+    },
+    {
+      "title": "Schools are catching on to Big Tech\u2019s playbook",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T15:44:20-04:00",
+      "score": 85
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T11:38:19-04:00",
+      "score": 85
+    },
+    {
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-10T10:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-09T17:42:19-04:00",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years \u2014 the screen time result was unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+      "summary": "An eight-year Finnish study found that children who spent more time on screens tended to show better cognitive processing as teenagers, challenging common assumptions about screen use. Researchers say the key may be balancing physical activity with screen activities that encourage learning, creativity, and active thinking.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-15T06:48:03",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s new lidar chip could give self-driving cars a wider view",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another\u2019s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-07-22T06:00:54",
+      "score": 85
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-11T12:00:18+00:00",
+      "score": 85
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-10T16:34:43+00:00",
+      "score": 85
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T09:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T08:50:39+00:00",
+      "score": 85
+    },
+    {
+      "title": "Social media activity can expose politics, religion and shopping habits",
+      "link": "https://techxplore.com/news/2026-09-social-media-expose-politics-religion.html",
+      "summary": "There is a modern adage: If you don't want it on the internet, don't put it on the internet. However, a review of research into social media privacy in the International Journal of Management Concepts and Philosophy has found that legal and ethical protections are not keeping pace with the volume of personal information collected and shared online. Moreover, much inferred information that people don't deliberately share can now be gleaned by interested third parties from their social media activity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T14:20:01",
+      "score": 80
+    },
+    {
+      "title": "Weighing 600 million buildings to help construct a more efficient future",
+      "link": "https://techxplore.com/news/2026-09-million-efficient-future.html",
+      "summary": "A new study helps show how builders and city planners can minimize the materials needed to accommodate the planet's future population.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T14:00:08",
+      "score": 80
+    },
+    {
+      "title": "Laser annealing integrates optical isolators directly onto silicon photonics chips without overheating",
+      "link": "https://techxplore.com/news/2026-09-laser-annealing-optical-isolators-silicon.html",
+      "summary": "Kyocera Corporation and the Research Institute of Electrical Communication (RIEC) at Tohoku University have developed a new technology that integrates optical isolators directly onto silicon photonics chips using laser annealing, a method that applies localized heat treatment using a laser.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T12:20:07",
+      "score": 80
+    },
+    {
+      "title": "A new way to monitor methane from abandoned wells",
+      "link": "https://techxplore.com/news/2026-09-methane-abandoned-wells.html",
+      "summary": "The transition to cleaner energy is reshaping the way energy is produced and consumed. It is also redefining how engineers manage the infrastructure left behind. Across the United States, millions of abandoned oil and gas wells remain after production has ceased. As they age, some begin releasing methane through deteriorating well barriers, and those emissions can't always be traced by conventional inspection methods.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T11:40:12",
+      "score": 80
+    },
+    {
+      "title": "How randomness tames vast network problems",
+      "link": "https://techxplore.com/news/2026-09-randomness-vast-network-problems.html",
+      "summary": "Networks are everywhere. They connect computers across the internet, carry electricity through power grids and represent transport routes for moving people and goods. Yet many problems that appear to have nothing to do with networks can also be represented and solved as networks. Examples include matching passengers with drivers in a ride-hailing app or distributing computing tasks across servers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T11:40:03",
+      "score": 80
+    },
+    {
+      "title": "New fuzzing tool finds security vulnerabilities in WordPress plugins",
+      "link": "https://techxplore.com/news/2026-09-fuzzing-tool-vulnerabilities-wordpress-plugins.html",
+      "summary": "WordPress is one of the most widely used content management systems for websites. Plugins are very popular among developers and users because they allow websites to be customized with functionality tailored to individual needs.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T11:20:01",
+      "score": 80
+    },
+    {
+      "title": "Underwater solar cells can operate 10 meters below the ocean's surface",
+      "link": "https://techxplore.com/news/2026-09-underwater-solar-cells-meters-ocean.html",
+      "summary": "Scientists have taken solar cells to new depths, demonstrating that they can function 10 meters (33 feet) below the surface of the South China Sea. The study, published Sept. 11 in the journal Joule, found that solar cells could generate 324 megawatt-hours of energy\u2014enough to charge lithium-ion batteries\u2014when submerged for two hours and could operate continuously at a depth of 10 meters (33 feet) for about 5.5 years. The findings suggest that underwater solar cells may be able to power submerged sensors, cameras and communication systems far from land.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T11:00:01",
+      "score": 80
+    },
+    {
+      "title": "Get AI models 'under control,' EU tells tech firms after hacks",
+      "link": "https://techxplore.com/news/2026-09-ai-eu-tech-firms-hacks.html",
+      "summary": "Top tech firms need to get their powerful artificial intelligence models \"under control,\" the European Union warned Friday after a series of hacks by AI agents.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T09:40:07",
+      "score": 80
+    },
+    {
+      "title": "Could AI kill humanity? Experts debate risks as advanced models gain hacking capabilities",
+      "link": "https://techxplore.com/news/2026-09-ai-humanity-experts-debate-advanced.html",
+      "summary": "Stark warnings from artificial intelligence researchers that advanced forms of the technology could wipe out humanity have raised questions over whether governments are moving fast enough to regulate it.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T09:22:20",
+      "score": 80
+    },
+    {
+      "title": "The secret knitting society designing blankets and clothing with data",
+      "link": "https://techxplore.com/news/2026-09-secret-society-blankets.html",
+      "summary": "Deep within the underbellies of online forums and social media sites, a global network of passionate knitters, crocheters, sewists and stitchers is quietly pioneering a bespoke form of data visualization, conveying complex statistical ideas through artistic handmade crafts.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-11T09:20:02",
+      "score": 80
+    },
+    {
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-10T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T10:34:20+00:00",
+      "score": 75
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-09T08:52:19+00:00",
+      "score": 75
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T11:44:10+00:00",
+      "score": 75
+    },
+    {
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-08T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-07T13:01:23+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "The Verge \u2013 AI": [
+      {
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T12:09:14-04:00",
+        "score": 105
+      },
+      {
+        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T10:25:21-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta\u2019s Muse AI works and creeps me out",
+        "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-10T11:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-10T07:00:57-04:00",
+        "score": 95
+      },
+      {
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+        "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T16:44:02-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "World\u2019s first superconducting quantum heat engine could help unlock massive quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+        "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing microwave cables.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-14T08:56:01",
+        "score": 95
+      },
+      {
+        "title": "Tiny nanolaser could cut computer energy use in half",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+        "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T08:03:26",
+        "score": 85
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-11T20:57:36+00:00",
+        "score": 100
+      },
+      {
+        "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
+        "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+        "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&#160; On [&#8230;]",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-11T18:41:49+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-11T16:46:25+00:00",
+        "score": 100
+      },
+      {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-10T21:51:59+00:00",
+        "score": 100
+      },
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-11T22:58:17+00:00",
+        "score": 90
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+        "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-11T12:00:18+00:00",
+        "score": 85
+      },
+      {
+        "title": "Supply chains detect fast, act slow: How AI agents fix it",
+        "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-10T16:34:43+00:00",
+        "score": 85
+      },
+      {
+        "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+        "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T09:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+        "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-08T08:50:39+00:00",
+        "score": 85
+      },
+      {
+        "title": "JD.com expands physical AI in logistics with 3 million robots",
+        "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-10T10:00:00+00:00",
+        "score": 75
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Social media activity can expose politics, religion and shopping habits",
+        "link": "https://techxplore.com/news/2026-09-social-media-expose-politics-religion.html",
+        "summary": "There is a modern adage: If you don't want it on the internet, don't put it on the internet. However, a review of research into social media privacy in the International Journal of Management Concepts and Philosophy has found that legal and ethical protections are not keeping pace with the volume of personal information collected and shared online. Moreover, much inferred information that people don't deliberately share can now be gleaned by interested third parties from their social media activity.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-11T14:20:01",
+        "score": 80
+      },
+      {
+        "title": "Weighing 600 million buildings to help construct a more efficient future",
+        "link": "https://techxplore.com/news/2026-09-million-efficient-future.html",
+        "summary": "A new study helps show how builders and city planners can minimize the materials needed to accommodate the planet's future population.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-11T14:00:08",
+        "score": 80
+      },
+      {
+        "title": "Laser annealing integrates optical isolators directly onto silicon photonics chips without overheating",
+        "link": "https://techxplore.com/news/2026-09-laser-annealing-optical-isolators-silicon.html",
+        "summary": "Kyocera Corporation and the Research Institute of Electrical Communication (RIEC) at Tohoku University have developed a new technology that integrates optical isolators directly onto silicon photonics chips using laser annealing, a method that applies localized heat treatment using a laser.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-11T12:20:07",
+        "score": 80
+      },
+      {
+        "title": "A new way to monitor methane from abandoned wells",
+        "link": "https://techxplore.com/news/2026-09-methane-abandoned-wells.html",
+        "summary": "The transition to cleaner energy is reshaping the way energy is produced and consumed. It is also redefining how engineers manage the infrastructure left behind. Across the United States, millions of abandoned oil and gas wells remain after production has ceased. As they age, some begin releasing methane through deteriorating well barriers, and those emissions can't always be traced by conventional inspection methods.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-11T11:40:12",
+        "score": 80
+      },
+      {
+        "title": "How randomness tames vast network problems",
+        "link": "https://techxplore.com/news/2026-09-randomness-vast-network-problems.html",
+        "summary": "Networks are everywhere. They connect computers across the internet, carry electricity through power grids and represent transport routes for moving people and goods. Yet many problems that appear to have nothing to do with networks can also be represented and solved as networks. Examples include matching passengers with drivers in a ride-hailing app or distributing computing tasks across servers.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-11T11:40:03",
+        "score": 80
+      }
+    ]
+  }
+}
