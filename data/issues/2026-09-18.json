@@ -1,19 +1,15 @@
 {
-  "generated_at": "2026-09-18T09:17:59.911902",
+  "generated_at": "2026-09-18T12:43:37.011011",
   "issue_date": "2026-09-18",
   "topic_of_week": "agent",
   "top_terms": [
     [
       "agent",
-      14
+      11
     ],
     [
       "Quantum",
       10
-    ],
-    [
-      "Google",
-      7
     ],
     [
       "OpenAI",
@@ -24,27 +20,40 @@
       5
     ],
     [
-      "Claude",
+      "Anthropic",
       5
     ],
     [
-      "Anthropic",
-      5
+      "Google",
+      4
+    ],
+    [
+      "Claude",
+      4
     ],
     [
       "Meta",
       3
     ],
     [
-      "AGI",
+      "large language model",
       2
     ],
     [
-      "IBM",
+      "AGI",
       2
     ]
   ],
   "articles": [
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
     {
       "title": "Google DeepMind launches institute to widen the AGI debate",
       "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
@@ -70,24 +79,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-09-17T14:58:05-04:00",
-      "score": 105
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-16T13:00:00-04:00",
-      "score": 105
-    },
-    {
-      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-08-30T10:08:13",
       "score": 105
     },
     {
@@ -172,15 +163,6 @@
       "score": 100
     },
     {
-      "title": "Talk like a graph: Encoding graphs for large language models",
-      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-12T14:15:00-07:00",
-      "score": 100
-    },
-    {
       "title": "The fix for rogue AI agents could be more AI",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
       "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
@@ -253,6 +235,15 @@
       "score": 95
     },
     {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 95
+    },
+    {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "summary": "The round values the data center giant at $30.9 billion.",
@@ -314,6 +305,15 @@
       "source_weight": 80,
       "published": "2026-09-18T03:20:01",
       "score": 90
+    },
+    {
+      "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-18T07:00:00-04:00",
+      "score": 85
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -469,6 +469,33 @@
       "score": 85
     },
     {
+      "title": "Bio-inspired whiskers enable tiny drones to navigate in darkness using touch",
+      "link": "https://techxplore.com/news/2026-09-bio-whiskers-enable-tiny-drones.html",
+      "summary": "Rats and mice can scurry through dark, tight spaces with ease\u2014in caves, underground burrows, buildings or sewers. Their superpower is their whiskers. Now, tiny autonomous drones could soon navigate through darkness, dust and smoke using artificial whiskers inspired by these animals. Their small size limits the use of large or heavy sensors for navigation. That's why researchers at Delft University of Technology (The Netherlands) have developed a lightweight whisker-based tactile sensor that enables drones to navigate and explore their surroundings through gentle touch.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-18T08:40:04",
+      "score": 80
+    },
+    {
+      "title": "Q&A: Will AI graduate from tool to lab member?",
+      "link": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
+      "summary": "John Tsang, Ph.D., and members of his Yale lab, Jacob Kim and Ao Huang, recently asked whether AI immunologists are ready for prime time. Specifically, they were referring to large language models (LLMs) and whether they are as creative as humans in developing new hypotheses and methods for immunology research.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-18T08:00:06",
+      "score": 80
+    },
+    {
+      "title": "It's getting easier to live off\u2011grid\u2014but it comes with certain costs",
+      "link": "https://techxplore.com/news/2026-09-easier-offgrid.html",
+      "summary": "For most of Australian history, \"going off-grid\" meant living somewhere the main electricity network did not reach. Isolated communities and remote farming properties have long relied on stand-alone power systems. These typically consist of solar panels, batteries and a diesel generator, with no physical connection to the national grid.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-18T07:00:01",
+      "score": 80
+    },
+    {
       "title": "AI doomsday warnings unlikely to slow IPOs, but questions linger",
       "link": "https://techxplore.com/news/2026-09-ai-doomsday-ipos-linger.html",
       "summary": "Anthropic is expected to beat rival OpenAI to the public markets with a blockbuster IPO later this year despite recent doomsday warnings, but questions remain about their business models and whether regulators should step in.",
@@ -502,33 +529,6 @@
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-09-17T18:40:04",
-      "score": 80
-    },
-    {
-      "title": "Satellite achieves first civil authenticated position fix under spoofing conditions",
-      "link": "https://techxplore.com/news/2026-09-satellite-civil-authenticated-position-spoofing.html",
-      "summary": "Satellite navigation has become essential in our lives, and consequently, it has also become an increasingly attractive target for disruption. Interference with Global Navigation Satellite Systems (GNSS), such as jamming and spoofing, is reported daily in many regions, including in Europe, particularly in or near conflict zones.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-17T17:00:04",
-      "score": 80
-    },
-    {
-      "title": "Balancing alkalinity and strength in construction soil by optimizing aeration timing",
-      "link": "https://techxplore.com/news/2026-09-alkalinity-strength-soil-optimizing-aeration.html",
-      "summary": "Construction-generated soil is one of the largest byproduct streams from construction, yet its reuse can be limited after stabilization with cement- or lime-based binders. These binders improve workability and strength but generate calcium hydroxide, raising pore-solution pH to strongly alkaline levels that can inhibit plant growth and threaten surrounding water quality.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-17T16:00:14",
-      "score": 80
-    },
-    {
-      "title": "Can we shut down AI?",
-      "link": "https://techxplore.com/news/2026-09-ai-2.html",
-      "summary": "The debate over potential dangers posed by artificial intelligence has resurfaced in recent weeks, with researchers once again warning that the technology could end humanity and leaders of AI companies suggesting development needed to be slowed.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-17T15:40:21",
       "score": 80
     },
     {
@@ -587,6 +587,53 @@
     }
   ],
   "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
     "TechCrunch \u2013 AI": [
       {
         "title": "Google DeepMind launches institute to widen the AGI debate",
@@ -645,15 +692,6 @@
         "score": 105
       },
       {
-        "title": "Google will now let any AI agent run your smart home",
-        "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-16T13:00:00-04:00",
-        "score": 105
-      },
-      {
         "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
         "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
         "summary": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
@@ -672,6 +710,15 @@
         "score": 95
       },
       {
+        "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+        "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-18T07:00:00-04:00",
+        "score": 85
+      },
+      {
         "title": "The AI Superintelligence Slowdown",
         "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
         "summary": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it\u2019s time [&#8230;]",
@@ -679,100 +726,6 @@
         "source_weight": 85,
         "published": "2026-09-17T15:28:24-04:00",
         "score": 85
-      }
-    ],
-    "ScienceDaily \u2013 AI": [
-      {
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-08-30T10:08:13",
-        "score": 105
-      },
-      {
-        "title": "Scientists just made quantum computer operations 1,000 times faster",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-11T07:52:30",
-        "score": 95
-      },
-      {
-        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
-        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-08-31T09:08:37",
-        "score": 95
-      },
-      {
-        "title": "The shape behind the Einstein problem just revealed strange new physics",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-        "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-15T09:14:55",
-        "score": 85
-      },
-      {
-        "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-        "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-13T06:46:19",
-        "score": 85
-      }
-    ],
-    "Google AI Blog": [
-      {
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-29T11:03:00-07:00",
-        "score": 100
-      },
-      {
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-28T13:53:00-07:00",
-        "score": 100
-      },
-      {
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-20T13:54:00-07:00",
-        "score": 100
-      },
-      {
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-20T09:06:00-07:00",
-        "score": 100
-      },
-      {
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-19T13:15:00-07:00",
-        "score": 100
       }
     ],
     "Phys.org \u2013 Technology": [
@@ -804,22 +757,69 @@
         "score": 90
       },
       {
-        "title": "AI doomsday warnings unlikely to slow IPOs, but questions linger",
-        "link": "https://techxplore.com/news/2026-09-ai-doomsday-ipos-linger.html",
-        "summary": "Anthropic is expected to beat rival OpenAI to the public markets with a blockbuster IPO later this year despite recent doomsday warnings, but questions remain about their business models and whether regulators should step in.",
+        "title": "Bio-inspired whiskers enable tiny drones to navigate in darkness using touch",
+        "link": "https://techxplore.com/news/2026-09-bio-whiskers-enable-tiny-drones.html",
+        "summary": "Rats and mice can scurry through dark, tight spaces with ease\u2014in caves, underground burrows, buildings or sewers. Their superpower is their whiskers. Now, tiny autonomous drones could soon navigate through darkness, dust and smoke using artificial whiskers inspired by these animals. Their small size limits the use of large or heavy sensors for navigation. That's why researchers at Delft University of Technology (The Netherlands) have developed a lightweight whisker-based tactile sensor that enables drones to navigate and explore their surroundings through gentle touch.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-09-18T02:50:01",
+        "published": "2026-09-18T08:40:04",
         "score": 80
       },
       {
-        "title": "Why AI consciousness could become the next great societal divide",
-        "link": "https://techxplore.com/news/2026-09-ai-consciousness-great-societal.html",
-        "summary": "The debate about AI consciousness is growing in academic articles, newspaper opinion pieces and even among AI bots themselves. I doubt this is a passing wave of interest.",
+        "title": "Q&A: Will AI graduate from tool to lab member?",
+        "link": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
+        "summary": "John Tsang, Ph.D., and members of his Yale lab, Jacob Kim and Ao Huang, recently asked whether AI immunologists are ready for prime time. Specifically, they were referring to large language models (LLMs) and whether they are as creative as humans in developing new hypotheses and methods for immunology research.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-09-17T22:40:01",
+        "published": "2026-09-18T08:00:06",
         "score": 80
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 95
+      },
+      {
+        "title": "The shape behind the Einstein problem just revealed strange new physics",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+        "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-15T09:14:55",
+        "score": 85
+      },
+      {
+        "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+        "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-13T06:46:19",
+        "score": 85
       }
     ],
     "AI News": [
