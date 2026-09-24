@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-09-24T09:38:14.318647",
+  "issue_date": "2026-09-24",
+  "topic_of_week": "Meta",
+  "top_terms": [
+    [
+      "Meta",
+      26
+    ],
+    [
+      "agent",
+      16
+    ],
+    [
+      "Quantum",
+      10
+    ],
+    [
+      "Anthropic",
+      5
+    ],
+    [
+      "Claude",
+      4
+    ],
+    [
+      "Gemini",
+      4
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "ChatGPT",
+      2
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Everything new coming to Meta\u2019s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "CEO Mark Zuckerberg kicked off the company\u2019s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T01:13:32+00:00",
+      "score": 110
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T00:46:17+00:00",
+      "score": 110
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T17:00:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T05:04:18-04:00",
+      "score": 105
+    },
+    {
+      "title": "Meta\u2019s AI agent is a cute little guy who\u2019s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T15:00:00-04:00",
+      "score": 105
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T23:39:44+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T22:17:39+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
+      "link": "https://techxplore.com/news/2026-09-meta-big-wearable-ai-agent.html",
+      "summary": "Meta is going all in on a consumer-friendly AI agent and pushing forward with AI-powered wearable devices during a moment in the industry when its CEO Mark Zuckerberg acknowledged it is a \"wild time to be building.\"",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T04:17:32",
+      "score": 100
+    },
+    {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T20:15:20-04:00",
+      "score": 95
+    },
+    {
+      "title": "Muse is coming to Meta smart glasses",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T19:40:56-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T19:37:17-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T19:19:42-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T18:45:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg\u2019s next big product launch",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T18:30:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T14:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T19:31:28+00:00",
+      "score": 90
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T16:49:58+00:00",
+      "score": 90
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T15:19:30+00:00",
+      "score": 90
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "YouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T14:30:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-23T14:30:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-23T14:22:57-04:00",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-23T07:44:17+00:00",
+      "score": 85
+    },
+    {
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-21T15:32:54+00:00",
+      "score": 85
+    },
+    {
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-18T09:15:15+00:00",
+      "score": 85
+    },
+    {
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-17T11:00:00+00:00",
+      "score": 85
+    },
+    {
+      "title": "Australian PM says OpenAI hacked government health website",
+      "link": "https://techxplore.com/news/2026-09-australian-pm-openai-hacked-health.html",
+      "summary": "A rogue OpenAI model bypassed safeguards during training and hacked an Australian government website, Prime Minister Anthony Albanese said as he admonished the ChatGPT creator over an \"obviously unacceptable\" breach.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T05:20:04",
+      "score": 80
+    },
+    {
+      "title": "Bulgaria's battery boom pays off as drought hits power plants",
+      "link": "https://techxplore.com/news/2026-09-bulgaria-battery-boom-pays-drought.html",
+      "summary": "As Eastern Europe's power sector has taken a hit from a record drought, Bulgaria has benefited from building battery storage capacity alongside its rapid solar expansion.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T05:00:06",
+      "score": 80
+    },
+    {
+      "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+      "link": "https://techxplore.com/news/2026-09-coding-boom-science-grads-focus.html",
+      "summary": "Computer science student Jack Zemke was getting nowhere despite sending out hundreds of job applications that mostly disappeared into the void\u2014ignored.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T04:40:03",
+      "score": 80
+    },
+    {
+      "title": "IOS 27 comes with revamped screen time controls and other useful new features",
+      "link": "https://techxplore.com/news/2026-09-ios-revamped-screen-features.html",
+      "summary": "Apple's latest mobile operating system update, iOS 27, rolled out last week, headlined by a more advanced version of its Siri assistant. But it also comes with a slew of other useful but less well known features for iPhone users.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T04:30:01",
+      "score": 80
+    },
+    {
+      "title": "As compact as reinforced concrete, but more sustainable: Wood-based floor slab passes load test",
+      "link": "https://techxplore.com/news/2026-09-compact-concrete-sustainable-wood-based.html",
+      "summary": "Reinforced concrete floor slabs account for about 40% of buildings' embodied carbon emissions. Until now, however, there has been no practical alternative for complex, multistory buildings.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-23T23:00:01",
+      "score": 80
+    },
+    {
+      "title": "AI is finding chart success in Christian, gospel and country music",
+      "link": "https://techxplore.com/news/2026-09-ai-success-christian-gospel-country.html",
+      "summary": "In the wake of the U.S. Screen Actors Guild strike over AI protections and U.K. musicians' silent album protesting proposed changes to copyright law, more than a dozen AI-produced tracks have appeared on the Billboard charts since 2022.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-23T21:40:06",
+      "score": 80
+    },
+    {
+      "title": "Broadband distributed amplifier for data centers, measurement systems and sensors",
+      "link": "https://techxplore.com/news/2026-09-broadband-amplifier-centers-sensors.html",
+      "summary": "Modern data centers, high-precision measurement systems and high-resolution radar sensors rely on extremely broadband amplifier chips that combine low noise with high output power. Researchers at the Fraunhofer Institute for Applied Solid State Physics IAF have developed a monolithic microwave integrated circuit (MMIC) with strong performance in these areas.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-23T20:20:01",
+      "score": 80
+    },
+    {
+      "title": "South Africa's green building upgrades are rising\u2014but major cities still dominate, study finds",
+      "link": "https://techxplore.com/news/2026-09-south-africa-green-major-cities.html",
+      "summary": "When people hear the term \"green building,\" they often imagine expensive technologies, costly developments or environmentally friendly features that only wealthy buyers can afford.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-23T18:20:10",
+      "score": 80
+    },
+    {
+      "title": "Soft surfaces offer rewritable way to guide, sort and merge droplets",
+      "link": "https://techxplore.com/news/2026-09-soft-surfaces-rewritable-merge-droplets.html",
+      "summary": "Mechanical and aerospace engineering professor Anupam Pandey's research team has found that microscopic folds in soft materials can act like tiny, programmable traffic gates for liquid droplets. The folds can stop droplets, let them pass or merge them together without surface coatings or additional hardware. Remarkably, the droplets never touch the fold. They sense it from a distance and slow down, stop short or change course in response. The study is published in the Proceedings of the National Academy of Sciences.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-23T17:00:07",
+      "score": 80
+    },
+    {
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-23T13:13:15+00:00",
+      "score": 75
+    },
+    {
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-22T11:34:39+00:00",
+      "score": 75
+    },
+    {
+      "title": "Toyota\u2019s $6.4bn robotics estimate puts physical AI in focus",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-22T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-21T07:50:48+00:00",
+      "score": 75
+    },
+    {
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-18T12:49:34+00:00",
+      "score": 75
+    },
+    {
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-17T10:00:00+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Everything new coming to Meta\u2019s AI agent Muse",
+        "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "summary": "CEO Mark Zuckerberg kicked off the company\u2019s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T01:13:32+00:00",
+        "score": 110
+      },
+      {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+        "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T00:46:17+00:00",
+        "score": 110
+      },
+      {
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-23T17:00:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Meta introduces camera-free AI glasses",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-23T23:39:44+00:00",
+        "score": 100
+      },
+      {
+        "title": "Anthropic says its biology lab has already found something big",
+        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-23T22:17:39+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+        "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T05:04:18-04:00",
+        "score": 105
+      },
+      {
+        "title": "Meta\u2019s AI agent is a cute little guy who\u2019s great at spending my money",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+        "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-23T15:00:00-04:00",
+        "score": 105
+      },
+      {
+        "title": "Meta is making a standalone Muse AI gadget",
+        "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+        "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-23T20:15:20-04:00",
+        "score": 95
+      },
+      {
+        "title": "Muse is coming to Meta smart glasses",
+        "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+        "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-23T19:40:56-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+        "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-23T19:37:17-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+        "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-22T08:52:43",
+        "score": 85
+      },
+      {
+        "title": "The shape behind the Einstein problem just revealed strange new physics",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+        "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-15T09:14:55",
+        "score": 85
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
+        "link": "https://techxplore.com/news/2026-09-meta-big-wearable-ai-agent.html",
+        "summary": "Meta is going all in on a consumer-friendly AI agent and pushing forward with AI-powered wearable devices during a moment in the industry when its CEO Mark Zuckerberg acknowledged it is a \"wild time to be building.\"",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T04:17:32",
+        "score": 100
+      },
+      {
+        "title": "Australian PM says OpenAI hacked government health website",
+        "link": "https://techxplore.com/news/2026-09-australian-pm-openai-hacked-health.html",
+        "summary": "A rogue OpenAI model bypassed safeguards during training and hacked an Australian government website, Prime Minister Anthony Albanese said as he admonished the ChatGPT creator over an \"obviously unacceptable\" breach.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T05:20:04",
+        "score": 80
+      },
+      {
+        "title": "Bulgaria's battery boom pays off as drought hits power plants",
+        "link": "https://techxplore.com/news/2026-09-bulgaria-battery-boom-pays-drought.html",
+        "summary": "As Eastern Europe's power sector has taken a hit from a record drought, Bulgaria has benefited from building battery storage capacity alongside its rapid solar expansion.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T05:00:06",
+        "score": 80
+      },
+      {
+        "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+        "link": "https://techxplore.com/news/2026-09-coding-boom-science-grads-focus.html",
+        "summary": "Computer science student Jack Zemke was getting nowhere despite sending out hundreds of job applications that mostly disappeared into the void\u2014ignored.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T04:40:03",
+        "score": 80
+      },
+      {
+        "title": "IOS 27 comes with revamped screen time controls and other useful new features",
+        "link": "https://techxplore.com/news/2026-09-ios-revamped-screen-features.html",
+        "summary": "Apple's latest mobile operating system update, iOS 27, rolled out last week, headlined by a more advanced version of its Siri assistant. But it also comes with a slew of other useful but less well known features for iPhone users.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T04:30:01",
+        "score": 80
+      }
+    ],
+    "AI News": [
+      {
+        "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+        "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-23T07:44:17+00:00",
+        "score": 85
+      },
+      {
+        "title": "Multi-agent AI systems are taking over supply chain execution",
+        "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-21T15:32:54+00:00",
+        "score": 85
+      },
+      {
+        "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+        "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-18T09:15:15+00:00",
+        "score": 85
+      },
+      {
+        "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+        "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-17T11:00:00+00:00",
+        "score": 85
+      },
+      {
+        "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+        "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-23T13:13:15+00:00",
+        "score": 75
+      }
+    ]
+  }
+}
