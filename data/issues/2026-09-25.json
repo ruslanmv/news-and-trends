@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-09-25T09:55:22.757606",
+  "issue_date": "2026-09-25",
+  "topic_of_week": "Google",
+  "top_terms": [
+    [
+      "Google",
+      13
+    ],
+    [
+      "Meta",
+      11
+    ],
+    [
+      "agent",
+      10
+    ],
+    [
+      "Quantum",
+      10
+    ],
+    [
+      "Gemini",
+      9
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ],
+    [
+      "large language model",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T16:00:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T15:59:26-04:00",
+      "score": 105
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T17:39:24+00:00",
+      "score": 100
+    },
+    {
+      "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T17:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T13:52:29-04:00",
+      "score": 95
+    },
+    {
+      "title": "It\u2019s sinister that Meta\u2019s Muse AI mascot is so cute",
+      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some health [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T13:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: Instead of dialing yourself, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T12:04:31-04:00",
+      "score": 95
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T10:15:17-04:00",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "Google launches Gemini 3.8 Flash TTS voice models",
+      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-24T16:09:02+00:00",
+      "score": 95
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-25T05:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Bring your co-founder, partner, or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T19:15:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T19:00:42+00:00",
+      "score": 90
+    },
+    {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T18:11:44+00:00",
+      "score": 90
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T16:46:47+00:00",
+      "score": 90
+    },
+    {
+      "title": "ElevenLabs\u2019 CEO on margins, IPO timing, and telling customers they\u2019re talking to a bot",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that \u2014 at least until getting a machine is what everyone expects anyway.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T16:35:13+00:00",
+      "score": 90
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T16:03:36+00:00",
+      "score": 90
+    },
+    {
+      "title": "Meta shares soar after launch of Muse AI",
+      "link": "https://techxplore.com/news/2026-09-meta-soar-muse-ai.html",
+      "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent, which presents an opportunity to generate revenue beyond advertising.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-25T04:20:01",
+      "score": 90
+    },
+    {
+      "title": "Meta launches camera-free AI glasses amid privacy pushback",
+      "link": "https://techxplore.com/news/2026-09-meta-camera-free-ai-glasses.html",
+      "summary": "Meta unveiled several new wearables powered by its AI models Wednesday, including an audio-only, camera-free version of its smart glasses, amid global concerns about privacy and the filming of women and girls without their consent.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-25T03:45:51",
+      "score": 90
+    },
+    {
+      "title": "Researchers redesign carbon fiber for multifunctional energy storage",
+      "link": "https://techxplore.com/news/2026-09-redesign-carbon-fiber-multifunctional-energy.html",
+      "summary": "Imagine if your car weren't powered by a conventional battery under the hood but by energy stored in its walls or even its roof? This is a future that Dr. Bhagya Dharmasiri and her colleagues at the Deakin Institute for Frontier Materials have been exploring, bringing load-bearing structures and rechargeable energy storage together to create structural battery composites.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T07:40:06",
+      "score": 90
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T14:04:44-04:00",
+      "score": 85
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T13:14:12-04:00",
+      "score": 85
+    },
+    {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T13:10:38-04:00",
+      "score": 85
+    },
+    {
+      "title": "Why can\u2019t we just keep rogue AIs off the internet?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T10:30:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-24T10:15:05-04:00",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Tiny robots powered by light can hunt down and collect bacteria",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
+      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny \u201ccleaners\u201d could open new possibilities for manipulating cells and microbes with remarkable precision.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-18T18:21:50",
+      "score": 85
+    },
+    {
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-23T07:44:17+00:00",
+      "score": 85
+    },
+    {
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-21T15:32:54+00:00",
+      "score": 85
+    },
+    {
+      "title": "Stress-assisted conductivity retention in high-iodine LiBH\u2084 thin films",
+      "link": "https://techxplore.com/news/2026-09-stress-retention-high-iodine-libh.html",
+      "summary": "All-solid-state lithium batteries require solid materials that allow lithium ions to move efficiently. Lithium borohydride (LiBH\u2084) is a promising material for this purpose because its high-temperature hexagonal phase supports rapid lithium-ion transport.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T18:00:01",
+      "score": 80
+    },
+    {
+      "title": "Engineers connect health wearables and implants using the body as the network",
+      "link": "https://techxplore.com/news/2026-09-health-wearables-implants-body-network.html",
+      "summary": "Using the human body to transmit signals, Georgia Tech engineers have created a wireless networking system that allows tiny implantable sensors and actuators to communicate with each other and with wearable devices. Their system means devices can work together like never before, sensing in one part of the body and triggering a therapeutic response elsewhere\u2014perhaps releasing medicine or stimulating a nerve.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T14:00:01",
+      "score": 80
+    },
+    {
+      "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging",
+      "link": "https://techxplore.com/news/2026-09-chinese-auto-companies-ev-technology.html",
+      "summary": "Chinese electric vehicles' ultrafast charging is only getting faster.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T10:40:14",
+      "score": 80
+    },
+    {
+      "title": "Making AI more trustworthy by making it red-flag its own doubtful answers",
+      "link": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
+      "summary": "Artificial intelligence models can give users the wrong answer and do so with great confidence. They can also hedge and warn that they are unsure\u2014even when they get the answer right.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T10:20:06",
+      "score": 80
+    },
+    {
+      "title": "NASA modernizes commercial airline systems",
+      "link": "https://techxplore.com/news/2026-09-nasa-modernizes-commercial-airline.html",
+      "summary": "NASA researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent and, hopefully, an early arrival.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T08:20:06",
+      "score": 80
+    },
+    {
+      "title": "Unlocking sulfur's third electron boosts lithium-sulfur battery voltage and capacity",
+      "link": "https://techxplore.com/news/2026-09-sulfur-electron-boosts-lithium-battery.html",
+      "summary": "While lithium-ion batteries (LIBs) remain the most widely used rechargeable batteries worldwide, energy engineers have been testing various alternatives with different underlying chemistries. These include lithium-sulfur batteries, which store and release energy by moving lithium ions between two electrodes on opposite sides of a cell, while sulfur undergoes reactions in the cathode (i.e., positive electrode).",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T08:20:01",
+      "score": 80
+    },
+    {
+      "title": "Teaching radar to read motion in traffic scenes",
+      "link": "https://techxplore.com/news/2026-09-radar-motion-traffic-scenes.html",
+      "summary": "Autonomous vehicles and robots need to understand not only what is around them, but how objects and people are moving. A cyclist crossing the road, a car slowing down, a pedestrian stepping off the curb, and a parked vehicle all create different motion cues that a machine must interpret quickly and accurately.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-24T08:00:06",
+      "score": 80
+    },
+    {
+      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+      "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-25T08:03:06+00:00",
+      "score": 75
+    },
+    {
+      "title": "How to Add AI to Legacy Software Without Rebuilding It",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-25T07:43:32+00:00",
+      "score": 75
+    },
+    {
+      "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
+      "link": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-25T07:12:31+00:00",
+      "score": 75
+    },
+    {
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-23T13:13:15+00:00",
+      "score": 75
+    },
+    {
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-22T11:34:39+00:00",
+      "score": 75
+    },
+    {
+      "title": "Toyota\u2019s $6.4bn robotics estimate puts physical AI in focus",
+      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-22T10:00:00+00:00",
+      "score": 75
+    },
+    {
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "summary": "",
+      "source": "AI News",
+      "source_weight": 75,
+      "published": "2026-09-21T07:50:48+00:00",
+      "score": 75
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Google tests letting Gemini call businesses for you",
+        "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T16:00:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+        "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T17:39:24+00:00",
+        "score": 100
+      },
+      {
+        "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+        "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+        "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T17:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-25T05:00:00+00:00",
+        "score": 90
+      },
+      {
+        "title": "Bring your co-founder, partner, or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T19:15:00+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T15:59:26-04:00",
+        "score": 105
+      },
+      {
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T13:52:29-04:00",
+        "score": 95
+      },
+      {
+        "title": "It\u2019s sinister that Meta\u2019s Muse AI mascot is so cute",
+        "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some health [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T13:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Gemini can now call businesses for you so you don\u2019t have to wait on hold",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+        "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: Instead of dialing yourself, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T12:04:31-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google is sending an AI satellite into space next week",
+        "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+        "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-24T10:15:17-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+        "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-22T08:52:43",
+        "score": 85
+      },
+      {
+        "title": "The shape behind the Einstein problem just revealed strange new physics",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+        "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-15T09:14:55",
+        "score": 85
+      }
+    ],
+    "AI News": [
+      {
+        "title": "Google launches Gemini 3.8 Flash TTS voice models",
+        "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-24T16:09:02+00:00",
+        "score": 95
+      },
+      {
+        "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+        "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-23T07:44:17+00:00",
+        "score": 85
+      },
+      {
+        "title": "Multi-agent AI systems are taking over supply chain execution",
+        "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-21T15:32:54+00:00",
+        "score": 85
+      },
+      {
+        "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
+        "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-25T08:03:06+00:00",
+        "score": 75
+      },
+      {
+        "title": "How to Add AI to Legacy Software Without Rebuilding It",
+        "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
+        "summary": "",
+        "source": "AI News",
+        "source_weight": 75,
+        "published": "2026-09-25T07:43:32+00:00",
+        "score": 75
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Meta shares soar after launch of Muse AI",
+        "link": "https://techxplore.com/news/2026-09-meta-soar-muse-ai.html",
+        "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent, which presents an opportunity to generate revenue beyond advertising.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-25T04:20:01",
+        "score": 90
+      },
+      {
+        "title": "Meta launches camera-free AI glasses amid privacy pushback",
+        "link": "https://techxplore.com/news/2026-09-meta-camera-free-ai-glasses.html",
+        "summary": "Meta unveiled several new wearables powered by its AI models Wednesday, including an audio-only, camera-free version of its smart glasses, amid global concerns about privacy and the filming of women and girls without their consent.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-25T03:45:51",
+        "score": 90
+      },
+      {
+        "title": "Researchers redesign carbon fiber for multifunctional energy storage",
+        "link": "https://techxplore.com/news/2026-09-redesign-carbon-fiber-multifunctional-energy.html",
+        "summary": "Imagine if your car weren't powered by a conventional battery under the hood but by energy stored in its walls or even its roof? This is a future that Dr. Bhagya Dharmasiri and her colleagues at the Deakin Institute for Frontier Materials have been exploring, bringing load-bearing structures and rechargeable energy storage together to create structural battery composites.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T07:40:06",
+        "score": 90
+      },
+      {
+        "title": "Stress-assisted conductivity retention in high-iodine LiBH\u2084 thin films",
+        "link": "https://techxplore.com/news/2026-09-stress-retention-high-iodine-libh.html",
+        "summary": "All-solid-state lithium batteries require solid materials that allow lithium ions to move efficiently. Lithium borohydride (LiBH\u2084) is a promising material for this purpose because its high-temperature hexagonal phase supports rapid lithium-ion transport.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T18:00:01",
+        "score": 80
+      },
+      {
+        "title": "Engineers connect health wearables and implants using the body as the network",
+        "link": "https://techxplore.com/news/2026-09-health-wearables-implants-body-network.html",
+        "summary": "Using the human body to transmit signals, Georgia Tech engineers have created a wireless networking system that allows tiny implantable sensors and actuators to communicate with each other and with wearable devices. Their system means devices can work together like never before, sensing in one part of the body and triggering a therapeutic response elsewhere\u2014perhaps releasing medicine or stimulating a nerve.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-24T14:00:01",
+        "score": 80
+      }
+    ]
+  }
+}
