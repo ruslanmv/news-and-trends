@@ -1,38 +1,30 @@
 {
-  "generated_at": "2026-09-25T09:55:22.757606",
+  "generated_at": "2026-09-25T13:16:26.258345",
   "issue_date": "2026-09-25",
-  "topic_of_week": "Google",
+  "topic_of_week": "Meta",
   "top_terms": [
-    [
-      "Google",
-      13
-    ],
     [
       "Meta",
       11
-    ],
-    [
-      "agent",
-      10
     ],
     [
       "Quantum",
       10
     ],
     [
-      "Gemini",
+      "Google",
       9
     ],
     [
-      "AGI",
-      2
+      "agent",
+      9
+    ],
+    [
+      "Gemini",
+      8
     ],
     [
       "IBM",
-      2
-    ],
-    [
-      "RAG",
       2
     ],
     [
@@ -41,6 +33,14 @@
     ],
     [
       "large language model",
+      1
+    ],
+    [
+      "LLM",
+      1
+    ],
+    [
+      "NVIDIA",
       1
     ]
   ],
@@ -163,6 +163,15 @@
       "score": 100
     },
     {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-24T19:00:42+00:00",
+      "score": 100
+    },
+    {
       "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
       "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
@@ -179,6 +188,15 @@
       "source_weight": 90,
       "published": "2026-09-24T17:00:00+00:00",
       "score": 100
+    },
+    {
+      "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T09:00:00-04:00",
+      "score": 95
     },
     {
       "title": "Meta is going to let you build games with AI right on your phone",
@@ -208,15 +226,6 @@
       "score": 95
     },
     {
-      "title": "Google is sending an AI satellite into space next week",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-24T10:15:17-04:00",
-      "score": 95
-    },
-    {
       "title": "Scientists just made quantum computer operations 1,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
       "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
@@ -235,15 +244,6 @@
       "score": 95
     },
     {
-      "title": "Google launches Gemini 3.8 Flash TTS voice models",
-      "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-24T16:09:02+00:00",
-      "score": 95
-    },
-    {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
@@ -259,15 +259,6 @@
       "source": "TechCrunch \u2013 AI",
       "source_weight": 90,
       "published": "2026-09-24T19:15:00+00:00",
-      "score": 90
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-09-24T19:00:42+00:00",
       "score": 90
     },
     {
@@ -325,13 +316,13 @@
       "score": 90
     },
     {
-      "title": "Researchers redesign carbon fiber for multifunctional energy storage",
-      "link": "https://techxplore.com/news/2026-09-redesign-carbon-fiber-multifunctional-energy.html",
-      "summary": "Imagine if your car weren't powered by a conventional battery under the hood but by energy stored in its walls or even its roof? This is a future that Dr. Bhagya Dharmasiri and her colleagues at the Deakin Institute for Frontier Materials have been exploring, bringing load-bearing structures and rechargeable energy storage together to create structural battery composites.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-09-24T07:40:06",
-      "score": 90
+      "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T08:00:00-04:00",
+      "score": 85
     },
     {
       "title": "Jensen Huang talks about AI and climate change like a supervillain",
@@ -367,15 +358,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-09-24T10:30:00-04:00",
-      "score": 85
-    },
-    {
-      "title": "The vibes are bad for Flock in Washington",
-      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-24T10:15:05-04:00",
       "score": 85
     },
     {
@@ -442,22 +424,13 @@
       "score": 85
     },
     {
-      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
-      "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-23T07:44:17+00:00",
-      "score": 85
-    },
-    {
-      "title": "Multi-agent AI systems are taking over supply chain execution",
-      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-21T15:32:54+00:00",
-      "score": 85
+      "title": "Mkcheck2: A highly efficient and accurate approach for build dependency verification",
+      "link": "https://techxplore.com/news/2026-09-mkcheck2-highly-efficient-accurate-approach.html",
+      "summary": "Before users can interact with computer software, its source code must be converted into executable binaries and software packages, a task handled by specialized tools known as build systems. Build systems are a fundamental component of modern software development. They have evolved into complex distributed systems that manage dependencies, optimize resources and ensure correctness across large-scale projects. Studies have shown that build maintenance can consume up to 27% of a developer's time in large projects.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-25T07:20:01",
+      "score": 80
     },
     {
       "title": "Stress-assisted conductivity retention in high-iodine LiBH\u2084 thin films",
@@ -521,69 +494,6 @@
       "source_weight": 80,
       "published": "2026-09-24T08:00:06",
       "score": 80
-    },
-    {
-      "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-      "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-25T08:03:06+00:00",
-      "score": 75
-    },
-    {
-      "title": "How to Add AI to Legacy Software Without Rebuilding It",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-25T07:43:32+00:00",
-      "score": 75
-    },
-    {
-      "title": "7 AI-Powered Document Fraud Detection Tools for Enterprise Onboarding",
-      "link": "https://www.artificialintelligence-news.com/news/7-ai-powered-document-fraud-detection-tools-for-enterprise-onboarding/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-25T07:12:31+00:00",
-      "score": 75
-    },
-    {
-      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
-      "link": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-23T13:13:15+00:00",
-      "score": 75
-    },
-    {
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-22T11:34:39+00:00",
-      "score": 75
-    },
-    {
-      "title": "Toyota\u2019s $6.4bn robotics estimate puts physical AI in focus",
-      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-22T10:00:00+00:00",
-      "score": 75
-    },
-    {
-      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
-      "summary": "",
-      "source": "AI News",
-      "source_weight": 75,
-      "published": "2026-09-21T07:50:48+00:00",
-      "score": 75
     }
   ],
   "by_source": {
@@ -645,6 +555,15 @@
         "score": 110
       },
       {
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-24T19:00:42+00:00",
+        "score": 100
+      },
+      {
         "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
         "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
         "summary": "Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
@@ -670,15 +589,6 @@
         "source_weight": 90,
         "published": "2026-09-25T05:00:00+00:00",
         "score": 90
-      },
-      {
-        "title": "Bring your co-founder, partner, or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-09-24T19:15:00+00:00",
-        "score": 90
       }
     ],
     "The Verge \u2013 AI": [
@@ -690,6 +600,15 @@
         "source_weight": 85,
         "published": "2026-09-24T15:59:26-04:00",
         "score": 105
+      },
+      {
+        "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+        "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T09:00:00-04:00",
+        "score": 95
       },
       {
         "title": "Meta is going to let you build games with AI right on your phone",
@@ -716,15 +635,6 @@
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
         "published": "2026-09-24T12:04:31-04:00",
-        "score": 95
-      },
-      {
-        "title": "Google is sending an AI satellite into space next week",
-        "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-        "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-24T10:15:17-04:00",
         "score": 95
       }
     ],
@@ -775,53 +685,6 @@
         "score": 85
       }
     ],
-    "AI News": [
-      {
-        "title": "Google launches Gemini 3.8 Flash TTS voice models",
-        "link": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-09-24T16:09:02+00:00",
-        "score": 95
-      },
-      {
-        "title": "AI Agents Are Becoming a New Malware Distribution Channel",
-        "link": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-09-23T07:44:17+00:00",
-        "score": 85
-      },
-      {
-        "title": "Multi-agent AI systems are taking over supply chain execution",
-        "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-09-21T15:32:54+00:00",
-        "score": 85
-      },
-      {
-        "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-        "link": "https://www.artificialintelligence-news.com/news/the-gpu-shortage-inside-your-own-infrastructure-why-ai-workloads-queue-while-capacity-sits-idle/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-09-25T08:03:06+00:00",
-        "score": 75
-      },
-      {
-        "title": "How to Add AI to Legacy Software Without Rebuilding It",
-        "link": "https://www.artificialintelligence-news.com/news/how-to-add-ai-to-legacy-software-without-rebuilding-it/",
-        "summary": "",
-        "source": "AI News",
-        "source_weight": 75,
-        "published": "2026-09-25T07:43:32+00:00",
-        "score": 75
-      }
-    ],
     "Phys.org \u2013 Technology": [
       {
         "title": "Meta shares soar after launch of Muse AI",
@@ -842,13 +705,13 @@
         "score": 90
       },
       {
-        "title": "Researchers redesign carbon fiber for multifunctional energy storage",
-        "link": "https://techxplore.com/news/2026-09-redesign-carbon-fiber-multifunctional-energy.html",
-        "summary": "Imagine if your car weren't powered by a conventional battery under the hood but by energy stored in its walls or even its roof? This is a future that Dr. Bhagya Dharmasiri and her colleagues at the Deakin Institute for Frontier Materials have been exploring, bringing load-bearing structures and rechargeable energy storage together to create structural battery composites.",
+        "title": "Mkcheck2: A highly efficient and accurate approach for build dependency verification",
+        "link": "https://techxplore.com/news/2026-09-mkcheck2-highly-efficient-accurate-approach.html",
+        "summary": "Before users can interact with computer software, its source code must be converted into executable binaries and software packages, a task handled by specialized tools known as build systems. Build systems are a fundamental component of modern software development. They have evolved into complex distributed systems that manage dependencies, optimize resources and ensure correctness across large-scale projects. Studies have shown that build maintenance can consume up to 27% of a developer's time in large projects.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-09-24T07:40:06",
-        "score": 90
+        "published": "2026-09-25T07:20:01",
+        "score": 80
       },
       {
         "title": "Stress-assisted conductivity retention in high-iodine LiBH\u2084 thin films",
