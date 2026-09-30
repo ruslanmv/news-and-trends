@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-09-30T10:49:09.196171",
+  "issue_date": "2026-09-30",
+  "topic_of_week": "OpenAI",
+  "top_terms": [
+    [
+      "OpenAI",
+      30
+    ],
+    [
+      "Quantum",
+      13
+    ],
+    [
+      "agent",
+      11
+    ],
+    [
+      "ChatGPT",
+      6
+    ],
+    [
+      "Anthropic",
+      4
+    ],
+    [
+      "Meta",
+      4
+    ],
+    [
+      "NVIDIA",
+      3
+    ],
+    [
+      "RAG",
+      3
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "Google",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T18:35:00+00:00",
+      "score": 120
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T17:45:51+00:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T17:17:15+00:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T17:15:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T22:20:59+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T20:15:47+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T19:52:37+00:00",
+      "score": 100
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T17:20:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T17:15:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
+      "link": "https://techxplore.com/news/2026-09-openai-ceo-ai-agent-mention.html",
+      "summary": "OpenAI CEO Sam Altman introduced a \"remarkably capable, always-on\" artificial intelligence agent at an appearance Tuesday, a day after the company halted the rollout of a more advanced model over safety concerns.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T14:57:43",
+      "score": 100
+    },
+    {
+      "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress \u2026 but as the models have had this surge forward in capability, and we see [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T20:19:13-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T13:15:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Protesters gather at OpenAI\u2019s DevDay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T13:12:27-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "summary": "It&#8217;s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta\u2019s recently-launched Muse. However, unlike Muse, which is available for free, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T12:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta&#8217;s Muse AI sent a YouTuber\u2019s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T10:08:21-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T07:48:27-04:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T08:45:04",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 95
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-09-29T23:30:55+00:00",
+      "score": 90
+    },
+    {
+      "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+      "link": "https://techxplore.com/news/2026-09-chatgpt-maker-app-ai-safety.html",
+      "summary": "OpenAI on Tuesday launched a less expensive artificial intelligence (AI) model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-30T03:20:01",
+      "score": 90
+    },
+    {
+      "title": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade",
+      "link": "https://techxplore.com/news/2026-09-openai-unveils-ai-day-shelving.html",
+      "summary": "OpenAI launched a new midrange artificial intelligence model Tuesday at one-fifth the cost of its flagship offering, one day after scrapping an upgraded version deemed unreliable.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T15:20:07",
+      "score": 90
+    },
+    {
+      "title": "Strategically placed sensors reveal shifting hot-cold boundary inside industrial heat storage tanks",
+      "link": "https://techxplore.com/news/2026-09-strategically-sensors-reveal-shifting-hot.html",
+      "summary": "Industrial processes generate large amounts of heat that often cannot be used immediately. One reason is that the supply of heat and demand for it often occur at different times. Thermal energy storage systems can bridge this gap by absorbing surplus heat and making it available later.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T15:00:05",
+      "score": 90
+    },
+    {
+      "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T18:25:45-04:00",
+      "score": 85
+    },
+    {
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T17:49:09-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T13:35:03-04:00",
+      "score": 85
+    },
+    {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-29T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "NASA just used satellites and debris to navigate without GPS",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+      "summary": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known orbits of more than 200 space objects completely autonomously.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-26T19:27:35",
+      "score": 85
+    },
+    {
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI systems and next-generation computers far more energy efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-17T04:06:45",
+      "score": 85
+    },
+    {
+      "title": "Trump touts AI boss pledge to self-regulate",
+      "link": "https://techxplore.com/news/2026-09-trump-touts-ai-boss-pledge.html",
+      "summary": "U.S. President Donald Trump on Tuesday said the tech executives gathered at the White House to discuss regulating AI had signed a \"morally binding\" commitment to build adequate safeguards for the fast-moving technology.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-30T02:13:20",
+      "score": 80
+    },
+    {
+      "title": "Video games could make us better people",
+      "link": "https://techxplore.com/news/2026-09-video-games-people.html",
+      "summary": "Addiction, violence, aggression, social withdrawal: Video games have been in the crosshairs for a litany of negative impacts. Researchers at Macquarie University, however, are working on the premise that video games can have positive impacts, too\u2014that just as pilots use simulators to learn and hone their flight skills, people could use video games to develop their moral skills.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T19:40:01",
+      "score": 80
+    },
+    {
+      "title": "AI is reshaping the workplace, but not replacing human judgment",
+      "link": "https://techxplore.com/news/2026-09-ai-reshaping-workplace-human-judgment.html",
+      "summary": "As artificial intelligence rapidly transforms the workplace, new research shows that human capabilities such as creativity, analytical thinking and systems thinking remain critical and are expected to remain important in the future world of work.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T17:20:04",
+      "score": 80
+    },
+    {
+      "title": "Students develop electric car that captures particulate matter while driving",
+      "link": "https://techxplore.com/news/2026-09-students-electric-car-captures-particulate.html",
+      "summary": "VENTRA is a new sustainable concept car developed by the student team TU/ecomotive. The electric vehicle captures particulate matter generated by tires and brakes while driving, encourages a more sustainable driving style and produces less particulate matter itself. With this concept, the students aim to raise awareness of the dangers of particulate matter and inspire the industry to develop new solutions.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T16:20:05",
+      "score": 80
+    },
+    {
+      "title": "Patterned plate uses surface vibrations to move and spin objects without complex electronics",
+      "link": "https://techxplore.com/news/2026-09-patterned-plate-surface-vibrations-complex.html",
+      "summary": "Chinese researchers have developed a way to manipulate objects on solid surfaces using specially structured vibrations, allowing particles and other small objects to be confined, moved in circular paths or rotated without the complex electronic control systems normally required to generate such motion.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T16:00:01",
+      "score": 80
+    },
+    {
+      "title": "A wallpaper that generates power from moisture in the air",
+      "link": "https://techxplore.com/news/2026-09-wallpaper-generates-power-moisture-air.html",
+      "summary": "More than 6 million U.S. homes have solar panels on their roofs\u2014but what if you could generate power inside your house, too? Researchers at Binghamton University have developed a new type of wallpaper that turns moisture in a room into small amounts of electric current. They hope to improve the technology to generate more power.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-09-29T15:00:16",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+        "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-29T18:35:00+00:00",
+        "score": 120
+      },
+      {
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+        "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-29T17:45:51+00:00",
+        "score": 110
+      },
+      {
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+        "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-29T17:17:15+00:00",
+        "score": 110
+      },
+      {
+        "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
+        "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+        "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-29T17:15:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-09-29T22:20:59+00:00",
+        "score": 100
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
+        "link": "https://techxplore.com/news/2026-09-openai-ceo-ai-agent-mention.html",
+        "summary": "OpenAI CEO Sam Altman introduced a \"remarkably capable, always-on\" artificial intelligence agent at an appearance Tuesday, a day after the company halted the rollout of a more advanced model over safety concerns.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-29T14:57:43",
+        "score": 100
+      },
+      {
+        "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+        "link": "https://techxplore.com/news/2026-09-chatgpt-maker-app-ai-safety.html",
+        "summary": "OpenAI on Tuesday launched a less expensive artificial intelligence (AI) model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-30T03:20:01",
+        "score": 90
+      },
+      {
+        "title": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade",
+        "link": "https://techxplore.com/news/2026-09-openai-unveils-ai-day-shelving.html",
+        "summary": "OpenAI launched a new midrange artificial intelligence model Tuesday at one-fifth the cost of its flagship offering, one day after scrapping an upgraded version deemed unreliable.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-29T15:20:07",
+        "score": 90
+      },
+      {
+        "title": "Strategically placed sensors reveal shifting hot-cold boundary inside industrial heat storage tanks",
+        "link": "https://techxplore.com/news/2026-09-strategically-sensors-reveal-shifting-hot.html",
+        "summary": "Industrial processes generate large amounts of heat that often cannot be used immediately. One reason is that the supply of heat and demand for it often occur at different times. Thermal energy storage systems can bridge this gap by absorbing surplus heat and making it available later.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-29T15:00:05",
+        "score": 90
+      },
+      {
+        "title": "Trump touts AI boss pledge to self-regulate",
+        "link": "https://techxplore.com/news/2026-09-trump-touts-ai-boss-pledge.html",
+        "summary": "U.S. President Donald Trump on Tuesday said the tech executives gathered at the White House to discuss regulating AI had signed a \"morally binding\" commitment to build adequate safeguards for the fast-moving technology.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-09-30T02:13:20",
+        "score": 80
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress \u2026 but as the models have had this surge forward in capability, and we see [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-29T20:19:13-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI launches Dots, its Muse competitor",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+        "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-29T13:15:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Protesters gather at OpenAI\u2019s DevDay",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+        "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-29T13:12:27-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI DevDay 2026: The biggest news and announcements",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+        "summary": "It&#8217;s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta\u2019s recently-launched Muse. However, unlike Muse, which is available for free, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-29T12:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta&#8217;s Muse AI sent a YouTuber\u2019s address to a stranger",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+        "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-29T10:08:21-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T08:45:04",
+        "score": 95
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      },
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 95
+      },
+      {
+        "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+        "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-22T08:52:43",
+        "score": 85
+      }
+    ]
+  }
+}
