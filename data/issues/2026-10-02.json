@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:48:19.163097",
+  "generated_at": "2026-10-02T14:28:30.748313",
   "issue_date": "2026-10-02",
   "topic_of_week": "Quantum",
   "top_terms": [
@@ -9,19 +9,19 @@
     ],
     [
       "agent",
-      17
+      14
     ],
     [
       "Google",
       10
     ],
     [
-      "Meta",
-      10
+      "OpenAI",
+      7
     ],
     [
-      "OpenAI",
-      8
+      "Meta",
+      5
     ],
     [
       "Gemini",
@@ -40,7 +40,7 @@
       2
     ],
     [
-      "AI safety",
+      "IBM",
       2
     ]
   ],
@@ -64,12 +64,12 @@
       "score": 105
     },
     {
-      "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises \u2014 if you\u2019re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta\u2019s also announced plans [&#8230;]",
-      "source": "The Verge \u2013 AI",
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
       "source_weight": 85,
-      "published": "2026-09-30T11:18:49-04:00",
+      "published": "2026-08-30T10:08:13",
       "score": 105
     },
     {
@@ -289,15 +289,6 @@
       "score": 95
     },
     {
-      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-08-30T10:08:13",
-      "score": 95
-    },
-    {
       "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
       "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "summary": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
@@ -343,13 +334,31 @@
       "score": 90
     },
     {
-      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-      "link": "https://techxplore.com/news/2026-10-timeline-ai-safety.html",
-      "summary": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-01T15:40:41",
-      "score": 90
+      "title": "AI hallucinations are making entitled customers even worse",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-02T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-02T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-02T07:52:20-04:00",
+      "score": 85
     },
     {
       "title": "AI music maker Suno now generates spoken words",
@@ -376,24 +385,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-09-30T20:23:45-04:00",
-      "score": 85
-    },
-    {
-      "title": "The AI Tamagotchis are coming",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-30T14:07:38-04:00",
-      "score": 85
-    },
-    {
-      "title": "Here&#8217;s what AI leaders are saying about Trump\u2019s new safety plan",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-30T13:15:49-04:00",
       "score": 85
     },
     {
@@ -442,6 +433,33 @@
       "score": 85
     },
     {
+      "title": "InterPet4D: Capturing human\u2013dog interactions to generate AI-based pet motion generation",
+      "link": "https://techxplore.com/news/2026-10-interpet4d-capturing-humandog-interactions-generate.html",
+      "summary": "Interactions between humans and dogs involve a continuous exchange of physical and verbal cues. A person may pet a dog, use a hand gesture, give a verbal command or call the pet from a distance, prompting changes in the dog's posture, position or movement. Understanding these human\u2013animal interactions requires data that captures both participants simultaneously.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-02T09:20:23",
+      "score": 80
+    },
+    {
+      "title": "Australia's proposed laws could help regulate privacy risks from chatbots\u2014if we get the details right",
+      "link": "https://techxplore.com/news/2026-10-australia-laws-privacy-chatbots.html",
+      "summary": "Online privacy used to mean being careful about what you shared. You also had some control over what others shared about you because much of that info was public. You could ask a friend to take down that unflattering photo on Facebook, for example.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-02T07:20:02",
+      "score": 80
+    },
+    {
+      "title": "The clean energy bottleneck isn't technology\u2014it's market design",
+      "link": "https://techxplore.com/news/2026-10-energy-bottleneck-isnt-technology.html",
+      "summary": "The transition to clean energy is underway, but major structural obstacles are slowing it down. Wind and solar power accounted for a record 17% of electricity generated by U.S. utilities last year. However, fossil fuels still supply the lion's share, and a huge number of new natural gas plants are in development to power data centers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-02T07:00:01",
+      "score": 80
+    },
+    {
       "title": "Cement-based supercapacitors could power next-generation 'smart' buildings",
       "link": "https://techxplore.com/news/2026-10-cement-based-supercapacitors-power-generation.html",
       "summary": "What if the energy powering your home or office could be generated, stored and used all in the same place? This is the hope for the next generation of buildings, powered by renewable sources with energy stored nearby\u2014possibly even within the concrete used to construct the building itself. Reporting in ACS Nano, researchers have developed an efficient, energy-storing cement supercapacitor that holds up as well as commercial concrete in tests.",
@@ -460,39 +478,21 @@
       "score": 80
     },
     {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "link": "https://techxplore.com/news/2026-10-timeline-ai-safety.html",
+      "summary": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-01T15:40:41",
+      "score": 80
+    },
+    {
       "title": "Hybrid cryptography protocol gets stronger armor against IoT device impersonation",
       "link": "https://techxplore.com/news/2026-10-hybrid-cryptography-protocol-stronger-armor.html",
       "summary": "An approach to closing a security vulnerability in an emerging hybrid cryptographic protocol for internet of things (IoT) devices is described in the International Journal of Internet Technology and Secured Transactions. The flaw in such protocols, which are in transition between conventional and quantum computing, can allow third parties with some level of trust to impersonate legitimate devices and illicitly gain higher-level access. The new approach prevents such access without adding much to performance costs.",
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-10-01T15:20:13",
-      "score": 80
-    },
-    {
-      "title": "Steering wheel communicates for better semiautonomous driving performance",
-      "link": "https://techxplore.com/news/2026-10-wheel-communicates-semiautonomous.html",
-      "summary": "A specialized steering wheel that enables negotiation between drivers and an autonomous driving simulation improved driving performance and drivers' trust in autonomous vehicle features, researchers from University of Michigan Engineering and the Toyota Research Institute have found.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-01T15:20:01",
-      "score": 80
-    },
-    {
-      "title": "How a path-tracing method could help train next-generation event cameras",
-      "link": "https://techxplore.com/news/2026-10-path-method-generation-event-cameras.html",
-      "summary": "From our smartphones to advanced industrial systems, cameras have become an integral part of modern life. Conventional cameras capture scenes as a sequence of frames at fixed time intervals. In contrast, event cameras detect changes in brightness at each pixel as they occur and record them asynchronously as \"events.\"",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-01T15:03:05",
-      "score": 80
-    },
-    {
-      "title": "Require satellite checks before approving AI data centers, researchers urge",
-      "link": "https://techxplore.com/news/2026-10-require-satellite-ai-centers-urge.html",
-      "summary": "Satellite data could help governments decide where to build the data centers behind the growth of AI by showing where renewable power, water and land are available and where drought and climate risks are highest, according to researchers at the University of Surrey.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-01T15:00:05",
       "score": 80
     }
   ],
@@ -517,15 +517,6 @@
         "score": 105
       },
       {
-        "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-        "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises \u2014 if you\u2019re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta\u2019s also announced plans [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-30T11:18:49-04:00",
-        "score": 105
-      },
-      {
         "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
         "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
@@ -541,6 +532,62 @@
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
         "published": "2026-10-01T13:12:21-04:00",
+        "score": 95
+      },
+      {
+        "title": "AI hallucinations are making entitled customers even worse",
+        "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+        "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-02T08:00:00-04:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-01T09:17:13",
+        "score": 95
+      },
+      {
+        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T08:45:04",
+        "score": 95
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
         "score": 95
       }
     ],
@@ -667,69 +714,22 @@
         "score": 90
       },
       {
-        "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-        "link": "https://techxplore.com/news/2026-10-timeline-ai-safety.html",
-        "summary": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.",
+        "title": "InterPet4D: Capturing human\u2013dog interactions to generate AI-based pet motion generation",
+        "link": "https://techxplore.com/news/2026-10-interpet4d-capturing-humandog-interactions-generate.html",
+        "summary": "Interactions between humans and dogs involve a continuous exchange of physical and verbal cues. A person may pet a dog, use a hand gesture, give a verbal command or call the pet from a distance, prompting changes in the dog's posture, position or movement. Understanding these human\u2013animal interactions requires data that captures both participants simultaneously.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-01T15:40:41",
-        "score": 90
-      },
-      {
-        "title": "Cement-based supercapacitors could power next-generation 'smart' buildings",
-        "link": "https://techxplore.com/news/2026-10-cement-based-supercapacitors-power-generation.html",
-        "summary": "What if the energy powering your home or office could be generated, stored and used all in the same place? This is the hope for the next generation of buildings, powered by renewable sources with energy stored nearby\u2014possibly even within the concrete used to construct the building itself. Reporting in ACS Nano, researchers have developed an efficient, energy-storing cement supercapacitor that holds up as well as commercial concrete in tests.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-01T17:09:19",
+        "published": "2026-10-02T09:20:23",
         "score": 80
-      }
-    ],
-    "ScienceDaily \u2013 AI": [
-      {
-        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-01T09:17:13",
-        "score": 95
       },
       {
-        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-25T08:45:04",
-        "score": 95
-      },
-      {
-        "title": "Scientists just made quantum computer operations 1,000 times faster",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-09-11T07:52:30",
-        "score": 95
-      },
-      {
-        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
-        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-08-31T09:08:37",
-        "score": 95
-      },
-      {
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-08-30T10:08:13",
-        "score": 95
+        "title": "Australia's proposed laws could help regulate privacy risks from chatbots\u2014if we get the details right",
+        "link": "https://techxplore.com/news/2026-10-australia-laws-privacy-chatbots.html",
+        "summary": "Online privacy used to mean being careful about what you shared. You also had some control over what others shared about you because much of that info was public. You could ask a friend to take down that unflattering photo on Facebook, for example.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-02T07:20:02",
+        "score": 80
       }
     ]
   }
