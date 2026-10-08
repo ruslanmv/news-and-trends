@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-10-08T11:41:44.262032",
+  "issue_date": "2026-10-08",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      17
+    ],
+    [
+      "ChatGPT",
+      15
+    ],
+    [
+      "OpenAI",
+      10
+    ],
+    [
+      "Meta",
+      9
+    ],
+    [
+      "NVIDIA",
+      8
+    ],
+    [
+      "Google",
+      6
+    ],
+    [
+      "agent",
+      5
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T20:48:45+00:00",
+      "score": 100
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T20:22:37+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T18:30:57+00:00",
+      "score": 100
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T18:15:28+00:00",
+      "score": 100
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T18:00:19+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T16:53:46+00:00",
+      "score": 100
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T14:36:23+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "summary": "OpenAI\u2019s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T14:30:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T15:10:42-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T12:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T10:40:52-04:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T05:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-06T19:26:38-04:00",
+      "score": 95
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:17:13",
+      "score": 95
+    },
+    {
+      "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T08:45:04",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T15:07:08+00:00",
+      "score": 90
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
+      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "summary": "The \u201cfather of the iPod\u201d says the first generation of AI gadgets failed to solve real problems \u2014 and the next wave will need to earn consumers\u2019 trust.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-07T14:41:38+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI startup Manus raises $500 million after Meta acquisition blocked by China",
+      "link": "https://techxplore.com/news/2026-10-ai-startup-manus-million-meta.html",
+      "summary": "AI startup Manus, whose acquisition by Meta was blocked by the Chinese government, said Thursday it had completed a funding round that raised more than $500 million.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T05:20:08",
+      "score": 90
+    },
+    {
+      "title": "One Tech Tip: Lake America backlash fuels interest in Google Maps alternatives",
+      "link": "https://techxplore.com/news/2026-10-tech-lake-america-backlash-fuels.html",
+      "summary": "Just because Google and Apple are now calling it Lake America doesn't mean everyone has to.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T05:00:01",
+      "score": 90
+    },
+    {
+      "title": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report",
+      "link": "https://techxplore.com/news/2026-10-spacex-billion-loans-nvidia-chips.html",
+      "summary": "Elon Musk's SpaceX is aiming to raise $40 billion in bank loans and debt to further its purchases of AI chips from Nvidia, according to a Financial Times report citing sources close to the talks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T04:39:22",
+      "score": 90
+    },
+    {
+      "title": "Some guardrails on ChatGPT for Teens don't work as promised, watchdog group says",
+      "link": "https://techxplore.com/news/2026-10-guardrails-chatgpt-teens-dont-watchdog.html",
+      "summary": "Some of the guardrails that OpenAI included in its ChatGPT for Teens product don't work as intended and the chatbot poses an \"unacceptable risk\" to children, according to a report Wednesday by Common Sense Media.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T04:26:39",
+      "score": 90
+    },
+    {
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#8217;s powered by Nvidia&#8217;s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T14:42:22-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T14:01:20-04:00",
+      "score": 85
+    },
+    {
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T13:46:44-04:00",
+      "score": 85
+    },
+    {
+      "title": "Muse launches on the iPad",
+      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T11:37:23-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-07T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:03:50",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "Parents back social media ban despite their own daily use",
+      "link": "https://techxplore.com/news/2026-10-parents-social-media-daily.html",
+      "summary": "New research has found that 88% of parents support Australia's under-16 social media ban, despite the majority using social media every day themselves.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T07:20:12",
+      "score": 80
+    },
+    {
+      "title": "How automation is shaping the future of American manufacturing",
+      "link": "https://techxplore.com/news/2026-10-automation-future-american.html",
+      "summary": "Labor shortages, supply-chain volatility and growing demand for customized products are forcing a fundamental rethink of how work gets done in U.S. manufacturing. To remain competitive, manufacturers must produce increasingly complex parts with fewer workers, shorter lead times and greater flexibility than ever before.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T07:00:10",
+      "score": 80
+    },
+    {
+      "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
+      "link": "https://techxplore.com/news/2026-10-samsung-quarterly-profit-ai-boom.html",
+      "summary": "Samsung Electronics on Thursday forecast a more than 780% leap in third-quarter operating profit from a year earlier, buoyed by high memory chip prices as AI fuels a global supply shortage.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T05:40:02",
+      "score": 80
+    },
+    {
+      "title": "Microsoft pushes AI vision with new, expensive Surface laptop",
+      "link": "https://techxplore.com/news/2026-10-microsoft-ai-vision-expensive-surface.html",
+      "summary": "Microsoft is pushing a \"hybrid intelligence\" future with a new Surface Ultra laptop that runs on Nvidia artificial intelligence (AI) chips and will cost more than $2,500, the company announced Wednesday.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T04:50:01",
+      "score": 80
+    },
+    {
+      "title": "FIA to 'strengthen' software testing after F1 cars stopped on track in Malaysia",
+      "link": "https://techxplore.com/news/2026-10-fia-software-f1-cars-track.html",
+      "summary": "The FIA has defended its handling of the Formula 1 car software bug which delayed the start of the Bahrain Grand Prix in Malaysia last weekend and pledged it will \"strengthen\" how the code is tested in future.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T04:32:21",
+      "score": 80
+    },
+    {
+      "title": "Shortening offshore wind approvals by one year could save millions in costs",
+      "link": "https://techxplore.com/news/2026-10-shortening-offshore-year-millions.html",
+      "summary": "Long development timelines increase the cost of energy from offshore wind (OSW) farms, according to a new study published in the journal Environmental Research Letters. The research estimates that cutting approval timelines by just one year for a 1-gigawatt (GW) OSW farm lowers its energy costs by around \u20ac1 per megawatt-hour\u2014roughly \u20ac110 million over the plant's 25-year operational lifespan.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-08T04:00:01",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-01T09:17:13",
+        "score": 95
+      },
+      {
+        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T08:45:04",
+        "score": 95
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+        "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-07T20:48:45+00:00",
+        "score": 100
+      },
+      {
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-07T20:22:37+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+        "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-07T18:30:57+00:00",
+        "score": 100
+      },
+      {
+        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+        "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-07T18:15:28+00:00",
+        "score": 100
+      },
+      {
+        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+        "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-07T18:00:19+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-07T15:10:42-04:00",
+        "score": 95
+      },
+      {
+        "title": "ChatGPT is getting college planning tools",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+        "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-07T12:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019",
+        "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+        "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-07T10:40:52-04:00",
+        "score": 95
+      },
+      {
+        "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-07T05:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-06T19:26:38-04:00",
+        "score": 95
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "AI startup Manus raises $500 million after Meta acquisition blocked by China",
+        "link": "https://techxplore.com/news/2026-10-ai-startup-manus-million-meta.html",
+        "summary": "AI startup Manus, whose acquisition by Meta was blocked by the Chinese government, said Thursday it had completed a funding round that raised more than $500 million.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-08T05:20:08",
+        "score": 90
+      },
+      {
+        "title": "One Tech Tip: Lake America backlash fuels interest in Google Maps alternatives",
+        "link": "https://techxplore.com/news/2026-10-tech-lake-america-backlash-fuels.html",
+        "summary": "Just because Google and Apple are now calling it Lake America doesn't mean everyone has to.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-08T05:00:01",
+        "score": 90
+      },
+      {
+        "title": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report",
+        "link": "https://techxplore.com/news/2026-10-spacex-billion-loans-nvidia-chips.html",
+        "summary": "Elon Musk's SpaceX is aiming to raise $40 billion in bank loans and debt to further its purchases of AI chips from Nvidia, according to a Financial Times report citing sources close to the talks.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-08T04:39:22",
+        "score": 90
+      },
+      {
+        "title": "Some guardrails on ChatGPT for Teens don't work as promised, watchdog group says",
+        "link": "https://techxplore.com/news/2026-10-guardrails-chatgpt-teens-dont-watchdog.html",
+        "summary": "Some of the guardrails that OpenAI included in its ChatGPT for Teens product don't work as intended and the chatbot poses an \"unacceptable risk\" to children, according to a report Wednesday by Common Sense Media.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-08T04:26:39",
+        "score": 90
+      },
+      {
+        "title": "Parents back social media ban despite their own daily use",
+        "link": "https://techxplore.com/news/2026-10-parents-social-media-daily.html",
+        "summary": "New research has found that 88% of parents support Australia's under-16 social media ban, despite the majority using social media every day themselves.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-08T07:20:12",
+        "score": 80
+      }
+    ]
+  }
+}
