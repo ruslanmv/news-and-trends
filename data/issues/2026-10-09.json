@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:35:04.836518",
+  "generated_at": "2026-10-09T14:59:52.610726",
   "issue_date": "2026-10-09",
   "topic_of_week": "Quantum",
   "top_terms": [
@@ -9,11 +9,11 @@
     ],
     [
       "OpenAI",
-      15
+      14
     ],
     [
       "agent",
-      14
+      11
     ],
     [
       "Anthropic",
@@ -32,16 +32,16 @@
       5
     ],
     [
+      "LLM",
+      3
+    ],
+    [
+      "large language model",
+      2
+    ],
+    [
       "AI safety",
       2
-    ],
-    [
-      "IBM",
-      2
-    ],
-    [
-      "Generative AI",
-      1
     ]
   ],
   "articles": [
@@ -64,12 +64,12 @@
       "score": 115
     },
     {
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
       "summary": "",
       "source": "Google AI Blog",
       "source_weight": 100,
-      "published": "2024-03-29T11:03:00-07:00",
+      "published": "2024-03-12T14:15:00-07:00",
       "score": 110
     },
     {
@@ -100,13 +100,13 @@
       "score": 105
     },
     {
-      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-08-30T10:08:13",
-      "score": 105
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 100
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -181,15 +181,6 @@
       "score": 100
     },
     {
-      "title": "Talk like a graph: Encoding graphs for large language models",
-      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-12T14:15:00-07:00",
-      "score": 100
-    },
-    {
       "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
       "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
@@ -226,15 +217,6 @@
       "score": 100
     },
     {
-      "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-10-08T16:00:00+00:00",
-      "score": 100
-    },
-    {
       "title": "Anthropic bans 'cruel' behavior against its Claude AI",
       "link": "https://techxplore.com/news/2026-10-anthropic-cruel-behavior-claude-ai.html",
       "summary": "Anthropic on Thursday moved to bar users from treating its Claude AI system with needless cruelty, amid a growing philosophical debate over whether artificial intelligence can be conscious.",
@@ -242,6 +224,15 @@
       "source_weight": 80,
       "published": "2026-10-09T04:30:06",
       "score": 100
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T10:00:00-04:00",
+      "score": 95
     },
     {
       "title": "Anthropic launches free AI security scans for open-source projects",
@@ -268,15 +259,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-10-08T11:27:30-04:00",
-      "score": 95
-    },
-    {
-      "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
-      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "summary": "My Decoder guest today is Hayden Field, The Verge\u2019s senior AI reporter, and we\u2019re discussing the new wave of consumer-friendly AI agents. If you\u2019ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now \u2014 homebrew OpenClaw setups led to a surge in Mac Mini sales earlier [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-08T10:00:00-04:00",
       "score": 95
     },
     {
@@ -314,6 +296,24 @@
       "source_weight": 85,
       "published": "2026-08-31T09:08:37",
       "score": 95
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 95
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when\u00a010,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-09T14:00:00+00:00",
+      "score": 90
     },
     {
       "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
@@ -361,6 +361,15 @@
       "score": 90
     },
     {
+      "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T10:25:43-04:00",
+      "score": 85
+    },
+    {
       "title": "California is trying to shut down robot vs. human cage matches",
       "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
       "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
@@ -376,15 +385,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-10-08T13:57:01-04:00",
-      "score": 85
-    },
-    {
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-08T10:00:00-04:00",
       "score": 85
     },
     {
@@ -433,6 +433,33 @@
       "score": 85
     },
     {
+      "title": "Spelling backward gets easier for AI models upgraded to see every letter",
+      "link": "https://techxplore.com/news/2026-10-easier-ai-letter.html",
+      "summary": "Before large language models (LLMs) can process text, they split it into chunks such as words or word fragments. The LLM behind ChatGPT, for example, splits \"LMU M\u00fcnchen\" into the three chunks \"LM,\" \"U\" and \"M\u00fcnchen,\" so it never directly sees the individual letters in \"M\u00fcnchen.\" This step, which is known as subword tokenization, makes LLMs efficient but causes a range of problems, such as limited character-level understanding.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-09T10:20:12",
+      "score": 80
+    },
+    {
+      "title": "Industrial torch fuels faster development of materials for extreme environments",
+      "link": "https://techxplore.com/news/2026-10-industrial-torch-fuels-faster-materials.html",
+      "summary": "New work from engineers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, shows a technology normally used to spray protective coatings onto industrial parts could help address a costly problem in hypersonics: deciding which materials deserve time in the nation's scarce high-end test facilities.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-09T10:20:02",
+      "score": 80
+    },
+    {
+      "title": "Two-armed robot throws and catches balls with human-like movements",
+      "link": "https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html",
+      "summary": "Humans can move their limbs very rapidly and coordinate their movements with high precision to tackle specific manual tasks. While robots have become increasingly advanced in recent years, many of them remain less agile than humans and struggle to interact with moving objects of different shapes, weights and textures.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-09T09:40:04",
+      "score": 80
+    },
+    {
       "title": "Zankore's AI factory: Can Central Java afford the water cost?",
       "link": "https://techxplore.com/news/2026-10-zankore-ai-factory-central-java.html",
       "summary": "Indosat Ooredoo Hutchison, together with Ooredoo Group, Nokia and Nvidia, plans to develop Zankore, an artificial intelligence (AI) infrastructure platform aimed at serving the region.",
@@ -466,33 +493,6 @@
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-10-09T04:30:02",
-      "score": 80
-    },
-    {
-      "title": "Army finds systemic failures behind DC midair collision and calls for safety fixes",
-      "link": "https://techxplore.com/news/2026-10-army-failures-dc-midair-collision.html",
-      "summary": "The U.S. Army found systemic safety breakdowns behind last year's midair collision between an American Airlines jet and a Black Hawk helicopter near Washington, D.C., and recommended changes to prevent future tragedies.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-09T04:13:52",
-      "score": 80
-    },
-    {
-      "title": "AI helps identify drilling regimes with a projected potential increase in drilling speed of up to 68%",
-      "link": "https://techxplore.com/news/2026-10-ai-drilling-regimes-potential.html",
-      "summary": "Assistant professor Shadfar Davoodi at the Skoltech AI Center has developed an approach for optimizing drilling in heterogeneous carbonate reservoirs that simultaneously predicts process characteristics, explains the influence of individual parameters and identifies the most efficient operating regimes. For one of the studied wells, the model estimated a potential increase in the rate of penetration of up to 68.4%.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-08T20:40:06",
-      "score": 80
-    },
-    {
-      "title": "Heat-storing gel could cut buildings' energy consumption",
-      "link": "https://techxplore.com/news/2026-10-gel-energy-consumption.html",
-      "summary": "Heating and cooling buildings account for a large portion of global energy use. A research team in the Texas A&amp;M University Department of Materials Science and Engineering was featured on the cover of ACS Applied Materials & Interfaces for a study that aims to reduce that energy consumption.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-08T16:40:04",
       "score": 80
     }
   ],
@@ -573,6 +573,15 @@
         "score": 105
       },
       {
+        "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+        "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+        "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-09T10:00:00-04:00",
+        "score": 95
+      },
+      {
         "title": "Anthropic launches free AI security scans for open-source projects",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
         "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
@@ -580,18 +589,18 @@
         "source_weight": 85,
         "published": "2026-10-08T17:53:51-04:00",
         "score": 95
-      },
-      {
-        "title": "USA Today becomes the latest publisher to sue OpenAI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-        "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-08T13:58:33-04:00",
-        "score": 95
       }
     ],
     "Google AI Blog": [
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
       {
         "title": "Generative AI to quantify uncertainty in weather forecasting",
         "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
@@ -599,7 +608,7 @@
         "source": "Google AI Blog",
         "source_weight": 100,
         "published": "2024-03-29T11:03:00-07:00",
-        "score": 110
+        "score": 100
       },
       {
         "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -627,27 +636,56 @@
         "source_weight": 100,
         "published": "2024-03-20T09:06:00-07:00",
         "score": 100
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Anthropic bans 'cruel' behavior against its Claude AI",
+        "link": "https://techxplore.com/news/2026-10-anthropic-cruel-behavior-claude-ai.html",
+        "summary": "Anthropic on Thursday moved to bar users from treating its Claude AI system with needless cruelty, amid a growing philosophical debate over whether artificial intelligence can be conscious.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-09T04:30:06",
+        "score": 100
       },
       {
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-19T13:15:00-07:00",
-        "score": 100
+        "title": "OpenAI revenue gap report rattles AI stocks",
+        "link": "https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html",
+        "summary": "OpenAI is bringing in about $20 billion less in annualized revenue than investors had been led to believe, the Financial Times reported Thursday, raising questions about the solidity of the AI business.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-09T05:10:07",
+        "score": 90
+      },
+      {
+        "title": "Fired researchers accuse OpenAI of 'chilling' safety efforts",
+        "link": "https://techxplore.com/news/2026-10-accuse-openai-chilling-safety-efforts.html",
+        "summary": "Three former OpenAI security researchers on Thursday accused the ChatGPT maker of firing them for warning about the dangers of artificial intelligence, reigniting the debate over safety at a company whose software has been involved in security breaches.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-09T05:10:02",
+        "score": 90
+      },
+      {
+        "title": "Spelling backward gets easier for AI models upgraded to see every letter",
+        "link": "https://techxplore.com/news/2026-10-easier-ai-letter.html",
+        "summary": "Before large language models (LLMs) can process text, they split it into chunks such as words or word fragments. The LLM behind ChatGPT, for example, splits \"LMU M\u00fcnchen\" into the three chunks \"LM,\" \"U\" and \"M\u00fcnchen,\" so it never directly sees the individual letters in \"M\u00fcnchen.\" This step, which is known as subword tokenization, makes LLMs efficient but causes a range of problems, such as limited character-level understanding.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-09T10:20:12",
+        "score": 80
+      },
+      {
+        "title": "Industrial torch fuels faster development of materials for extreme environments",
+        "link": "https://techxplore.com/news/2026-10-industrial-torch-fuels-faster-materials.html",
+        "summary": "New work from engineers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, shows a technology normally used to spray protective coatings onto industrial parts could help address a costly problem in hypersonics: deciding which materials deserve time in the nation's scarce high-end test facilities.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-09T10:20:02",
+        "score": 80
       }
     ],
     "ScienceDaily \u2013 AI": [
-      {
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-08-30T10:08:13",
-        "score": 105
-      },
       {
         "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
         "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
@@ -683,53 +721,15 @@
         "source_weight": 85,
         "published": "2026-08-31T09:08:37",
         "score": 95
-      }
-    ],
-    "Phys.org \u2013 Technology": [
-      {
-        "title": "Anthropic bans 'cruel' behavior against its Claude AI",
-        "link": "https://techxplore.com/news/2026-10-anthropic-cruel-behavior-claude-ai.html",
-        "summary": "Anthropic on Thursday moved to bar users from treating its Claude AI system with needless cruelty, amid a growing philosophical debate over whether artificial intelligence can be conscious.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-09T04:30:06",
-        "score": 100
       },
       {
-        "title": "OpenAI revenue gap report rattles AI stocks",
-        "link": "https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html",
-        "summary": "OpenAI is bringing in about $20 billion less in annualized revenue than investors had been led to believe, the Financial Times reported Thursday, raising questions about the solidity of the AI business.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-09T05:10:07",
-        "score": 90
-      },
-      {
-        "title": "Fired researchers accuse OpenAI of 'chilling' safety efforts",
-        "link": "https://techxplore.com/news/2026-10-accuse-openai-chilling-safety-efforts.html",
-        "summary": "Three former OpenAI security researchers on Thursday accused the ChatGPT maker of firing them for warning about the dangers of artificial intelligence, reigniting the debate over safety at a company whose software has been involved in security breaches.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-09T05:10:02",
-        "score": 90
-      },
-      {
-        "title": "Zankore's AI factory: Can Central Java afford the water cost?",
-        "link": "https://techxplore.com/news/2026-10-zankore-ai-factory-central-java.html",
-        "summary": "Indosat Ooredoo Hutchison, together with Ooredoo Group, Nokia and Nvidia, plans to develop Zankore, an artificial intelligence (AI) infrastructure platform aimed at serving the region.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-09T07:20:02",
-        "score": 80
-      },
-      {
-        "title": "Japan warns for increased vigilance against rising cyberattacks",
-        "link": "https://techxplore.com/news/2026-10-japan-vigilance-cyberattacks.html",
-        "summary": "Japan's government issued a warning Friday for increased vigilance against cyberattacks, which are rising in number and becoming more sophisticated.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-09T05:00:06",
-        "score": 80
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 95
       }
     ]
   }
