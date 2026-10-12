@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-10-12T12:33:28.510632",
+  "issue_date": "2026-10-12",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      17
+    ],
+    [
+      "Anthropic",
+      9
+    ],
+    [
+      "agent",
+      8
+    ],
+    [
+      "OpenAI",
+      4
+    ],
+    [
+      "Google",
+      4
+    ],
+    [
+      "Generative AI",
+      3
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "large language model",
+      1
+    ],
+    [
+      "ChatGPT",
+      1
+    ],
+    [
+      "LLM",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-10T00:18:32+00:00",
+      "score": 110
+    },
+    {
+      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-30T10:08:13",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-11T14:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-10T14:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-10T10:41:16-04:00",
+      "score": 95
+    },
+    {
+      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-10T09:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T17:15:38-04:00",
+      "score": 95
+    },
+    {
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T15:09:44-04:00",
+      "score": 95
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T14:06:57-04:00",
+      "score": 95
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:17:13",
+      "score": 95
+    },
+    {
+      "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T08:45:04",
+      "score": 95
+    },
+    {
+      "title": "Scientists just made quantum computer operations 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T07:52:30",
+      "score": 95
+    },
+    {
+      "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+      "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-08-31T09:08:37",
+      "score": 95
+    },
+    {
+      "title": "Will the HomeView be Apple\u2019s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary": "Over the past couple of years, we\u2019ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-11T21:14:40+00:00",
+      "score": 90
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 \u2014 hear directly from the people building what\u2019s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco\u2019s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-11T19:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-11T16:52:33+00:00",
+      "score": 90
+    },
+    {
+      "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-10T21:47:51+00:00",
+      "score": 90
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-10T19:50:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-10T15:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-09T21:41:29+00:00",
+      "score": 90
+    },
+    {
+      "title": "Power, water, jobs: Google on India data center concerns",
+      "link": "https://techxplore.com/news/2026-10-power-jobs-google-india-center.html",
+      "summary": "Construction of a massive Google data center in the Indian city of Visakhapatnam has been met with resistance from residents who fear the impact on the environment and their lives.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-11T11:40:06",
+      "score": 90
+    },
+    {
+      "title": "Google faces backlash against India data center",
+      "link": "https://techxplore.com/news/2026-10-google-backlash-india-center.html",
+      "summary": "Handcuffs encircle Google's logo on one campaign poster, while another warns that people \"cannot drink data\", as opposition mounts to the tech giant's planned AI mega-facility in India.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-11T11:29:03",
+      "score": 90
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on an unsolved Philadelphia homicide case",
+      "link": "https://techxplore.com/news/2026-10-anthropic-claude-ai-submits-false.html",
+      "summary": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-10T16:22:10",
+      "score": 90
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-11T14:33:56-04:00",
+      "score": 85
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-11T07:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-10T18:10:17-04:00",
+      "score": 85
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-10T14:52:07-04:00",
+      "score": 85
+    },
+    {
+      "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-09T10:25:43-04:00",
+      "score": 85
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:03:50",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "New spinning method builds electronic circuits directly inside soft, washable fibers",
+      "link": "https://techxplore.com/news/2026-10-method-electronic-circuits-soft-washable.html",
+      "summary": "Electronic devices are no longer limited to conventional systems with a screen, keyboard and processing components. Over the past decades, some electronics engineers have been developing thin electronic fibers that could be used to create wearable devices or flexible sensors for robots.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-12T07:40:07",
+      "score": 80
+    },
+    {
+      "title": "Just 10 minutes of AI use may erode persistence on hard tasks",
+      "link": "https://techxplore.com/news/2026-10-minutes-ai-erode-persistence-hard.html",
+      "summary": "Brian Christian has spent 20 years thinking about how artificial intelligence will change our minds and our world. His 2020 book \"The Alignment Problem\" has been praised as one of the best on AI, and like many scientists, he sometimes feels euphoric about the technology's advances. After all, when everyone has a fleet of autonomous agents on standby to speed up research, it's hard not to feel as if a life-changing discovery is just a few prompts away.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-12T07:40:02",
+      "score": 80
+    },
+    {
+      "title": "Norway fines Microsoft subsidiary for sharing Grindr user data",
+      "link": "https://techxplore.com/news/2026-10-norway-fines-microsoft-subsidiary-grindr.html",
+      "summary": "Norway's data protection authority Monday slapped a 92 million kroner (8.6 million euros) fine on Microsoft subsidiary Xandr for sharing user data from dating app Grindr.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-12T07:02:26",
+      "score": 80
+    },
+    {
+      "title": "A global, hardwired pause of frontier AI training is feasible, says new report",
+      "link": "https://techxplore.com/news/2026-10-global-hardwired-frontier-ai-feasible.html",
+      "summary": "If the world's government and AI leaders ever agree to pause frontier AI training, is an international pact really feasible? How would it be implemented, coordinated and monitored?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-12T07:00:15",
+      "score": 80
+    },
+    {
+      "title": "Ready Player 1: Paris to host 2027 edition of EVO fighting video game event",
+      "link": "https://techxplore.com/news/2026-10-ready-player-paris-host-evo.html",
+      "summary": "Paris will host the 2027 edition of EVO, the biggest fighting video game event in the world, the organizers announced Sunday as this year's event drew to a close in Nice.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-11T14:00:11",
+      "score": 80
+    },
+    {
+      "title": "Bill Gates warns cyberattacks most imminent AI threat",
+      "link": "https://techxplore.com/news/2026-10-bill-gates-cyberattacks-imminent-ai.html",
+      "summary": "Bill Gates on Sunday warned that unregulated artificial intelligence poses a growing threat and predicted an escalation in AI-powered cyberattacks in the coming year.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-11T13:32:28",
+      "score": 80
+    },
+    {
+      "title": "Zinc-air batteries gain new momentum with long-lasting catalyst",
+      "link": "https://techxplore.com/news/2026-10-zinc-air-batteries-gain-momentum.html",
+      "summary": "Zinc-air batteries can store significantly more energy than lithium-ion batteries, but until now have been virtually impossible to recharge. A team led by Professor J\u00f6rg J. Schneider from the Department of Chemistry has now demonstrated how a material made of iron, nickel and carbon enables the battery to be charged and discharged up to 500 times.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-11T12:20:01",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+        "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-10T00:18:32+00:00",
+        "score": 110
+      },
+      {
+        "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-11T14:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-10T14:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Will the HomeView be Apple\u2019s first smart home success?",
+        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "summary": "Over the past couple of years, we\u2019ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-11T21:14:40+00:00",
+        "score": 90
+      },
+      {
+        "title": "48 hours to TechCrunch Disrupt 2026 \u2014 hear directly from the people building what\u2019s next",
+        "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco\u2019s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-11T19:00:00+00:00",
+        "score": 90
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in roughly 15 minutes while also providing statistical evidence that the result was reliable.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-30T10:08:13",
+        "score": 105
+      },
+      {
+        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-01T09:17:13",
+        "score": 95
+      },
+      {
+        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T08:45:04",
+        "score": 95
+      },
+      {
+        "title": "Scientists just made quantum computer operations 1,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+        "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable, fault-tolerant quantum computers closer to reality.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-11T07:52:30",
+        "score": 95
+      },
+      {
+        "title": "A \u201cquantum bath\u201d puts quantum entanglement on autopilot",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm",
+        "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a \u201cquantum bath,\u201d a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-08-31T09:08:37",
+        "score": 95
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-10T10:41:16-04:00",
+        "score": 95
+      },
+      {
+        "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-10T09:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-09T17:15:38-04:00",
+        "score": 95
+      },
+      {
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-09T15:09:44-04:00",
+        "score": 95
+      },
+      {
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-09T14:06:57-04:00",
+        "score": 95
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Power, water, jobs: Google on India data center concerns",
+        "link": "https://techxplore.com/news/2026-10-power-jobs-google-india-center.html",
+        "summary": "Construction of a massive Google data center in the Indian city of Visakhapatnam has been met with resistance from residents who fear the impact on the environment and their lives.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-11T11:40:06",
+        "score": 90
+      },
+      {
+        "title": "Google faces backlash against India data center",
+        "link": "https://techxplore.com/news/2026-10-google-backlash-india-center.html",
+        "summary": "Handcuffs encircle Google's logo on one campaign poster, while another warns that people \"cannot drink data\", as opposition mounts to the tech giant's planned AI mega-facility in India.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-11T11:29:03",
+        "score": 90
+      },
+      {
+        "title": "Anthropic's Claude AI submits a false tip on an unsolved Philadelphia homicide case",
+        "link": "https://techxplore.com/news/2026-10-anthropic-claude-ai-submits-false.html",
+        "summary": "An Anthropic artificial intelligence model submitted a false tip to a Philadelphia police website about an unsolved homicide case, authorities and Anthropic said.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-10T16:22:10",
+        "score": 90
+      },
+      {
+        "title": "New spinning method builds electronic circuits directly inside soft, washable fibers",
+        "link": "https://techxplore.com/news/2026-10-method-electronic-circuits-soft-washable.html",
+        "summary": "Electronic devices are no longer limited to conventional systems with a screen, keyboard and processing components. Over the past decades, some electronics engineers have been developing thin electronic fibers that could be used to create wearable devices or flexible sensors for robots.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-12T07:40:07",
+        "score": 80
+      },
+      {
+        "title": "Just 10 minutes of AI use may erode persistence on hard tasks",
+        "link": "https://techxplore.com/news/2026-10-minutes-ai-erode-persistence-hard.html",
+        "summary": "Brian Christian has spent 20 years thinking about how artificial intelligence will change our minds and our world. His 2020 book \"The Alignment Problem\" has been praised as one of the best on AI, and like many scientists, he sometimes feels euphoric about the technology's advances. After all, when everyone has a fleet of autonomous agents on standby to speed up research, it's hard not to feel as if a life-changing discovery is just a few prompts away.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-12T07:40:02",
+        "score": 80
+      }
+    ]
+  }
+}
