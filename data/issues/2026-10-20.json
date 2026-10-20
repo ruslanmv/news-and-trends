@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-10-20T09:43:51.849567",
+  "issue_date": "2026-10-20",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      12
+    ],
+    [
+      "agent",
+      10
+    ],
+    [
+      "NVIDIA",
+      8
+    ],
+    [
+      "Meta",
+      7
+    ],
+    [
+      "Anthropic",
+      3
+    ],
+    [
+      "cybersecurity",
+      3
+    ],
+    [
+      "OpenAI",
+      2
+    ],
+    [
+      "Generative AI",
+      1
+    ],
+    [
+      "large language model",
+      1
+    ],
+    [
+      "regulation",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T23:39:38+00:00",
+      "score": 100
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T22:04:28+00:00",
+      "score": 100
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T20:09:24+00:00",
+      "score": 100
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-19T09:58:41-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: \u2026 Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-17T11:04:36-04:00",
+      "score": 95
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-17T09:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-16T11:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-16T10:02:40-04:00",
+      "score": 95
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T05:47:22",
+      "score": 95
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:17:13",
+      "score": 95
+    },
+    {
+      "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+      "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-25T08:45:04",
+      "score": 95
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-20T01:27:03+00:00",
+      "score": 90
+    },
+    {
+      "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T22:49:27+00:00",
+      "score": 90
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T19:28:34+00:00",
+      "score": 90
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T19:00:12+00:00",
+      "score": 90
+    },
+    {
+      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T18:49:04+00:00",
+      "score": 90
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T18:37:27+00:00",
+      "score": 90
+    },
+    {
+      "title": "People are using AI to make their smart TVs dumb again",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-19T16:13:22+00:00",
+      "score": 90
+    },
+    {
+      "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "link": "https://techxplore.com/news/2026-10-nvidia-ceo-urges-german-ai.html",
+      "summary": "Nvidia CEO Jensen Huang urged Germany's makers of cars and industrial machines to quickly adopt artificial intelligence to \"reengineer\" the country's struggling business model by tapping its wealth of manufacturing data and expertise.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-20T05:36:06",
+      "score": 90
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-19T17:48:01-04:00",
+      "score": 85
+    },
+    {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-19T17:28:20-04:00",
+      "score": 85
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment \u2014 and with the midterms coming [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-19T10:30:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-19T08:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-18T14:28:10-04:00",
+      "score": 85
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead, people judged humans and AI much more similarly.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T21:41:55",
+      "score": 85
+    },
+    {
+      "title": "Physicists discover \u201castonishing\u201d property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light\u2019s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam\u2019s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T00:19:32",
+      "score": 85
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:03:50",
+      "score": 85
+    },
+    {
+      "title": "MIT\u2019s tiny flying robot gets 450% faster with AI",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "summary": "A new AI control system lets MIT\u2019s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually enable miniature robots to search earthquake rubble and navigate dangerous spaces that conventional drones cannot reach.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-22T08:52:43",
+      "score": 85
+    },
+    {
+      "title": "The shape behind the Einstein problem just revealed strange new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
+      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-15T09:14:55",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlooked signals worth studying.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-13T06:46:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny nanolaser could cut computer energy use in half",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+      "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in half. Thousands of the lasers could fit on a single chip, opening possibilities for more efficient data centers, smartphones, and advanced medical sensors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-09-11T08:03:26",
+      "score": 85
+    },
+    {
+      "title": "From wombat burrows to Noah's Ark: Robot joins search",
+      "link": "https://techxplore.com/news/2026-10-wombat-burrows-noah-ark-robot.html",
+      "summary": "Technology developed by an Australian engineer to explore wombat burrows has been sent to eastern T\u00fcrkiye to join in the search for the biblical Noah's Ark.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T22:40:01",
+      "score": 80
+    },
+    {
+      "title": "Carbon calculator finds screw pile foundations emit less than concrete in two real-world projects",
+      "link": "https://techxplore.com/news/2026-10-carbon-pile-foundations-emit-concrete.html",
+      "summary": "An Abertay University student has helped a local sustainable engineering company better understand the carbon impact of its operations through a real-world industry research project.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T21:00:04",
+      "score": 80
+    },
+    {
+      "title": "Robot AI predicts future scenes to guide its next moves",
+      "link": "https://techxplore.com/news/2026-10-robot-ai-future-scenes.html",
+      "summary": "A robot artificial intelligence (AI) system has been developed that can understand human instructions, predict what a scene will look like after an action and then carry out the task. Rather than simply translating instructions into physical movements, the technology also uses the anticipated outcomes of those actions to control the robot.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T17:20:01",
+      "score": 80
+    },
+    {
+      "title": "Next-generation hydrogen production with built-in carbon capture could deliver high efficiency",
+      "link": "https://techxplore.com/news/2026-10-generation-hydrogen-production-built-carbon.html",
+      "summary": "A new study led by researchers at The University of Manchester has provided the first plant-wide assessment of chemical looping reforming, an emerging hydrogen production technology that combines hydrogen generation with built-in carbon capture.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T17:00:01",
+      "score": 80
+    },
+    {
+      "title": "New communications toolkit to help care providers prepare for cyber incidents",
+      "link": "https://techxplore.com/news/2026-10-communications-toolkit-cyber-incidents.html",
+      "summary": "Digital Care Hub has launched a series of new resources to help adult social care providers plan how they will communicate with key stakeholders in the event of a cyber incident. These include people receiving care, families, staff, partner organizations and relevant public bodies.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T15:40:04",
+      "score": 80
+    },
+    {
+      "title": "When LLMs are trained on frivolous online content, they can get brain rot like humans do",
+      "link": "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html",
+      "summary": "As humans and AI models roam the internet, they encounter lots of junk: clickbait headlines, misinformation, hashtags. Research by Dr. Zhengzhong Tu and his colleagues indicates that this junk-filled environment could be a cause for concern.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T13:40:09",
+      "score": 80
+    },
+    {
+      "title": "Tech-savvy customers may take more online banking risks despite positive security attitudes",
+      "link": "https://techxplore.com/news/2026-10-tech-savvy-customers-online-banking.html",
+      "summary": "A study of electronic banking users has found that cybersecurity depends not only on knowledge of digital threats but also on attitudes, memory and the user's relationship with technology. Details are published in the International Journal of Information and Computer Security. The researchers looked at how customers translate cybersecurity knowledge into behavior. The work addresses a gap in this area of research, which has previously focused largely on employees rather than customers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T13:20:09",
+      "score": 80
+    },
+    {
+      "title": "A little heat releases two fuels from a single crystalline compound",
+      "link": "https://techxplore.com/news/2026-10-fuels-crystalline-compound.html",
+      "summary": "A team of researchers in India has developed a new compound capable of releasing both hydrogen and methane when heated at low temperatures. In their new study, published in Science Advances, the researchers show how this new compound can provide a foundation for creating recyclable molecular compounds for storing and delivering alternative fuel components.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T13:20:04",
+      "score": 80
+    },
+    {
+      "title": "Who is Elias the lighthouse keeper? AI fiction tells the same old story",
+      "link": "https://techxplore.com/news/2026-10-elias-lighthouse-keeper-ai-fiction.html",
+      "summary": "Like a hack writer or a friend rehashing their glory days over and over, artificial intelligence tends to tell the same old story. For AI agents instructed to write fiction, that tale usually involves lighthouses and a keeper named Elias, according to new Cornell research.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-19T12:00:01",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-19T23:39:38+00:00",
+        "score": 100
+      },
+      {
+        "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+        "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+        "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-19T22:04:28+00:00",
+        "score": 100
+      },
+      {
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-19T20:09:24+00:00",
+        "score": 100
+      },
+      {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+        "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-20T01:27:03+00:00",
+        "score": 90
+      },
+      {
+        "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+        "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+        "summary": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-19T22:49:27+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-19T09:58:41-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: \u2026 Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-17T11:04:36-04:00",
+        "score": 95
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-17T09:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+        "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-16T11:00:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+        "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-16T10:02:40-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+        "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-13T05:47:22",
+        "score": 95
+      },
+      {
+        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-01T09:17:13",
+        "score": 95
+      },
+      {
+        "title": "Quantum computing\u2019s \u201cdark horse\u201d just proved it can go universal",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum\u2019s H2 processor, they combined braiding and fusion to unlock capabilities that braiding alone could not provide.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-09-25T08:45:04",
+        "score": 95
+      },
+      {
+        "title": "AI can act exactly like a human, but we still don't think it's conscious",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+        "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead, people judged humans and AI much more similarly.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-13T21:41:55",
+        "score": 85
+      },
+      {
+        "title": "Physicists discover \u201castonishing\u201d property of light that defies expectations",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+        "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light\u2019s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam\u2019s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-13T00:19:32",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+        "link": "https://techxplore.com/news/2026-10-nvidia-ceo-urges-german-ai.html",
+        "summary": "Nvidia CEO Jensen Huang urged Germany's makers of cars and industrial machines to quickly adopt artificial intelligence to \"reengineer\" the country's struggling business model by tapping its wealth of manufacturing data and expertise.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-20T05:36:06",
+        "score": 90
+      },
+      {
+        "title": "From wombat burrows to Noah's Ark: Robot joins search",
+        "link": "https://techxplore.com/news/2026-10-wombat-burrows-noah-ark-robot.html",
+        "summary": "Technology developed by an Australian engineer to explore wombat burrows has been sent to eastern T\u00fcrkiye to join in the search for the biblical Noah's Ark.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-19T22:40:01",
+        "score": 80
+      },
+      {
+        "title": "Carbon calculator finds screw pile foundations emit less than concrete in two real-world projects",
+        "link": "https://techxplore.com/news/2026-10-carbon-pile-foundations-emit-concrete.html",
+        "summary": "An Abertay University student has helped a local sustainable engineering company better understand the carbon impact of its operations through a real-world industry research project.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-19T21:00:04",
+        "score": 80
+      },
+      {
+        "title": "Robot AI predicts future scenes to guide its next moves",
+        "link": "https://techxplore.com/news/2026-10-robot-ai-future-scenes.html",
+        "summary": "A robot artificial intelligence (AI) system has been developed that can understand human instructions, predict what a scene will look like after an action and then carry out the task. Rather than simply translating instructions into physical movements, the technology also uses the anticipated outcomes of those actions to control the robot.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-19T17:20:01",
+        "score": 80
+      },
+      {
+        "title": "Next-generation hydrogen production with built-in carbon capture could deliver high efficiency",
+        "link": "https://techxplore.com/news/2026-10-generation-hydrogen-production-built-carbon.html",
+        "summary": "A new study led by researchers at The University of Manchester has provided the first plant-wide assessment of chemical looping reforming, an emerging hydrogen production technology that combines hydrogen generation with built-in carbon capture.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-19T17:00:01",
+        "score": 80
+      }
+    ]
+  }
+}
