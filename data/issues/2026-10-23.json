@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:41:11.240675",
+  "generated_at": "2026-10-23T13:07:42.421081",
   "issue_date": "2026-10-23",
   "topic_of_week": "Quantum",
   "top_terms": [
@@ -13,7 +13,7 @@
     ],
     [
       "OpenAI",
-      9
+      6
     ],
     [
       "Meta",
@@ -21,18 +21,10 @@
     ],
     [
       "NVIDIA",
-      5
-    ],
-    [
-      "Anthropic",
-      3
-    ],
-    [
-      "ChatGPT",
       2
     ],
     [
-      "AGI",
+      "ChatGPT",
       2
     ],
     [
@@ -42,18 +34,17 @@
     [
       "large language model",
       1
+    ],
+    [
+      "Google",
+      1
+    ],
+    [
+      "LLM",
+      1
     ]
   ],
   "articles": [
-    {
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-22T11:50:30-04:00",
-      "score": 115
-    },
     {
       "title": "Generative AI to quantify uncertainty in weather forecasting",
       "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
@@ -289,6 +280,15 @@
       "score": 90
     },
     {
+      "title": "Retro gaming is being overrun with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-23T08:00:00-04:00",
+      "score": 85
+    },
+    {
       "title": "Canva\u2019s first AI image model plans designs before generating them",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
@@ -352,6 +352,15 @@
       "score": 85
     },
     {
+      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely navigate.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-23T06:33:56",
+      "score": 85
+    },
+    {
       "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
       "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
       "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
@@ -397,13 +406,22 @@
       "score": 85
     },
     {
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-09-15T09:14:55",
-      "score": 85
+      "title": "Data-driven operation of biogas plants: Generating electricity when wind and solar power are scarce",
+      "link": "https://techxplore.com/news/2026-10-driven-biogas-generating-electricity-solar.html",
+      "summary": "Biogas plants are considered the third pillar of renewable electricity generation in Germany. Unlike solar and wind power, electricity generation from biogas is largely independent of weather conditions and can generally be scheduled.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-23T07:20:02",
+      "score": 80
+    },
+    {
+      "title": "New method produces perfect images of misaligned big toes",
+      "link": "https://techxplore.com/news/2026-10-method-images-misaligned-big-toes.html",
+      "summary": "Patients require X-rays of their big toes before surgery. Several images are required as the development of hallux valgus needs to be monitored over time.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-23T07:10:01",
+      "score": 80
     },
     {
       "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
@@ -476,74 +494,9 @@
       "source_weight": 80,
       "published": "2026-10-22T16:20:02",
       "score": 80
-    },
-    {
-      "title": "Engineered porous material recovers valuable rare earth elements from industrial wastewater",
-      "link": "https://techxplore.com/news/2026-10-porous-material-recovers-valuable-rare.html",
-      "summary": "The rare earth elements that help power electric vehicles, wind turbines, medical imaging machines and other advanced technologies may be hiding in an unlikely place: industrial wastewater.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-22T16:00:08",
-      "score": 80
-    },
-    {
-      "title": "Lab-grown mouse muscles enable tiny robots to jump, swim, walk and grasp",
-      "link": "https://techxplore.com/news/2026-10-lab-grown-mouse-muscles-enable.html",
-      "summary": "Lab-grown skeletal muscle tissue can contract, but the movement is often so slight that it is barely visible. This poses a problem for biohybrid robots designed to move using living muscles. Researchers at ETH Zurich have now demonstrated that it is not just the amount of muscle tissue that matters, but above all how the muscle and the artificial scaffold interact.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-22T15:40:19",
-      "score": 80
     }
   ],
   "by_source": {
-    "The Verge \u2013 AI": [
-      {
-        "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-        "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-22T11:50:30-04:00",
-        "score": 115
-      },
-      {
-        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-22T16:32:05-04:00",
-        "score": 95
-      },
-      {
-        "title": "Meta turns Muse sharing back on",
-        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-22T16:24:04-04:00",
-        "score": 95
-      },
-      {
-        "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
-        "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-        "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-22T14:15:00-04:00",
-        "score": 95
-      },
-      {
-        "title": "Canva\u2019s first AI image model plans designs before generating them",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-22T17:51:25-04:00",
-        "score": 85
-      }
-    ],
     "Google AI Blog": [
       {
         "title": "Generative AI to quantify uncertainty in weather forecasting",
@@ -638,6 +591,53 @@
         "score": 100
       }
     ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-22T16:32:05-04:00",
+        "score": 95
+      },
+      {
+        "title": "Meta turns Muse sharing back on",
+        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-22T16:24:04-04:00",
+        "score": 95
+      },
+      {
+        "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
+        "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+        "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-22T14:15:00-04:00",
+        "score": 95
+      },
+      {
+        "title": "Retro gaming is being overrun with AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-23T08:00:00-04:00",
+        "score": 85
+      },
+      {
+        "title": "Canva\u2019s first AI image model plans designs before generating them",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-22T17:51:25-04:00",
+        "score": 85
+      }
+    ],
     "ScienceDaily \u2013 AI": [
       {
         "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
@@ -676,16 +676,34 @@
         "score": 85
       },
       {
-        "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-        "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
+        "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+        "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely navigate.",
         "source": "ScienceDaily \u2013 AI",
         "source_weight": 85,
-        "published": "2026-10-21T22:37:01",
+        "published": "2026-10-23T06:33:56",
         "score": 85
       }
     ],
     "Phys.org \u2013 Technology": [
+      {
+        "title": "Data-driven operation of biogas plants: Generating electricity when wind and solar power are scarce",
+        "link": "https://techxplore.com/news/2026-10-driven-biogas-generating-electricity-solar.html",
+        "summary": "Biogas plants are considered the third pillar of renewable electricity generation in Germany. Unlike solar and wind power, electricity generation from biogas is largely independent of weather conditions and can generally be scheduled.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-23T07:20:02",
+        "score": 80
+      },
+      {
+        "title": "New method produces perfect images of misaligned big toes",
+        "link": "https://techxplore.com/news/2026-10-method-images-misaligned-big-toes.html",
+        "summary": "Patients require X-rays of their big toes before surgery. Several images are required as the development of hallux valgus needs to be monitored over time.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-23T07:10:01",
+        "score": 80
+      },
       {
         "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
         "link": "https://techxplore.com/news/2026-10-musk-merge-spacex-tesla.html",
@@ -711,24 +729,6 @@
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
         "published": "2026-10-22T18:40:05",
-        "score": 80
-      },
-      {
-        "title": "App's AI 'eyes' for blind users fall short, researchers find",
-        "link": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
-        "summary": "A blind man points his phone at a pan and asks, \"Are the sausages brown yet?\" The app he's using responds out loud that some spots are still slightly pink. So a bit later, he takes another photo and asks again, and then again, about four times in all, until the food is fully cooked.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-22T17:20:06",
-        "score": 80
-      },
-      {
-        "title": "Molecular locking strategy enables efficient and scalable organic solar cells",
-        "link": "https://techxplore.com/news/2026-10-molecular-strategy-enables-efficient-scalable.html",
-        "summary": "Organic solar cells (OSCs) are devices that convert sunlight into electricity using carbon-based organic materials rather than the silicon used in conventional solar panels.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-10-22T17:00:06",
         "score": 80
       }
     ]
