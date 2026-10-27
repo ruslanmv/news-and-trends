@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-10-27T10:08:51.663374",
+  "issue_date": "2026-10-27",
+  "topic_of_week": "Anthropic",
+  "top_terms": [
+    [
+      "Anthropic",
+      14
+    ],
+    [
+      "Quantum",
+      12
+    ],
+    [
+      "OpenAI",
+      8
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "Meta",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "Claude",
+      2
+    ],
+    [
+      "RAG",
+      2
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "cybersecurity",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-27T02:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-26T16:49:42+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-26T14:35:22+00:00",
+      "score": 100
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T19:34:58-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T17:45:31-04:00",
+      "score": 95
+    },
+    {
+      "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T13:30:55-04:00",
+      "score": 95
+    },
+    {
+      "title": "Five weird details from Anthropic\u2019s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T13:10:23-04:00",
+      "score": 95
+    },
+    {
+      "title": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "summary": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T10:00:00-04:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic\u2019s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T09:32:49-04:00",
+      "score": 95
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-25T21:42:48",
+      "score": 95
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T05:47:22",
+      "score": 95
+    },
+    {
+      "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:17:13",
+      "score": 95
+    },
+    {
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-27T01:12:21+00:00",
+      "score": 90
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-26T16:46:36+00:00",
+      "score": 90
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-25T21:31:16+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-25T16:57:32+00:00",
+      "score": 90
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-25T14:10:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-24T20:15:33+00:00",
+      "score": 90
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-24T19:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Meta plans to raise $35 billion to fund its AI ambitions",
+      "link": "https://techxplore.com/news/2026-10-meta-billion-fund-ai-ambitions.html",
+      "summary": "Meta plans to raise $35 billion through a stock offering to fund the development of its artificial intelligence, according to documents released Monday by the U.S. Securities and Exchange Commission.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T15:40:09",
+      "score": 90
+    },
+    {
+      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+      "link": "https://techxplore.com/news/2026-10-anthropic-potentially-biggest-ipo-ceo.html",
+      "summary": "Artificial intelligence giant Anthropic filed paperwork Monday for what could be the biggest initial public offering of stock ever, even as its top executive warns that advanced AI could pose an existential threat to humanity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T15:20:10",
+      "score": 90
+    },
+    {
+      "title": "Running with the Red Queen: Using game theory to improve cybersecurity in the AI era",
+      "link": "https://techxplore.com/news/2026-10-red-queen-game-theory-cybersecurity.html",
+      "summary": "In Lewis Carroll's \"Alice Through the Looking Glass,\" the eponymous heroine encounters the Red Queen, who involves her in a frantic race. In this curious country, Alice learns, you have to run as fast as you possibly can only to remain in the same place. Christoph Landolt draws on the image of this Red Queen's Race to describe the situation of software vendors in the AI era. As the cyber capabilities of frontier models continue to grow, the potential for attacks is multiplying at speed too. Using an approach from game theory, Landolt and his co-authors have calculated how the release of new AI models could be sequenced to give software vendors a strategic head start over cybercriminals.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T13:20:30",
+      "score": 90
+    },
+    {
+      "title": "Data center backlash is uniting America",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-27T06:00:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T11:58:27-04:00",
+      "score": 85
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T09:15:00-04:00",
+      "score": 85
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-25T09:25:32-04:00",
+      "score": 85
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T06:06:16",
+      "score": 85
+    },
+    {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-22T21:21:47",
+      "score": 85
+    },
+    {
+      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely navigate.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-23T06:33:56",
+      "score": 85
+    },
+    {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-21T22:37:01",
+      "score": 85
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead, people judged humans and AI much more similarly.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T21:41:55",
+      "score": 85
+    },
+    {
+      "title": "Physicists discover \u201castonishing\u201d property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light\u2019s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam\u2019s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T00:19:32",
+      "score": 85
+    },
+    {
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make it a powerful tool for screening the growing flood of AI-generated video.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-01T09:03:50",
+      "score": 85
+    },
+    {
+      "title": "SpaceX strikes AI chip lease deal as Musk warns rivals",
+      "link": "https://techxplore.com/news/2026-10-spacex-ai-chip-lease-musk.html",
+      "summary": "SpaceX said Monday it has struck a deal with private equity giant Apollo Global Management to lease specialized chips for developing artificial intelligence.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-27T06:03:15",
+      "score": 80
+    },
+    {
+      "title": "Australia warns of 'unprecedented' AI threat",
+      "link": "https://techxplore.com/news/2026-10-australia-unprecedented-ai-threat.html",
+      "summary": "Artificial intelligence poses an \"unprecedented\" threat as foreign governments turn it loose to hack computer networks and critical infrastructure, Australia's cybersecurity agency warned on Tuesday.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-27T05:20:20",
+      "score": 80
+    },
+    {
+      "title": "Lithium removal extends perovskite solar cell lifespan to advance commercialization efforts",
+      "link": "https://techxplore.com/news/2026-10-lithium-perovskite-solar-cell-lifespan.html",
+      "summary": "The Photovoltaic Research Department of the Korea Institute of Energy Research (KIER) has developed a catalytic process that extends the lifespan of perovskite solar cells. The findings were published in Advanced Science.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T16:40:05",
+      "score": 80
+    },
+    {
+      "title": "Tunable gate electrodes could help semiconductors operate at lower voltages",
+      "link": "https://techxplore.com/news/2026-10-tunable-gate-electrodes-semiconductors-voltages.html",
+      "summary": "Smartphones and computers process information by switching the current that flows inside semiconductors on and off. The gate electrode delivers the signal that controls this switching. Until now, gate electrodes have typically been made from metals whose electronic properties are fixed.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T15:40:16",
+      "score": 80
+    },
+    {
+      "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+      "link": "https://techxplore.com/news/2026-10-microsoft-quarter-global-workforce-voluntary.html",
+      "summary": "Microsoft has offered 60,000 employees, or about 27% of its global workforce, voluntary buyouts as the software giant spends heavily on artificial intelligence.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T15:20:16",
+      "score": 80
+    },
+    {
+      "title": "AI framework cuts computing use by two-thirds while more than tripling success in virtual tasks",
+      "link": "https://techxplore.com/news/2026-10-ai-framework-thirds-tripling-success.html",
+      "summary": "A research team led by professor Minhae Kwon of the School of Electronic and Electrical Engineering has developed two core next-generation artificial intelligence (AI) technologies that enable AI systems to handle complex, long-horizon tasks more effectively while reducing computational costs and improving safety. The findings address key challenges that have hindered the commercialization of costly AI assistant services as well as the deployment of AI in safety-critical areas such as robotics and autonomous driving. The findings are published on the arXiv preprint server.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T15:00:06",
+      "score": 80
+    },
+    {
+      "title": "Printed electronics turn mattress protectors into fall-risk monitors",
+      "link": "https://techxplore.com/news/2026-10-electronics-mattress-protectors-fall.html",
+      "summary": "Australian medtech company Sleeptite and RMIT University researchers have secured a U.S. patent for smart bedding technology designed to monitor residents' well-being in health care settings and identify fall risk so caregivers can intervene.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-26T14:40:12",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-27T02:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-26T16:49:42+00:00",
+        "score": 100
+      },
+      {
+        "title": "Anthropic officially files for its public debut",
+        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-26T14:35:22+00:00",
+        "score": 100
+      },
+      {
+        "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-27T01:12:21+00:00",
+        "score": 90
+      },
+      {
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-26T16:46:36+00:00",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T19:34:58-04:00",
+        "score": 95
+      },
+      {
+        "title": "Anthropic is burning gas to feed the AI boom",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+        "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T17:45:31-04:00",
+        "score": 95
+      },
+      {
+        "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+        "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T13:30:55-04:00",
+        "score": 95
+      },
+      {
+        "title": "Five weird details from Anthropic\u2019s IPO filing",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T13:10:23-04:00",
+        "score": 95
+      },
+      {
+        "title": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
+        "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+        "summary": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T10:00:00-04:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+        "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-25T21:42:48",
+        "score": 95
+      },
+      {
+        "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+        "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-13T05:47:22",
+        "score": 95
+      },
+      {
+        "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the predictions, the technology could eventually work alongside today\u2019s superconducting qubits or serve as a new kind of quantum memory.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-01T09:17:13",
+        "score": 95
+      },
+      {
+        "title": "Tiny magnetic vortices could help computers work more like your brain",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+        "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T06:06:16",
+        "score": 85
+      },
+      {
+        "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+        "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-22T21:21:47",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Meta plans to raise $35 billion to fund its AI ambitions",
+        "link": "https://techxplore.com/news/2026-10-meta-billion-fund-ai-ambitions.html",
+        "summary": "Meta plans to raise $35 billion through a stock offering to fund the development of its artificial intelligence, according to documents released Monday by the U.S. Securities and Exchange Commission.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-26T15:40:09",
+        "score": 90
+      },
+      {
+        "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+        "link": "https://techxplore.com/news/2026-10-anthropic-potentially-biggest-ipo-ceo.html",
+        "summary": "Artificial intelligence giant Anthropic filed paperwork Monday for what could be the biggest initial public offering of stock ever, even as its top executive warns that advanced AI could pose an existential threat to humanity.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-26T15:20:10",
+        "score": 90
+      },
+      {
+        "title": "Running with the Red Queen: Using game theory to improve cybersecurity in the AI era",
+        "link": "https://techxplore.com/news/2026-10-red-queen-game-theory-cybersecurity.html",
+        "summary": "In Lewis Carroll's \"Alice Through the Looking Glass,\" the eponymous heroine encounters the Red Queen, who involves her in a frantic race. In this curious country, Alice learns, you have to run as fast as you possibly can only to remain in the same place. Christoph Landolt draws on the image of this Red Queen's Race to describe the situation of software vendors in the AI era. As the cyber capabilities of frontier models continue to grow, the potential for attacks is multiplying at speed too. Using an approach from game theory, Landolt and his co-authors have calculated how the release of new AI models could be sequenced to give software vendors a strategic head start over cybercriminals.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-26T13:20:30",
+        "score": 90
+      },
+      {
+        "title": "SpaceX strikes AI chip lease deal as Musk warns rivals",
+        "link": "https://techxplore.com/news/2026-10-spacex-ai-chip-lease-musk.html",
+        "summary": "SpaceX said Monday it has struck a deal with private equity giant Apollo Global Management to lease specialized chips for developing artificial intelligence.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-27T06:03:15",
+        "score": 80
+      },
+      {
+        "title": "Australia warns of 'unprecedented' AI threat",
+        "link": "https://techxplore.com/news/2026-10-australia-unprecedented-ai-threat.html",
+        "summary": "Artificial intelligence poses an \"unprecedented\" threat as foreign governments turn it loose to hack computer networks and critical infrastructure, Australia's cybersecurity agency warned on Tuesday.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-10-27T05:20:20",
+        "score": 80
+      }
+    ]
+  }
+}
