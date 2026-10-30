@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-10-30T11:06:33.132404",
+  "generated_at": "2026-10-30T14:50:53.687222",
   "issue_date": "2026-10-30",
   "topic_of_week": "Quantum",
   "top_terms": [
     [
       "Quantum",
-      13
+      12
+    ],
+    [
+      "Google",
+      6
     ],
     [
       "Anthropic",
       6
     ],
     [
-      "NVIDIA",
+      "OpenAI",
       4
     ],
     [
-      "Google",
+      "RAG",
       4
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "Meta",
+      3
     ],
     [
       "Gemini",
@@ -28,23 +40,20 @@
       2
     ],
     [
-      "OpenAI",
-      2
-    ],
-    [
-      "Meta",
-      2
-    ],
-    [
-      "Mistral",
-      2
-    ],
-    [
-      "LLM",
-      2
+      "Generative AI",
+      1
     ]
   ],
   "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
     {
       "title": "Talk like a graph: Encoding graphs for large language models",
       "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
@@ -62,15 +71,6 @@
       "source_weight": 85,
       "published": "2026-10-29T14:45:31-04:00",
       "score": 105
-    },
-    {
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-      "summary": "",
-      "source": "Google AI Blog",
-      "source_weight": 100,
-      "published": "2024-03-29T11:03:00-07:00",
-      "score": 100
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -145,6 +145,15 @@
       "score": 100
     },
     {
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-30T13:54:25+00:00",
+      "score": 100
+    },
+    {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
@@ -163,22 +172,13 @@
       "score": 100
     },
     {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-10-29T17:00:00+00:00",
-      "score": 100
-    },
-    {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-10-29T16:42:32+00:00",
-      "score": 100
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-30T09:01:14-04:00",
+      "score": 95
     },
     {
       "title": "Anthropic is asking Wall Street to believe in AGI",
@@ -226,6 +226,33 @@
       "score": 95
     },
     {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-30T14:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-30T13:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-10-30T13:00:00+00:00",
+      "score": 90
+    },
+    {
       "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
       "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -262,31 +289,49 @@
       "score": 90
     },
     {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-10-29T17:54:38+00:00",
-      "score": 90
-    },
-    {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-10-29T16:21:00+00:00",
-      "score": 90
-    },
-    {
-      "title": "Nvidia's web of AI bets: Smart strategy or bubble risk?",
-      "link": "https://techxplore.com/news/2026-10-nvidia-web-ai-smart-strategy.html",
-      "summary": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom.",
+      "title": "Researchers develop nonflammable and more durable electrolyte for sodium metal batteries",
+      "link": "https://techxplore.com/news/2026-10-nonflammable-durable-electrolyte-sodium-metal.html",
+      "summary": "In recent years, sodium-metal batteries (SMBs) have gained increasing attention for next-generation energy storage technologies due to the abundance and low cost of sodium (Na) reserves, making them cost-effective alternatives to current commercial lithium-ion batteries. However, the practical applications of SMBs are still limited by critical safety and stability issues.",
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
-      "published": "2026-10-30T05:40:01",
+      "published": "2026-10-30T10:00:15",
       "score": 90
+    },
+    {
+      "title": "Thousands of deceptive ads evade Google's safeguards",
+      "link": "https://techxplore.com/news/2026-10-thousands-deceptive-ads-evade-google.html",
+      "summary": "Thousands of deceptive advertisements have slipped through Google's advertising safeguards, exposing internet users to fake virus warnings, misleading software promises and potentially dangerous downloads, according to new research from NYU Tandon and Radboud University in the Netherlands.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T09:20:11",
+      "score": 90
+    },
+    {
+      "title": "Engineering researcher seeks to prevent AI agents from going rogue",
+      "link": "https://techxplore.com/news/2026-10-ai-agents-rogue.html",
+      "summary": "As artificial intelligence systems become increasingly capable of working on their own, keeping them focused on their designated tasks is a growing challenge.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T09:10:01",
+      "score": 90
+    },
+    {
+      "title": "Electric trucks: Reliable on the road and profitable as energy storage",
+      "link": "https://techxplore.com/news/2026-10-electric-trucks-reliable-road-profitable.html",
+      "summary": "Electric trucks could help freight carriers reduce energy costs and ease financial pressures: Their batteries can also serve as energy storage for the depot or the public grid. As the SPIRIT-E research project comes to a close, a consortium led by the Technical University of Munich (TUM) demonstrates how the vehicles can be integrated into the energy system and what conditions must be met for their economically viable operation.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T08:48:42",
+      "score": 90
+    },
+    {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-30T09:11:05-04:00",
+      "score": 85
     },
     {
       "title": "Maine\u2019s data center revolt will decide who controls the Senate",
@@ -331,24 +376,6 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-10-29T06:00:04-04:00",
-      "score": 85
-    },
-    {
-      "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-28T19:05:39-04:00",
-      "score": 85
-    },
-    {
-      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-28T17:34:04-04:00",
       "score": 85
     },
     {
@@ -415,6 +442,42 @@
       "score": 85
     },
     {
+      "title": "Armored caterpillars offer robot designers lessons in crossing slippery glass",
+      "link": "https://techxplore.com/news/2026-10-armored-caterpillars-robot-lessons-slippery.html",
+      "summary": "Animals have long been one of the primary sources of inspiration for robotics researchers. This is because they rely on sophisticated biological mechanisms and locomotion strategies that could be artificially reproduced in robots to equip them with desired capabilities.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T10:40:14",
+      "score": 80
+    },
+    {
+      "title": "Mystery of 60-second fluctuations in power grids solved",
+      "link": "https://techxplore.com/news/2026-10-mystery-fluctuations-power-grids.html",
+      "summary": "TenneT Germany, the largest transmission system operator in Germany, has observed over several years that the frequency in the European power grid dips briefly every 60 seconds. While these deviations were not critical to grid security, they were clearly measurable and unusually regular. The cause of this phenomenon was initially unclear.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T09:40:08",
+      "score": 80
+    },
+    {
+      "title": "How cities can make room for robotaxis",
+      "link": "https://techxplore.com/news/2026-10-cities-room-robotaxis.html",
+      "summary": "Switzerland recently launched its first driverless taxi service in Furttal, near Zurich. As robotaxi services become a reality, researchers are increasingly focusing not just on their technical feasibility, but on how large fleets of autonomous vehicles can be integrated into transportation systems while also extending mobility options to currently underserved rural regions.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T07:40:16",
+      "score": 80
+    },
+    {
+      "title": "Using ChatGPT before a medical appointment? How to get the best support for your health questions",
+      "link": "https://techxplore.com/news/2026-10-chatgpt-medical-health.html",
+      "summary": "Erin is in her early 40s. She works part time in a demanding job and has two kids in elementary school. She feels constantly exhausted; she's often angry and feels like she can't think like she used to. Her friend tells her it's perimenopause.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-10-30T07:20:01",
+      "score": 80
+    },
+    {
       "title": "Platform simulates lowest-cost pathways for Brazil to achieve carbon neutrality by 2050",
       "link": "https://techxplore.com/news/2026-10-platform-simulates-lowest-pathways-brazil.html",
       "summary": "A new public, open-source digital platform developed by scientists at the State University of Campinas (UNICAMP) in Brazil and Princeton University in the United States promises to facilitate the formulation of climate policies in Brazil.",
@@ -431,73 +494,19 @@
       "source_weight": 80,
       "published": "2026-10-30T06:20:02",
       "score": 80
-    },
-    {
-      "title": "Polymarket paused international trading after a security issue involving a third-party provider",
-      "link": "https://techxplore.com/news/2026-10-polymarket-international-issue-involving-party.html",
-      "summary": "Polymarket temporarily halted trading on its international platform Thursday because of a security incident that compromised a third-party provider, the company said.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-30T06:00:06",
-      "score": 80
-    },
-    {
-      "title": "What to consider if a company that made AI-related job cuts wants you back",
-      "link": "https://techxplore.com/news/2026-10-company-ai-job.html",
-      "summary": "Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-30T05:50:02",
-      "score": 80
-    },
-    {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "link": "https://techxplore.com/news/2026-10-blockchain-intelligence-firms-link-north.html",
-      "summary": "U.S.-based blockchain intelligence firm TRM said a North Korean hacking unit was likely behind the theft of more than $6 billion on the world's biggest cryptocurrency exchange, Binance.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-30T05:26:14",
-      "score": 80
-    },
-    {
-      "title": "New 'four As' framework for the governance of AI",
-      "link": "https://techxplore.com/news/2026-10-framework-ai.html",
-      "summary": "Experts have unveiled a new proposal for the governance of artificial intelligence as they argue the debate has moved beyond simply whether to slow the pace of AI development.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-29T18:00:06",
-      "score": 80
-    },
-    {
-      "title": "Record-setting 2.75 gigahertz LED designed for fast, energy-efficient data centers",
-      "link": "https://techxplore.com/news/2026-10-gigahertz-fast-energy-efficient-centers.html",
-      "summary": "A collaboration between the University of Illinois Urbana-Champaign's Grainger College of Engineering and the University of Notre Dame has broken the world record for optical switching speed in quantum well LEDs. The gallium nitride micro-LED device has an optical modulation bandwidth of 2.75 gigahertz while consuming just 25 milliwatts of power. Its design was optimized to bring newfound speed and efficiency to communication links in data centers.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-29T17:40:02",
-      "score": 80
-    },
-    {
-      "title": "Making bad weather on purpose to test camera and sensor performance",
-      "link": "https://techxplore.com/news/2026-10-bad-weather-purpose-camera-sensor.html",
-      "summary": "Many buildings and sites tied to national security rely on cameras and sensor networks to detect people and other objects nearby, but weather conditions can quickly obscure their view. To understand how these systems perform, Sandia National Laboratories researchers are deliberately recreating thick fog and heavy rain in a controlled chamber.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-29T16:40:09",
-      "score": 80
-    },
-    {
-      "title": "New virtual assistant streamlines one of the most advanced microscopes",
-      "link": "https://techxplore.com/news/2026-10-virtual-advanced-microscopes.html",
-      "summary": "Some of the most important discoveries in materials science and structural biology come down to a simple question: Where, exactly, are the atoms? The arrangement of atoms determines nearly everything about how a material behaves in the real world\u2014how strong it is, how it conducts electricity, how a battery stores energy, or how a drug binds to a cell.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-10-29T15:40:01",
-      "score": 80
     }
   ],
   "by_source": {
     "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
       {
         "title": "Talk like a graph: Encoding graphs for large language models",
         "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
@@ -506,15 +515,6 @@
         "source_weight": 100,
         "published": "2024-03-12T14:15:00-07:00",
         "score": 110
-      },
-      {
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_weight": 100,
-        "published": "2024-03-29T11:03:00-07:00",
-        "score": 100
       },
       {
         "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -555,6 +555,15 @@
         "score": 105
       },
       {
+        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+        "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-30T09:01:14-04:00",
+        "score": 95
+      },
+      {
         "title": "Anthropic is asking Wall Street to believe in AGI",
         "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
         "summary": "Today on Decoder, I\u2019m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing \u2014 a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start [&#8230;]",
@@ -573,25 +582,25 @@
         "score": 95
       },
       {
-        "title": "Maine\u2019s data center revolt will decide who controls the Senate",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-        "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
+        "title": "Silicon Valley wants you to invest in miracles",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
-        "published": "2026-10-30T07:00:00-04:00",
-        "score": 85
-      },
-      {
-        "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
-        "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-        "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-30T05:00:00-04:00",
+        "published": "2026-10-30T09:11:05-04:00",
         "score": 85
       }
     ],
     "TechCrunch \u2013 AI": [
+      {
+        "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+        "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "summary": "DoorDash said that it is open to working with third-party agent makers",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-10-30T13:54:25+00:00",
+        "score": 100
+      },
       {
         "title": "OpenAI-backed Thrive Holdings acquires ADT",
         "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
@@ -611,30 +620,21 @@
         "score": 100
       },
       {
-        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-        "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-        "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+        "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+        "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
         "source": "TechCrunch \u2013 AI",
         "source_weight": 90,
-        "published": "2026-10-29T17:00:00+00:00",
-        "score": 100
+        "published": "2026-10-30T14:00:00+00:00",
+        "score": 90
       },
       {
-        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-        "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-        "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+        "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
         "source": "TechCrunch \u2013 AI",
         "source_weight": 90,
-        "published": "2026-10-29T16:42:32+00:00",
-        "score": 100
-      },
-      {
-        "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
-        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-10-30T01:20:48+00:00",
+        "published": "2026-10-30T13:00:00+00:00",
         "score": 90
       }
     ],
@@ -687,48 +687,48 @@
     ],
     "Phys.org \u2013 Technology": [
       {
-        "title": "Nvidia's web of AI bets: Smart strategy or bubble risk?",
-        "link": "https://techxplore.com/news/2026-10-nvidia-web-ai-smart-strategy.html",
-        "summary": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom.",
+        "title": "Researchers develop nonflammable and more durable electrolyte for sodium metal batteries",
+        "link": "https://techxplore.com/news/2026-10-nonflammable-durable-electrolyte-sodium-metal.html",
+        "summary": "In recent years, sodium-metal batteries (SMBs) have gained increasing attention for next-generation energy storage technologies due to the abundance and low cost of sodium (Na) reserves, making them cost-effective alternatives to current commercial lithium-ion batteries. However, the practical applications of SMBs are still limited by critical safety and stability issues.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-30T05:40:01",
+        "published": "2026-10-30T10:00:15",
         "score": 90
       },
       {
-        "title": "Platform simulates lowest-cost pathways for Brazil to achieve carbon neutrality by 2050",
-        "link": "https://techxplore.com/news/2026-10-platform-simulates-lowest-pathways-brazil.html",
-        "summary": "A new public, open-source digital platform developed by scientists at the State University of Campinas (UNICAMP) in Brazil and Princeton University in the United States promises to facilitate the formulation of climate policies in Brazil.",
+        "title": "Thousands of deceptive ads evade Google's safeguards",
+        "link": "https://techxplore.com/news/2026-10-thousands-deceptive-ads-evade-google.html",
+        "summary": "Thousands of deceptive advertisements have slipped through Google's advertising safeguards, exposing internet users to fake virus warnings, misleading software promises and potentially dangerous downloads, according to new research from NYU Tandon and Radboud University in the Netherlands.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-30T07:00:12",
-        "score": 80
+        "published": "2026-10-30T09:20:11",
+        "score": 90
       },
       {
-        "title": "Shock, vindication, regret: Scientists react to AI roiling life's work",
-        "link": "https://techxplore.com/news/2026-10-vindication-scientists-react-ai-roiling.html",
-        "summary": "For decades, three computer scientists built their careers around an idea about the limits of what computers can do.",
+        "title": "Engineering researcher seeks to prevent AI agents from going rogue",
+        "link": "https://techxplore.com/news/2026-10-ai-agents-rogue.html",
+        "summary": "As artificial intelligence systems become increasingly capable of working on their own, keeping them focused on their designated tasks is a growing challenge.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-30T06:20:02",
-        "score": 80
+        "published": "2026-10-30T09:10:01",
+        "score": 90
       },
       {
-        "title": "Polymarket paused international trading after a security issue involving a third-party provider",
-        "link": "https://techxplore.com/news/2026-10-polymarket-international-issue-involving-party.html",
-        "summary": "Polymarket temporarily halted trading on its international platform Thursday because of a security incident that compromised a third-party provider, the company said.",
+        "title": "Electric trucks: Reliable on the road and profitable as energy storage",
+        "link": "https://techxplore.com/news/2026-10-electric-trucks-reliable-road-profitable.html",
+        "summary": "Electric trucks could help freight carriers reduce energy costs and ease financial pressures: Their batteries can also serve as energy storage for the depot or the public grid. As the SPIRIT-E research project comes to a close, a consortium led by the Technical University of Munich (TUM) demonstrates how the vehicles can be integrated into the energy system and what conditions must be met for their economically viable operation.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-30T06:00:06",
-        "score": 80
+        "published": "2026-10-30T08:48:42",
+        "score": 90
       },
       {
-        "title": "What to consider if a company that made AI-related job cuts wants you back",
-        "link": "https://techxplore.com/news/2026-10-company-ai-job.html",
-        "summary": "Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines.",
+        "title": "Armored caterpillars offer robot designers lessons in crossing slippery glass",
+        "link": "https://techxplore.com/news/2026-10-armored-caterpillars-robot-lessons-slippery.html",
+        "summary": "Animals have long been one of the primary sources of inspiration for robotics researchers. This is because they rely on sophisticated biological mechanisms and locomotion strategies that could be artificially reproduced in robots to equip them with desired capabilities.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-10-30T05:50:02",
+        "published": "2026-10-30T10:40:14",
         "score": 80
       }
     ]
