@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-11-10T13:07:20.583969",
+  "issue_date": "2026-11-10",
+  "topic_of_week": "NVIDIA",
+  "top_terms": [
+    [
+      "NVIDIA",
+      15
+    ],
+    [
+      "Quantum",
+      13
+    ],
+    [
+      "Anthropic",
+      8
+    ],
+    [
+      "Claude",
+      4
+    ],
+    [
+      "Generative AI",
+      3
+    ],
+    [
+      "Meta",
+      3
+    ],
+    [
+      "agent",
+      3
+    ],
+    [
+      "AGI",
+      2
+    ],
+    [
+      "large language model",
+      1
+    ],
+    [
+      "AI safety",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T18:00:00+00:00",
+      "score": 110
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T14:00:00-05:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-10T01:27:12+00:00",
+      "score": 100
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T22:46:09+00:00",
+      "score": 100
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T22:23:42+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T20:09:06+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T19:24:51+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T18:09:52+00:00",
+      "score": 100
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T18:07:59-05:00",
+      "score": 95
+    },
+    {
+      "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T10:50:38-05:00",
+      "score": 95
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T10:38:56-05:00",
+      "score": 95
+    },
+    {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-04T22:47:09",
+      "score": 95
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-25T21:42:48",
+      "score": 95
+    },
+    {
+      "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+      "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T05:47:22",
+      "score": 95
+    },
+    {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-10T13:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-10T07:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-09T23:28:37+00:00",
+      "score": 90
+    },
+    {
+      "title": "How China gets the Nvidia chips it needs to develop AI",
+      "link": "https://techxplore.com/news/2026-11-china-nvidia-chips-ai.html",
+      "summary": "Nvidia CEO Jensen Huang has admitted to having an affair, reportedly with a Chinese executive at a Singapore-based company that the United States suspects of smuggling AI microchips into China.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-10T06:40:07",
+      "score": 90
+    },
+    {
+      "title": "Aligned separator design improves lithium metal battery fast-charging performance and stability",
+      "link": "https://techxplore.com/news/2026-11-aligned-lithium-metal-battery-fast.html",
+      "summary": "When using electric vehicles or smartphones, users often experience inconvenience from long charging times and gradually shortening battery life. To increase charging speed and extend usage time, next-generation batteries with high energy density are essential. However, fast charging has had limitations because deposits can accumulate inside batteries, degrading performance and even increasing the risk of fire. A Korean research team has developed a new foundational technology to address this problem by creating a \"highway\" through which lithium ions can move rapidly inside a battery.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T17:00:21",
+      "score": 90
+    },
+    {
+      "title": "Anthropic launches powerful new models ahead of Wall Street debut",
+      "link": "https://techxplore.com/news/2026-11-anthropic-powerful-wall-street-debut.html",
+      "summary": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T15:40:06",
+      "score": 90
+    },
+    {
+      "title": "AI agents are developing odd dialects humans struggle to follow",
+      "link": "https://techxplore.com/news/2026-11-ai-agents-odd-dialects-humans.html",
+      "summary": "With AI digital assistants like Meta's Muse using everyday language to book dental appointments and Grok Bot picking up the slack on work tasks, agentic AI has gone mainstream.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T15:03:14",
+      "score": 90
+    },
+    {
+      "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T19:28:49-05:00",
+      "score": 85
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T18:51:58-05:00",
+      "score": 85
+    },
+    {
+      "title": "Here\u2019s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T18:47:46-05:00",
+      "score": 85
+    },
+    {
+      "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T14:09:58-05:00",
+      "score": 85
+    },
+    {
+      "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T13:07:23-05:00",
+      "score": 85
+    },
+    {
+      "title": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-09T12:36:08-05:00",
+      "score": 85
+    },
+    {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-07T18:34:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T06:06:16",
+      "score": 85
+    },
+    {
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-22T21:21:47",
+      "score": 85
+    },
+    {
+      "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+      "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny, self-healing biological robots capable of exploring fragile environments that ordinary machines cannot safely navigate.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-23T06:33:56",
+      "score": 85
+    },
+    {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-21T22:37:01",
+      "score": 85
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead, people judged humans and AI much more similarly.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T21:41:55",
+      "score": 85
+    },
+    {
+      "title": "Physicists discover \u201castonishing\u201d property of light that defies expectations",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
+      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light\u2019s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam\u2019s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-13T00:19:32",
+      "score": 85
+    },
+    {
+      "title": "Q&A: How can organizations improve fairness in automated AI systems?",
+      "link": "https://techxplore.com/news/2026-11-qa-fairness-automated-ai.html",
+      "summary": "Critical decisions are increasingly being made by artificial intelligence (AI) systems in high-stakes industries like health care, criminal justice and finance, ushering in a wave of ethical and legal concerns over how these systems can be implemented fairly. Now, a new study by a Penn State researcher and collaborators proposes a holistic theory of AI fairness while providing an applicable framework that organizations can use to manage this complicated issue.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-10T07:20:01",
+      "score": 80
+    },
+    {
+      "title": "Australia to adopt 'mandatory' AI safeguards",
+      "link": "https://techxplore.com/news/2026-11-australia-mandatory-ai-safeguards.html",
+      "summary": "Artificial intelligence companies will have to abide by new \"mandatory\" safeguards when operating in Australia, Prime Minister Anthony Albanese said Tuesday.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-10T06:14:12",
+      "score": 80
+    },
+    {
+      "title": "Architected fillers: Shape becomes a design variable for composites",
+      "link": "https://techxplore.com/news/2026-11-architected-fillers-variable-composites.html",
+      "summary": "In a recent study, researchers in materials science at Tampere University challenged conventional composite filler shapes by introducing a different approach in which each particle's 3D geometry is designed first, then printed to specification. The research enables decisions to be made on the shape of the filler, not only its material. This approach using architected fillers could pave the way for new solutions in soft robotics, biomedical materials with tailored stiffness and printed scaffolds for tissue engineering.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T17:20:21",
+      "score": 80
+    },
+    {
+      "title": "To end 'whack-a-mole' war on AI deepfakes, address the 'ecosystem,' researchers urge",
+      "link": "https://techxplore.com/news/2026-11-whack-mole-war-ai-deepfakes.html",
+      "summary": "In May 2025, the TAKE IT DOWN Act became the first federal law to address deepfakes and other forms of AI-generated nonconsensual intimate images. The law criminalizes the distribution of \"revenge porn,\" including AI-generated material, and requires social media platforms and other websites to promptly remove the material upon request.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T15:20:25",
+      "score": 80
+    },
+    {
+      "title": "Even modest sleep loss may leave people more vulnerable to email scams",
+      "link": "https://techxplore.com/news/2026-11-modest-loss-people-vulnerable-email.html",
+      "summary": "Nearly a third of adults in the U.S. do not get enough sleep. A recent surge in attention to this issue raises serious concerns about its long-term health implications, and new research suggests that it can lead to hazardous outcomes, especially in the context of \"phishing\" emails.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T15:00:21",
+      "score": 80
+    },
+    {
+      "title": "Data centers need power\u2014lower-income rural residents pay the price",
+      "link": "https://techxplore.com/news/2026-11-centers-power-income-rural-residents.html",
+      "summary": "As the engines of artificial intelligence, large data centers can consume as much power as medium-sized cities, straining grids and prompting expensive upgrades to U.S. energy infrastructure. New research finds that residents, and especially lower-income and rural residents, are disproportionately bearing the costs.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-09T14:00:24",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-09T18:00:00+00:00",
+        "score": 110
+      },
+      {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-10T01:27:12+00:00",
+        "score": 100
+      },
+      {
+        "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-09T22:46:09+00:00",
+        "score": 100
+      },
+      {
+        "title": "The race is on to sue Nvidia",
+        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-09T22:23:42+00:00",
+        "score": 100
+      },
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-09T20:09:06+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-09T14:00:00-05:00",
+        "score": 105
+      },
+      {
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-09T18:07:59-05:00",
+        "score": 95
+      },
+      {
+        "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+        "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-09T10:50:38-05:00",
+        "score": 95
+      },
+      {
+        "title": "Disney and Adobe are building generative AI tools together",
+        "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-09T10:38:56-05:00",
+        "score": 95
+      },
+      {
+        "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+        "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+        "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-09T19:28:49-05:00",
+        "score": 85
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "A tiny supercurrent could unlock quantum information without destroying it",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+        "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-04T22:47:09",
+        "score": 95
+      },
+      {
+        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+        "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-25T21:42:48",
+        "score": 95
+      },
+      {
+        "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+        "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a simulated magnetic flux could completely halt a particle's movement through quantum interference. The experiment brings a decades-old prediction into a new setting where matter and quantum fields influence one another.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-13T05:47:22",
+        "score": 95
+      },
+      {
+        "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+        "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-07T18:34:19",
+        "score": 85
+      },
+      {
+        "title": "Tiny magnetic vortices could help computers work more like your brain",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+        "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-26T06:06:16",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "How China gets the Nvidia chips it needs to develop AI",
+        "link": "https://techxplore.com/news/2026-11-china-nvidia-chips-ai.html",
+        "summary": "Nvidia CEO Jensen Huang has admitted to having an affair, reportedly with a Chinese executive at a Singapore-based company that the United States suspects of smuggling AI microchips into China.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-10T06:40:07",
+        "score": 90
+      },
+      {
+        "title": "Aligned separator design improves lithium metal battery fast-charging performance and stability",
+        "link": "https://techxplore.com/news/2026-11-aligned-lithium-metal-battery-fast.html",
+        "summary": "When using electric vehicles or smartphones, users often experience inconvenience from long charging times and gradually shortening battery life. To increase charging speed and extend usage time, next-generation batteries with high energy density are essential. However, fast charging has had limitations because deposits can accumulate inside batteries, degrading performance and even increasing the risk of fire. A Korean research team has developed a new foundational technology to address this problem by creating a \"highway\" through which lithium ions can move rapidly inside a battery.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-09T17:00:21",
+        "score": 90
+      },
+      {
+        "title": "Anthropic launches powerful new models ahead of Wall Street debut",
+        "link": "https://techxplore.com/news/2026-11-anthropic-powerful-wall-street-debut.html",
+        "summary": "Anthropic announced on Monday that it would release updated versions of two of its most powerful artificial intelligence (AI) models as the company prepares for a highly anticipated IPO this month.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-09T15:40:06",
+        "score": 90
+      },
+      {
+        "title": "AI agents are developing odd dialects humans struggle to follow",
+        "link": "https://techxplore.com/news/2026-11-ai-agents-odd-dialects-humans.html",
+        "summary": "With AI digital assistants like Meta's Muse using everyday language to book dental appointments and Grok Bot picking up the slack on work tasks, agentic AI has gone mainstream.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-09T15:03:14",
+        "score": 90
+      },
+      {
+        "title": "Q&A: How can organizations improve fairness in automated AI systems?",
+        "link": "https://techxplore.com/news/2026-11-qa-fairness-automated-ai.html",
+        "summary": "Critical decisions are increasingly being made by artificial intelligence (AI) systems in high-stakes industries like health care, criminal justice and finance, ushering in a wave of ethical and legal concerns over how these systems can be implemented fairly. Now, a new study by a Penn State researcher and collaborators proposes a holistic theory of AI fairness while providing an applicable framework that organizations can use to manage this complicated issue.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-10T07:20:01",
+        "score": 80
+      }
+    ]
+  }
+}
