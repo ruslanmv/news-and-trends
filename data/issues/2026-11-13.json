@@ -1,15 +1,19 @@
 {
-  "generated_at": "2026-11-13T12:43:19.899589",
+  "generated_at": "2026-11-13T15:56:33.992392",
   "issue_date": "2026-11-13",
   "topic_of_week": "NVIDIA",
   "top_terms": [
     [
       "NVIDIA",
-      21
+      17
     ],
     [
       "Quantum",
-      13
+      16
+    ],
+    [
+      "agent",
+      7
     ],
     [
       "Google",
@@ -17,11 +21,7 @@
     ],
     [
       "Gemini",
-      5
-    ],
-    [
-      "agent",
-      4
+      6
     ],
     [
       "Generative AI",
@@ -33,11 +33,15 @@
     ],
     [
       "large language model",
-      1
+      2
+    ],
+    [
+      "Claude",
+      2
     ],
     [
       "ChatGPT",
-      1
+      2
     ]
   ],
   "articles": [
@@ -58,6 +62,15 @@
       "source_weight": 100,
       "published": "2024-03-12T14:15:00-07:00",
       "score": 110
+    },
+    {
+      "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T09:00:00-05:00",
+      "score": 105
     },
     {
       "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
@@ -141,6 +154,15 @@
       "score": 100
     },
     {
+      "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-13T12:52:19+00:00",
+      "score": 100
+    },
+    {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
       "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
@@ -168,15 +190,6 @@
       "score": 100
     },
     {
-      "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-11-12T18:39:23+00:00",
-      "score": 100
-    },
-    {
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [&#8230;]",
@@ -195,21 +208,12 @@
       "score": 95
     },
     {
-      "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
-      "source": "The Verge \u2013 AI",
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+      "source": "ScienceDaily \u2013 AI",
       "source_weight": 85,
-      "published": "2026-11-12T10:48:12-05:00",
-      "score": 95
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-11-12T10:01:31-05:00",
+      "published": "2026-11-13T00:26:41",
       "score": 95
     },
     {
@@ -238,6 +242,15 @@
       "source_weight": 85,
       "published": "2026-10-25T21:42:48",
       "score": 95
+    },
+    {
+      "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-13T14:44:48+00:00",
+      "score": 90
     },
     {
       "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
@@ -285,15 +298,6 @@
       "score": 90
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-11-12T17:36:40+00:00",
-      "score": 90
-    },
-    {
       "title": "The hidden gatekeeper: How water in tiny rock pores shapes underground energy storage",
       "link": "https://techxplore.com/news/2026-11-hidden-gatekeeper-tiny-pores-underground.html",
       "summary": "Storing renewable energy on a large scale is one of the biggest challenges facing the energy transition.",
@@ -319,6 +323,15 @@
       "source_weight": 80,
       "published": "2026-11-13T04:40:02",
       "score": 90
+    },
+    {
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T09:47:16-05:00",
+      "score": 85
     },
     {
       "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
@@ -363,6 +376,15 @@
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-11-12T11:30:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-12T06:55:55",
       "score": 85
     },
     {
@@ -411,22 +433,31 @@
       "score": 85
     },
     {
-      "title": "AI can act exactly like a human, but we still don't think it's conscious",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-      "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human. Yet when asked about \"awareness\" instead, people judged humans and AI much more similarly.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-13T21:41:55",
-      "score": 85
+      "title": "AI models can answer differently when told they are being watched",
+      "link": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+      "summary": "Large language models (LLMs), the AI systems underpinning the functioning of ChatGPT, Gemini and other similar platforms, are now widely used worldwide. While the responses provided by these models can be useful in many situations, they can also change under specific conditions.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-13T10:40:10",
+      "score": 80
     },
     {
-      "title": "Physicists discover \u201castonishing\u201d property of light that defies expectations",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light\u2019s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam\u2019s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.",
-      "source": "ScienceDaily \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-10-13T00:19:32",
-      "score": 85
+      "title": "High-resolution bionic eye combines color imaging with more efficient motion detection",
+      "link": "https://techxplore.com/news/2026-11-high-resolution-bionic-eye-combines.html",
+      "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have developed a high-resolution bionic eye that integrates full-color imaging, an aberration-corrected field of view exceeding 160 degrees and event-driven motion detection.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-13T10:20:07",
+      "score": 80
+    },
+    {
+      "title": "Microsoft reports progress as it works to recover email and other services in a global outage",
+      "link": "https://techxplore.com/news/2026-11-microsoft-recover-email-global-outage.html",
+      "summary": "Microsoft said progress is being made in bringing its popular workplace software back online as a global outage enters its second day, disrupting business communications, police emergency calls, court operations and AI tools.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-13T09:59:27",
+      "score": 80
     },
     {
       "title": "ETATrack combines visible light, heat and selected earlier frames to track objects",
@@ -462,33 +493,6 @@
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-11-13T04:30:05",
-      "score": 80
-    },
-    {
-      "title": "Shape-shifting bioyarns weave new possibilities for wearable tech",
-      "link": "https://techxplore.com/news/2026-11-shifting-bioyarns-possibilities-wearable-tech.html",
-      "summary": "The yarns made of seaweed, shrimp shells and gelatin concocted in the Hybrid Body Lab seemed to have serious defects. When exposed to water, the seaweed yarn swelled, the shrimp-shell yarn elongated in acidic conditions and the gelatin yarn disintegrated altogether.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-13T04:30:01",
-      "score": 80
-    },
-    {
-      "title": "Phantom energy: New report exposes empty promises behind nuclear power and data centers",
-      "link": "https://techxplore.com/news/2026-11-phantom-energy-exposes-nuclear-power.html",
-      "summary": "The push for nuclear-powered data centers is entirely dependent on technology that remains commercially unproven and prohibitively expensive, according to a new report released today by the Australian Conservation Foundation.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-12T21:20:01",
-      "score": 80
-    },
-    {
-      "title": "Reconfigurable MEMS switches could hide chip package wiring from X-ray reverse engineering",
-      "link": "https://techxplore.com/news/2026-11-reconfigurable-mems-chip-package-wiring.html",
-      "summary": "I spend my days looking inside chip packages to find out why they failed. With X-ray tomography or an acoustic microscope, I can see through a finished package without opening it: every solder bump, every copper trace, every buried layer. It is satisfying detective work. Somewhere along the way, I realized it is also exactly what a reverse engineer does.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-12T18:40:02",
       "score": 80
     }
   ],
@@ -542,6 +546,15 @@
     ],
     "The Verge \u2013 AI": [
       {
+        "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T09:00:00-05:00",
+        "score": 105
+      },
+      {
         "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
         "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
@@ -569,25 +582,25 @@
         "score": 95
       },
       {
-        "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-        "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
+        "title": "What&#8217;s really at stake in the Jensen Huang saga",
+        "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
-        "published": "2026-11-12T10:48:12-05:00",
-        "score": 95
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-11-12T10:01:31-05:00",
-        "score": 95
+        "published": "2026-11-13T09:47:16-05:00",
+        "score": 85
       }
     ],
     "TechCrunch \u2013 AI": [
+      {
+        "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+        "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-13T12:52:19+00:00",
+        "score": 100
+      },
       {
         "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
         "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -616,25 +629,25 @@
         "score": 100
       },
       {
-        "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-        "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+        "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
         "source": "TechCrunch \u2013 AI",
         "source_weight": 90,
-        "published": "2026-11-12T18:39:23+00:00",
-        "score": 100
-      },
-      {
-        "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
-        "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-        "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-11-13T12:28:23+00:00",
+        "published": "2026-11-13T14:44:48+00:00",
         "score": 90
       }
     ],
     "ScienceDaily \u2013 AI": [
+      {
+        "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+        "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T00:26:41",
+        "score": 95
+      },
       {
         "title": "Inside this quantum computer, memory vibrates like a guitar string",
         "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
@@ -663,21 +676,12 @@
         "score": 95
       },
       {
-        "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-        "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+        "title": "AI-powered bionic eye breakthrough could help the blind see again",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+        "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
         "source": "ScienceDaily \u2013 AI",
         "source_weight": 85,
-        "published": "2026-11-07T18:34:19",
-        "score": 85
-      },
-      {
-        "title": "Tiny magnetic vortices could help computers work more like your brain",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-        "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
-        "source": "ScienceDaily \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-10-26T06:06:16",
+        "published": "2026-11-12T06:55:55",
         "score": 85
       }
     ],
@@ -710,21 +714,21 @@
         "score": 90
       },
       {
-        "title": "ETATrack combines visible light, heat and selected earlier frames to track objects",
-        "link": "https://techxplore.com/news/2026-11-etatrack-combines-visible-earlier-track.html",
-        "summary": "Researchers from the Changchun Institute of Optics, Fine Mechanics and Physics of the Chinese Academy of Sciences have developed ETATrack, a single-stream network that combines visible-light and thermal-infrared images with selected historical frames. The study is published in the journal Infrared Physics & Technology.",
+        "title": "AI models can answer differently when told they are being watched",
+        "link": "https://techxplore.com/news/2026-11-ai-differently-told.html",
+        "summary": "Large language models (LLMs), the AI systems underpinning the functioning of ChatGPT, Gemini and other similar platforms, are now widely used worldwide. While the responses provided by these models can be useful in many situations, they can also change under specific conditions.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-11-13T07:40:10",
+        "published": "2026-11-13T10:40:10",
         "score": 80
       },
       {
-        "title": "Autonomous drones detect cracks in concrete bridges",
-        "link": "https://techxplore.com/news/2026-11-autonomous-drones-concrete-bridges.html",
-        "summary": "A research team at Ruhr University Bochum is developing an autonomous flying drone that detects cracks in concrete bridges. The drone is intended to make costly, labor-intensive bridge inspections more efficient, safer and more affordable. It is being developed by David M\u00fcller and Dr. Raphael Dyrska from the Department of Automatic Control and Systems Theory, alongside Patrick Herbers from the Department of Civil Engineering and Dr. Marcel Neuhausen from the Department of Artificial Intelligence and Formal Methods. Rubin, the science magazine of Ruhr University Bochum, reports on the project.",
+        "title": "High-resolution bionic eye combines color imaging with more efficient motion detection",
+        "link": "https://techxplore.com/news/2026-11-high-resolution-bionic-eye-combines.html",
+        "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have developed a high-resolution bionic eye that integrates full-color imaging, an aberration-corrected field of view exceeding 160 degrees and event-driven motion detection.",
         "source": "Phys.org \u2013 Technology",
         "source_weight": 80,
-        "published": "2026-11-13T07:20:01",
+        "published": "2026-11-13T10:20:07",
         "score": 80
       }
     ]
