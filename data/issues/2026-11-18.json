@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-11-18T13:33:37.849442",
+  "issue_date": "2026-11-18",
+  "topic_of_week": "NVIDIA",
+  "top_terms": [
+    [
+      "NVIDIA",
+      24
+    ],
+    [
+      "Quantum",
+      20
+    ],
+    [
+      "agent",
+      5
+    ],
+    [
+      "Google",
+      5
+    ],
+    [
+      "Anthropic",
+      4
+    ],
+    [
+      "AGI",
+      4
+    ],
+    [
+      "OpenAI",
+      4
+    ],
+    [
+      "Meta",
+      3
+    ],
+    [
+      "Generative AI",
+      1
+    ],
+    [
+      "large language model",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-17T22:29:05+00:00",
+      "score": 110
+    },
+    {
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T13:58:01-05:00",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014keep financing neoclouds",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-18T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-18T12:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-18T01:44:21+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-18T00:16:50+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-17T23:37:48+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-17T23:04:35+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-17T22:42:27+00:00",
+      "score": 100
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-17T21:48:07+00:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia isn\u2019t selling any more AI chips to China",
+      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-18T08:01:05-05:00",
+      "score": 95
+    },
+    {
+      "title": "Satya Nadella says he\u2019s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T18:41:18-05:00",
+      "score": 95
+    },
+    {
+      "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T16:40:59-05:00",
+      "score": 95
+    },
+    {
+      "title": "Jensen Huang says he\u2019s willing to return as Nvidia CEO",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T11:09:57-05:00",
+      "score": 95
+    },
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T15:46:01-05:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+      "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T19:20:40",
+      "score": 95
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T00:26:41",
+      "score": 95
+    },
+    {
+      "title": "Inside this quantum computer, memory vibrates like a guitar string",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barriers to practical quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-11T21:35:20",
+      "score": 95
+    },
+    {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-04T22:47:09",
+      "score": 95
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-25T21:42:48",
+      "score": 95
+    },
+    {
+      "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-18T11:30:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Anthropic set to price IPO in key test for AI boom",
+      "link": "https://techxplore.com/news/2026-11-anthropic-price-ipo-key-ai.html",
+      "summary": "Anthropic prices its blockbuster IPO on Wednesday, giving ordinary investors their first chance to bet directly on a stand-alone AI giant in a test of how long the artificial intelligence spending boom can last.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T06:20:07",
+      "score": 90
+    },
+    {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-18T06:16:53-05:00",
+      "score": 85
+    },
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T16:00:55-05:00",
+      "score": 85
+    },
+    {
+      "title": "The DOJ says it\u2019s investigating Megaspeed",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T11:19:03-05:00",
+      "score": 85
+    },
+    {
+      "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T18:17:34-05:00",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T07:03:58",
+      "score": 85
+    },
+    {
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-14T20:05:10",
+      "score": 85
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-12T06:55:55",
+      "score": 85
+    },
+    {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-07T18:34:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T06:06:16",
+      "score": 85
+    },
+    {
+      "title": "Researchers find eight ways AI could lead to our downfall",
+      "link": "https://techxplore.com/news/2026-11-ways-ai-downfall.html",
+      "summary": "Government and academic assessments, including reports from the U.K. Government Office for Science and the RAND Corporation, have not ruled out the possibility that AI could lead to human extinction or societal collapse. To protect against such severe risks, we must first understand how those risks could unfold.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T08:10:01",
+      "score": 80
+    },
+    {
+      "title": "Robots learn human movement patterns to find paths through dense crowds",
+      "link": "https://techxplore.com/news/2026-11-robots-human-movement-patterns-paths.html",
+      "summary": "Navigating a bustling train station or airport is a major challenge for people with visual impairments. New research from \u00d6rebro University teaches robots to follow the \"unwritten rules\" of human movement and make their way through dense crowds. In the long term, the technology could serve as a digital complement to guide dogs.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T07:00:10",
+      "score": 80
+    },
+    {
+      "title": "Chinese robots learn from humans in tech hub Shenzhen",
+      "link": "https://techxplore.com/news/2026-11-chinese-robots-humans-tech-hub.html",
+      "summary": "At a park refreshment stand in China's tech capital, Shenzhen, a humanoid robot grabs a cup and pulls a lever to form an ice cream spiral, then hands the customer their order.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T06:00:01",
+      "score": 80
+    },
+    {
+      "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
+      "link": "https://techxplore.com/news/2026-11-year-grand-theft-auto-vi.html",
+      "summary": "After a 13-year wait, one of entertainment's biggest releases is finally here.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T05:40:01",
+      "score": 80
+    },
+    {
+      "title": "Cambridge Dictionary chooses 'human' as word of the year in response to AI fears",
+      "link": "https://techxplore.com/news/2026-11-cambridge-dictionary-human-word-year.html",
+      "summary": "Fears of artificial intelligence inspired the Cambridge Dictionary to flip back to the 15th century for the word that best captures the 2026 cultural zeitgeist.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T05:20:18",
+      "score": 80
+    },
+    {
+      "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
+      "link": "https://techxplore.com/news/2026-11-waymo-driverless-taxi-freeways-california.html",
+      "summary": "Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T05:00:09",
+      "score": 80
+    },
+    {
+      "title": "Classified communications network at the National Security Agency goes down, defense official says",
+      "link": "https://techxplore.com/news/2026-11-communications-network-national-agency-defense.html",
+      "summary": "An internal network the National Security Agency uses to communicate classified information was offline Tuesday after what the agency described as \"routine maintenance.\"",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T04:40:01",
+      "score": 80
+    },
+    {
+      "title": "FAA halts installation of routers that led to ground stop",
+      "link": "https://techxplore.com/news/2026-11-faa-halts-routers-ground.html",
+      "summary": "The Federal Aviation Administration announced on Tuesday that it was pausing the installation of the routers that were linked to last week's national ground stop and turned off any Juniper routers that were already installed.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T04:30:01",
+      "score": 80
+    },
+    {
+      "title": "Apple joins a parade of technology hiccups in recent days",
+      "link": "https://techxplore.com/news/2026-11-apple-parade-technology-hiccups-days.html",
+      "summary": "An update gone awry Tuesday at Apple followed a rash of major outages in recent days, including problems affecting the Federal Aviation Administration, United Airlines and Microsoft.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-18T04:18:06",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-17T22:29:05+00:00",
+        "score": 110
+      },
+      {
+        "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014keep financing neoclouds",
+        "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+        "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-18T13:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-18T12:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-18T01:44:21+00:00",
+        "score": 100
+      },
+      {
+        "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-18T00:16:50+00:00",
+        "score": 100
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+        "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+        "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-17T13:58:01-05:00",
+        "score": 105
+      },
+      {
+        "title": "Nvidia isn\u2019t selling any more AI chips to China",
+        "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+        "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-18T08:01:05-05:00",
+        "score": 95
+      },
+      {
+        "title": "Satya Nadella says he\u2019s AGI-pilled now",
+        "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-17T18:41:18-05:00",
+        "score": 95
+      },
+      {
+        "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+        "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-17T16:40:59-05:00",
+        "score": 95
+      },
+      {
+        "title": "Jensen Huang says he\u2019s willing to return as Nvidia CEO",
+        "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-17T11:09:57-05:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+        "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-16T19:20:40",
+        "score": 95
+      },
+      {
+        "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+        "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T00:26:41",
+        "score": 95
+      },
+      {
+        "title": "Inside this quantum computer, memory vibrates like a guitar string",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+        "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barriers to practical quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-11T21:35:20",
+        "score": 95
+      },
+      {
+        "title": "A tiny supercurrent could unlock quantum information without destroying it",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+        "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-04T22:47:09",
+        "score": 95
+      },
+      {
+        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+        "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-25T21:42:48",
+        "score": 95
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Anthropic set to price IPO in key test for AI boom",
+        "link": "https://techxplore.com/news/2026-11-anthropic-price-ipo-key-ai.html",
+        "summary": "Anthropic prices its blockbuster IPO on Wednesday, giving ordinary investors their first chance to bet directly on a stand-alone AI giant in a test of how long the artificial intelligence spending boom can last.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-18T06:20:07",
+        "score": 90
+      },
+      {
+        "title": "Researchers find eight ways AI could lead to our downfall",
+        "link": "https://techxplore.com/news/2026-11-ways-ai-downfall.html",
+        "summary": "Government and academic assessments, including reports from the U.K. Government Office for Science and the RAND Corporation, have not ruled out the possibility that AI could lead to human extinction or societal collapse. To protect against such severe risks, we must first understand how those risks could unfold.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-18T08:10:01",
+        "score": 80
+      },
+      {
+        "title": "Robots learn human movement patterns to find paths through dense crowds",
+        "link": "https://techxplore.com/news/2026-11-robots-human-movement-patterns-paths.html",
+        "summary": "Navigating a bustling train station or airport is a major challenge for people with visual impairments. New research from \u00d6rebro University teaches robots to follow the \"unwritten rules\" of human movement and make their way through dense crowds. In the long term, the technology could serve as a digital complement to guide dogs.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-18T07:00:10",
+        "score": 80
+      },
+      {
+        "title": "Chinese robots learn from humans in tech hub Shenzhen",
+        "link": "https://techxplore.com/news/2026-11-chinese-robots-humans-tech-hub.html",
+        "summary": "At a park refreshment stand in China's tech capital, Shenzhen, a humanoid robot grabs a cup and pulls a lever to form an ice cream spiral, then hands the customer their order.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-18T06:00:01",
+        "score": 80
+      },
+      {
+        "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
+        "link": "https://techxplore.com/news/2026-11-year-grand-theft-auto-vi.html",
+        "summary": "After a 13-year wait, one of entertainment's biggest releases is finally here.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-18T05:40:01",
+        "score": 80
+      }
+    ]
+  }
+}
