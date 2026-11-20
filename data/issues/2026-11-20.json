@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:42:31.431680",
+  "generated_at": "2026-11-20T16:43:19.552153",
   "issue_date": "2026-11-20",
   "topic_of_week": "Quantum",
   "top_terms": [
@@ -8,40 +8,40 @@
       20
     ],
     [
-      "Anthropic",
-      15
+      "agent",
+      14
     ],
     [
-      "agent",
-      11
+      "Anthropic",
+      10
     ],
     [
       "Meta",
-      9
+      8
     ],
     [
       "Google",
-      7
+      8
     ],
     [
       "NVIDIA",
-      4
+      6
     ],
     [
       "Gemini",
-      4
+      5
     ],
     [
       "ChatGPT",
       4
     ],
     [
-      "Generative AI",
-      2
+      "Claude",
+      3
     ],
     [
-      "RAG",
-      2
+      "Generative AI",
+      1
     ]
   ],
   "articles": [
@@ -71,6 +71,15 @@
       "source_weight": 90,
       "published": "2026-11-19T17:38:40+00:00",
       "score": 110
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics, and add to the upheaval [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-20T11:34:13-05:00",
+      "score": 105
     },
     {
       "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
@@ -154,6 +163,15 @@
       "score": 100
     },
     {
+      "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-20T14:55:44+00:00",
+      "score": 100
+    },
+    {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -199,27 +217,18 @@
       "score": 100
     },
     {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-11-19T16:59:23+00:00",
-      "score": 100
-    },
-    {
-      "title": "Better together: How two metals and one ink are reshaping printed energy storage",
-      "link": "https://techxplore.com/news/2026-11-metals-ink-reshaping-energy-storage.html",
-      "summary": "Look around and count your devices that need power: the watch on your wrist, the sensors in your car, the tags tracking packages across the country. Billions more are coming as the Internet of Things grows. Most will be small, many will be flexible, and nearly all will need somewhere to store energy. We think the best place to put that storage is right on the circuit, printed alongside everything else.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-19T17:40:10",
-      "score": 100
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-20T07:30:47-05:00",
+      "score": 95
     },
     {
       "title": "Apple is hiring engineers to build its own AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [&#8230;]",
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
       "published": "2026-11-19T17:31:41-05:00",
@@ -280,15 +289,6 @@
       "score": 95
     },
     {
-      "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-11-19T09:25:37-05:00",
-      "score": 95
-    },
-    {
       "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
       "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
       "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
@@ -334,21 +334,21 @@
       "score": 95
     },
     {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-20T14:00:00+00:00",
+      "score": 90
+    },
+    {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "source": "TechCrunch \u2013 AI",
       "source_weight": 90,
       "published": "2026-11-19T20:18:49+00:00",
-      "score": 90
-    },
-    {
-      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "source": "TechCrunch \u2013 AI",
-      "source_weight": 90,
-      "published": "2026-11-19T17:00:00+00:00",
       "score": 90
     },
     {
@@ -379,30 +379,12 @@
       "score": 90
     },
     {
-      "title": "'Insane' to see AI in hands of private giants: Ex-Anthropic researcher to AFP",
-      "link": "https://techxplore.com/news/2026-11-insane-ai-private-giants-anthropic.html",
-      "summary": "Artificial intelligence (AI) researcher Jacob Coxon, who famously quit Anthropic in September while accusing it of gambling with lives, told AFP Thursday it's \"insane\" to see the powerful technology being developed by giant for-profit corporations.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-20T03:39:52",
-      "score": 90
-    },
-    {
-      "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
-      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+      "title": "The week everything fell apart",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On [&#8230;]",
       "source": "The Verge \u2013 AI",
       "source_weight": 85,
-      "published": "2026-11-19T08:00:00-05:00",
-      "score": 85
-    },
-    {
-      "title": "Canva adds an AI \u2018off\u2019 button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
-      "source": "The Verge \u2013 AI",
-      "source_weight": 85,
-      "published": "2026-11-19T07:30:00-05:00",
+      "published": "2026-11-20T09:06:59-05:00",
       "score": 85
     },
     {
@@ -451,48 +433,66 @@
       "score": 85
     },
     {
+      "title": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler'",
+      "link": "https://techxplore.com/news/2026-11-outdoor-3d-tracking-technology-drone.html",
+      "summary": "The secret behind the lifelike movements of the characters in the film \"Avatar\" was motion capture, a technology that records movement in three dimensions by attaching markers to actors' bodies and filming them with multiple cameras inside a studio. However, bringing such precise measurement into wide outdoor spaces such as sports fields has never been easy.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T11:00:28",
+      "score": 80
+    },
+    {
+      "title": "Shorter AI training notes reduce memory demands on small devices",
+      "link": "https://techxplore.com/news/2026-11-shorter-ai-memory-demands-small.html",
+      "summary": "Imagine trying to run AI models directly on a device with very limited computing power, like a smartphone or health wearable. It needs to respond in real time and you have to do that on-device, where it eats up a lot of gigabytes (GBs). The likely result is an out-of-memory error.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T10:40:14",
+      "score": 80
+    },
+    {
+      "title": "AI guardrails falter as tampering drives repeated harassment in simulated conversations",
+      "link": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
+      "summary": "The companies that build artificial intelligence invest heavily in guardrails that train AI to refuse harmful requests. New research suggests those guardrails are far easier to break than many people assume. In tests, a small amount of tampering turned popular AI agents into persistent online harassers.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T10:20:14",
+      "score": 80
+    },
+    {
+      "title": "'Killer robots' talks in battle against the clock",
+      "link": "https://techxplore.com/news/2026-11-killer-robots-clock.html",
+      "summary": "A U.N. conference on \"killer robots\" was running out of time Friday after Russia in particular slowed five days of grueling talks on whether to begin negotiating regulations for lethal autonomous weapons.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T09:50:02",
+      "score": 80
+    },
+    {
+      "title": "Researcher finds six previously unknown vulnerabilities in AirDrop and Quick Share",
+      "link": "https://techxplore.com/news/2026-11-previously-unknown-vulnerabilities-airdrop-quick.html",
+      "summary": "Transferring files between nearby devices using services such as Apple's AirDrop and Quick Share, available on Google and Samsung devices, is part of everyday life. But how secure are these direct connections? And what data is exchanged between devices before users even confirm a transfer?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T09:40:08",
+      "score": 80
+    },
+    {
+      "title": "Smart ring tracks stress with infrared light instead of skin electrodes",
+      "link": "https://techxplore.com/news/2026-11-smart-tracks-stress-infrared-skin.html",
+      "summary": "From depression and anxiety to cardiovascular disease, stress affects millions of people worldwide. Yet scientists still struggle to measure it reliably and continuously.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T09:20:08",
+      "score": 80
+    },
+    {
       "title": "US Senate passes bill to speed up energy and infrastructure projects",
       "link": "https://techxplore.com/news/2026-11-senate-bill-energy-infrastructure.html",
       "summary": "The U.S. Senate on Thursday passed a bill to speed up large energy, industrial and infrastructure projects, sending it to the House of Representatives for a final vote.",
       "source": "Phys.org \u2013 Technology",
       "source_weight": 80,
       "published": "2026-11-20T04:00:01",
-      "score": 80
-    },
-    {
-      "title": "Expert comment: Why do so many AI tools end up in the AI graveyard?",
-      "link": "https://techxplore.com/news/2026-11-expert-comment-ai-tools-graveyard.html",
-      "summary": "As governments and technology companies race to develop AI, a more fundamental question is emerging: who gets to shape the technology, and who benefits from it? However brilliant the technology, an AI tool will always struggle to be accepted unless people believe it was built with them and for them.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-19T21:00:09",
-      "score": 80
-    },
-    {
-      "title": "When hackers target grocery stores",
-      "link": "https://techxplore.com/news/2026-11-hackers-grocery.html",
-      "summary": "Recent cyberattacks targeting commercial refrigeration systems and smart temperature controllers in supermarkets across Europe remotely raised their temperatures\u2014in some cases to as high as 122\u00b0 Fahrenheit (50 degrees Celsius). The attacks spoiled large amounts of fresh and frozen foods, sparked small fires and cost millions of euros in estimated product and equipment losses.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-19T17:00:06",
-      "score": 80
-    },
-    {
-      "title": "Multilayer printed circuit boards made from paper",
-      "link": "https://techxplore.com/news/2026-11-multilayer-circuit-boards-paper.html",
-      "summary": "According to official statistics, every citizen of the European Union generates around 12 kg (26 pounds) of e-waste per year, with roughly 5.5 million metric tons collected in total in 2024. While the volume of devices placed on the market across the EU has risen by 82% since 2015 to more than 14 million metric tons, e-waste collection and recycling grew by only 72% over the same period.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-19T16:00:06",
-      "score": 80
-    },
-    {
-      "title": "New MEMS atomic cell platform accelerates design optimization for chip-scale atomic clocks",
-      "link": "https://techxplore.com/news/2026-11-mems-atomic-cell-platform-optimization.html",
-      "summary": "The National Institute of Information and Communications Technology (NICT), Kyoto University, Tokyo Metropolitan University, TOYOBO MC Corporation and NEOARK Corporation have jointly established a new MEMS rubidium vapor-cell manufacturing platform that accelerates the design and optimization of atomic cells for chip-scale atomic clocks.",
-      "source": "Phys.org \u2013 Technology",
-      "source_weight": 80,
-      "published": "2026-11-19T15:20:08",
       "score": 80
     }
   ],
@@ -564,6 +564,15 @@
         "score": 110
       },
       {
+        "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+        "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+        "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-20T14:55:44+00:00",
+        "score": 100
+      },
+      {
         "title": "Apple may be developing its own AI agent that runs your Mac",
         "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
         "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -580,69 +589,31 @@
         "source_weight": 90,
         "published": "2026-11-20T00:43:50+00:00",
         "score": 100
-      },
-      {
-        "title": "Meta\u2019s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-        "source": "TechCrunch \u2013 AI",
-        "source_weight": 90,
-        "published": "2026-11-19T21:58:06+00:00",
-        "score": 100
-      }
-    ],
-    "Phys.org \u2013 Technology": [
-      {
-        "title": "Better together: How two metals and one ink are reshaping printed energy storage",
-        "link": "https://techxplore.com/news/2026-11-metals-ink-reshaping-energy-storage.html",
-        "summary": "Look around and count your devices that need power: the watch on your wrist, the sensors in your car, the tags tracking packages across the country. Billions more are coming as the Internet of Things grows. Most will be small, many will be flexible, and nearly all will need somewhere to store energy. We think the best place to put that storage is right on the circuit, printed alongside everything else.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-11-19T17:40:10",
-        "score": 100
-      },
-      {
-        "title": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
-        "link": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
-        "summary": "Artificial intelligence systems are now widely used in research settings, primarily to analyze data, make predictions and discover promising materials, drugs or solutions. Most of the agents used for research are disembodied, which means that they are computer-based and require humans or separate automated systems to physically perform experiments.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-11-20T08:00:08",
-        "score": 90
-      },
-      {
-        "title": "Anthropic soars in record Wall Street debut",
-        "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
-        "summary": "Anthropic shares closed 17% higher in their record Nasdaq debut on Thursday, defying a broad Wall Street sell-off as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to back the AI giant.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-11-20T04:20:01",
-        "score": 90
-      },
-      {
-        "title": "Meta says 'reevaluating' 2030 net-zero target amid AI buildout",
-        "link": "https://techxplore.com/news/2026-11-meta-reevaluating-net-ai-buildout.html",
-        "summary": "Meta said Thursday it was reconsidering its 2030 deadline for net-zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-11-20T03:40:01",
-        "score": 90
-      },
-      {
-        "title": "'Insane' to see AI in hands of private giants: Ex-Anthropic researcher to AFP",
-        "link": "https://techxplore.com/news/2026-11-insane-ai-private-giants-anthropic.html",
-        "summary": "Artificial intelligence (AI) researcher Jacob Coxon, who famously quit Anthropic in September while accusing it of gambling with lives, told AFP Thursday it's \"insane\" to see the powerful technology being developed by giant for-profit corporations.",
-        "source": "Phys.org \u2013 Technology",
-        "source_weight": 80,
-        "published": "2026-11-20T03:39:52",
-        "score": 90
       }
     ],
     "The Verge \u2013 AI": [
       {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics, and add to the upheaval [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-20T11:34:13-05:00",
+        "score": 105
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-20T07:30:47-05:00",
+        "score": 95
+      },
+      {
         "title": "Apple is hiring engineers to build its own AI agent",
         "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [&#8230;]",
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
         "published": "2026-11-19T17:31:41-05:00",
@@ -664,24 +635,6 @@
         "source": "The Verge \u2013 AI",
         "source_weight": 85,
         "published": "2026-11-19T15:22:17-05:00",
-        "score": 95
-      },
-      {
-        "title": "Google is putting AI chats right on the homepage",
-        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-        "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-11-19T15:05:06-05:00",
-        "score": 95
-      },
-      {
-        "title": "Gemini on Mac can now use your computer",
-        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-        "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
-        "source": "The Verge \u2013 AI",
-        "source_weight": 85,
-        "published": "2026-11-19T13:21:13-05:00",
         "score": 95
       }
     ],
@@ -730,6 +683,53 @@
         "source_weight": 85,
         "published": "2026-10-25T21:42:48",
         "score": 95
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
+        "link": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+        "summary": "Artificial intelligence systems are now widely used in research settings, primarily to analyze data, make predictions and discover promising materials, drugs or solutions. Most of the agents used for research are disembodied, which means that they are computer-based and require humans or separate automated systems to physically perform experiments.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T08:00:08",
+        "score": 90
+      },
+      {
+        "title": "Anthropic soars in record Wall Street debut",
+        "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
+        "summary": "Anthropic shares closed 17% higher in their record Nasdaq debut on Thursday, defying a broad Wall Street sell-off as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to back the AI giant.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T04:20:01",
+        "score": 90
+      },
+      {
+        "title": "Meta says 'reevaluating' 2030 net-zero target amid AI buildout",
+        "link": "https://techxplore.com/news/2026-11-meta-reevaluating-net-ai-buildout.html",
+        "summary": "Meta said Thursday it was reconsidering its 2030 deadline for net-zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T03:40:01",
+        "score": 90
+      },
+      {
+        "title": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler'",
+        "link": "https://techxplore.com/news/2026-11-outdoor-3d-tracking-technology-drone.html",
+        "summary": "The secret behind the lifelike movements of the characters in the film \"Avatar\" was motion capture, a technology that records movement in three dimensions by attaching markers to actors' bodies and filming them with multiple cameras inside a studio. However, bringing such precise measurement into wide outdoor spaces such as sports fields has never been easy.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T11:00:28",
+        "score": 80
+      },
+      {
+        "title": "Shorter AI training notes reduce memory demands on small devices",
+        "link": "https://techxplore.com/news/2026-11-shorter-ai-memory-demands-small.html",
+        "summary": "Imagine trying to run AI models directly on a device with very limited computing power, like a smartphone or health wearable. It needs to respond in real time and you have to do that on-device, where it eats up a lot of gigabytes (GBs). The likely result is an out-of-memory error.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T10:40:14",
+        "score": 80
       }
     ]
   }
