@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-11-20T13:42:31.431680",
+  "issue_date": "2026-11-20",
+  "topic_of_week": "Quantum",
+  "top_terms": [
+    [
+      "Quantum",
+      20
+    ],
+    [
+      "Anthropic",
+      15
+    ],
+    [
+      "agent",
+      11
+    ],
+    [
+      "Meta",
+      9
+    ],
+    [
+      "Google",
+      7
+    ],
+    [
+      "NVIDIA",
+      4
+    ],
+    [
+      "Gemini",
+      4
+    ],
+    [
+      "ChatGPT",
+      4
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "RAG",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T18:09:11+00:00",
+      "score": 110
+    },
+    {
+      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T17:38:40+00:00",
+      "score": 110
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-20T00:56:01+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-20T00:43:50+00:00",
+      "score": 100
+    },
+    {
+      "title": "Meta\u2019s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T21:58:06+00:00",
+      "score": 100
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T21:42:31+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic\u2019s IPO could deliver $156B to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T19:10:45+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T16:59:23+00:00",
+      "score": 100
+    },
+    {
+      "title": "Better together: How two metals and one ink are reshaping printed energy storage",
+      "link": "https://techxplore.com/news/2026-11-metals-ink-reshaping-energy-storage.html",
+      "summary": "Look around and count your devices that need power: the watch on your wrist, the sensors in your car, the tags tracking packages across the country. Billions more are coming as the Internet of Things grows. Most will be small, many will be flexible, and nearly all will need somewhere to store energy. We think the best place to put that storage is right on the circuit, printed alongside everything else.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-19T17:40:10",
+      "score": 100
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T17:31:41-05:00",
+      "score": 95
+    },
+    {
+      "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T16:59:35-05:00",
+      "score": 95
+    },
+    {
+      "title": "Meta\u2019s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T15:22:17-05:00",
+      "score": 95
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T15:05:06-05:00",
+      "score": 95
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T13:21:13-05:00",
+      "score": 95
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T11:52:01-05:00",
+      "score": 95
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T10:16:45-05:00",
+      "score": 95
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T09:25:37-05:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+      "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T19:20:40",
+      "score": 95
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T00:26:41",
+      "score": 95
+    },
+    {
+      "title": "Inside this quantum computer, memory vibrates like a guitar string",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+      "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barriers to practical quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-11T21:35:20",
+      "score": 95
+    },
+    {
+      "title": "A tiny supercurrent could unlock quantum information without destroying it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+      "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-04T22:47:09",
+      "score": 95
+    },
+    {
+      "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+      "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-25T21:42:48",
+      "score": 95
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T20:18:49+00:00",
+      "score": 90
+    },
+    {
+      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-19T17:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
+      "link": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+      "summary": "Artificial intelligence systems are now widely used in research settings, primarily to analyze data, make predictions and discover promising materials, drugs or solutions. Most of the agents used for research are disembodied, which means that they are computer-based and require humans or separate automated systems to physically perform experiments.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T08:00:08",
+      "score": 90
+    },
+    {
+      "title": "Anthropic soars in record Wall Street debut",
+      "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
+      "summary": "Anthropic shares closed 17% higher in their record Nasdaq debut on Thursday, defying a broad Wall Street sell-off as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to back the AI giant.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T04:20:01",
+      "score": 90
+    },
+    {
+      "title": "Meta says 'reevaluating' 2030 net-zero target amid AI buildout",
+      "link": "https://techxplore.com/news/2026-11-meta-reevaluating-net-ai-buildout.html",
+      "summary": "Meta said Thursday it was reconsidering its 2030 deadline for net-zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T03:40:01",
+      "score": 90
+    },
+    {
+      "title": "'Insane' to see AI in hands of private giants: Ex-Anthropic researcher to AFP",
+      "link": "https://techxplore.com/news/2026-11-insane-ai-private-giants-anthropic.html",
+      "summary": "Artificial intelligence (AI) researcher Jacob Coxon, who famously quit Anthropic in September while accusing it of gambling with lives, told AFP Thursday it's \"insane\" to see the powerful technology being developed by giant for-profit corporations.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T03:39:52",
+      "score": 90
+    },
+    {
+      "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T08:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "Canva adds an AI \u2018off\u2019 button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-19T07:30:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T07:03:58",
+      "score": 85
+    },
+    {
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-14T20:05:10",
+      "score": 85
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-12T06:55:55",
+      "score": 85
+    },
+    {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-07T18:34:19",
+      "score": 85
+    },
+    {
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-10-26T06:06:16",
+      "score": 85
+    },
+    {
+      "title": "US Senate passes bill to speed up energy and infrastructure projects",
+      "link": "https://techxplore.com/news/2026-11-senate-bill-energy-infrastructure.html",
+      "summary": "The U.S. Senate on Thursday passed a bill to speed up large energy, industrial and infrastructure projects, sending it to the House of Representatives for a final vote.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-20T04:00:01",
+      "score": 80
+    },
+    {
+      "title": "Expert comment: Why do so many AI tools end up in the AI graveyard?",
+      "link": "https://techxplore.com/news/2026-11-expert-comment-ai-tools-graveyard.html",
+      "summary": "As governments and technology companies race to develop AI, a more fundamental question is emerging: who gets to shape the technology, and who benefits from it? However brilliant the technology, an AI tool will always struggle to be accepted unless people believe it was built with them and for them.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-19T21:00:09",
+      "score": 80
+    },
+    {
+      "title": "When hackers target grocery stores",
+      "link": "https://techxplore.com/news/2026-11-hackers-grocery.html",
+      "summary": "Recent cyberattacks targeting commercial refrigeration systems and smart temperature controllers in supermarkets across Europe remotely raised their temperatures\u2014in some cases to as high as 122\u00b0 Fahrenheit (50 degrees Celsius). The attacks spoiled large amounts of fresh and frozen foods, sparked small fires and cost millions of euros in estimated product and equipment losses.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-19T17:00:06",
+      "score": 80
+    },
+    {
+      "title": "Multilayer printed circuit boards made from paper",
+      "link": "https://techxplore.com/news/2026-11-multilayer-circuit-boards-paper.html",
+      "summary": "According to official statistics, every citizen of the European Union generates around 12 kg (26 pounds) of e-waste per year, with roughly 5.5 million metric tons collected in total in 2024. While the volume of devices placed on the market across the EU has risen by 82% since 2015 to more than 14 million metric tons, e-waste collection and recycling grew by only 72% over the same period.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-19T16:00:06",
+      "score": 80
+    },
+    {
+      "title": "New MEMS atomic cell platform accelerates design optimization for chip-scale atomic clocks",
+      "link": "https://techxplore.com/news/2026-11-mems-atomic-cell-platform-optimization.html",
+      "summary": "The National Institute of Information and Communications Technology (NICT), Kyoto University, Tokyo Metropolitan University, TOYOBO MC Corporation and NEOARK Corporation have jointly established a new MEMS rubidium vapor-cell manufacturing platform that accelerates the design and optimization of atomic cells for chip-scale atomic clocks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-19T15:20:08",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-19T18:09:11+00:00",
+        "score": 110
+      },
+      {
+        "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-19T17:38:40+00:00",
+        "score": 110
+      },
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-20T00:56:01+00:00",
+        "score": 100
+      },
+      {
+        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-20T00:43:50+00:00",
+        "score": 100
+      },
+      {
+        "title": "Meta\u2019s new Muse Charm device may cost $300",
+        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-19T21:58:06+00:00",
+        "score": 100
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Better together: How two metals and one ink are reshaping printed energy storage",
+        "link": "https://techxplore.com/news/2026-11-metals-ink-reshaping-energy-storage.html",
+        "summary": "Look around and count your devices that need power: the watch on your wrist, the sensors in your car, the tags tracking packages across the country. Billions more are coming as the Internet of Things grows. Most will be small, many will be flexible, and nearly all will need somewhere to store energy. We think the best place to put that storage is right on the circuit, printed alongside everything else.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-19T17:40:10",
+        "score": 100
+      },
+      {
+        "title": "Adaptive AI agent connects experimental planning with robotic control in wastewater treatment test",
+        "link": "https://techxplore.com/news/2026-11-ai-agent-experimental-robotic-wastewater.html",
+        "summary": "Artificial intelligence systems are now widely used in research settings, primarily to analyze data, make predictions and discover promising materials, drugs or solutions. Most of the agents used for research are disembodied, which means that they are computer-based and require humans or separate automated systems to physically perform experiments.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T08:00:08",
+        "score": 90
+      },
+      {
+        "title": "Anthropic soars in record Wall Street debut",
+        "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
+        "summary": "Anthropic shares closed 17% higher in their record Nasdaq debut on Thursday, defying a broad Wall Street sell-off as investors shrugged off the Nvidia spy scandal and fears of a tech bubble to back the AI giant.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T04:20:01",
+        "score": 90
+      },
+      {
+        "title": "Meta says 'reevaluating' 2030 net-zero target amid AI buildout",
+        "link": "https://techxplore.com/news/2026-11-meta-reevaluating-net-ai-buildout.html",
+        "summary": "Meta said Thursday it was reconsidering its 2030 deadline for net-zero emissions because of the artificial intelligence boom, the latest in a broad retreat by corporations on global warming targets.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T03:40:01",
+        "score": 90
+      },
+      {
+        "title": "'Insane' to see AI in hands of private giants: Ex-Anthropic researcher to AFP",
+        "link": "https://techxplore.com/news/2026-11-insane-ai-private-giants-anthropic.html",
+        "summary": "Artificial intelligence (AI) researcher Jacob Coxon, who famously quit Anthropic in September while accusing it of gambling with lives, told AFP Thursday it's \"insane\" to see the powerful technology being developed by giant for-profit corporations.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-20T03:39:52",
+        "score": 90
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-19T17:31:41-05:00",
+        "score": 95
+      },
+      {
+        "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+        "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-19T16:59:35-05:00",
+        "score": 95
+      },
+      {
+        "title": "Meta\u2019s Muse Charm might cost $300",
+        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+        "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-19T15:22:17-05:00",
+        "score": 95
+      },
+      {
+        "title": "Google is putting AI chats right on the homepage",
+        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-19T15:05:06-05:00",
+        "score": 95
+      },
+      {
+        "title": "Gemini on Mac can now use your computer",
+        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-19T13:21:13-05:00",
+        "score": 95
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+        "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-16T19:20:40",
+        "score": 95
+      },
+      {
+        "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+        "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T00:26:41",
+        "score": 95
+      },
+      {
+        "title": "Inside this quantum computer, memory vibrates like a guitar string",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+        "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough successfully demonstrated advanced quantum calculations and could help overcome major barriers to practical quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-11T21:35:20",
+        "score": 95
+      },
+      {
+        "title": "A tiny supercurrent could unlock quantum information without destroying it",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+        "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-04T22:47:09",
+        "score": 95
+      },
+      {
+        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+        "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-10-25T21:42:48",
+        "score": 95
+      }
+    ]
+  }
+}
