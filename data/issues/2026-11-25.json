@@ -1,0 +1,732 @@
+{
+  "generated_at": "2026-11-25T15:05:37.873173",
+  "issue_date": "2026-11-25",
+  "topic_of_week": "NVIDIA",
+  "top_terms": [
+    [
+      "NVIDIA",
+      16
+    ],
+    [
+      "Quantum",
+      12
+    ],
+    [
+      "agent",
+      8
+    ],
+    [
+      "Meta",
+      5
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "Anthropic",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ],
+    [
+      "large language model",
+      1
+    ],
+    [
+      "RAG",
+      1
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T14:10:18+00:00",
+      "score": 110
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T21:32:38+00:00",
+      "score": 110
+    },
+    {
+      "title": "IBM quantum computer solves problem classical computers can\u2019t in just 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+      "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T23:46:12",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T13:00:00+00:00",
+      "score": 100
+    },
+    {
+      "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T00:12:02+00:00",
+      "score": 100
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T21:33:29+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T18:30:42+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s \u2018not true\u2019 Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T15:02:03-05:00",
+      "score": 95
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T13:15:00-05:00",
+      "score": 95
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T17:10:32-05:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+      "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T19:20:40",
+      "score": 95
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T00:26:41",
+      "score": 95
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T22:27:52+00:00",
+      "score": 90
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T21:48:27+00:00",
+      "score": 90
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T21:19:52+00:00",
+      "score": 90
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-24T18:02:59+00:00",
+      "score": 90
+    },
+    {
+      "title": "Agentic system personalizes physical controls to help users 'DJ their art'",
+      "link": "https://techxplore.com/news/2026-11-agentic-personalizes-physical-users-dj.html",
+      "summary": "In 2017, Apple removed the home button from its iPhones. Users lost a convenient, tangible control\u2014part of a larger shift to digital buttons, knobs and sliders we also see in cars (like with radio presets and air conditioning) and kitchens (smart fridges).",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T09:00:09",
+      "score": 90
+    },
+    {
+      "title": "What are AI chips, and what's so special about Nvidia's?",
+      "link": "https://techxplore.com/news/2026-11-ai-chips-special-nvidia.html",
+      "summary": "The commotion around Nvidia CEO Jensen Huang's ouster and reinstatement, the central role of Nvidia in the U.S.\u2013China AI competition and the U.S. economy's reliance on the AI boom might leave you asking: What's so special about Nvidia's chips?",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T07:40:04",
+      "score": 90
+    },
+    {
+      "title": "After AI, EU bets on quantum as next big thing",
+      "link": "https://techxplore.com/news/2026-11-ai-eu-quantum-big.html",
+      "summary": "Fearing Europe could lose ground in another technology race, as it lags behind the United States and China on AI, the European Union will unveil plans on Wednesday that it says will make the continent a global quantum computing powerhouse.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T06:40:01",
+      "score": 90
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T09:12:33-05:00",
+      "score": 85
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T08:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T12:17:09-05:00",
+      "score": 85
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T11:30:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T11:09:23-05:00",
+      "score": 85
+    },
+    {
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T17:25:12-05:00",
+      "score": 85
+    },
+    {
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T17:09:26-05:00",
+      "score": 85
+    },
+    {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI\u2019s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T04:30:54",
+      "score": 85
+    },
+    {
+      "title": "Strange new materials can crawl, walk, and dig like living creatures",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+      "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making individual components more active can paradoxically make the entire material less responsive, challenging a long-standing principle of engineering.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T19:05:29",
+      "score": 85
+    },
+    {
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-21T10:24:58",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help doctors detect cancer earlier and spare patients unnecessary invasive procedures.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-21T22:43:18",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T07:03:58",
+      "score": 85
+    },
+    {
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-14T20:05:10",
+      "score": 85
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-12T06:55:55",
+      "score": 85
+    },
+    {
+      "title": "On-demand bus routing draws on slime mold to rethink public transit",
+      "link": "https://techxplore.com/news/2026-11-demand-bus-routing-slime-mold.html",
+      "summary": "What if catching a bus were as easy as calling an Uber, without the steep fare or the long walk to a stop? NJIT biologist Simon Garnier thinks an unlikely organism could help make that possible\u2014slime mold.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T09:20:09",
+      "score": 80
+    },
+    {
+      "title": "Inflatable FaBrick enables soft robots to contract, bend and twist",
+      "link": "https://techxplore.com/news/2026-11-inflatable-fabrick-enables-soft-robots.html",
+      "summary": "Soft robots that contract, bend, twist, rotate or stiffen can be built from the same pneumatically actuated fabric with easily accessible tools, according to a University of Michigan Engineering study. The fabric, embedded with a grid of inflatable pouches, earned the name FaBrick as the design drew inspiration from modular building blocks like LEGO bricks.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T08:40:13",
+      "score": 80
+    },
+    {
+      "title": "Finding the catalyst sweet spot for turning CO\u2082 into methane",
+      "link": "https://techxplore.com/news/2026-11-catalyst-sweet-methane.html",
+      "summary": "Capturing carbon dioxide is only one part of the climate challenge. Another question is what to do with the captured CO\u2082. One promising route is to convert CO\u2082 into useful fuels and chemicals, especially when the process can be paired with renewable hydrogen.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T07:20:01",
+      "score": 80
+    },
+    {
+      "title": "Researchers use data from 130 wells worldwide to speed up drilling-fluid solids checks",
+      "link": "https://techxplore.com/news/2026-11-wells-worldwide-drilling-fluid-solids.html",
+      "summary": "As the world faces ongoing pressure to secure reliable energy supplies while controlling costs and improving operational efficiency, even small delays in drilling operations can have significant consequences. For oil, gas and geothermal drilling, one of the routine but important checks is determining how much solid material is present in the drilling fluid.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T07:00:02",
+      "score": 80
+    },
+    {
+      "title": "Fake gifts, real losses as AI ads proliferate",
+      "link": "https://techxplore.com/news/2026-11-fake-gifts-real-losses-ai.html",
+      "summary": "Online shoppers endlessly scrolling through gift suggestions this holiday season risk being duped by a blizzard of AI-generated scams touting nonexistent products.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T06:26:46",
+      "score": 80
+    },
+    {
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "link": "https://techxplore.com/news/2026-11-unclassified-cia-breached-cyberattack.html",
+      "summary": "An unclassified CIA system was breached in a cyberattack, according to a person familiar with the incident who spoke to The Associated Press on condition of anonymity.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-25T06:22:58",
+      "score": 80
+    },
+    {
+      "title": "Georgia Waffle House cuts cooling energy use by 40% with new salt-based AC system",
+      "link": "https://techxplore.com/news/2026-11-georgia-waffle-house-cooling-energy.html",
+      "summary": "In July 2025, a team of technicians walked into a Waffle House in Macon, Georgia. That month, peak temperatures hovered around 92 degrees Fahrenheit (33 degrees Celsius). In the restaurant's kitchen, where cooks fried patty melts, hash browns and waffles on an oil-slick grill, temperatures could feel just as hot, if not hotter.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-24T16:20:16",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-12T14:15:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T14:10:18+00:00",
+        "score": 110
+      },
+      {
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+        "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-24T21:32:38+00:00",
+        "score": 110
+      },
+      {
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T13:00:00+00:00",
+        "score": 100
+      },
+      {
+        "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T00:12:02+00:00",
+        "score": 100
+      },
+      {
+        "title": "Even the best AI agents struggle with everyday life",
+        "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+        "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-24T21:33:29+00:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves problem classical computers can\u2019t in just 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+        "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-23T23:46:12",
+        "score": 105
+      },
+      {
+        "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+        "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-16T19:20:40",
+        "score": 95
+      },
+      {
+        "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+        "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T00:26:41",
+        "score": 95
+      },
+      {
+        "title": "What is a thought made of? Why human consciousness may be beyond AI\u2019s reach",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+        "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T04:30:54",
+        "score": 85
+      },
+      {
+        "title": "Strange new materials can crawl, walk, and dig like living creatures",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+        "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making individual components more active can paradoxically make the entire material less responsive, challenging a long-standing principle of engineering.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-23T19:05:29",
+        "score": 85
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s \u2018not true\u2019 Trump got him rehired",
+        "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-24T15:02:03-05:00",
+        "score": 95
+      },
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-24T13:15:00-05:00",
+        "score": 95
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-23T17:10:32-05:00",
+        "score": 95
+      },
+      {
+        "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+        "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+        "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T09:12:33-05:00",
+        "score": 85
+      },
+      {
+        "title": "Has vibe coding made open source the new normal for synths?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+        "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T08:00:00-05:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "Agentic system personalizes physical controls to help users 'DJ their art'",
+        "link": "https://techxplore.com/news/2026-11-agentic-personalizes-physical-users-dj.html",
+        "summary": "In 2017, Apple removed the home button from its iPhones. Users lost a convenient, tangible control\u2014part of a larger shift to digital buttons, knobs and sliders we also see in cars (like with radio presets and air conditioning) and kitchens (smart fridges).",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-25T09:00:09",
+        "score": 90
+      },
+      {
+        "title": "What are AI chips, and what's so special about Nvidia's?",
+        "link": "https://techxplore.com/news/2026-11-ai-chips-special-nvidia.html",
+        "summary": "The commotion around Nvidia CEO Jensen Huang's ouster and reinstatement, the central role of Nvidia in the U.S.\u2013China AI competition and the U.S. economy's reliance on the AI boom might leave you asking: What's so special about Nvidia's chips?",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-25T07:40:04",
+        "score": 90
+      },
+      {
+        "title": "After AI, EU bets on quantum as next big thing",
+        "link": "https://techxplore.com/news/2026-11-ai-eu-quantum-big.html",
+        "summary": "Fearing Europe could lose ground in another technology race, as it lags behind the United States and China on AI, the European Union will unveil plans on Wednesday that it says will make the continent a global quantum computing powerhouse.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-25T06:40:01",
+        "score": 90
+      },
+      {
+        "title": "On-demand bus routing draws on slime mold to rethink public transit",
+        "link": "https://techxplore.com/news/2026-11-demand-bus-routing-slime-mold.html",
+        "summary": "What if catching a bus were as easy as calling an Uber, without the steep fare or the long walk to a stop? NJIT biologist Simon Garnier thinks an unlikely organism could help make that possible\u2014slime mold.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-25T09:20:09",
+        "score": 80
+      },
+      {
+        "title": "Inflatable FaBrick enables soft robots to contract, bend and twist",
+        "link": "https://techxplore.com/news/2026-11-inflatable-fabrick-enables-soft-robots.html",
+        "summary": "Soft robots that contract, bend, twist, rotate or stiffen can be built from the same pneumatically actuated fabric with easily accessible tools, according to a University of Michigan Engineering study. The fabric, embedded with a grid of inflatable pouches, earned the name FaBrick as the design drew inspiration from modular building blocks like LEGO bricks.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-25T08:40:13",
+        "score": 80
+      }
+    ]
+  }
+}
