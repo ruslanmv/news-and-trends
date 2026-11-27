@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-11-27T14:31:10.351522",
+  "issue_date": "2026-11-27",
+  "topic_of_week": "NVIDIA",
+  "top_terms": [
+    [
+      "NVIDIA",
+      12
+    ],
+    [
+      "Quantum",
+      10
+    ],
+    [
+      "Google",
+      7
+    ],
+    [
+      "Meta",
+      4
+    ],
+    [
+      "agent",
+      4
+    ],
+    [
+      "Anthropic",
+      3
+    ],
+    [
+      "Generative AI",
+      2
+    ],
+    [
+      "OpenAI",
+      2
+    ],
+    [
+      "ChatGPT",
+      2
+    ],
+    [
+      "IBM",
+      2
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-29T11:03:00-07:00",
+      "score": 110
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T20:03:27+00:00",
+      "score": 110
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T14:10:18+00:00",
+      "score": 110
+    },
+    {
+      "title": "IBM quantum computer solves problem classical computers can\u2019t in just 15 minutes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+      "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T23:46:12",
+      "score": 105
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-28T13:53:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Computer-aided diagnosis for lung cancer screening",
+      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T13:54:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Using AI to expand global access to reliable flood forecasts",
+      "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-20T09:06:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+      "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T13:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "SCIN: A new resource for representative dermatology images",
+      "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-19T08:00:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+      "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-18T11:41:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "HEAL: A framework for health equity assessment of machine learning performance",
+      "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-15T11:22:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+      "link": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-14T12:38:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Talk like a graph: Encoding graphs for large language models",
+      "link": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+      "summary": "",
+      "source": "Google AI Blog",
+      "source_weight": 100,
+      "published": "2024-03-12T14:15:00-07:00",
+      "score": 100
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-26T20:03:54+00:00",
+      "score": 100
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T22:44:32+00:00",
+      "score": 100
+    },
+    {
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T19:54:57+00:00",
+      "score": 100
+    },
+    {
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human control to AI \u2018absurd\u2019",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T19:44:24+00:00",
+      "score": 100
+    },
+    {
+      "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T16:51:26-05:00",
+      "score": 95
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s \u2018not true\u2019 Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T15:02:03-05:00",
+      "score": 95
+    },
+    {
+      "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+      "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-16T19:20:40",
+      "score": 95
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-13T00:26:41",
+      "score": 95
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn\u2019t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-26T16:00:00+00:00",
+      "score": 90
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T18:11:46+00:00",
+      "score": 90
+    },
+    {
+      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T17:35:58+00:00",
+      "score": 90
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "summary": "\u2060Nvidia has made clear\u2060 it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.\u00a0 \u2060Anita Verma-Lallian\u2060 has been selling exactly that. [&#8230;]",
+      "source": "TechCrunch \u2013 AI",
+      "source_weight": 90,
+      "published": "2026-11-25T15:41:43+00:00",
+      "score": 90
+    },
+    {
+      "title": "'King is back': Nvidia boss's return sparks fresh AI deepfake deluge",
+      "link": "https://techxplore.com/news/2026-11-king-nvidia-boss-fresh-ai.html",
+      "summary": "Scandal-hit Jensen Huang's return as chief executive of U.S. chip giant Nvidia has triggered a fresh avalanche of AI-generated parody videos, highlighting how the sex-and-espionage saga has become a prime target for hyperrealistic deepfakes.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T05:40:02",
+      "score": 90
+    },
+    {
+      "title": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+      "link": "https://techxplore.com/news/2026-11-google-threatens-schools-access-los.html",
+      "summary": "School districts are taking steps to block Google's artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Chromebook computers and learning tools are deeply embedded in America's classrooms.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T05:05:14",
+      "score": 90
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-26T04:54:40-05:00",
+      "score": 85
+    },
+    {
+      "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T12:44:51-05:00",
+      "score": 85
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T11:00:59-05:00",
+      "score": 85
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T09:12:33-05:00",
+      "score": 85
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T08:00:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T13:15:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T12:17:09-05:00",
+      "score": 85
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
+      "source": "The Verge \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-24T11:30:00-05:00",
+      "score": 85
+    },
+    {
+      "title": "What is a thought made of? Why human consciousness may be beyond AI\u2019s reach",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+      "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-25T04:30:54",
+      "score": 85
+    },
+    {
+      "title": "Strange new materials can crawl, walk, and dig like living creatures",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+      "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making individual components more active can paradoxically make the entire material less responsive, challenging a long-standing principle of engineering.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-23T19:05:29",
+      "score": 85
+    },
+    {
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-21T10:24:58",
+      "score": 85
+    },
+    {
+      "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help doctors detect cancer earlier and spare patients unnecessary invasive procedures.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-21T22:43:18",
+      "score": 85
+    },
+    {
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-17T07:03:58",
+      "score": 85
+    },
+    {
+      "title": "AI discovers a hidden heart signal that could predict sudden death",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealing thousands of people at risk of a fatal heart malfunction that doctors might otherwise miss.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-14T20:05:10",
+      "score": 85
+    },
+    {
+      "title": "AI-powered bionic eye breakthrough could help the blind see again",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+      "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+      "source": "ScienceDaily \u2013 AI",
+      "source_weight": 85,
+      "published": "2026-11-12T06:55:55",
+      "score": 85
+    },
+    {
+      "title": "Salty lake water helps a zinc battery keep working at \u221250\u00b0C",
+      "link": "https://techxplore.com/news/2026-11-salty-lake-zinc-battery-50c.html",
+      "summary": "Extreme cold can affect a water-based battery's ability to deliver electricity. Its liquid electrolyte\u2014the fluid that carries charge\u2014can freeze, while the charged particles moving through it slow down. Researchers have now built a rechargeable zinc battery that works at \u221250\u00b0C (\u221258\u00b0F) using saline lake water as a starting ingredient.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T09:30:01",
+      "score": 80
+    },
+    {
+      "title": "It's making your list, and checking your price: Holiday shopping goes AI",
+      "link": "https://techxplore.com/news/2026-11-price-holiday-ai.html",
+      "summary": "From sales that seem to start earlier each year to a dwindling desire by shoppers to camp outside of big-box stores in the early morning to snag the best deals, Black Friday has changed over the years.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T09:20:06",
+      "score": 80
+    },
+    {
+      "title": "Bipolar plates up to 30% less expensive to manufacture: Hollow embossing rolling shows strong potential",
+      "link": "https://techxplore.com/news/2026-11-bipolar-plates-expensive-hollow-embossing.html",
+      "summary": "Producing fuel cells and electrolyzers competitively at high volumes means scrutinizing every cent spent on their individual components. One important lever is the bipolar plate, which encloses the electrochemical heart of the system, the membrane, on both sides and uses fine channels to supply hydrogen or oxygen directly to the membrane.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T07:40:13",
+      "score": 80
+    },
+    {
+      "title": "From lab to blueberry field: Blueberry-picking robot uses soft silicone bands to selectively harvest ripe fruit",
+      "link": "https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html",
+      "summary": "Building a robot that can pick blueberries without damaging the fruit is a technical challenge. Turning that robot into something growers can afford and use in the field presents a different set of questions.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T07:40:01",
+      "score": 80
+    },
+    {
+      "title": "Wind power boom risks leaving developing countries dependent on foreign technology",
+      "link": "https://techxplore.com/news/2026-11-power-boom-countries-foreign-technology.html",
+      "summary": "The global shift toward renewable energy risks creating a new divide between countries that control green technology and those left doing the manufacturing, according to new research involving The University of Manchester.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T07:20:12",
+      "score": 80
+    },
+    {
+      "title": "Blockchain power trading could cut energy costs by up to 56% in simulated microgrid",
+      "link": "https://techxplore.com/news/2026-11-blockchain-power-energy-simulated-microgrid.html",
+      "summary": "A blockchain-based system for trading electricity directly between households and businesses could cut energy costs by up to 56% and increase the income of small-scale producers by almost 150%, according to research in the International Journal of Industrial and Systems Engineering.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T07:10:06",
+      "score": 80
+    },
+    {
+      "title": "Sony's dog robot can't do chores but offers companionship",
+      "link": "https://techxplore.com/news/2026-11-sony-dog-robot-chores-companionship.html",
+      "summary": "The people at Sony don't use words like \"product\" or \"reboot\" when they talk about Aibo, the Japanese electronics and entertainment company's robotic dog.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-27T05:05:45",
+      "score": 80
+    },
+    {
+      "title": "Study identifies catalyst that could resolve key challenge hampering clean hydrogen fuel transportation",
+      "link": "https://techxplore.com/news/2026-11-catalyst-key-hampering-hydrogen-fuel.html",
+      "summary": "Researchers from Skoltech\u2014a VEB.RF Group institution\u2014have identified tungsten borides as promising catalysts for breaking ammonia down into hydrogen and nitrogen. This industrially important reaction is crucial for creating a flexible global market for clean hydrogen fuel: Pure hydrogen is costly to transport, while ammonia is easy to ship but expensive to extract hydrogen from. In computer simulations examining hydrogen cleavage from the ammonia molecule, tungsten boride nanoparticles showed promising catalytic characteristics comparable to those of the more expensive noble metals.",
+      "source": "Phys.org \u2013 Technology",
+      "source_weight": 80,
+      "published": "2026-11-26T17:20:02",
+      "score": 80
+    }
+  ],
+  "by_source": {
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-29T11:03:00-07:00",
+        "score": 110
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-28T13:53:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T13:54:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-20T09:06:00-07:00",
+        "score": 100
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_weight": 100,
+        "published": "2024-03-19T13:15:00-07:00",
+        "score": 100
+      }
+    ],
+    "TechCrunch \u2013 AI": [
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T20:03:27+00:00",
+        "score": 110
+      },
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T14:10:18+00:00",
+        "score": 110
+      },
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-26T20:03:54+00:00",
+        "score": 100
+      },
+      {
+        "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+        "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T22:44:32+00:00",
+        "score": 100
+      },
+      {
+        "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+        "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "source": "TechCrunch \u2013 AI",
+        "source_weight": 90,
+        "published": "2026-11-25T19:54:57+00:00",
+        "score": 100
+      }
+    ],
+    "ScienceDaily \u2013 AI": [
+      {
+        "title": "IBM quantum computer solves problem classical computers can\u2019t in just 15 minutes",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+        "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing methods. A novel error-detection technique also allows scientists to establish confidence in the accuracy of the results, overcoming a major hurdle in quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-23T23:46:12",
+        "score": 105
+      },
+      {
+        "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
+        "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a 51-qubit system, the technique measures uncertainty and provides verifiable error margins that could help unlock the full potential of quantum computing.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-16T19:20:40",
+        "score": 95
+      },
+      {
+        "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+        "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks that could help unlock computing capabilities far beyond those of today's supercomputers.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-13T00:26:41",
+        "score": 95
+      },
+      {
+        "title": "What is a thought made of? Why human consciousness may be beyond AI\u2019s reach",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+        "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T04:30:54",
+        "score": 85
+      },
+      {
+        "title": "Strange new materials can crawl, walk, and dig like living creatures",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+        "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making individual components more active can paradoxically make the entire material less responsive, challenging a long-standing principle of engineering.",
+        "source": "ScienceDaily \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-23T19:05:29",
+        "score": 85
+      }
+    ],
+    "The Verge \u2013 AI": [
+      {
+        "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+        "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T16:51:26-05:00",
+        "score": 95
+      },
+      {
+        "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s \u2018not true\u2019 Trump got him rehired",
+        "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-24T15:02:03-05:00",
+        "score": 95
+      },
+      {
+        "title": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
+        "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-26T04:54:40-05:00",
+        "score": 85
+      },
+      {
+        "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+        "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T12:44:51-05:00",
+        "score": 85
+      },
+      {
+        "title": "Nothing offers a full look at its AI earbuds and charging case",
+        "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+        "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you [&#8230;]",
+        "source": "The Verge \u2013 AI",
+        "source_weight": 85,
+        "published": "2026-11-25T11:00:59-05:00",
+        "score": 85
+      }
+    ],
+    "Phys.org \u2013 Technology": [
+      {
+        "title": "'King is back': Nvidia boss's return sparks fresh AI deepfake deluge",
+        "link": "https://techxplore.com/news/2026-11-king-nvidia-boss-fresh-ai.html",
+        "summary": "Scandal-hit Jensen Huang's return as chief executive of U.S. chip giant Nvidia has triggered a fresh avalanche of AI-generated parody videos, highlighting how the sex-and-espionage saga has become a prime target for hyperrealistic deepfakes.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-27T05:40:02",
+        "score": 90
+      },
+      {
+        "title": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+        "link": "https://techxplore.com/news/2026-11-google-threatens-schools-access-los.html",
+        "summary": "School districts are taking steps to block Google's artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Chromebook computers and learning tools are deeply embedded in America's classrooms.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-27T05:05:14",
+        "score": 90
+      },
+      {
+        "title": "Salty lake water helps a zinc battery keep working at \u221250\u00b0C",
+        "link": "https://techxplore.com/news/2026-11-salty-lake-zinc-battery-50c.html",
+        "summary": "Extreme cold can affect a water-based battery's ability to deliver electricity. Its liquid electrolyte\u2014the fluid that carries charge\u2014can freeze, while the charged particles moving through it slow down. Researchers have now built a rechargeable zinc battery that works at \u221250\u00b0C (\u221258\u00b0F) using saline lake water as a starting ingredient.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-27T09:30:01",
+        "score": 80
+      },
+      {
+        "title": "It's making your list, and checking your price: Holiday shopping goes AI",
+        "link": "https://techxplore.com/news/2026-11-price-holiday-ai.html",
+        "summary": "From sales that seem to start earlier each year to a dwindling desire by shoppers to camp outside of big-box stores in the early morning to snag the best deals, Black Friday has changed over the years.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-27T09:20:06",
+        "score": 80
+      },
+      {
+        "title": "Bipolar plates up to 30% less expensive to manufacture: Hollow embossing rolling shows strong potential",
+        "link": "https://techxplore.com/news/2026-11-bipolar-plates-expensive-hollow-embossing.html",
+        "summary": "Producing fuel cells and electrolyzers competitively at high volumes means scrutinizing every cent spent on their individual components. One important lever is the bipolar plate, which encloses the electrochemical heart of the system, the membrane, on both sides and uses fine channels to supply hydrogen or oxygen directly to the membrane.",
+        "source": "Phys.org \u2013 Technology",
+        "source_weight": 80,
+        "published": "2026-11-27T07:40:13",
+        "score": 80
+      }
+    ]
+  }
+}
